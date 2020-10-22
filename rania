@@ -1,6 +1,6 @@
 [
   {
-    "name": "test astro",
+    "name": "astro",
     "samples": [
       {
         "name": "astro rania",
@@ -10,6 +10,20 @@
         "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license",
         "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDMzMjY2NzYsImp0aSI6IjMzNGJhYTAxLTAwNjQtNDY3OS1iYWRkLWIyNGM5ZWFlMmU5NSIsInN1YiI6IjgxNDgzMjM4IiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTYwMzMzNzQ3Niwic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImJ1c1VuaXRJZCI6IkFTVFJPIiwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ1cElkIjoiODE0ODMyMzhfMCIsImRldklkIjoiODE0ODMyMzguYTc2OGZkYzMtM2M5NS00YzViLWFkZmYtODcxNzA2OWM1MWJiIiwicmVnaW9uIjoiUE9TVFBBSUQiLCJjbWRjUmVnaW9uIjoiODAwMDAiLCJkZXZpY2VGZWF0dXJlcyI6WyJBQlIiLCJQRVJTT05BTC1DT01QVVRFUiIsIlVOTUFOQUdFRCIsIkRBU0giLCJXVi1EUk0iLCJTZWNvbmRTY3JlZW4iXSwiY21kY0RldmljZVR5cGUiOiJQQyIsImRldmljZVR5cGUiOiJDT01QQU5JT04iLCJ0ZW5hbnQiOiJrIiwic29sdXRpb25JZCI6ImsiLCJ0ZW5hbnRJZCI6IkFTVFJPIiwiZ3Vlc3RNb2RlIjpmYWxzZSwiaGhJZCI6IjgxNDgzMjM4In0sImhoSGFzaCI6MTcsImNvbW11bml0eSI6Ik1hbGF5c2lhIExpdmUifSwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ0b2tlbl90eXBlIjoiYWNjZXNzX3Rva2VuIiwiY2xpZW50X2lkIjoiYnJvd3NlciJ9.OXqqTGssCd48c4OYKNydZjtKbSV4LJP2rdInI4kRm4Y",
         "token_type": "Bearer"
+      },
+      {
+        "name": "128 DUNIA SINEMA HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
+      },
+      {
+        "name": "141 PESONA HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
       }
     ]
   }
