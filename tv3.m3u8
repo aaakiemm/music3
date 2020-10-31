@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
 #EXTVLCOPT: http-referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVTg7XpOGyogE-cz-foRaiE)/dm/3/x6qp375/d/live-2.m3u8
