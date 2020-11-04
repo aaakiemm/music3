@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:7
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="mal",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="mal",URI="https://bitball.b-cdn.net/movies/03-03-2020/03-19-2020/Zombieland.2009.1080p.UHD.BluRay.x264.DD5.1-Pahe.vtt"
-#EXT-X-STREAM-INF:BANDWIDTH=687256,SUBTITLES="subs"
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://bitball.b-cdn.net/movies/03-03-2020/03-19-2020/Zombieland.2009.1080p.UHD.BluRay.x264.DD5.1-Pahe.vtt"
+#EXT-X-STREAM-INF:
 https://bitball.b-cdn.net/movies/03-03-2020/03-19-2020/Zombieland.2009.1080p.UHD.BluRay.x264.DD5.1-Pahe.mp4
