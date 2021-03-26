@@ -2893,6 +2893,16 @@
         "subtitle_language": "ms_MY"
       },
       { 
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/vanamagan22.jpg",
+	"name": "VANAMAGAN",
+        "uri": "https://iflix-videocdn-p1.akamaized.net/7ed4b/Vanamagan_Divo_TV_Featur(260669_ISMUSP).ism/Vanamagan_Divo_TV_Featur(260669_ISMUSP).mpd?idx=0&assetId=260669&userId=v_61-i_527993946",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/260669?timeStamp=2021-03-26T11%3A39%3A13%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F7ed4b%2FVanamagan_Divo_TV_Featur%28260669_ISMUSP%29.ism%2FVanamagan_Divo_TV_Featur%28260669_ISMUSP%29.mpd&profile=offline&securityToken=UhnrJYXYwtZR7hfmW6tCdOd6QMthASs6Ae9LLjB9gtI&account=source",
+	"subtitle_uri": "https://subtitles.iflix.com/subtitles/260669/my/11106735.webvtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY"
+      },
+      {  
         "name": "DRISHYAM 2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/drishyam2.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/tamil8/Drishyam%202%20(2021)ok.mp4"
