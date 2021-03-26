@@ -2882,7 +2882,17 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/TWEWTEWET.png",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Anjaan%20HDRip%20(2014).mkv"
       },
-      {
+      { 
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/veeram.jpg",
+	"name": "VEERAM",
+        "uri": "https://iflix-videocdn-p1.akamaized.net/8f742/Veeram_Divo_TV_Feature_2(221912_ISMUSP).ism/Veeram_Divo_TV_Feature_2(221912_ISMUSP).mpd?idx=0&assetId=221912&userId=v_61-i_527993946",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/221912?timeStamp=2021-03-26T10%3A52%3A19%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F8f742%2FVeeram_Divo_TV_Feature_2%28221912_ISMUSP%29.ism%2FVeeram_Divo_TV_Feature_2%28221912_ISMUSP%29.mpd&profile=offline&securityToken=eCkoykeN8BebUNdmVIdRKVy5HWkfkgrZijjbxkdjl1M&account=source",
+	"subtitle_uri": "https://subtitles.iflix.com/subtitles/221912/my/11101513.webvtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY"
+      },
+      { 
         "name": "DRISHYAM 2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/drishyam2.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/tamil8/Drishyam%202%20(2021)ok.mp4"
