@@ -1,6 +1,6 @@
 [
   {
-    "name": "monyeng.my 01",
+    "name": "iptv.my 01",
     "samples": [
       {
         "name": "TV1",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "name": "monyeng.my 02",
+    "name": "iptv.my 02",
     "samples": [
      {
         "name": "TVN MOVIES HD",
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "name": "monyeng.my 03",
+    "name": "iptv.my 03",
     "samples": [
       {
         "name": "YUPP THIRAI HD",
@@ -218,7 +218,7 @@
     ]
   },
   {
-    "name": "monyeng.my 04",
+    "name": "iptv.my 04",
     "samples": [
       {
         "name": "FOX MOVIES",
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "name": "monyeng.my 05",
+    "name": "iptv.my 05",
     "samples": [
       {
         "name": "LOVE NATURE",
@@ -375,7 +375,7 @@
     ]
   },
   {
-    "name": "monyeng.my 06",
+    "name": "iptv.my 06",
     "samples": [
       {
         "name": "DREAMWORK HD",
@@ -422,7 +422,7 @@
     ]
   },
   {
-    "name": "monyeng.my 07",
+    "name": "iptv.my 07",
     "samples": [
       {
         "name": "DW",
@@ -497,7 +497,7 @@
     ]
   },
   {
-    "name": "monyeng.my 08",
+    "name": "iptv.my 08",
     "samples": [
      {
         "name": "UNIFI SPORTS 1",
@@ -558,7 +558,7 @@
     ]
   },
   {
-    "name": "monyeng.my 09",
+    "name": "iptv.my 09",
     "samples": [ 
       {
         "name": "ASTRO CITRA",
@@ -653,7 +653,7 @@
     ]  
   },
   {
-    "name": "monyeng.id 01",
+    "name": "iptv.id 01",
     "samples": [
       {
         "name": "HBO Hits",
@@ -742,7 +742,7 @@
     ]  
   },
   {
-    "name": "monyeng.id 02",
+    "name": "iptv.id 02",
     "samples": [      
       {
         "name": "Nick Jr",
@@ -810,7 +810,7 @@
     ]
   },
   {
-    "name": "monyeng.id 03",
+    "name": "iptv.id 03",
     "samples": [
       {
         "name": "Indosiar",
@@ -1018,7 +1018,7 @@
     ]  
   },
   {
-    "name": "monyeng.id 04",
+    "name": "iptv.id 04",
     "samples": [
       {
         "name": "FMN",
@@ -1121,7 +1121,7 @@
     ]  
   },
   {
-    "name": "monyeng.id 05",
+    "name": "iptv.id 05",
     "samples": [
       {
         "name": "BBC Earth",
@@ -1231,7 +1231,7 @@
     ]  
   },
   {
-    "name": "monyeng.id 06",
+    "name": "iptv.id 06",
     "samples": [      
         {
         "name": "FOX Sports",
@@ -1278,7 +1278,7 @@
     ]  
   },
   {
-    "name": "monyeng.id 07",
+    "name": "iptv.id 07",
     "samples": [      
       {
         "name": "Channel News Asia",
@@ -1423,7 +1423,7 @@
     ]  
   },
   {
-    "name": "monyeng.id 08",
+    "name": "iptv.id 08",
     "samples": [  
       {
         "name": "& TV",
@@ -1534,7 +1534,7 @@
     ]
   },
   {
-    "name": "monyeng.sg",
+    "name": "iptv.sg",
     "samples": [
 	 {
         "name": "Channel 5",
@@ -1595,7 +1595,7 @@
     ]
   },
   {
-    "name": "monyeng.bn",
+    "name": "iptv.bn",
     "samples": [ 
       {
         "name": "RTB SUKMA INDERA",
@@ -2888,7 +2888,7 @@
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/tamil8/Drishyam%202%20(2021)ok.mp4"
       },
       {
-        "name": "Vinaya Vidheya Rama",
+        "name": "VINAYA VIDHEYA RAMA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Vinaya.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/tamil10/Vinaya%20Vidheya%20Rama%20(2019).mp4"
       }
