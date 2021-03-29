@@ -1610,6 +1610,36 @@
     ]
   },
   {
+           "name": "SEADANYA AKU",
+           "samples": [
+       {
+        "name": "EPISODE 1",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617747848~acl=%2fd3d4bfab46292309679105f939e08b9e%2f*~data=cid%3d1165799254%2csid%3ded814224-a60b-4c85-ab3e-2dff049cdd94%2cclientId%3dnone%2cn%3d1617056648813%2ch%3d9D7D41A3C5B1F0ED616AE984B8513C4D~hmac=8683e9f70dade05c5afb121b2c2d25cf6602c668f1a7766e7680217a11bea2d4/d3d4bfab46292309679105f939e08b9e/vp63207_V20201019073418/hlsc_e2931_V20201019082632.m3u8"
+      },
+      {
+        "name": "EPISODE 2",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617747901~acl=%2f78adda227037bbbd31243b214488fd17%2f*~data=cid%3d1165799243%2csid%3d09218dc1-bcde-44c6-b30a-85312fcba104%2cclientId%3dnone%2cn%3d1617056701741%2ch%3dFDD69864F3BCB268E7D38371A72B8924~hmac=6605dd7015080a6b8a3bde9559a3a5195e8b1c88c7f280a28ef7266bdd596d93/78adda227037bbbd31243b214488fd17/vp63207_V20201019071913/hlsc_e2931_V20201019081115.m3u8"
+      },
+      {
+        "name": "EPISODE 3",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617747947~acl=%2f3065b6f39d5ec2f0723a77a220b6b44a%2f*~data=cid%3d1165799268%2csid%3d8d9b041a-f12c-4813-a1d1-82f2ab1f54af%2cclientId%3dnone%2cn%3d1617056747628%2ch%3d85D3B24EF0FE837F109FD68A164C3B58~hmac=9b369682b844b0d9ea4d720037f9d7f4dbf6ed7c2e2d34d2af8e4e3e15ee918b/3065b6f39d5ec2f0723a77a220b6b44a/vp63207_V20201019074057/hlsc_e2931_V20201019084102.m3u8"
+      },
+      {
+        "name": "EPISODE 4",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617748101~acl=%2f09657a2d74c7e69e53ea1a823c169bc9%2f*~data=cid%3d1165799270%2csid%3d9144ae0a-7b31-4f98-af31-111e2fbf5889%2cclientId%3dnone%2cn%3d1617056901523%2ch%3d69F943AC4581DE369205941FAE2A5D26~hmac=5758c88cabadd10272b9f6a847d19535a3b51d13f22b4fe35fba6f2680247eed/09657a2d74c7e69e53ea1a823c169bc9/vp63207_V20201019074110/hlsc_e2931_6.m3u8"
+      },
+      {
+        "name": "EPISODE 5",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617748111~acl=%2f09657a2d74c7e69e53ea1a823c169bc9%2f*~data=cid%3d1165799270%2csid%3d2f3637b6-70d6-48b6-961b-4e8807e659c9%2cclientId%3dnone%2cn%3d1617056911539%2ch%3d33219A4819E448E5485DFF22DC3CDCEA~hmac=869d441ce8bbda42d5856a273799947d83d9ca572506e9cfefe5d172bb85c416/09657a2d74c7e69e53ea1a823c169bc9/vp63207_V20201019074110/hlsc_e2931_V20201019084527.m3u8"
+      }
+    ]
+  },
+  {
     "name": "POTONG",
     "samples": [ 
       {
