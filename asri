@@ -1610,6 +1610,151 @@
     ]
   },
   {
+           "name": "SEADANYA AKU",
+           "samples": [
+       {
+        "name": "EPISODE 1",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617747848~acl=%2fd3d4bfab46292309679105f939e08b9e%2f*~data=cid%3d1165799254%2csid%3ded814224-a60b-4c85-ab3e-2dff049cdd94%2cclientId%3dnone%2cn%3d1617056648813%2ch%3d9D7D41A3C5B1F0ED616AE984B8513C4D~hmac=8683e9f70dade05c5afb121b2c2d25cf6602c668f1a7766e7680217a11bea2d4/d3d4bfab46292309679105f939e08b9e/vp63207_V20201019073418/hlsc_e2931_V20201019082632.m3u8"
+      },
+      {
+        "name": "EPISODE 2",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617747901~acl=%2f78adda227037bbbd31243b214488fd17%2f*~data=cid%3d1165799243%2csid%3d09218dc1-bcde-44c6-b30a-85312fcba104%2cclientId%3dnone%2cn%3d1617056701741%2ch%3dFDD69864F3BCB268E7D38371A72B8924~hmac=6605dd7015080a6b8a3bde9559a3a5195e8b1c88c7f280a28ef7266bdd596d93/78adda227037bbbd31243b214488fd17/vp63207_V20201019071913/hlsc_e2931_V20201019081115.m3u8"
+      },
+      {
+        "name": "EPISODE 3",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617747947~acl=%2f3065b6f39d5ec2f0723a77a220b6b44a%2f*~data=cid%3d1165799268%2csid%3d8d9b041a-f12c-4813-a1d1-82f2ab1f54af%2cclientId%3dnone%2cn%3d1617056747628%2ch%3d85D3B24EF0FE837F109FD68A164C3B58~hmac=9b369682b844b0d9ea4d720037f9d7f4dbf6ed7c2e2d34d2af8e4e3e15ee918b/3065b6f39d5ec2f0723a77a220b6b44a/vp63207_V20201019074057/hlsc_e2931_V20201019084102.m3u8"
+      },
+      {
+        "name": "EPISODE 4",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617750103~acl=%2f09657a2d74c7e69e53ea1a823c169bc9%2f*~data=cid%3d1165799270%2csid%3d9d1f570d-dcbd-48f9-a376-56173de82ac7%2cclientId%3dnone%2cn%3d1617058903945%2ch%3dAE82BA5231284B828FCD09023372970F~hmac=2422079dfa89e03e592533df1f4d4c5b965b774f17a29f4fba99e4b2a904b1a1/09657a2d74c7e69e53ea1a823c169bc9/vp63207_V20201019074110/hlsc_e2931_V20201019084527.m3u8"
+      },
+      {
+        "name": "EPISODE 5",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617749680~acl=%2f0d5f37be0aafa5ba7af943cf85761d89%2f*~data=cid%3d1165799251%2csid%3d62746277-184a-4189-a7ca-7183b6e6f634%2cclientId%3dnone%2cn%3d1617058480877%2ch%3d655D5D7E36DDA874726A8BC13F8B0518~hmac=0fcb5be1f5651bd84da00c9eb7266452249867151556e4f364f2599f49755851/0d5f37be0aafa5ba7af943cf85761d89/vp63207_V20201019073413/hlsc_e2931_V20201019082525.m3u8"
+      },
+      {
+        "name": "EPISODE 6",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617750409~acl=%2f2c70361c1c6e4d3ca02381b80a659f7a%2f*~data=cid%3d1165799252%2csid%3d50663e8a-378f-4d97-80a8-36628f8e7f04%2cclientId%3dnone%2cn%3d1617059209579%2ch%3d13F34E848C927D1DA6176330BB54E2E0~hmac=503f298b14c3625c1c5d6ed58ce88351d2828a6a6833c274f568f62f4ea2668c/2c70361c1c6e4d3ca02381b80a659f7a/vp63207_V20201020041227/hlsc_e2931_V20201020050512.m3u8"
+      },
+      {
+        "name": "EPISODE 7",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617750522~acl=%2fd28b6eced122ba300ae94272f5a588e3%2f*~data=cid%3d1165799256%2csid%3d824795c2-39bb-4c57-acf5-baaa27dd42d1%2cclientId%3dnone%2cn%3d1617059322021%2ch%3d1C2076D66CFAA2D26C0C4CA088007861~hmac=146fa19e431945fa6ebce52371d70aac76fead3cebac76b95313f5eb83d4476c/d28b6eced122ba300ae94272f5a588e3/vp63207_V20201019073448/hlsc_e2931_V20201019082941.m3u8"
+      },
+      {
+        "name": "EPISODE 8",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617750607~acl=%2fb0df6e225d935384ef00ede98307a696%2f*~data=cid%3d1165799249%2csid%3d23d673d3-10d3-449e-9926-dbac4376a5cc%2cclientId%3dnone%2cn%3d1617059407573%2ch%3dA5C95E5A76D564699E1913B720E40BFF~hmac=96ff007bc2d4c79f3eaf035185ab51b3c6cbfb3a20288e260d2bd640ca7c43dd/b0df6e225d935384ef00ede98307a696/vp63207_V20201019073337/hlsc_e2931_V20201019082651.m3u8"
+      },
+      {
+        "name": "EPISODE 9",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617750654~acl=%2fa51ffe94d7c29119f2637fb7a5d4586b%2f*~data=cid%3d1165799255%2csid%3d6854bbda-e11e-4c01-aa79-238c3e64ff68%2cclientId%3dnone%2cn%3d1617059454963%2ch%3dCB65259283CA677B832CACC6D2721CD5~hmac=6d3c136e5997e1345c826229923d8a43ed3690ce9ffa3b1d3db3cdb9b8a3d327/a51ffe94d7c29119f2637fb7a5d4586b/vp63207_V20201019073426/hlsc_e2931_V20201019082501.m3u8"
+      },
+      {
+        "name": "EPISODE 10",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617749484~acl=%2f6235769b6ebb656a080af66477ff3af8%2f*~data=cid%3d1165799266%2csid%3d1dcf635d-de2d-4c05-9505-69d8fda5cb95%2cclientId%3dnone%2cn%3d1617058284959%2ch%3dB2A49488EF7F61CB085563D2A4F2CC9F~hmac=e780e015aa81e5c03f62e7711332ec0972f98c5ea51bb42a5fcfa63fd12c4148/6235769b6ebb656a080af66477ff3af8/vp63207_V20201019074054/hlsc_e2931_V20201019083652.m3u8"
+      },
+      {
+        "name": "EPISODE 11",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751252~acl=%2f289e55a33a4abe48193847ea931b6291%2f*~data=cid%3d1165799269%2csid%3dc4183caa-15ea-4dc5-988d-034c17fac434%2cclientId%3dnone%2cn%3d1617060052858%2ch%3d10C29AC6E977FC15EEA3DCB15DFE6AF7~hmac=9244ea77379a565fb9dd028bf9cc609ddb1ba6ffc2d294a08bb459645144c05a/289e55a33a4abe48193847ea931b6291/vp63207_V20201020042234/hlsc_e2931_V20201020051311.m3u8"
+      },
+      {
+        "name": "EPISODE 12",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751210~acl=%2f6e5108be28c83756cf74d858637e5904%2f*~data=cid%3d1165799267%2csid%3db525084f-2ba0-4ac8-9f13-448f4847dc14%2cclientId%3dnone%2cn%3d1617060010573%2ch%3dC2E8AD66056EA39090A17D60B9C0765E~hmac=a63ff31f026253a1da71bdba445b2507c763aef9449784c0562be2f06a7042ef/6e5108be28c83756cf74d858637e5904/vp63207_V20201019074046/hlsc_e2931_V20201019083857.m3u8"
+      },
+      {
+        "name": "EPISODE 13",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751295~acl=%2fbb6f86abbfab759478b1a1ee7f017a9a%2f*~data=cid%3d1165799253%2csid%3d640ff5bb-f90b-4d10-9f0f-c674c5a99b39%2cclientId%3dnone%2cn%3d1617060095874%2ch%3d40AB419A4D8708E45596945218529BFC~hmac=470b0c145150f5a460ed2becbb499f6fefc7f502beadc286ce40690dd9072e34/bb6f86abbfab759478b1a1ee7f017a9a/vp63207_V20201019073416/hlsc_e2931_V20201019082525.m3u8"
+      },
+      {
+        "name": "EPISODE 14",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751343~acl=%2fe51bc1470272e8c3027eab494ee7eed7%2f*~data=cid%3d1165799265%2csid%3d4f1f4e5c-e36b-4088-8d93-4142e59f5ae4%2cclientId%3dnone%2cn%3d1617060143976%2ch%3d807A2F1857FC998AB88025A5A4533633~hmac=afcf69da99852b90c084b37a81b1bb63af3d88d3091e825e6c4c17634d115ffc/e51bc1470272e8c3027eab494ee7eed7/vp63207_V20201019074045/hlsc_e2931_V20201019084012.m3u8"
+      },
+      {
+        "name": "EPISODE 15",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751388~acl=%2fac1b5522c09a44a59b0080262f58bf80%2f*~data=cid%3d1165799248%2csid%3d326eb494-2a29-4a2f-be8a-0bf87ad12d04%2cclientId%3dnone%2cn%3d1617060188261%2ch%3dB4ADFF1FC90DBF67C62604523183961A~hmac=e74c6a7263a9dbaaa6cacdd48fd857582ab68e3d45e5fe125ab7af58fdb213bb/ac1b5522c09a44a59b0080262f58bf80/vp63207_V20201019073338/hlsc_e2931_V20201019082629.m3u8"
+      },
+      {
+        "name": "EPISODE 16",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751428~acl=%2f7212031cbf14278c8093eb311412b4a3%2f*~data=cid%3d1165799273%2csid%3dcc1f6ed6-c956-43e2-88aa-582529803232%2cclientId%3dnone%2cn%3d1617060228886%2ch%3dD6466AC7378AFDF45309206361A2DF69~hmac=e4f7fae6bc724c0bbcb096f45aca6a46a98ac53936844c4afa5ad97954c6036a/7212031cbf14278c8093eb311412b4a3/vp63207_V20201020041230/hlsc_e2931_V20201020050919.m3u8"
+      },
+      {
+        "name": "EPISODE 17",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751464~acl=%2f563baa61dd5030b0ccc6a2cee56050af%2f*~data=cid%3d1165799257%2csid%3dcc1ef41c-42b0-4929-bd68-4e46d9c5c1c1%2cclientId%3dnone%2cn%3d1617060264229%2ch%3d5EBD90BCA6F30E52428340382DE98C2A~hmac=64d63242af15e7ba69031cce7b50ac91cd5ab90b7860cce3976c7736bf9fe487/563baa61dd5030b0ccc6a2cee56050af/vp63207_V20201019073621/hlsc_e2931_V20201019083610.m3u8"
+      },
+      {
+        "name": "EPISODE 18",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751513~acl=%2ffae4812057a03fa9dbe239cb8cea46a1%2f*~data=cid%3d1165799278%2csid%3d79863ac5-7cb3-4fae-9f40-47ffc27c94d6%2cclientId%3dnone%2cn%3d1617060313552%2ch%3dD627E8DCBFCDB840A21F943CAD17978B~hmac=75881192351c43488b80357e6333d4e104b5de4dc4b58d5c29957c42291f7401/fae4812057a03fa9dbe239cb8cea46a1/vp63207_V20201019074115/hlsc_e2931_V20201019084740.m3u8"
+      },
+      {
+        "name": "EPISODE 19",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751564~acl=%2f6166d28a6caa00de7a5728410700d0ff%2f*~data=cid%3d1165799275%2csid%3d33344be8-961a-49e1-8348-988a70a30980%2cclientId%3dnone%2cn%3d1617060364003%2ch%3d45865D70580E4D16E1CE5C3BB0ECEE9E~hmac=1d3bff3b415a497351e87fc9bfaccfc2616f941d28e1c9bedadcb9ffa7b5175e/6166d28a6caa00de7a5728410700d0ff/vp63207_V20201020041922/hlsc_e2931_V20201020051840.m3u8"
+      },
+      {
+        "name": "EPISODE 20",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751617~acl=%2ffc73aee9b555d7e40a605d2b847ebf66%2f*~data=cid%3d1165799319%2csid%3db11d6437-21f3-4f82-9a6b-a942d7b97ea5%2cclientId%3dnone%2cn%3d1617060417360%2ch%3d7FAD0D94FD977935E69CFFBBB3C7DEC1~hmac=e75e58dacad47dd6c62bc76deb4cd4226d12e5cbd686bdc01260091c74f80ffc/fc73aee9b555d7e40a605d2b847ebf66/vp63207_V20201019074825/hlsc_e2931_V20201019085031.m3u8"
+      },
+      {
+        "name": "EPISODE 21",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751662~acl=%2f9e4843552ab7403ba745f7e7e99565c3%2f*~data=cid%3d1165799271%2csid%3d399f2dd1-3c53-468d-a74c-3cb9aa1cbc56%2cclientId%3dnone%2cn%3d1617060462018%2ch%3d30E68DFB6BE28D7F2BB70EA8B72917AD~hmac=ebff316a5de383a2b5505777dc6d8a6b2414b575a96a75d7a56c4a2e7b42dce1/9e4843552ab7403ba745f7e7e99565c3/vp63207_V20201019074108/hlsc_e2931_V20201019084720.m3u8"
+      },
+      {
+        "name": "EPISODE 22",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751706~acl=%2f087331d43918535f5038e316f6625d23%2f*~data=cid%3d1165799277%2csid%3df71acd27-c6a6-4fa6-ac44-e89ca3d8ea37%2cclientId%3dnone%2cn%3d1617060506193%2ch%3d4AC12D8610F118C09302514F051DC5AB~hmac=2b76b59a6d4a538699a31a5b537f3749b2e00ffe8e829069ad8f99007f466791/087331d43918535f5038e316f6625d23/vp63207_V20201021035515/hlsc_e2931_V20201021045346.m3u8"
+      },
+      {
+        "name": "EPISODE 23",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751753~acl=%2f1299bdbff70bc3e13aaed4b88e7c554e%2f*~data=cid%3d1165799294%2csid%3db4791956-4655-47c9-88a4-20beed28ddda%2cclientId%3dnone%2cn%3d1617060553287%2ch%3d0F3CEE4ABD7793919C4D75043D6D82F5~hmac=aa6ff1ee7397aaf6a9b0294b180b6ed068823859fb32f07262ffe49435cb7c9a/1299bdbff70bc3e13aaed4b88e7c554e/vp63207_V20201020042244/hlsc_e2931_V20201020051944.m3u8"
+      },
+      {
+        "name": "EPISODE 24",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751817~acl=%2f5afe98c9333023fa387f8726c2d57503%2f*~data=cid%3d1165799261%2csid%3d5a703809-54cd-413f-bc59-95a51937bd68%2cclientId%3dnone%2cn%3d1617060617499%2ch%3d3D8047F537EA5474121482EE2D912FCA~hmac=0cfae15969edf057229d77a8cbe1956f19f30d0e9b532c89cadd50a20dfb6409/5afe98c9333023fa387f8726c2d57503/vp63207_V20201019074044/hlsc_e2931_V20201019085002.m3u8"
+      },
+      {
+        "name": "EPISODE 25",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751857~acl=%2f5fb7b5489891ea15c083584a571f0b27%2f*~data=cid%3d1165799298%2csid%3d774ede1c-3f69-4ad4-9bdf-5276a3ac7444%2cclientId%3dnone%2cn%3d1617060657053%2ch%3d5587E3EDE76CFE7AE88DAD841FA32FCE~hmac=954949b4ef91951e2ba3df1981787aab7be7d90d7c4b27ebf9681aa7a389488e/5fb7b5489891ea15c083584a571f0b27/vp63207_V20201020042522/hlsc_e2931_V20201020052325.m3u8"
+      },
+      {
+        "name": "EPISODE 26",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751901~acl=%2ff18ac673e9e7dc0f0b16be1fb9218706%2f*~data=cid%3d1165799272%2csid%3df6ba74f7-3f74-4d47-a17a-99acbcbcac0e%2cclientId%3dnone%2cn%3d1617060701419%2ch%3dCF8E9556C9416183C8BDD2F7C2E5396D~hmac=109e74728fa1f7aabf05de9570de66932c03fe4ec3e4d9a3f07f64c518d73020/f18ac673e9e7dc0f0b16be1fb9218706/vp63207_V20201021035331/hlsc_e2931_V20201021045143.m3u8"
+      },
+      {
+        "name": "EPISODE 27",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751950~acl=%2f38d280673ad7f7cd02a0908f14230b2e%2f*~data=cid%3d1165799287%2csid%3de4ebb6b4-d480-48a5-80a4-dddc12aad2e9%2cclientId%3dnone%2cn%3d1617060750639%2ch%3d0BAD70564AFA694121768E46C90E3FCB~hmac=aef0938da14bfcc01cae98f54a2504346cb67b8ae33f6c18704c9bc036ac95df/38d280673ad7f7cd02a0908f14230b2e/vp63207_V20201026063359/hlsc_e2931_V20201026073040.m3u8"
+      },
+      {
+        "name": "EPISODE 28",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617751991~acl=%2f4847bf485fddc9b740df563d002f672d%2f*~data=cid%3d1165799288%2csid%3d87c7f304-756a-4108-86f1-acd3407a6952%2cclientId%3dnone%2cn%3d1617060791099%2ch%3d29D6A2BB1DE0D662C108B72DA814483B~hmac=4bf9f301a851dfa7c309ee60163b9cbff3ca869f7b9dffa5d31a5f58d3854831/4847bf485fddc9b740df563d002f672d/vp63207_V20201020041539/hlsc_e2931_V20201020051541.m3u8"
+      }
+    ]
+  },
+  {
     "name": "POTONG",
     "samples": [ 
       {
@@ -3392,6 +3537,35 @@
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023363X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34a1609d6474442f478065e367730a777a9a562d577e20662e448cc7dcab953abb889c4acb3b9356604cb7a3b1b72e9dedfa6f0528de819f475b551a18c4a78e&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "MR.QUEEN",
+           "samples": [
+       {
+        "name": "EPISODE 1",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN22.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617706957~acl=%2f30ab177e702f0018c485a8d1abafbeec%2f*~data=cid%3d1165819702%2csid%3d2c43a595-81d8-495c-969c-d2a470737c47%2cclientId%3dnone%2cn%3d1617015757336%2ch%3d723C29A4322CAECEB19BB546F24C4638~hmac=8f4e2d89f4e33c99f2670faae4d9f309df8709eb983481c917b56432c831b1d4/30ab177e702f0018c485a8d1abafbeec/vp63207_V20201213024420/hlsc_e2931_V20210107102934.m3u8",
+        "subtitle_uri": "https://vuclip-eip2.akamaized.net/30ab177e702f0018c485a8d1abafbeec/ms.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY"
+      },
+      {
+        "name": "EPISODE 2",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN22.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617707054~acl=%2f30ab177e702f0018c485a8d1abafbeec%2f*~data=cid%3d1165819702%2csid%3d2fc838ad-5d3c-4188-bd5a-6f04ec6e9dff%2cclientId%3dnone%2cn%3d1617015854458%2ch%3dEA095045BD1F4ECE74F3577F90B0525D~hmac=7e584819f6a3da138dc1108fe08c914ab68f60d41f226c847244430daf7c4ced/30ab177e702f0018c485a8d1abafbeec/vp63207_V20201213024420/hlsc_e2931_V20210107102934.m3u8",
+        "subtitle_uri": "https://vuclip-eip2.akamaized.net/b9f5444da6733d52ee7402b013d2d442/ms.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY"
+      },
+      {
+        "name": "EPISODE 3",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN22.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617707128~acl=%2fb9f5444da6733d52ee7402b013d2d442%2f*~data=cid%3d1165820135%2csid%3db271d566-1ec4-47fb-892f-ae9306fb26f6%2cclientId%3dnone%2cn%3d1617015928398%2ch%3d7C0A54B34643FD72C90544D5CE53A4FD~hmac=df07c8d577276466de872f89fb4020ac959f2cbb0b6b543af5a8465a06d4ee9c/b9f5444da6733d52ee7402b013d2d442/vp63207_V20201214070143/hlsc_e2931_V20210107102943.m3u8",
+        "subtitle_uri": "https://vuclip-eip2.akamaized.net/b7054edb146af4a20f917f75937c7dcd/ms.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY"
       }
     ]
   },
