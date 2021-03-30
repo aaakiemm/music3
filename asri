@@ -3541,6 +3541,91 @@
     ]
   },
   {
+           "name": "TALE OF THE NINE TAILED",
+           "samples": [
+      {
+        "name": "EPISODE 1",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756575~acl=%2fe9df83592e0df8701d0538cf31f117d3%2f*~data=cid%3d1165795843%2csid%3deef687ca-5dec-409c-935a-4a719bc2d08d%2cclientId%3dnone%2cn%3d1617065375085%2ch%3d06DE39A8CED0F1F9D3BF74316CAA1DC4~hmac=c2f6ae33062d20cafd2c3e73ab25b2c49a332abd43adc0a30c270db15f942e5b/e9df83592e0df8701d0538cf31f117d3/vp63207_V20201007210136/hlsc_e2931_V20201008160350.m3u8"
+      },
+      {
+        "name": "EPISODE 2",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756667~acl=%2f277b5dc3c1e1b39b338e8a812facbc8f%2f*~data=cid%3d1165796278%2csid%3d00c51ce2-d4bb-459e-be5e-e73fd4c660eb%2cclientId%3dnone%2cn%3d1617065467875%2ch%3dE06906E58D4E049350AC6BE36CAD8104~hmac=362f465961cc16bb398a1aed4e2ab6a0d05ec97eb8ff5ca77fba8ba290cd19b6/277b5dc3c1e1b39b338e8a812facbc8f/vp63207_V20201008211508/hlsc_e2931_V20201009160443.m3u8"
+      },
+      {
+        "name": "EPISODE 3",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756744~acl=%2f262ae90c2788db420394e4dd7659adf9%2f*~data=cid%3d1165798029%2csid%3dce9cb436-f162-43f0-b45c-0d09327f269c%2cclientId%3dnone%2cn%3d1617065544686%2ch%3dA147B14158051C4D5F0DFFC727634A95~hmac=bff82aad7d6f7208bdb578ec6a663ebafe6907c5be74e58c159a1b17a3c8b173/262ae90c2788db420394e4dd7659adf9/vp63207_V20201015052801/hlsc_e2931_V20201015160427.m3u8"
+      },
+      {
+        "name": "EPISODE 4",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756768~acl=%2fb594978a03b28dfb7e7cb79be49dab0a%2f*~data=cid%3d1165798449%2csid%3d6b4ed056-13dc-434c-badb-fe743c058f70%2cclientId%3dnone%2cn%3d1617065568760%2ch%3dC0E67254275B170ACDB24A4255049D13~hmac=102e5ace16b04a41fafe122673924fe08e1db37c6d99b7174fc66a8535c1d49b/b594978a03b28dfb7e7cb79be49dab0a/vp63207_V20201015190111/hlsc_e2931_V20201016170437.m3u8"
+      },
+      {
+        "name": "EPISODE 5",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756795~acl=%2faa33b547167541efa0563cf706ff703c%2f*~data=cid%3d1165800698%2csid%3ddc745ef6-42e1-4eb8-971b-b6fe1bbe1f65%2cclientId%3dnone%2cn%3d1617065595386%2ch%3d2C830D26BEBB0B48509EFEA2F0E5A25F~hmac=5a5329f67772e60ad9280759fa61c7d2c30042ddc4bc1ddb5a7385182088195f/aa33b547167541efa0563cf706ff703c/vp63207_V20201021210137/hlsc_e2931_V20201022160441.m3u8"
+      },
+      {
+        "name": "EPISODE 6",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756823~acl=%2ffafae987be9c8d47ccc5b927a3dd99b4%2f*~data=cid%3d1165801455%2csid%3d3cf79aca-3f6f-46c0-aa7c-3ba7c74d6820%2cclientId%3dnone%2cn%3d1617065623955%2ch%3d8E3DCA3563326CC98425516F5B739467~hmac=13e06e61b3a55f1fe2f0be0f62587bca3f735860866eb059e55033c39d72501b/fafae987be9c8d47ccc5b927a3dd99b4/vp63207_V20201022200648/hlsc_e2931_V20201023160516.m3u8"
+      },
+      {
+        "name": "EPISODE 7",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756847~acl=%2f1fe7b34baf031d6d5193f2b99d0f6cdc%2f*~data=cid%3d1165804394%2csid%3d1b85a839-193b-491d-8aeb-e5b9ba813aa6%2cclientId%3dnone%2cn%3d1617065647524%2ch%3dE607F2FF9C7D8639CFAA052709D750D7~hmac=83d55e3c43180af1d3aa5a834d05fa1e09c2549742e2d20adf7f527a820e7d8f/1fe7b34baf031d6d5193f2b99d0f6cdc/vp63207_V20201028200044/hlsc_e2931_V20201030070645.m3u8"
+      },
+      {
+        "name": "EPISODE 8",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756876~acl=%2f02064de4c597973e1662301866a2d490%2f*~data=cid%3d1165804571%2csid%3dd88b8d0d-a242-490a-87e4-80afab4a2d73%2cclientId%3dnone%2cn%3d1617065676856%2ch%3d776C7295F82A4FE783D83B208C188355~hmac=85aa27d83478136e1f4256781515a3917eae4f4bd1f6f945f5bb00023663ee8f/02064de4c597973e1662301866a2d490/vp63207_V20201029200130/hlsc_e2931_V20201030170335.m3u8"
+      },
+      {
+        "name": "EPISODE 9",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756898~acl=%2f3db44e9b70f1bd249363963b8a545459%2f*~data=cid%3d1165806279%2csid%3da405e87c-7ada-46d9-aee6-b50a605b52ce%2cclientId%3dnone%2cn%3d1617065698542%2ch%3d84C9FE3DE9131F163202D6CA9A127CD3~hmac=f44b6ea08c939180bee44c7cd0d228e750966e2bac0bd089bd99e91ef33d7f99/3db44e9b70f1bd249363963b8a545459/vp63207_V20201104190133/hlsc_e2931_V20201105150547.m3u8"
+      },
+      {
+        "name": "EPISODE 10",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756920~acl=%2f4053dd7c49ebe30f3eac7829c13d117b%2f*~data=cid%3d1165806651%2csid%3df8976810-da18-4ac5-a992-bc0eff8bed8f%2cclientId%3dnone%2cn%3d1617065720904%2ch%3dA544703307EE26A7941594F85E4CF907~hmac=75b1ba721b4f905800a709e9de00b1e899c2b24d02faefee2d17ed6265c4ebfd/4053dd7c49ebe30f3eac7829c13d117b/vp63207_V20201105190132/hlsc_e2931_V20201106160400.m3u8"
+      },
+      {
+        "name": "EPISODE 11",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756950~acl=%2f6327f03fb393b4c5fd53326975ba855d%2f*~data=cid%3d1165807821%2csid%3da9535a16-20b7-4d28-b747-695b1fd17987%2cclientId%3dnone%2cn%3d1617065750242%2ch%3dED60EDB85602572C25A2C9FE067871F6~hmac=ca21496ef2790565a47b2ba2a233849598caa9401cb13d75a649d0bffd3a570d/6327f03fb393b4c5fd53326975ba855d/vp63207_V20201111190134/hlsc_e2931_V20201112160652.m3u8"
+      },
+      {
+        "name": "EPISODE 12",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756970~acl=%2fc0bfae87618cfa3f6fd89cc0aa6e023b%2f*~data=cid%3d1165808072%2csid%3d835c4de8-b204-4e0f-93c3-805e3d4d77d9%2cclientId%3dnone%2cn%3d1617065770837%2ch%3d787DC8AC82329AB243A90F18CC01C713~hmac=441a6eb585d2fc3a08414ff223d5ea87f5f5406cece56cac0fc9cf71eb784c61/c0bfae87618cfa3f6fd89cc0aa6e023b/vp63207_V20201112180212/hlsc_e2931_V20201113170420.m3u8"
+      },
+      {
+        "name": "EPISODE 13",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617756991~acl=%2fa1215c4774a52461781f5289c2440f22%2f*~data=cid%3d1165812804%2csid%3db6badea5-811a-4a79-987d-66e15b7021c8%2cclientId%3dnone%2cn%3d1617065791972%2ch%3dB57C91AB679D23BA54F5E73B261117EB~hmac=43ac4ad27d5cbf2463b637744cd53b0a01a12d0c0fb36e61c7656d9aeb0de936/a1215c4774a52461781f5289c2440f22/vp63207_V20201126090204/hlsc_e2931_V20201127170443.m3u8"
+      },
+      {
+        "name": "EPISODE 14",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617757013~acl=%2f139a1a84b4ecd2e6d0f298e85dcce533%2f*~data=cid%3d1165813027%2csid%3da42ab05b-e566-434b-bea9-7fc0f655d8b5%2cclientId%3dnone%2cn%3d1617065813486%2ch%3dB8CF72E17923AAB95C556A7713567C5E~hmac=07c1a425dd05475b459ed9f5626388d23bb493d63a9f0d285c95016ebb5e5431/139a1a84b4ecd2e6d0f298e85dcce533/vp63207_V20201127002726/hlsc_e2931_V20201127170501.m3u8"
+      },
+      {
+        "name": "EPISODE 15",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617757036~acl=%2fc937c2b9dc06bf20ba652198a246585e%2f*~data=cid%3d1165815691%2csid%3d2073bc68-ed5e-4a6c-970b-32f430f6824a%2cclientId%3dnone%2cn%3d1617065836142%2ch%3d7B17F3A3F2C135BDD87783FAB70E27B6~hmac=fe10ab8c1a740c76a904d5eb40247dfbc7fe6f177add86dcc13eeacbc1960286/c937c2b9dc06bf20ba652198a246585e/vp63207_V20201202190422/hlsc_e2931_V20201204030903.m3u8"
+      },
+      {
+        "name": "EPISODE 16",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ninetaled.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617757058~acl=%2fcc8635bcbf23bfff38b0acaf3da183df%2f*~data=cid%3d1165816244%2csid%3db1a523a6-dd77-4349-a2cd-16270b374763%2cclientId%3dnone%2cn%3d1617065858123%2ch%3d84C516741C1D80177FE184E05A2B45DE~hmac=ae90155a04e89327697638b53a8086ac98844f2df6817aed0fed87ffedba968b/cc8635bcbf23bfff38b0acaf3da183df/vp63207_V20201203190214/hlsc_e2931_V20201204071719.m3u8"
+      }
+    ]
+  },
+  {
            "name": "MR.QUEEN",
            "samples": [
        {
