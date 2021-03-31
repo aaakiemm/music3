@@ -2211,6 +2211,51 @@
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_d2xpd7xk/v/12/pv/1/flavorId/0_,8lfgfaj1,lt0q6pjx,wniha7po,9gxiq7of,opm5zzcu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       }
+    ]  
+  },
+  {
+    "name": "SQUAD CILIK S2",
+    "samples": [  
+      {
+        "name": "EPISODE 1",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_b2nlctfv/v/2/pv/1/ev/17/flavorId/0_,83r706za,yq55i7ii,k5xai9ql,pu57y1da,ydb296ya,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 2",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_d1xe01h6/v/2/pv/1/ev/17/flavorId/0_,ohyz7jts,i9iygaoi,drshqcdg,xtz9q0ka,0cyjjvq6,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 3",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_16x427jh/v/2/pv/1/ev/17/flavorId/0_,5c8mh6oa,nlbxe8lk,frxbu1j6,3i1lbnmy,kzlbc66y,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 4",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_5k7xvbxs/v/2/pv/1/ev/17/flavorId/0_,5i22rmvu,b5zt61wd,3251jsle,4qcdo5rr,3o6qgw4i,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 5",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_cehp3u9a/v/2/pv/1/ev/17/flavorId/0_,95tzsdpp,j9v6vhzq,ovegz7tv,trs1m02e,r2y9srsu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 6",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_ndraq5lt/v/2/pv/1/ev/17/flavorId/0_,wkda6jyv,6ccm306l,voa6nq4a,gnontt9q,n58wyvbm,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 7",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_ad2uqqch/v/2/pv/1/ev/17/flavorId/0_,jw9cnsuk,f032kgxp,09tbhzh8,s0arhxk2,7wahikwe,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 8",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_mbhvipcc/v/2/pv/1/ev/17/flavorId/0_,298uy8gc,gnrsso2h,xvc6cbqc,dux46y1d,sgjb9opy,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      }
     ]
   },
   {
