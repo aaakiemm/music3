@@ -2256,6 +2256,76 @@
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_mbhvipcc/v/2/pv/1/ev/17/flavorId/0_,298uy8gc,gnrsso2h,xvc6cbqc,dux46y1d,sgjb9opy,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       }
+    ]  
+  },
+  {
+    "name": "SQUAD CILIK S3",
+    "samples": [  
+      {
+        "name": "EPISODE 1",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_snsq2hoo/v/2/pv/1/ev/19/flavorId/0_,wnqc3nck,c65apt81,ai5z834b,pt7emwiy,8mp73ncg,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 2",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_gfd7emtr/v/2/pv/1/ev/19/flavorId/0_,x5mbs90q,ud05bpcw,d6bumwk1,5r9f0mzd,b7tabt02,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 3",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_twj3m9hu/v/2/pv/1/ev/19/flavorId/0_,aeffty95,ubkvj10j,9mca17od,rcfce3xz,p65xab01,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 4",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_sw4m2bh6/v/2/pv/1/ev/19/flavorId/0_,hot8ausy,1woqtrum,ajx76w2b,1pvstw11,8h3r6ed6,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 5",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_3r6aou2k/v/2/pv/1/ev/19/flavorId/0_,hhqn3eqc,v227htk5,kwnszz3o,j01m8pg7,cr8ale0s,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 6",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_19d4j4xj/v/2/pv/1/ev/19/flavorId/0_,9g52q2ru,9ziine06,yw1xrvk4,mqnn1oly,1qa2opjy,uozeabi4,owjjfejf,auygk7q3,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 7",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_9n0gctol/v/1/pv/1/ev/19/flavorId/1_,9vt9zp9d,7spw5c02,lan3lfzu,268quqme,3rzqjdia,at44l9ko,vojm93qy,j3pllvtu,5cvlt33s,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 8",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_c1dc6gyh/v/1/pv/1/ev/19/flavorId/1_,jren6x07,5kqw9uyp,hqjykcwg,ez6wuv0y,k5h970ch,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 9",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_ww9qh7ff/v/1/pv/1/ev/19/flavorId/1_,wi5uqwk0,3wbby2we,oj1ec7vf,y670pqth,ky6rvavt,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 10",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_v33c5i4o/v/1/pv/1/ev/16/flavorId/1_,fymj940o,7hv1kz7e,lwj7o1ml,5rd2afdg,gvxiv3q9,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 11",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_0gm6ss75/v/1/pv/1/ev/19/flavorId/1_,zlxftizp,dwe1qfuy,nqk54nf6,q973jxlj,odr7g3m1,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 12",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_psygelwm/v/1/pv/1/ev/17/flavorId/1_,dbxnfvei,e5gdtlxb,6wycij2e,dxr93x9x,hnxjxlif,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      },
+      {
+        "name": "EPISODE 13",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_6keuvwch/v/1/pv/1/ev/17/flavorId/1_,cs5bcp4m,scw89654,0e3j0jb2,flml4to4,mfpww1f5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+      }
     ]
   },
   {
