@@ -562,7 +562,7 @@
     "samples": [ 
       {
         "name": "RIA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.pngg",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",
         "uri": "http://51.79.208.146:61980/myplay/c_58040/index.m3u8"
       },
       {
@@ -574,7 +574,6 @@
         "name": "OASIS",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png",
         "uri": "http://51.79.208.146:61980/myplay/c_58019/index.m3u8"
-      },
       {
         "name": "WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
@@ -608,32 +607,32 @@
       },
       {
         "name": "AWANI",
-        "logo_uri": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
+        "logo_uri": "https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
       },
       {
         "name": "ARENA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",
         "uri": "http://51.79.208.146:61980/myplay/c_58015/index.m3u8"
       },
       {
         "name": "ASSP 1",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
         "uri": "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8"
       },
       {
         "name": "ASSP 2",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
         "uri": "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8"
       },
       {
         "name": "ASSP 3",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/133_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
         "uri": "http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8"
       },
       {
         "name": "ASSP 4",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
         "uri": "http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8"
       },
       {
@@ -643,17 +642,17 @@
       },
       {
         "name": "WWE",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/841_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
         "uri": "http://51.79.208.146:61980/myplay/c_58016/index.m3u8"
       },
       {
         "name": "BEIN SPORTS MAX",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/819_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",
         "uri": "http://51.79.208.146:61980/myplay/c_58044/index.m3u8"
       },
       {
         "name": "COLORS",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/116_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",
         "uri": "http://51.79.208.146:61980/myplay/c_58041/index.m3u8"
       },
       {
@@ -688,7 +687,7 @@
       },
       {
         "name": "HELLO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
       },
       {
