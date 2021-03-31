@@ -1909,6 +1909,263 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       }
+    ]  
+  },
+  {
+    "name": "PADA ZAMAN DAHULU S3",
+    "samples": [      
+      {
+        "name": "SANG KANCIL & SINGA 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps1-sang-kancil-dan-singa-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps1-sang-kancil-dan-singa-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & SINGA 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps2-sang-kancil-dan-singa-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps2-sang-kancil-dan-singa-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & SINGA 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps3-sang-kancil-dan-singa-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps3-sang-kancil-dan-singa-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "AYAM & HELANG 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps4-ayam-dan-helang-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps4-ayam-dan-helang-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "AYAM & HELANG 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps5-ayam-dan-helang-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps5-ayam-dan-helang-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "AYAM & HELANG 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps6-ayam-dan-helang-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps6-ayam-dan-helang-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SEMUT, MERPATI & GAJAH 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps7-semut-merpati-dan-gajah-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps7-semut-merpati-dan-gajah-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SEMUT, MERPATI & GAJAH 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps8-semut-merpati-dan-gajah-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps8-semut-merpati-dan-gajah-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SEMUT, MERPATI & GAJAH 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps9-semut-merpati-dan-gajah-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps9-semut-merpati-dan-gajah-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "AYAM & MUSANG 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps10-ayam-dan-musang-bag1clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps10-ayam-dan-musang-bag1clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "AYAM & MUSANG 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps11-ayam-dan-musang-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps11-ayam-dan-musang-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "AYAM & MUSANG 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps12-ayam-dan-musang-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps12-ayam-dan-musang-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "PERKASAM MATA HARIMAU 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps13-perkasam-mata-harimau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps13-perkasam-mata-harimau-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "PERKASAM MATA HARIMAU 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps14-perkasam-mata-harimau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps14-perkasam-mata-harimau-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "PERKASAM MATA HARIMAU 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps15-perkasam-mata-harimau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps15-perkasam-mata-harimau-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "BELALANG & SEMUT 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps16-belalang-dan-semut-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps16-belalang-dan-semut-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "BELALANG & SEMUT 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps17-belalang-dan-semut-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps17-belalang-dan-semut-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "BELALANG & SEMUT 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps18-belalang-dan-semut-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps18-belalang-dan-semut-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KISAH BANGAU 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps19-kisah-bangau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps19-kisah-bangau-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KISAH BANGAU 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps20-kisah-bangau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps20-kisah-bangau-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KISAH BANGAU 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps21-kisah-bangau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps21-kisah-bangau-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ANJING & BAYANG-BAYANG 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps22-anjing-dan-bayang-bayang-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps22-anjing-dan-bayang-bayang-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ANJING & BAYANG-BAYANG 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps23-anjing-dan-bayang-bayang-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps23-anjing-dan-bayang-bayang-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ANJING & BAYANG-BAYANG 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps24-anjing-dan-bayang-bayang-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps24-anjing-dan-bayang-bayang-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KAMBING & BUAYA 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps25-kambing-dan-buaya-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps25-kambing-dan-buaya-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KAMBING & BUAYA 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps26-kambing-dan-buaya-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps26-kambing-dan-buaya-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KAMBING & BUAYA 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps27-kambing-dan-buaya-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps27-kambing-dan-buaya-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "CAWI & HARIMAU 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps28-cawi-dan-harimau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps28-cawi-dan-harimau-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "CAWI & HARIMAU 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps29-cawi-dan-harimau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps29-cawi-dan-harimau-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "CAWI & HARIMAU 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps30-cawi-dan-harimau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps30-cawi-dan-harimau-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KURA-KURA & ITIK 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps31-kura-kura-dan-itik-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps31-kura-kura-dan-itik-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KURA-KURA & ITIK 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps32-kura-kura-dan-itik-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps32-kura-kura-dan-itik-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KURA-KURA & ITIK 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps33-kura-kura-dan-itik-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps33-kura-kura-dan-itik-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SINGA & TIKUS 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps34-singa-dan-tikus-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps34-singa-dan-tikus-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+       },
+      {
+        "name": "SINGA & TIKUS 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps35-singa-dan-tikus-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps35-singa-dan-tikus-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+       },
+      {
+        "name": "SINGA & TIKUS 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps36-singa-dan-tikus-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps36-singa-dan-tikus-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
     ]
   },
   {
