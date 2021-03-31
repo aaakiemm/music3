@@ -2174,49 +2174,41 @@
       {
         "name": "EPISODE 1",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_yys9z7fl/v/12/pv/1/flavorId/0_,q5u77oi7,q9ordb13,dt4bt4we,d0kquvbh,32iofwkg,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
-        "drm_scheme": "widevine"
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_yys9z7fl/v/12/pv/1/flavorId/0_,q5u77oi7,q9ordb13,dt4bt4we,d0kquvbh,32iofwkg,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       },
       {
         "name": "EPISODE 2",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_9tklar31/v/12/pv/1/flavorId/0_,3lie7zw1,2eh8a235,3ca6k3bj,01x2gj43,admx9fmf,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
-        "drm_scheme": "widevine"
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_9tklar31/v/12/pv/1/flavorId/0_,3lie7zw1,2eh8a235,3ca6k3bj,01x2gj43,admx9fmf,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       },
       {
         "name": "EPISODE 3",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_qtfamah1/v/12/pv/1/flavorId/0_,3fj7a7ki,8rhq2vm5,2inzjwmo,y4blk7pe,jowd4ejz,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
-        "drm_scheme": "widevine"
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_qtfamah1/v/12/pv/1/flavorId/0_,3fj7a7ki,8rhq2vm5,2inzjwmo,y4blk7pe,jowd4ejz,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       },
       {
         "name": "EPISODE 4",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_0ia16uf0/v/12/pv/1/flavorId/0_,rw8btit3,bekwazue,hifxolwp,0z2dt8ea,q4r4evwu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
-        "drm_scheme": "widevine"
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_0ia16uf0/v/12/pv/1/flavorId/0_,rw8btit3,bekwazue,hifxolwp,0z2dt8ea,q4r4evwu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       {
         "name": "EPISODE 5",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_ub2sdrgz/v/12/pv/1/flavorId/0_,bl51rul2,9jt942bi,k73bwkz5,wpevd5bl,jbncpuji,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
-        "drm_scheme": "widevine"
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_ub2sdrgz/v/12/pv/1/flavorId/0_,bl51rul2,9jt942bi,k73bwkz5,wpevd5bl,jbncpuji,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       },
       {
         "name": "EPISODE 6",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_hevibtgu/v/12/pv/1/flavorId/0_,5p5u6pkc,u3as2z78,i3uiw9ml,c7myihjb,qq90s1s9,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
-        "drm_scheme": "widevine"
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_hevibtgu/v/12/pv/1/flavorId/0_,5p5u6pkc,u3as2z78,i3uiw9ml,c7myihjb,qq90s1s9,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       },
       {
         "name": "EPISODE 7",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_2mh94fwa/v/22/pv/1/ev/9/flavorId/0_,jsglabc7,3p4t66nv,dp5l1vvq,euvyqvsu,h63m8wwy,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
-        "drm_scheme": "widevine"
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_2mh94fwa/v/22/pv/1/ev/9/flavorId/0_,jsglabc7,3p4t66nv,dp5l1vvq,euvyqvsu,h63m8wwy,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       },
       {
         "name": "EPISODE 8",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_d2xpd7xk/v/12/pv/1/flavorId/0_,8lfgfaj1,lt0q6pjx,wniha7po,9gxiq7of,opm5zzcu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
-        "drm_scheme": "widevine"
+        "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/0_d2xpd7xk/v/12/pv/1/flavorId/0_,8lfgfaj1,lt0q6pjx,wniha7po,9gxiq7of,opm5zzcu,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       }
     ]
   },
