@@ -561,34 +561,109 @@
     "name": "iptv.my 09",
     "samples": [ 
       {
-        "name": "ASTRO CITRA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8"
+        "name": "RIA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58040/index.m3u8"
       },
       {
-        "name": "ASTRO PRIMA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8"
+        "name": "PRIMA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58017/index.m3u8"
       },
       {
-        "name": "ASTRO OASIS",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8"
+        "name": "OASIS",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58019/index.m3u8"
+      {
+        "name": "WARNA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58037/index.m3u8"
       },
       {
-        "name": "ASTRO CERIA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/631_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
+        "name": "CITRA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58035/index.m3u8"
       },
       {
-        "name": "ASTRO AWANI",
-        "logo_uri": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
+        "name": "RANIA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58034/index.m3u8"
+      
+      },
+      {
+        "name": "AURA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58036/index.m3u8"
+      },
+      {
+        "name": "CERIA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58024/index.m3u8"
+      },
+      {
+        "name": "TVIQ",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/118_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58020/index.m3u8"
+      },
+      {
+        "name": "AWANI",
+        "logo_uri": "https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
       },
       {
-        "name": "ASTRO ARENA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8"
+        "name": "ARENA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58015/index.m3u8"
+      },
+      {
+        "name": "ASSP 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
+        "uri": "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8"
+      },
+      {
+        "name": "ASSP 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
+        "uri": "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8"
+      },
+      {
+        "name": "ASSP 3",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
+        "uri": "http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8"
+      },
+      {
+        "name": "ASSP 4",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
+        "uri": "http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8"
+      },
+      {
+        "name": "AWESOME",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123_100.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58014/index.m3u8"
+      },
+      {
+        "name": "WWE",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58016/index.m3u8"
+      },
+      {
+        "name": "BEIN SPORTS MAX",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58044/index.m3u8"
+      },
+      {
+        "name": "COLORS",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58041/index.m3u8"
+      },
+      {
+        "name": "BOLLYONEHD",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58043/index.m3u8"
+      },
+      {
+        "name": "TA-DAA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58046/index.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
@@ -599,7 +674,7 @@
         "name": "ASTRO HBO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_100.png",
         "uri": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8"
-     },
+      },
       {
         "name": "ASTRO HBO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_100.png",
@@ -607,12 +682,12 @@
       },
       {
         "name": "ASTRO BOO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58038/index.m3u8"
       },
       {
         "name": "HELLO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
       },
       {
