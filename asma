@@ -1736,6 +1736,179 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       }
+    ]  
+  },
+  {
+    "name": "PADA ZAMAN DAHULU S2",
+    "samples": [      
+      {
+        "name": "SANG KANCIL & TALI PINGGANG HIKMAT 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps1-sang-kancil-dan-tali-pinggang-hikmat-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps1-sang-kancil-dan-tali-pinggang-hikmat-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & TALI PINGGANG HIKMAT 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps2-sang-kancil-dan-tali-pinggang-hikmat-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps2-sang-kancil-dan-tali-pinggang-hikmat-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & TALI PINGGANG HIKMAT 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps3-sang-kancil-dan-tali-pinggang-hikmat-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps3-sang-kancil-dan-tali-pinggang-hikmat-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL PEMBURU 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps4-sang-kancil-dan-pemburu-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps4-sang-kancil-dan-pemburu-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL PEMBURU 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps5-sang-kancil-dan-pemburu-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps5-sang-kancil-dan-pemburu-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL PEMBURU 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps6-sang-kancil-dan-pemburu-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps6-sang-kancil-dan-pemburu-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & SIPUT 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps7-sang-kancil-berlomba-dengan-siput-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps7-sang-kancil-berlomba-dengan-siput-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & SIPUT 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps8-sang-kancil-berlomba-dengan-siput-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps8-sang-kancil-berlomba-dengan-siput-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & SIPUT 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps9-sang-kancil-berlomba-dengan-siput-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps9-sang-kancil-berlomba-dengan-siput-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & HARIMAU 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps10-sang-kancil-dan-harimau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps10-sang-kancil-dan-harimau-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & HARIMAU 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps11-sang-kancil-dan-harimau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps11-sang-kancil-dan-harimau-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & HARIMAU 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps12-sang-kancil-dan-harimau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps12-sang-kancil-dan-harimau-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & GONG RAJA 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps13-sang-kancil-dan-gong-raja-saliman-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps13-sang-kancil-dan-gong-raja-saliman-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & GONG RAJA 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps14-sang-kancil-dan-gong-raja-saliman-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps14-sang-kancil-dan-gong-raja-saliman-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL & GONG RAJA 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps15-sang-kancil-dan-gong-raja-saliman-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps15-sang-kancil-dan-gong-raja-saliman-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL JADI HAKIM 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps16-sang-kancil-menjadi-hakim-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps16-sang-kancil-menjadi-hakim-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL JADI HAKIM 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps17-sang-kancil-menjadi-hakim-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps17-sang-kancil-menjadi-hakim-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SANG KANCIL JADI HAKIM 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps18-sang-kancil-menjadi-hakim-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps18-sang-kancil-menjadi-hakim-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KURA-KURA & MONYET 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps19-kura-kura-dan-monyet-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps19-kura-kura-dan-monyet-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KURA-KURA & MONYET 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps20-kura-kura-dan-monyet-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps20-kura-kura-dan-monyet-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KURA-KURA & MONYET 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps21-kura-kura-dan-monyet-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps21-kura-kura-dan-monyet-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "PENGHUNI HUTAN & GERGASI 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps22-penghuni-hutan-menentang-gergasi-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps22-penghuni-hutan-menentang-gergasi-bag1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "PENGHUNI HUTAN & GERGASI 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps23-penghuni-hutan-menentang-gergasi-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps23-penghuni-hutan-menentang-gergasi-bag2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "PENGHUNI HUTAN & GERGASI 3",
+        "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps24-penghuni-hutan-menentang-gergasi-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps24-penghuni-hutan-menentang-gergasi-bag3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
     ]
   },
   {
