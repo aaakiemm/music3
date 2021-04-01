@@ -2402,7 +2402,26 @@
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_6keuvwch/v/1/pv/1/ev/17/flavorId/1_,cs5bcp4m,scw89654,0e3j0jb2,flml4to4,mfpww1f5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
       }
-    ]
+    ]  
+  },
+  {
+    "name": "KETIKA CINTA BERTASBIH",
+    "samples": [      
+      {
+        "name": "MOVIE 1",
+        "logo_uri": "https://static.mncnow.id/images/vod/0b0c2728/fcc2_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-apl-rev-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-apl-rev-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MOVIE 2",
+        "logo_uri": "https://static.mncnow.id/images/vod/3648c3bd/be61_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-2-apl-rev-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-2-apl-rev-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]  
   },
   {
            "name": "TITIAN CINTA",
