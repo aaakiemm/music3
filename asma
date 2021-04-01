@@ -2405,6 +2405,18 @@
     ]  
   },
   {
+    "name": "DALAM MIHRAB CINTA",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://static.mncnow.id/images/vod/b2bb3760/ce56_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/dalam-mihrab-cinta-apl-rev-anv6/_/sa_dash_vmx/dalam-mihrab-cinta-apl-rev-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]  
+  },
+  {
     "name": "KETIKA CINTA BERTASBIH",
     "samples": [      
       {
