@@ -2444,10 +2444,8 @@
       {
         "name": "MOVIE 2",
         "logo_uri": "https://static.mncnow.id/images/vod/3648c3bd/be61_r32.jpg",
-        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-2-apl-rev-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-2-apl-rev-anv6.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-            }
+        "uri": "https://vcdn.rctiplus.id/vod/eds/ketika_cinta_bertasbih_2_s1e1_452_4076/_/sa_hls/ketika_cinta_bertasbih_2_s1e1_452_4076.m3u8"
+      }
     ]  
   },
   {
