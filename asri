@@ -2408,9 +2408,14 @@
            "name": "AYAT-AYAT CINTA",
            "samples": [
       {
-        "name": "MOVIE",   
+        "name": "MOVIE 1",   
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ayatcinta.jpg",
         "uri": "https://vuclip-eip.akamaized.net/exp=1617948965~acl=%2f8c04626a86017d4ab5292f835963c444%2f*~data=cid%3d1165759588%2csid%3de0e48c46-fbf6-4cb5-ba51-39642c531317%2cclientId%3dnone%2cn%3d1617257765498%2ch%3d9DC126F54866862B0A85981BAC1FDAE5~hmac=37885b3f946aa5114912850d9986aa92e6332eadf9ab4a592f4129a55f088089/8c04626a86017d4ab5292f835963c444/vp63207_V20200622064246/hlsc_e2931_V20200803175553.m3u8"
+      },
+      {
+        "name": "MOVIE 2",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ayatcinta.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617950845~acl=%2fa29d4684aa51df801ec88a720d641dc9%2f*~data=cid%3d1165763697%2csid%3d93364f61-0781-43d2-9da6-c8b3cd4fb6dd%2cclientId%3dnone%2cn%3d1617259645301%2ch%3dBB30528E7100CE2E24455215D0D8FF85~hmac=234f9e6b78fd423deaf00533a11a4e35c6c633b40924e5b90390a75d9b3093c6/a29d4684aa51df801ec88a720d641dc9/vp63207_V20200707050513/hlsc_e2931_V20200810165539.m3u8"
       }
     ]
   },
