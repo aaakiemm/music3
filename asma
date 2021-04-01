@@ -2401,8 +2401,18 @@
         "name": "EPISODE 13",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_6keuvwch/v/1/pv/1/ev/17/flavorId/1_,cs5bcp4m,scw89654,0e3j0jb2,flml4to4,mfpww1f5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
+       }
+    ]
+  },
+  {
+           "name": "AYAT-AYAT CINTA",
+           "samples": [
+      {
+        "name": "EPISODE 1",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ayatcinta.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1617948965~acl=%2f8c04626a86017d4ab5292f835963c444%2f*~data=cid%3d1165759588%2csid%3de0e48c46-fbf6-4cb5-ba51-39642c531317%2cclientId%3dnone%2cn%3d1617257765498%2ch%3d9DC126F54866862B0A85981BAC1FDAE5~hmac=37885b3f946aa5114912850d9986aa92e6332eadf9ab4a592f4129a55f088089/8c04626a86017d4ab5292f835963c444/vp63207_V20200622064246/hlsc_e2931_V20200803175553.m3u8"
       }
-    ]  
+    ]
   },
   {
     "name": "DALAM MIHRAB CINTA",
