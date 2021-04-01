@@ -2420,7 +2420,404 @@
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-2-apl-rev-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-2-apl-rev-anv6.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-         }
+            }
+    ]  
+  },
+  {
+    "name": "KETIKA CINTA BERTASBIH S1",
+    "samples": [      
+      {
+        "name": "SPECIAL RAMADHAN 1",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps1-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 2",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps2-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 3",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps3-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 4",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps4-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps4-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 5",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps5-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps5-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 6",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps6-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps6-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 7",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps7-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps7-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 8",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps8-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps8-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 9",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps9-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps9-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 10",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps10-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps10-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 11",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps11-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps11-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 12",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps12-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps12-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 13",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps13-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps13-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 14",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps14-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps14-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 15",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps15-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps15-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 16",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps16-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps16-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 17",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps17-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps17-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 18",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps18-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps18-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 19",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps19-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps19-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 20",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps20-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps20-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 21",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps21-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps21-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 22",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps22-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps22-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 23",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps23-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps23-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 24",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps24-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps24-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 25",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps25-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps25-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 26",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps26-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps26-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 27",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps27-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps27-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 28",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps28-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps28-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 29",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps29-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps29-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 30",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps30-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps30-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 31",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps31-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps31-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 32",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps32-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps32-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 33",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps33-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps33-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 34",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps34-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps34-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 35",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps35-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps35-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 36",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps36-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps36-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 37",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps37-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps37-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 38",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps38-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps38-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 39",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps39-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps39-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 40",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps40-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps40-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 41",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps41-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps41-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 42",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps42-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps42-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 43",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps43-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps43-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 44",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps44-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps44-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 45",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps45-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps45-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 46",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps46-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps46-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 47",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps47-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps47-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 48",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps48-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps48-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 49",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps49-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps49-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 50",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps50-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps50-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 51",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps51-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps51-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 52",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps52-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps52-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 53",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps53-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps53-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 54",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps54-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps54-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 55",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps55-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps55-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SPECIAL RAMADHAN 56",
+        "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps56-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps56-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
     ]  
   },
   {
