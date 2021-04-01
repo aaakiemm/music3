@@ -5133,6 +5133,137 @@
     ]
   },
   {
+           "name": "GOBLIN",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023722X0-landscape.jpg",
+	"name": "GOBLIN 01",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebc14a76d048943f752b1b4_hbovodhd/dash0/MYS_index.mpd?c3.ri=6902899300439573003",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023722X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=4823093cc8bfbef76111ec388d5a11501b51f03d69e7c33e16167047d8eb91e821802fb4ee7379d2858543a147ccd8a609325b0379d9e538cf739c60c303f938&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023723X0-landscape.jpg",
+	"name": "GOBLIN 02",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbd67b6d048943f752ab9d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895580965319570078",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023723X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34d1891dbe4d942d44757ca8dab6898f9cf99bb686f37d8a74a8c4b71064f9b248bed46a0af685b8d3cf1c86f191868282082af1c84ecb80678f3e324fe4a0e8&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023724X0-landscape.jpg",
+	"name": "GOBLIN 03",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbe0686d048943f752ac91_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920913699150428634",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023724X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ad935286d63cb632ae0cd2093c0cec8a2b3b60d5af8d0b10894cdf99322aaa9d0cce76ff3c247bf665b5fe08f31898a42e9023c48dddeae4bab7de6782b83574&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023725X0-landscape.jpg",
+	"name": "GOBLIN 04",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbf32b6d048943f752ae5d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920913699150432064",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023725X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=05117e03389d7caa37ec7fb7d0db30ced61da4787778c0d598c0115881b589811bae916dac97ec989f597759bac497b976d2abe5af6bde39aa61ab7cac74c32f&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023726X0-landscape.jpg",
+	"name": "GOBLIN  05",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbf43a6d048943f752ae77_hbovodhd/dash0/MYS_index.mpd?c3.ri=6902899300439642029",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023726X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=4f8e16ce01e0ccf8f2eaeedad4cb057074264f55db4356b6c2d85339479f67a4d3b82a8d70c6575ba6b8984978f4a1788f621df636db4a353183b96d401d6886&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023727X0-landscape.jpg",
+	"name": "GOBLIN 06",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebc04e76d048943f752b026_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895580965319598383",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023727X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d644ac490ff3b9c521295df33991833b80e169f16e2686c811c9ce19cea346e3679d8ae10c96de5a9dfd7b90ef125ce8021c30629b07bfaaffcc44b4f2a66a85&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023728X0-landscape.jpg",
+	"name": "GOBLIN 07",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbd4806d048943f752ab6a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895580965319603608",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023728X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=73c137333c8e963206f4e0de87776fb2320b77ed28e9212a915acd83dc2201214c2310d6e6397835dbf80f10d699e92c15641d00cfd808552b10ebce2c4b272c&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023729X0-landscape.jpg",
+	"name": "GOBLIN 08",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbfc456d048943f752af49_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897832762258247633",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023729X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=75fba71e49549dbed0f7d6d05a16a76df4e11ba00f32b730b417651c5c64d832d3eb539f3b80e8a41087caffb17679015e7dd7cde4e2b0c521cbdaa004a87b8d&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023730X0-landscape.jpg",
+	"name": "GOBLIN 09",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbf4676d048943f752ae7e_hbovodhd/dash0/MYS_index.mpd?c3.ri=6902899300439659324",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023730X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=31975ea3b110fe0588653d893647803894dbf9ef747389d7890b1d8916c6f13d5a20411ea9980230982b460331a8ba9b5378a72b256ca4e9ffa369f0d78ca6ba&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023731X0-landscape.jpg",
+	"name": "GOBLIN 10",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebc06d16d048943f752b055_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901210455278820458",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023731X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=88622fc7afe2bef497e5b534e64ada0e73a5f8748d9ad3862578e458c24efdd6399029937743701bd760ce5824daefd0d3f5188dc72400922e173f8b7b377202&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023732X0-landscape.jpg",
+	"name": "GOBLIN 11",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbf4956d048943f752ae85_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920350753689906739",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023732X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=4941be4c87316db33e8e27f2779d4a31b853499f2cc0e86a34bdb39bf1fe667fb263d821478f7b880515f9ec3d86f619a362e2eb879035c7ba562a6f37f796cf&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023733X0-landscape.jpg",
+	"name": "GOBLIN 12",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebcde036d048943f752c51f_hbovodhd/dash0/MYS_index.mpd?c3.ri=6902899318034804086",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023733X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=442b13a86bf117cc1d409085eae1dde31049ae76b3086d2ccfea9f491eb4a640f08c8e0553092fcb7306e974ffb0e75e818647bedcdfda8ca8b90b674ea76ee5&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023734X0-landscape.jpg",
+	"name": "GOBLIN 13",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebc09c86d048943f752b0a2_hbovodhd/dash0/MYS_index.mpd?c3.ri=6902899318034807807",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023734X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f13559e16390dceaf5fece8982dab8e466ad4852d22f6fa699ea9be629bb96ed58cf325ed96bdc3e8691787ab7fadbc003eb01fe519b50224cec03c56f83eb79&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023735X0-landscape.jpg",
+	"name": "GOBLIN 14", 
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbf4c46d048943f752ae8b_hbovodhd/dash0/MYS_index.mpd?c3.ri=6902899318034811443",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023735X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fb0d8041e5ba60ae7471eecf3f316b5db5005e2283a3da38b18ee81c58a9b06fa67a0087790068b835e799c13af6ad5424a67584aaf8245166b19f433c10a7c9&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023736X0-landscape.jpg",
+	"name": "GOBLIN 15",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbfd896d048943f752af6a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897832762258302801",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023736X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fdd556327cc117080b1a9433f5d297794432a6ea70cc5c544669f65da9aa0de514c5fba58fd49f36dcd73fdae890db9e9364db3156bfe3dbc160dd734be6571f&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023737X0-landscape.jpg",
+	"name": "GOBLIN 16",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ebbfdb16d048943f752af70_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895580965319666909",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023737X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c62225ce1e74fc1ea4968a0dc51d6e666a022ed62eac512d7b4079a9bff024ca91e3cf4f9f6520ad22f1c97688664c6a7704d35d6ea4a007cafd01cb2362d6b3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023770X0-landscape.jpg",
+	"name": "GOBLIN 17",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ebbf6e86d048943f752aec3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920350753689936104",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023770X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=64e813f529c66172843cef9d472f088e7d55bd9ff35c6c7adda608d275441a2c069de6865072e7495887b1fb422016a2218fc48ca9e367b6c6a3fca1f2ca1a79&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023771X0-landscape.jpg",
+	"name": "GOBLIN 18",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ebbd2466d048943f752ab33_hbovodhd/dash0/MYS_index.mpd?c3.ri=6902899318034833386",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023771X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=82a480aebd1f8ad008ac0ba63ebe3466b17388aad54d4a6ced60a9585be3e01f1a78e07b4e4b86bf9f476c9a415891aed476558dac9706e2916dc355e3ffc712&drmId=prod"
+      }
+    ]
+  },
+  {
            "name": "TALE OF THE NINE TAILED",
            "samples": [
       {
