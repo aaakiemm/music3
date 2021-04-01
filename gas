@@ -3312,10 +3312,41 @@
         "name": "EPISODE 28",   
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
         "uri": "https://vuclip-eip.akamaized.net/exp=1617751991~acl=%2f4847bf485fddc9b740df563d002f672d%2f*~data=cid%3d1165799288%2csid%3d87c7f304-756a-4108-86f1-acd3407a6952%2cclientId%3dnone%2cn%3d1617060791099%2ch%3d29D6A2BB1DE0D662C108B72DA814483B~hmac=4bf9f301a851dfa7c309ee60163b9cbff3ca869f7b9dffa5d31a5f58d3854831/4847bf485fddc9b740df563d002f672d/vp63207_V20201020041539/hlsc_e2931_V20201020051541.m3u8"
+      
       }
     ]
   },
   {
+    "name": "SUPERMAN & LOIS",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E01.mp4"
+      },
+      {
+        "name": "EPISODE 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E02.mp4"
+      },
+      {
+        "name": "EPISODE 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E03.mp4"
+      },
+      {
+        "name": "EPISODE 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E04.mp4"
+      },
+      {
+        "name": "EPISODE 5",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E05.mp4"
+      }
+    ]
+  },
+      {
     "name": "POTONG",
     "samples": [ 
       {
