@@ -2420,6 +2420,186 @@
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-2-apl-rev-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-2-apl-rev-anv6.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+         }
+    ]  
+  },
+  {
+    "name": "KETIKA CINTA BERTASBIH S2",
+    "samples": [      
+      {
+        "name": "MERAIH REDHA ILAHI 1",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps1-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps1-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 2",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps2-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps2-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 3",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps3-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps3-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 4",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps4-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps4-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 5",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps5-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps5-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 6",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps6-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps6-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 7",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps7-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps7-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 8",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps8-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps8-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 9",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps9-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps9-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 10",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps10-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps10-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 11",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps11-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps11-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 12",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps12-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps12-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 13",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps13-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps13-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 14",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps14-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps14-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 15",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps15-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps15-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 16",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps16-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps16-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 17",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps17-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps17-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 18",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps18-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps18-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 19",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps19-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps19-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 20",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps20-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps20-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 21",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps21-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps21-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 22",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps22-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps22-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 23",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps23-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps23-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 24",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps24-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps24-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MERAIH REDHA ILAHI 25",
+        "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       }
     ]  
   },
