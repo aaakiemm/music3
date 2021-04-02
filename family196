@@ -3283,8 +3283,138 @@
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+            }
+    ]
+  },
+      {
+    "name": "CAHAYA",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_1/_/sa_hls/cahaya_eps_1.m3u8"
+      },
+      {
+        "name": "EPISODE 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_2/_/sa_hls/cahaya_eps_2.m3u8"
+      },
+      {
+        "name": "EPISODE 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_3/_/sa_hls/cahaya_eps_3.m3u8"
+      },
+      {
+        "name": "EPISODE 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_4/_/sa_hls/cahaya_eps_4.m3u8"
+      },
+      {
+        "name": "EPISODE 5",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_5/_/sa_hls/cahaya_eps_5.m3u8"
+      },
+      {
+        "name": "EPISODE 6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_6/_/sa_hls/cahaya_eps_6.m3u8"
+      },
+      {
+        "name": "EPISODE 7",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_7/_/sa_hls/cahaya_eps_7.m3u8"
+      },
+      {
+        "name": "EPISODE 8",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_8/_/sa_hls/cahaya_eps_8.m3u8"
+      },
+      {
+        "name": "EPISODE 9",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_9/_/sa_hls/cahaya_eps_9.m3u8"
+      },
+      {
+        "name": "EPISODE 10",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_10/_/sa_hls/cahaya_eps_10.m3u8"
+      },
+      {
+        "name": "EPISODE 11 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_11/_/sa_hls/cahaya_eps_11.m3u8"
+      },
+      {
+        "name": "EPISODE 12",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_12/_/sa_hls/cahaya_eps_12.m3u8"
+      },
+      {
+        "name": "EPISODE 13",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_13/_/sa_hls/cahaya_eps_13.m3u8"
+      },
+      {
+        "name": "EPISODE 14",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_14/_/sa_hls/cahaya_eps_14.m3u8"
+      },
+      {
+        "name": "EPISODE 15",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_15/_/sa_hls/cahaya_eps_15.m3u8"
+      },
+      {
+        "name": "EPISODE 16",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_16/_/sa_hls/cahaya_eps_16.m3u8"
+      },
+      {
+        "name": "EPISODE 17",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_17/_/sa_hls/cahaya_eps_17.m3u8"
+      },
+      {
+        "name": "EPISODE 18",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_18/_/sa_hls/cahaya_eps_18.m3u8"
+      },
+      {
+        "name": "EPISODE 19",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_19/_/sa_hls/cahaya_eps_19.m3u8"
+      },
+      {
+        "name": "EPISODE 20",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_20/_/sa_hls/cahaya_eps_20.m3u8"
+      },
+      {
+        "name": "EPISODE 21 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_21/_/sa_hls/cahaya_eps_21.m3u8"
+      },
+      {
+        "name": "EPISODE 22",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_22/_/sa_hls/cahaya_eps_22.m3u8"
+      },
+      {
+        "name": "EPISODE 23",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_23/_/sa_hls/cahaya_eps_23.m3u8"
+      },
+      {
+        "name": "EPISODE 24",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_24/_/sa_hls/cahaya_eps_24.m3u8"
+      },
+      {
+        "name": "EPISODE 25",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cahaya.jpg",
+        "uri": "https://vcdn.rctiplus.id/vod/eds/cahaya_eps_25/_/sa_hls/cahaya_eps_25.m3u8"
       }
-    ]  
+    ]
   },
   {
            "name": "TITIAN CINTA",
