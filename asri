@@ -2401,8 +2401,28 @@
         "name": "EPISODE 13",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=45&ImageId=%271538908%27&EntityType=%27Item%27&EntityId=%2748125%27&Width=490&Height=276&ImageUrl=%271538908.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://k-toggle.akamaized.net/dash/p/2082311/sp/208231100/serveFlavor/entryId/1_6keuvwch/v/1/pv/1/ev/17/flavorId/1_,cs5bcp4m,scw89654,0e3j0jb2,flml4to4,mfpww1f5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd"
-       }
+      }
     ]
+  },
+  {
+    "name": "MASKED RIDER BLACK",
+    "samples": [ 
+      {
+        "name": "EPISODE 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/blackrider.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/15p6zKOaCbsi37dlgkBLW99PaRqC3Tn3m?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EPISODE 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/blackrider.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1dcUDbA-rWd4ov268hDQlMawfZK4mKKmX?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EPISODE 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/blackrider.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1liuLQm4j9KSMVObZmCck3DK37tckuLA8?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
   },
   {
            "name": "AYAT-AYAT CINTA",
