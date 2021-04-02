@@ -1741,7 +1741,16 @@
     ]  
   },
   {
-    "name": "PADA ZAMAN DAHULU S1",
+    "name": "GODZILLA VS KONG",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/godzilavskong.jpg",
+        "uri": "https://f67.megaup.net/Wj76/Godzilla_vs._Kong_(2021)_malaysub.mkv?download_token=c2693692b10649cde00ffe9d005603a690bf98374bb57301cb6e0abf65cd5a86"
+      }
+    ]  
+  },
+  {    "name": "PADA ZAMAN DAHULU S1",
     "samples": [      
       {
         "name": "SANG KANCIL & KERBAU 1",
