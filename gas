@@ -5465,6 +5465,61 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023363X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34a1609d6474442f478065e367730a777a9a562d577e20662e448cc7dcab953abb889c4acb3b9356604cb7a3b1b72e9dedfa6f0528de819f475b551a18c4a78e&drmId=prod"
       }
+    ]  
+  },
+  {
+           "name": "MOUSE",
+           "samples": [
+      {
+        "name": "episode 1",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://ryzen.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8afd7ae42567e43175c861e2d7a279099d3941235586c31865b8b760d239e82b7a5578c392b7ff2ab9ea446d9debb6d6257683ba43cdfa534199d93e4a46b58eadaf948951705d4e67c91eeae78ac74d327/abf7672c835413bb449c0d17f10cfe84/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/01.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 2",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://ryzen.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8afffd92bac193da65f27a6c96e7c2e88e718fe4b4abc15a38ecd032853fe66951406bd9acd29f5a8b048e5513b6cc09235719df135003c20750e2dfae2d6803029378c2a8ef15eaa1249ae2bad50cde7d1/9bc41874595b97ef9ada1a84fc2780b7/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/02.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 3",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://ryzen.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8afeb4140875e110fd4a0d5f4cc815db9654dc0e77cb3d11aa1a2648faa3938d868a86cdd78a1577f01a53474309c6e0ac89e984c48a2cb6ac6b81cf571db63a6ad7d1fe40b6a5bdaedf0282603861922e6/b7025a23104b37ea42e339be16e1a9bd/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/03.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 4",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://epyctap.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8af1f08da5e732267bb45877a44bf79aa41fc664db026fde7c778da70d5c68dac9d85e88cc4fb8d78bf83b4e34cf226e501c6cd78cc0040ca21351fd0ff73fa3727600c6952a6c6292077bdb76c0a323e26/d98d0fd88ee3f1b27b7ba0cfda26f127/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/04.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 5",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://ryzen.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8af18044967d427a15c86f6560b090d6095d07bd1490e2d1f332b24d2c48963f6980e4f648173212fcb251fe9f38935a40d1e580fe134dcce67d0c5c1b1b6ea31a52b060ff7e4062e59bc04581e5bf1dbff/d06f9aaeea3941b116849b3644a883d3/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/05.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 6",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://epyctap.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8af31fe3dff33b150230de59ad1d0105adfe204e9b9f05b471f0a6d09f4b4ad5aafbf9dd40aafb98d812c3edc401de7f7d263bd92aa32d17497a5217436ce60a1c65b82062f17e6291f9ac886696687dd53/082b2f9e68122f078ca23f604900ba8c/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/06.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 7",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://ryzen.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8afdae8c8432e7bb3dbec2380b4341f25ceb69b8c93055dc4baa425e5b01c783183aba63300405072cd1e9d73a29db9c31788e98988370e215388a8cd133807893b02f18105eb8a084df3792e7faa3df1ae/f7a13f8a54cd934ee10c7bae8f51358e/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/07.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 8",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://ryzen.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8afd1b7830b3b4d20547aac933c3f9faf4983cd4f291a81b9b8e5b4e26e83b4c5d4d192e34e0f4e3781867dffcb0b64070fd3b27a4d5d6cb20e091c114ae2296354322e7da6ab697095f44bc6c5a6bb09f1/8dedc6f32c4f27eeea89d20cad200770/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/08.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 9",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://ryzen.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8af92fa11d62ca5dcc6701830a1a0a5ae0c942b7eaa631d480f1d9e2b501a7926e7d4b40f5fdd50e13e4ec8354edb7f62da1a92b241a7c72ff09fdee3529cdb0d325ab2ac24d8dcd69f74b7f20075e91ea2/735c505ca1bb904c929a1935ef97ecb3/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/09.srt&rstp=1.m3u8"
+      },
+      {
+        "name": "episode 10",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://ryzen.drmqcdn.com/videos/22/db9c50b218681e044634fbbab189dc128d4f9433e4b9a145958f3922f9fdf8affb868582bd60a63650d961c1f19f9d9c40491e9fad140ce4f99a1e45974230b1211bfe956bc6cfadec3ee374ebcda4250601be6111780fb70f3ad87cab764080a71f619aa4ab1fa7f10e589d731e9a86/1bba16ab11fa992eb5c4941ae21255b1/playlist.m3u8?subvtt=https://drmq.stream/subtitle/files/Mouse/10.srt&rstp=1.m3u8"
+      }
     ]
   },
   {
