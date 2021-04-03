@@ -1766,19 +1766,6 @@
     ]
   },
   {
-           "name": "MOUSE",
-           "samples": [
-       {
-        "name": "EPISODE 1",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1qaPGG_Uyo1yBQ-PL5M8zy0xIenUb6zzu?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse1.ms.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms_MY"
-      }
-    ]
-  },
-  {
     "name": "PADA ZAMAN DAHULU S1",
     "samples": [      
       {
