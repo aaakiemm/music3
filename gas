@@ -1717,7 +1717,7 @@
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
-     }
+    }
     ]  
   },
   {
@@ -1737,6 +1737,11 @@
         "name": "SURIA FM",   
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/suriafm.jpg",
         "uri": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617442203/ei/O-FnYPD9M-n64-EPmZaeuAs/ip/27.125.242.17/id/05W5_sX6IjE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMhtiPub_CroeGtQ-b4rNn9_NnwqIawltEG1k-XKx0_yAiEAsQC3vaLCUWOqSv5r0qGvhpYmfKEiPeSgY3At1Ie0o18%3D/file/index.m3u8"
+      },
+      {
+        "name": "COOL FM",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/COOLFM.jpg",
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617444709/ei/BetnYLnUN-P64-EPma-D6AI/ip/27.125.242.17/id/MSLjW7JcwUQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQ12b6vqK2VscbFIsWnx5UyAdIbCMQqt0fZ5Ynk9WiJwCIQC1rFGrqHTJ3C-GUyVqtDlEgAmCRWX6JuGqR-owPxMTag%3D%3D/file/index.m3u8"
       }
     ]
   },
