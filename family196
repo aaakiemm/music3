@@ -1763,7 +1763,20 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/godzilavskong.jpg",
         "uri": "https://f67.megaup.net/Wj76/Godzilla_vs._Kong_(2021)_malaysub.mkv?download_token=1628187fc37bb288a8f3479532d7001aefd066ebd31d28efdbf3195a7a724e7a"
       }
-    ]  
+    ]
+  },
+  {
+           "name": "MOUSE",
+           "samples": [
+       {
+        "name": "EPISODE 1",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1qaPGG_Uyo1yBQ-PL5M8zy0xIenUb6zzu?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse1.vvt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY"
+      }
+    ]
   },
   {
     "name": "PADA ZAMAN DAHULU S1",
