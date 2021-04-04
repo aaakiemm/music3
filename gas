@@ -1732,8 +1732,18 @@
         "name": "YUK KITA JADIAN",   
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MELLYYUKJADIAN.png",
         "uri": "https://www.googleapis.com/drive/v3/files/1YFxN8CoOXuVv_NadSUgcBf2nfoEq5n74?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       }
+    ]  
+  },
+  {
+    "name": "MIMALAND",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MIMA.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1JXeJiS8ftYg_jeRAIAb5bL_euVUTCldj?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
-    ]
+    ]  
   },
   {
     "name": "PENUNGGANG AGAMA",
