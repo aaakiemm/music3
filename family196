@@ -5795,35 +5795,6 @@
     ]
   },
   {
-           "name": "MR.QUEEN",
-           "samples": [
-       {
-        "name": "EPISODE 1",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN22.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617706957~acl=%2f30ab177e702f0018c485a8d1abafbeec%2f*~data=cid%3d1165819702%2csid%3d2c43a595-81d8-495c-969c-d2a470737c47%2cclientId%3dnone%2cn%3d1617015757336%2ch%3d723C29A4322CAECEB19BB546F24C4638~hmac=8f4e2d89f4e33c99f2670faae4d9f309df8709eb983481c917b56432c831b1d4/30ab177e702f0018c485a8d1abafbeec/vp63207_V20201213024420/hlsc_e2931_V20210107102934.m3u8",
-        "subtitle_uri": "https://vuclip-eip2.akamaized.net/30ab177e702f0018c485a8d1abafbeec/ms.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms_MY"
-      },
-      {
-        "name": "EPISODE 2",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN22.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617707054~acl=%2f30ab177e702f0018c485a8d1abafbeec%2f*~data=cid%3d1165819702%2csid%3d2fc838ad-5d3c-4188-bd5a-6f04ec6e9dff%2cclientId%3dnone%2cn%3d1617015854458%2ch%3dEA095045BD1F4ECE74F3577F90B0525D~hmac=7e584819f6a3da138dc1108fe08c914ab68f60d41f226c847244430daf7c4ced/30ab177e702f0018c485a8d1abafbeec/vp63207_V20201213024420/hlsc_e2931_V20210107102934.m3u8",
-        "subtitle_uri": "https://vuclip-eip2.akamaized.net/b9f5444da6733d52ee7402b013d2d442/ms.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms_MY"
-      },
-      {
-        "name": "EPISODE 3",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN22.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617707128~acl=%2fb9f5444da6733d52ee7402b013d2d442%2f*~data=cid%3d1165820135%2csid%3db271d566-1ec4-47fb-892f-ae9306fb26f6%2cclientId%3dnone%2cn%3d1617015928398%2ch%3d7C0A54B34643FD72C90544D5CE53A4FD~hmac=df07c8d577276466de872f89fb4020ac959f2cbb0b6b543af5a8465a06d4ee9c/b9f5444da6733d52ee7402b013d2d442/vp63207_V20201214070143/hlsc_e2931_V20210107102943.m3u8",
-        "subtitle_uri": "https://vuclip-eip2.akamaized.net/b7054edb146af4a20f917f75937c7dcd/ms.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms_MY"
-      }
-    ]
-  },
-  {
            "name": "SAIMDANG S1",
             "samples": [
        {
