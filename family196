@@ -3298,296 +3298,296 @@
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
-            }
-    ]
-  },
-      {
-           "name": "TITIAN CINTA",
-           "samples": [
-      {
-        "name": "EPISODE 1",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784528~acl=%2f44b1c8edc486b2ba1e8c4061181e2b3a%2f*~data=cid%3d1165818978%2csid%3db02b727c-8cab-4358-b862-880f0cadb97b%2cclientId%3dnone%2cn%3d1617093328809%2ch%3d06656EE682BA20FE0B398432939605EA~hmac=7c7b274bc23bfcd476042aa37f6fa1db3a4910a69e3bb30fd657219e52f285a1/44b1c8edc486b2ba1e8c4061181e2b3a/vp63207_V20201217095037/hlsc_e2931_V20201217105629.m3u8"
-      },
-      {
-        "name": "EPISODE 2",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784621~acl=%2fefc3e41defba8da7217c3c0dd2698e31%2f*~data=cid%3d1165818963%2csid%3dd4d34402-9978-4ae6-b4e7-41e13f9c004d%2cclientId%3dnone%2cn%3d1617093421687%2ch%3dBA3D005D703735A2AF0088E0A5356636~hmac=f028778b62c1f327b6c469cb70377a63333ae87a51ee57b46a1caf08f0ddbcbb/efc3e41defba8da7217c3c0dd2698e31/vp63207_V20201211042629/hlsc_e2931_V20201211052800.m3u8"
-      },
-      {
-        "name": "EPISODE 3",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784670~acl=%2f1f40753992c2537d2c26ba031050badc%2f*~data=cid%3d1165818965%2csid%3dc57cc5b2-a596-4dc2-88c7-2a0401f9645c%2cclientId%3dnone%2cn%3d1617093470061%2ch%3d2FC38E00B89E317E82B3DA07BBB47B16~hmac=801cca7b35a203ee849f3e68669d3b2a61ff5fd9a29fd2b285c46c979b9b64c4/1f40753992c2537d2c26ba031050badc/vp63207_V20201210150725/hlsc_e2931_V20201210164345.m3u8"
-      },
-      {
-        "name": "EPISODE 4",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784721~acl=%2fd85d3432de1659ff2d8433841953f96d%2f*~data=cid%3d1165818976%2csid%3de64cf7f3-f1b7-419e-98fc-1c6c7516f0bf%2cclientId%3dnone%2cn%3d1617093521215%2ch%3dB15359F9C2FB667AB18F976FFA48A8D7~hmac=fa7b1f78d26e1484d6b93f0d5ccaaa43950ef74d426cc51be7d22c6222b467de/d85d3432de1659ff2d8433841953f96d/vp63207_V20201210150816/hlsc_e2931_V20201210163527.m3u8"
-      },
-      {
-        "name": "EPISODE 5",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784756~acl=%2fad1402a897d747e5c430a3a98210922a%2f*~data=cid%3d1165818982%2csid%3da2dd32f2-74ca-4df7-ba92-a8f4ba40a181%2cclientId%3dnone%2cn%3d1617093556494%2ch%3dEBC3EB59B8F7F78B0C54F5CA5FEEE25B~hmac=5b857030ad64ec97c91761953e669c2597a5d91952e913176a9ad66cf1af21a4/ad1402a897d747e5c430a3a98210922a/vp63207_V20201210151218/hlsc_e2931_V20201210164031.m3u8"
-      },
-      {
-        "name": "EPISODE 6",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784793~acl=%2f9d9415e55a62633cb850139cf6963e1a%2f*~data=cid%3d1165818983%2csid%3d2bb9388d-9cb2-442a-a532-f04ceb49e5f1%2cclientId%3dnone%2cn%3d1617093593769%2ch%3d3564D01DDA35883CFC149F071DA859FC~hmac=0cdb4dba9bb355d0c940a9fe111e14d2304b788074ed799567cbcdea3f44df68/9d9415e55a62633cb850139cf6963e1a/vp63207_V20201210151213/hlsc_e2931_V20201210163516.m3u8"
-      },
-      {
-        "name": "EPISODE 7",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784839~acl=%2fd1f76d339226f11d3493cd0136811134%2f*~data=cid%3d1165818985%2csid%3daa9c9ad7-99e8-46e9-9ba9-6c8db6bab454%2cclientId%3dnone%2cn%3d1617093639834%2ch%3dBD5F58C8EE9A0D0AF511533B0C5364C5~hmac=337008d1e927c3020b752d3cf93f763ad37b7c2780ee3faf56c7b83538d81868/d1f76d339226f11d3493cd0136811134/vp63207_V20201210151236/hlsc_e2931_V20201210163951.m3u8"
-      },
-      {
-        "name": "EPISODE 8",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784893~acl=%2fa61c00862e7058b0bdbe2ac8d2182401%2f*~data=cid%3d1165818979%2csid%3d82a6e027-0e5f-45f9-b351-583559d21c08%2cclientId%3dnone%2cn%3d1617093693454%2ch%3dC2E85AACA3738CF501F3935358A86A96~hmac=a0ac94fc6f61b0cd6e0629d7c680e0303b2d9f9a9459029f6a50acacf790b2a3/a61c00862e7058b0bdbe2ac8d2182401/vp63207_V20201211042654/hlsc_e2931_V20201211053451.m3u8"
-      },
-      {
-        "name": "EPISODE 9",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784949~acl=%2fc29291a93916810b57b65f255e7ad75b%2f*~data=cid%3d1165818980%2csid%3d843e6e87-7ecf-43d6-9605-487d6a41f189%2cclientId%3dnone%2cn%3d1617093749765%2ch%3dBFADD9A7D5E6E9F6A149E2194811E70D~hmac=a9ed4b796280dcd11923c3e89127c466301f890df8c6459898989684ffca8160/c29291a93916810b57b65f255e7ad75b/vp63207_V20201210150804/hlsc_e2931_V20201210162807.m3u8"
-      },
-      {
-        "name": "EPISODE 10",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617784975~acl=%2fbdc1fb7402f04fae6ebb6869417511e1%2f*~data=cid%3d1165818962%2csid%3d4ce0a598-373d-48f2-adb9-29724ec66014%2cclientId%3dnone%2cn%3d1617093775346%2ch%3d8466A679023DE96A8A93FDA73A6FB9DE~hmac=bc6c1637e7eb71bdce6b5a83f6d053c133db5824f555f48cb9437fe89695561e/bdc1fb7402f04fae6ebb6869417511e1/vp63207_V20201210150418/hlsc_e2931_V20201210162724.m3u8"
-      },
-      {
-        "name": "EPISODE 11",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785009~acl=%2f76bd8e6ae6bb9c185bfbfc11014a6d91%2f*~data=cid%3d1165818986%2csid%3df0edfc39-b52a-478a-93c9-362bfa8c5107%2cclientId%3dnone%2cn%3d1617093809563%2ch%3d33EC6759EC8DF5D18AACB1813F777779~hmac=512881e1db338e9a6cb99bc9380549127edf6191f94df2c652f9515a66f7afa9/76bd8e6ae6bb9c185bfbfc11014a6d91/vp63207_V20201217095016/hlsc_e2931_V20201217105451.m3u8"
-      },
-      {
-        "name": "EPISODE 12",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785038~acl=%2f808e1d69b84ee779aa92278cd61ddc64%2f*~data=cid%3d1165818984%2csid%3de3544568-ff65-48b6-8737-4fb09c18006e%2cclientId%3dnone%2cn%3d1617093838771%2ch%3dF7772D17A8C057144F81192BFAFC1597~hmac=4bc1b1bbc79c90679537ef602c5a456275259f5c092c1f49c0a0886336aea480/808e1d69b84ee779aa92278cd61ddc64/vp63207_V20201217095042/hlsc_e2931_V20201217105532.m3u8"
-      },
-      {
-        "name": "EPISODE 13",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785067~acl=%2f64141818ef87d1cd6eba1abf9256ffe0%2f*~data=cid%3d1165818975%2csid%3dcc449d37-6c28-4bcf-a989-38c0cfea023f%2cclientId%3dnone%2cn%3d1617093867370%2ch%3d9369CDE5E72833325DD4CC7760510384~hmac=0c91eff96934ce42b67b517975e221aa9a6e81875cf85c975b23d5e63bff09e1/64141818ef87d1cd6eba1abf9256ffe0/vp63207_V20201210150750/hlsc_e2931_V20201210164056.m3u8"
-      },
-      {
-        "name": "EPISODE 14",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785107~acl=%2f76bc21685e884a322b2b353d8d3c62ab%2f*~data=cid%3d1165818971%2csid%3d2d4a8f29-d212-4324-8067-e5f3831d2e56%2cclientId%3dnone%2cn%3d1617093907516%2ch%3d1E91864967B66C0849165B0422CD8AE0~hmac=6fe2673e70ce0ef43f114bbce8da4e7488bee2bc0103d4302432c438fbfcc47c/76bc21685e884a322b2b353d8d3c62ab/vp63207_V20201210150740/hlsc_e2931_V20201210163658.m3u8"
-      },
-      {
-        "name": "EPISODE 15",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785150~acl=%2f4fc45a9ebb2d42af7af348e2d464c9d7%2f*~data=cid%3d1165818973%2csid%3da0c7b29c-6f38-4768-90f0-a764b0fc634c%2cclientId%3dnone%2cn%3d1617093950584%2ch%3d77820457D6E8425E15D79A00C616BBD2~hmac=48b5e2dfee680a88b187c89e6274d19e66c22118401b9c08deed847dfd894eb5/4fc45a9ebb2d42af7af348e2d464c9d7/vp63207_V20201210150737/hlsc_e2931_V20201210164133.m3u8"
-      },
-      {
-        "name": "EPISODE 16",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785196~acl=%2f39c37afed6a20207ae7df3939a6e031b%2f*~data=cid%3d1165818988%2csid%3df64ba19c-0487-4ef5-87bb-34476d409e97%2cclientId%3dnone%2cn%3d1617093996451%2ch%3d512632622B670F59ECAE18FD8B36E32B~hmac=d86431ec78fc5dea2332eda589660e0ca5af70e91253dc98bfa624e7fc496360/39c37afed6a20207ae7df3939a6e031b/vp63207_V20201210151236/hlsc_e2931_V20201210163829.m3u8"
-      },
-      {
-        "name": "EPISODE 17",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785608~acl=%2f063f40edb30b5eeb675ff7e4b9b9808e%2f*~data=cid%3d1165818987%2csid%3d3992357e-75f0-490c-b4cd-d606fb6dc23f%2cclientId%3dnone%2cn%3d1617094408150%2ch%3dE6311E50A6FDB96A793A0473FBEE8988~hmac=7da692c2b199357c8153a4fb5bc1d6456b5bd74e00e7dccac8aeae80b0e72b42/063f40edb30b5eeb675ff7e4b9b9808e/vp63207_V20201210151242/hlsc_e2931_V20201210164157.m3u8"
-      },
-      {
-        "name": "EPISODE 18",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785664~acl=%2f051dd6edcfcedb35b4432c912151bb1e%2f*~data=cid%3d1165818974%2csid%3d03c44ca2-af6f-4529-b55a-0e7ee7c56e4c%2cclientId%3dnone%2cn%3d1617094464660%2ch%3dB49812C681FB6E495C48860430ED096A~hmac=13a2c53a79752ad40da3464053b79ffa3b1919c11456fbc679636024a7c69a5f/051dd6edcfcedb35b4432c912151bb1e/vp63207_V20201210150734/hlsc_e2931_V20201210164151.m3u8"
-      },
-      {
-        "name": "EPISODE 19",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785716~acl=%2f10fda244d3c851c97374b14d3c3685c5%2f*~data=cid%3d1165818972%2csid%3dc672c570-4b96-4b61-b909-36f0c3a5d3bc%2cclientId%3dnone%2cn%3d1617094516604%2ch%3dB95B8E20B6B86D0D94B3EEF599FB3C79~hmac=d9f3171286946cec3ed6e39bc6e444b487d85a3f59c94aeb92547f9f5d3f6b7e/10fda244d3c851c97374b14d3c3685c5/vp63207_V20201210150742/hlsc_e2931_V20201210164003.m3u8"
-      },
-      {
-        "name": "EPISODE 20",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785748~acl=%2f209ce1096f35afb17329eb486fa80657%2f*~data=cid%3d1165818989%2csid%3daabdce88-e318-4be7-ba0b-9d83a9b585b1%2cclientId%3dnone%2cn%3d1617094548836%2ch%3dBB47F2EDE44988F8FD37BCF6C1A18C77~hmac=209080ceb7eace893f3d065afdc6d1274655ab1e3c6d9d53b4cf769861e0d56f/209ce1096f35afb17329eb486fa80657/vp63207_V20201211042630/hlsc_e2931_V20201211052834.m3u8"
-      },
-      {
-        "name": "EPISODE 21",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785781~acl=%2f1489712ada8bbd818a9c467ce4213402%2f*~data=cid%3d1165818977%2csid%3d8adc1324-f1b1-4a3b-9d87-dc20c0bda0a3%2cclientId%3dnone%2cn%3d1617094581107%2ch%3dD073FFE2E85BE793F5A5DC565BEA7D24~hmac=136979e1ce0f50632be472162b787f8731192f09e48eef565962b3a87e865350/1489712ada8bbd818a9c467ce4213402/vp63207_V20201210150750/hlsc_e2931_V20201210164200.m3u8"
-      },
-      {
-        "name": "EPISODE 22",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785807~acl=%2fc3dbb2ae25f11b034c5b819f0b7df35d%2f*~data=cid%3d1165818966%2csid%3d749e0561-ab0d-4990-aa64-410bcee84e5a%2cclientId%3dnone%2cn%3d1617094607763%2ch%3dA34B643B3CF12552714D84A15681B797~hmac=062bbd719c2bfc9ade4ff1d7ba61ae3cebf0f4dfde718aeeefa46357ef6c9fd0/c3dbb2ae25f11b034c5b819f0b7df35d/vp63207_V20201210150726/hlsc_e2931_V20201210163922.m3u8"
-      },
-      {
-        "name": "EPISODE 23",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785836~acl=%2fb2f806456d30d62d117b54e645beec72%2f*~data=cid%3d1165818990%2csid%3d46668203-8b72-4376-a78f-7045a9a11918%2cclientId%3dnone%2cn%3d1617094636123%2ch%3dE16B937DCB6AD0B8F2CF7D3B53C0EA15~hmac=56817f2f7f87ce5742ff9817e992709dea3be306fba5f44769e503bc2d30356c/b2f806456d30d62d117b54e645beec72/vp63207_V20201211043841/hlsc_e2931_V20201211054438.m3u8"
-      },
-      {
-        "name": "EPISODE 24",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785877~acl=%2f863c73e22893945109536a78f376fb13%2f*~data=cid%3d1165818970%2csid%3df7281201-3b01-4753-8d55-49ec1175ed8a%2cclientId%3dnone%2cn%3d1617094677148%2ch%3dEC0514FAD202666F238461BFCD9CCFD2~hmac=dff912007e7128592e9d81b5fe2f8ba7a820c34cde334839944ccd68870eb8ce/863c73e22893945109536a78f376fb13/vp63207_V20201210150727/hlsc_e2931_V20201210163811.m3u8"
-      },
-      {
-        "name": "EPISODE 25",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785907~acl=%2f9a5687c62de406818040baa1950e6e02%2f*~data=cid%3d1165818968%2csid%3d35e68a0f-cd02-4674-a3f6-d72db8d8871e%2cclientId%3dnone%2cn%3d1617094707714%2ch%3dD61600EC29C4074107320C7C0E211111~hmac=c8b051b10295a90ec778f16dbe6a7fac9d1b42abd265f8fa6db6bb9821555b71/9a5687c62de406818040baa1950e6e02/vp63207_V20201211042919/hlsc_e2931_V20201211053303.m3u8"
-      },
-      {
-        "name": "EPISODE 26",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785940~acl=%2fea5cfe3105bb1638f6cfd7c4a700a174%2f*~data=cid%3d1165818967%2csid%3dcb359136-afa6-4de4-8c3d-c3b19a5c7ec6%2cclientId%3dnone%2cn%3d1617094740541%2ch%3d007A5A167A0125E8E867818781CDF1FD~hmac=15d29ec340560b85b8c5abbce0c6087069db00ad6a7a8ff1e55e4b29c54d0e94/ea5cfe3105bb1638f6cfd7c4a700a174/vp63207_V20201210150727/hlsc_e2931_V20201210164137.m3u8"
-      },
-      {
-        "name": "EPISODE 27",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617785989~acl=%2fa2b1b7fa0b8cc187220a8d583e2e809d%2f*~data=cid%3d1165818964%2csid%3d6eb172a4-cbd5-40c4-bca9-a77d9cd0efb1%2cclientId%3dnone%2cn%3d1617094789183%2ch%3d158D48BB47D077F2D2D574140D6BB17F~hmac=8a13ee64c436ea5878caabb430bbf332f815ba5c31dcebf08b47ceca8f8be646/a2b1b7fa0b8cc187220a8d583e2e809d/vp63207_V20201210150726/hlsc_e2931_V20201210163933.m3u8"
-      },
-      {
-        "name": "EPISODE 28",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617786022~acl=%2f64ecc29b41d82e937b33886cac5a3592%2f*~data=cid%3d1165818969%2csid%3de8264279-16ea-48a0-909e-e57975078924%2cclientId%3dnone%2cn%3d1617094822145%2ch%3dD026CC9D7BB0E8D7B59028E0F0CE24C9~hmac=76d9d5a2251878cb14bf924da716bc9c2e5d85c9c939b07b88f336d873bbb08e/64ecc29b41d82e937b33886cac5a3592/vp63207_V20201210150746/hlsc_e2931_V20201210163929.m3u8"
       }
-    ]
+    ]  
   },
   {
-           "name": "SEADANYA AKU",
-           "samples": [
-       {
-        "name": "EPISODE 1",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617747848~acl=%2fd3d4bfab46292309679105f939e08b9e%2f*~data=cid%3d1165799254%2csid%3ded814224-a60b-4c85-ab3e-2dff049cdd94%2cclientId%3dnone%2cn%3d1617056648813%2ch%3d9D7D41A3C5B1F0ED616AE984B8513C4D~hmac=8683e9f70dade05c5afb121b2c2d25cf6602c668f1a7766e7680217a11bea2d4/d3d4bfab46292309679105f939e08b9e/vp63207_V20201019073418/hlsc_e2931_V20201019082632.m3u8"
+    "name": "TITIAN CINTA",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%201.mp4"
       },
       {
-        "name": "EPISODE 2",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617747901~acl=%2f78adda227037bbbd31243b214488fd17%2f*~data=cid%3d1165799243%2csid%3d09218dc1-bcde-44c6-b30a-85312fcba104%2cclientId%3dnone%2cn%3d1617056701741%2ch%3dFDD69864F3BCB268E7D38371A72B8924~hmac=6605dd7015080a6b8a3bde9559a3a5195e8b1c88c7f280a28ef7266bdd596d93/78adda227037bbbd31243b214488fd17/vp63207_V20201019071913/hlsc_e2931_V20201019081115.m3u8"
+        "name": "EPISODE 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%202.mp4"
       },
       {
-        "name": "EPISODE 3",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617747947~acl=%2f3065b6f39d5ec2f0723a77a220b6b44a%2f*~data=cid%3d1165799268%2csid%3d8d9b041a-f12c-4813-a1d1-82f2ab1f54af%2cclientId%3dnone%2cn%3d1617056747628%2ch%3d85D3B24EF0FE837F109FD68A164C3B58~hmac=9b369682b844b0d9ea4d720037f9d7f4dbf6ed7c2e2d34d2af8e4e3e15ee918b/3065b6f39d5ec2f0723a77a220b6b44a/vp63207_V20201019074057/hlsc_e2931_V20201019084102.m3u8"
+        "name": "EPISODE 3 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%203.mp4"
       },
       {
-        "name": "EPISODE 4",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617750103~acl=%2f09657a2d74c7e69e53ea1a823c169bc9%2f*~data=cid%3d1165799270%2csid%3d9d1f570d-dcbd-48f9-a376-56173de82ac7%2cclientId%3dnone%2cn%3d1617058903945%2ch%3dAE82BA5231284B828FCD09023372970F~hmac=2422079dfa89e03e592533df1f4d4c5b965b774f17a29f4fba99e4b2a904b1a1/09657a2d74c7e69e53ea1a823c169bc9/vp63207_V20201019074110/hlsc_e2931_V20201019084527.m3u8"
+        "name": "EPISODE 4 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%204.mp4"
       },
       {
-        "name": "EPISODE 5",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617749680~acl=%2f0d5f37be0aafa5ba7af943cf85761d89%2f*~data=cid%3d1165799251%2csid%3d62746277-184a-4189-a7ca-7183b6e6f634%2cclientId%3dnone%2cn%3d1617058480877%2ch%3d655D5D7E36DDA874726A8BC13F8B0518~hmac=0fcb5be1f5651bd84da00c9eb7266452249867151556e4f364f2599f49755851/0d5f37be0aafa5ba7af943cf85761d89/vp63207_V20201019073413/hlsc_e2931_V20201019082525.m3u8"
+        "name": "EPISODE 5 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%205.mp4"
       },
       {
-        "name": "EPISODE 6",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617750409~acl=%2f2c70361c1c6e4d3ca02381b80a659f7a%2f*~data=cid%3d1165799252%2csid%3d50663e8a-378f-4d97-80a8-36628f8e7f04%2cclientId%3dnone%2cn%3d1617059209579%2ch%3d13F34E848C927D1DA6176330BB54E2E0~hmac=503f298b14c3625c1c5d6ed58ce88351d2828a6a6833c274f568f62f4ea2668c/2c70361c1c6e4d3ca02381b80a659f7a/vp63207_V20201020041227/hlsc_e2931_V20201020050512.m3u8"
+        "name": "EPISODE 6 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%206.mp4"
       },
       {
-        "name": "EPISODE 7",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617750522~acl=%2fd28b6eced122ba300ae94272f5a588e3%2f*~data=cid%3d1165799256%2csid%3d824795c2-39bb-4c57-acf5-baaa27dd42d1%2cclientId%3dnone%2cn%3d1617059322021%2ch%3d1C2076D66CFAA2D26C0C4CA088007861~hmac=146fa19e431945fa6ebce52371d70aac76fead3cebac76b95313f5eb83d4476c/d28b6eced122ba300ae94272f5a588e3/vp63207_V20201019073448/hlsc_e2931_V20201019082941.m3u8"
+        "name": "EPISODE 7 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%207.mp4"
       },
       {
-        "name": "EPISODE 8",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617750607~acl=%2fb0df6e225d935384ef00ede98307a696%2f*~data=cid%3d1165799249%2csid%3d23d673d3-10d3-449e-9926-dbac4376a5cc%2cclientId%3dnone%2cn%3d1617059407573%2ch%3dA5C95E5A76D564699E1913B720E40BFF~hmac=96ff007bc2d4c79f3eaf035185ab51b3c6cbfb3a20288e260d2bd640ca7c43dd/b0df6e225d935384ef00ede98307a696/vp63207_V20201019073337/hlsc_e2931_V20201019082651.m3u8"
+        "name": "EPISODE 8 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%208.mp4"
       },
       {
-        "name": "EPISODE 9",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617750654~acl=%2fa51ffe94d7c29119f2637fb7a5d4586b%2f*~data=cid%3d1165799255%2csid%3d6854bbda-e11e-4c01-aa79-238c3e64ff68%2cclientId%3dnone%2cn%3d1617059454963%2ch%3dCB65259283CA677B832CACC6D2721CD5~hmac=6d3c136e5997e1345c826229923d8a43ed3690ce9ffa3b1d3db3cdb9b8a3d327/a51ffe94d7c29119f2637fb7a5d4586b/vp63207_V20201019073426/hlsc_e2931_V20201019082501.m3u8"
+        "name": "EPISODE 9 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%209.mp4"
       },
       {
-        "name": "EPISODE 10",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617749484~acl=%2f6235769b6ebb656a080af66477ff3af8%2f*~data=cid%3d1165799266%2csid%3d1dcf635d-de2d-4c05-9505-69d8fda5cb95%2cclientId%3dnone%2cn%3d1617058284959%2ch%3dB2A49488EF7F61CB085563D2A4F2CC9F~hmac=e780e015aa81e5c03f62e7711332ec0972f98c5ea51bb42a5fcfa63fd12c4148/6235769b6ebb656a080af66477ff3af8/vp63207_V20201019074054/hlsc_e2931_V20201019083652.m3u8"
+        "name": "EPISODE 10 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2010.mp4"
       },
       {
-        "name": "EPISODE 11",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751252~acl=%2f289e55a33a4abe48193847ea931b6291%2f*~data=cid%3d1165799269%2csid%3dc4183caa-15ea-4dc5-988d-034c17fac434%2cclientId%3dnone%2cn%3d1617060052858%2ch%3d10C29AC6E977FC15EEA3DCB15DFE6AF7~hmac=9244ea77379a565fb9dd028bf9cc609ddb1ba6ffc2d294a08bb459645144c05a/289e55a33a4abe48193847ea931b6291/vp63207_V20201020042234/hlsc_e2931_V20201020051311.m3u8"
+        "name": "EPISODE 11 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2011.mp4"
       },
       {
-        "name": "EPISODE 12",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751210~acl=%2f6e5108be28c83756cf74d858637e5904%2f*~data=cid%3d1165799267%2csid%3db525084f-2ba0-4ac8-9f13-448f4847dc14%2cclientId%3dnone%2cn%3d1617060010573%2ch%3dC2E8AD66056EA39090A17D60B9C0765E~hmac=a63ff31f026253a1da71bdba445b2507c763aef9449784c0562be2f06a7042ef/6e5108be28c83756cf74d858637e5904/vp63207_V20201019074046/hlsc_e2931_V20201019083857.m3u8"
+        "name": "EPISODE 12 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2012.mp4"
       },
       {
-        "name": "EPISODE 13",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751295~acl=%2fbb6f86abbfab759478b1a1ee7f017a9a%2f*~data=cid%3d1165799253%2csid%3d640ff5bb-f90b-4d10-9f0f-c674c5a99b39%2cclientId%3dnone%2cn%3d1617060095874%2ch%3d40AB419A4D8708E45596945218529BFC~hmac=470b0c145150f5a460ed2becbb499f6fefc7f502beadc286ce40690dd9072e34/bb6f86abbfab759478b1a1ee7f017a9a/vp63207_V20201019073416/hlsc_e2931_V20201019082525.m3u8"
+        "name": "EPISODE 13 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2013.mp4"
       },
       {
-        "name": "EPISODE 14",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751343~acl=%2fe51bc1470272e8c3027eab494ee7eed7%2f*~data=cid%3d1165799265%2csid%3d4f1f4e5c-e36b-4088-8d93-4142e59f5ae4%2cclientId%3dnone%2cn%3d1617060143976%2ch%3d807A2F1857FC998AB88025A5A4533633~hmac=afcf69da99852b90c084b37a81b1bb63af3d88d3091e825e6c4c17634d115ffc/e51bc1470272e8c3027eab494ee7eed7/vp63207_V20201019074045/hlsc_e2931_V20201019084012.m3u8"
+        "name": "EPISODE 14 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2014.mp4"
       },
       {
-        "name": "EPISODE 15",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751388~acl=%2fac1b5522c09a44a59b0080262f58bf80%2f*~data=cid%3d1165799248%2csid%3d326eb494-2a29-4a2f-be8a-0bf87ad12d04%2cclientId%3dnone%2cn%3d1617060188261%2ch%3dB4ADFF1FC90DBF67C62604523183961A~hmac=e74c6a7263a9dbaaa6cacdd48fd857582ab68e3d45e5fe125ab7af58fdb213bb/ac1b5522c09a44a59b0080262f58bf80/vp63207_V20201019073338/hlsc_e2931_V20201019082629.m3u8"
+        "name": "EPISODE 15 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2015.mp4"
       },
       {
-        "name": "EPISODE 16",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751428~acl=%2f7212031cbf14278c8093eb311412b4a3%2f*~data=cid%3d1165799273%2csid%3dcc1f6ed6-c956-43e2-88aa-582529803232%2cclientId%3dnone%2cn%3d1617060228886%2ch%3dD6466AC7378AFDF45309206361A2DF69~hmac=e4f7fae6bc724c0bbcb096f45aca6a46a98ac53936844c4afa5ad97954c6036a/7212031cbf14278c8093eb311412b4a3/vp63207_V20201020041230/hlsc_e2931_V20201020050919.m3u8"
+        "name": "EPISODE 16 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2016.mp4"
       },
       {
-        "name": "EPISODE 17",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751464~acl=%2f563baa61dd5030b0ccc6a2cee56050af%2f*~data=cid%3d1165799257%2csid%3dcc1ef41c-42b0-4929-bd68-4e46d9c5c1c1%2cclientId%3dnone%2cn%3d1617060264229%2ch%3d5EBD90BCA6F30E52428340382DE98C2A~hmac=64d63242af15e7ba69031cce7b50ac91cd5ab90b7860cce3976c7736bf9fe487/563baa61dd5030b0ccc6a2cee56050af/vp63207_V20201019073621/hlsc_e2931_V20201019083610.m3u8"
+        "name": "EPISODE 17 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2017.mp4"
       },
       {
-        "name": "EPISODE 18",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751513~acl=%2ffae4812057a03fa9dbe239cb8cea46a1%2f*~data=cid%3d1165799278%2csid%3d79863ac5-7cb3-4fae-9f40-47ffc27c94d6%2cclientId%3dnone%2cn%3d1617060313552%2ch%3dD627E8DCBFCDB840A21F943CAD17978B~hmac=75881192351c43488b80357e6333d4e104b5de4dc4b58d5c29957c42291f7401/fae4812057a03fa9dbe239cb8cea46a1/vp63207_V20201019074115/hlsc_e2931_V20201019084740.m3u8"
+        "name": "EPISODE 18 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2018.mp4"
       },
       {
-        "name": "EPISODE 19",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751564~acl=%2f6166d28a6caa00de7a5728410700d0ff%2f*~data=cid%3d1165799275%2csid%3d33344be8-961a-49e1-8348-988a70a30980%2cclientId%3dnone%2cn%3d1617060364003%2ch%3d45865D70580E4D16E1CE5C3BB0ECEE9E~hmac=1d3bff3b415a497351e87fc9bfaccfc2616f941d28e1c9bedadcb9ffa7b5175e/6166d28a6caa00de7a5728410700d0ff/vp63207_V20201020041922/hlsc_e2931_V20201020051840.m3u8"
+        "name": "EPISODE 19 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2019.mp4"
       },
       {
-        "name": "EPISODE 20",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751617~acl=%2ffc73aee9b555d7e40a605d2b847ebf66%2f*~data=cid%3d1165799319%2csid%3db11d6437-21f3-4f82-9a6b-a942d7b97ea5%2cclientId%3dnone%2cn%3d1617060417360%2ch%3d7FAD0D94FD977935E69CFFBBB3C7DEC1~hmac=e75e58dacad47dd6c62bc76deb4cd4226d12e5cbd686bdc01260091c74f80ffc/fc73aee9b555d7e40a605d2b847ebf66/vp63207_V20201019074825/hlsc_e2931_V20201019085031.m3u8"
+        "name": "EPISODE 20 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2020.mp4"
       },
       {
-        "name": "EPISODE 21",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751662~acl=%2f9e4843552ab7403ba745f7e7e99565c3%2f*~data=cid%3d1165799271%2csid%3d399f2dd1-3c53-468d-a74c-3cb9aa1cbc56%2cclientId%3dnone%2cn%3d1617060462018%2ch%3d30E68DFB6BE28D7F2BB70EA8B72917AD~hmac=ebff316a5de383a2b5505777dc6d8a6b2414b575a96a75d7a56c4a2e7b42dce1/9e4843552ab7403ba745f7e7e99565c3/vp63207_V20201019074108/hlsc_e2931_V20201019084720.m3u8"
+        "name": "EPISODE 21 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2021.mp4"
       },
       {
-        "name": "EPISODE 22",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751706~acl=%2f087331d43918535f5038e316f6625d23%2f*~data=cid%3d1165799277%2csid%3df71acd27-c6a6-4fa6-ac44-e89ca3d8ea37%2cclientId%3dnone%2cn%3d1617060506193%2ch%3d4AC12D8610F118C09302514F051DC5AB~hmac=2b76b59a6d4a538699a31a5b537f3749b2e00ffe8e829069ad8f99007f466791/087331d43918535f5038e316f6625d23/vp63207_V20201021035515/hlsc_e2931_V20201021045346.m3u8"
+        "name": "EPISODE 22 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2022.mp4"
       },
       {
-        "name": "EPISODE 23",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751753~acl=%2f1299bdbff70bc3e13aaed4b88e7c554e%2f*~data=cid%3d1165799294%2csid%3db4791956-4655-47c9-88a4-20beed28ddda%2cclientId%3dnone%2cn%3d1617060553287%2ch%3d0F3CEE4ABD7793919C4D75043D6D82F5~hmac=aa6ff1ee7397aaf6a9b0294b180b6ed068823859fb32f07262ffe49435cb7c9a/1299bdbff70bc3e13aaed4b88e7c554e/vp63207_V20201020042244/hlsc_e2931_V20201020051944.m3u8"
+        "name": "EPISODE 23 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2023.mp4"
       },
       {
-        "name": "EPISODE 24",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751817~acl=%2f5afe98c9333023fa387f8726c2d57503%2f*~data=cid%3d1165799261%2csid%3d5a703809-54cd-413f-bc59-95a51937bd68%2cclientId%3dnone%2cn%3d1617060617499%2ch%3d3D8047F537EA5474121482EE2D912FCA~hmac=0cfae15969edf057229d77a8cbe1956f19f30d0e9b532c89cadd50a20dfb6409/5afe98c9333023fa387f8726c2d57503/vp63207_V20201019074044/hlsc_e2931_V20201019085002.m3u8"
+        "name": "EPISODE 24 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2024.mp4"
       },
       {
-        "name": "EPISODE 25",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751857~acl=%2f5fb7b5489891ea15c083584a571f0b27%2f*~data=cid%3d1165799298%2csid%3d774ede1c-3f69-4ad4-9bdf-5276a3ac7444%2cclientId%3dnone%2cn%3d1617060657053%2ch%3d5587E3EDE76CFE7AE88DAD841FA32FCE~hmac=954949b4ef91951e2ba3df1981787aab7be7d90d7c4b27ebf9681aa7a389488e/5fb7b5489891ea15c083584a571f0b27/vp63207_V20201020042522/hlsc_e2931_V20201020052325.m3u8"
+        "name": "EPISODE 25 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2025.mp4"
       },
       {
-        "name": "EPISODE 26",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751901~acl=%2ff18ac673e9e7dc0f0b16be1fb9218706%2f*~data=cid%3d1165799272%2csid%3df6ba74f7-3f74-4d47-a17a-99acbcbcac0e%2cclientId%3dnone%2cn%3d1617060701419%2ch%3dCF8E9556C9416183C8BDD2F7C2E5396D~hmac=109e74728fa1f7aabf05de9570de66932c03fe4ec3e4d9a3f07f64c518d73020/f18ac673e9e7dc0f0b16be1fb9218706/vp63207_V20201021035331/hlsc_e2931_V20201021045143.m3u8"
+        "name": "EPISODE 26 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2026.mp4"
       },
       {
-        "name": "EPISODE 27",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751950~acl=%2f38d280673ad7f7cd02a0908f14230b2e%2f*~data=cid%3d1165799287%2csid%3de4ebb6b4-d480-48a5-80a4-dddc12aad2e9%2cclientId%3dnone%2cn%3d1617060750639%2ch%3d0BAD70564AFA694121768E46C90E3FCB~hmac=aef0938da14bfcc01cae98f54a2504346cb67b8ae33f6c18704c9bc036ac95df/38d280673ad7f7cd02a0908f14230b2e/vp63207_V20201026063359/hlsc_e2931_V20201026073040.m3u8"
+        "name": "EPISODE 27 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2027.mp4"
       },
       {
-        "name": "EPISODE 28",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1617751991~acl=%2f4847bf485fddc9b740df563d002f672d%2f*~data=cid%3d1165799288%2csid%3d87c7f304-756a-4108-86f1-acd3407a6952%2cclientId%3dnone%2cn%3d1617060791099%2ch%3d29D6A2BB1DE0D662C108B72DA814483B~hmac=4bf9f301a851dfa7c309ee60163b9cbff3ca869f7b9dffa5d31a5f58d3854831/4847bf485fddc9b740df563d002f672d/vp63207_V20201020041539/hlsc_e2931_V20201020051541.m3u8"
+        "name": "EPISODE 28 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/titiancinta.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Koleksi%20Drama2/t/Titian%20Cinta/Titian%20Cinta%20pisod%2028.mp4"
+      }
+    ]  
+  },
+  {
+    "name": "SEADANYA AKU",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E1.mp4"
+      },
+      {
+        "name": "EPISODE 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E2.mp4"
+      },
+      {
+        "name": "EPISODE 3 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E3.mp4"
+      },
+      {
+        "name": "EPISODE 4 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E4.mp4"
+      },
+      {
+        "name": "EPISODE 5 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E5.mp4"
+      },
+      {
+        "name": "EPISODE 6 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E6.mp4"
+      },
+      {
+        "name": "EPISODE 7 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E7.mp4"
+      },
+      {
+        "name": "EPISODE 8 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E8.mp4"
+      },
+      {
+        "name": "EPISODE 9 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E9.mp4"
+      },
+      {
+        "name": "EPISODE 10 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E10.mp4"
+      },
+      {
+        "name": "EPISODE 11 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E11.mp4"
+      },
+      {
+        "name": "EPISODE 12 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E12.mp4"
+      },
+      {
+        "name": "EPISODE 13 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E13.mp4"
+      },
+      {
+        "name": "EPISODE 14 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E14.mp4"
+      },
+      {
+        "name": "EPISODE 15 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E15.mp4"
+      },
+      {
+        "name": "EPISODE 16 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E16.mp4"
+      },
+      {
+        "name": "EPISODE 17 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E17.mp4"
+      },
+      {
+        "name": "EPISODE 18 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E18.mp4"
+      },
+      {
+        "name": "EPISODE 19 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E19.mp4"
+      },
+      {
+        "name": "EPISODE 20 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E20.mp4"
+      },
+      {
+        "name": "EPISODE 21 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E21.mp4"
+      },
+      {
+        "name": "EPISODE 22 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E22.mp4"
+      },
+      {
+        "name": "EPISODE 23 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E23.mp4"
+      },
+      {
+        "name": "EPISODE 24 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E24.mp4"
+      },
+      {
+        "name": "EPISODE 25 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E25.mp4"
+      },
+      {
+        "name": "EPISODE 26 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E26.mp4"
+      },
+      {
+        "name": "EPISODE 27 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E27.mp4"
+      },
+      {
+        "name": "EPISODE 28 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E28.mp4"
       }
     ]  
   },
@@ -3752,27 +3752,27 @@
       {
         "name": "EPISODE 1 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E01.mp4"
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E01.mp4"
       },
       {
         "name": "EPISODE 2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E02.mp4"
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E02.mp4"
       },
       {
         "name": "EPISODE 3",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E03.mp4"
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E03.mp4"
       },
       {
         "name": "EPISODE 4",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E04.mp4"
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E04.mp4"
       },
       {
         "name": "EPISODE 5",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SupermanLois.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E05.mp4"
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/end-tv-series5/Superman%20and%20Lois/Superman%20and%20Lois%20S01E05.mp4"
       }
     ]
   },
