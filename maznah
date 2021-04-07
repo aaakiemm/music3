@@ -731,112 +731,112 @@
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "HBO HITS",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "HBO FAMILY",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_family.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
           "name": "HBO",
           "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
           "uri": "https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd",
           "drm_scheme": "widevine",
-          "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+          "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "CINEMAX",
         "logo_uri": "https://www.transvision.co.id/img/channel/cinemax_new.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Hits Movies",
         "logo_uri": "https://static.mncnow.id/images/channel/85c27603/211b_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fox Movies",
         "logo_uri": "https://static.mncnow.id/images/channel/0884953c/00f2_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fox Family",
         "logo_uri": "https://static.mncnow.id/images/channel/b5c4aab3/cd79_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fox Action",
         "logo_uri": "https://static.mncnow.id/images/channel/ee2e9d8a/ab27_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Star Chinese",
         "logo_uri": "https://static.mncnow.id/images/channel/0a73bcb5/001b_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Thrill",
         "logo_uri": "https://static.mncnow.id/images/channel/eb20a8cc/0560_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Celestial Movie",
         "logo_uri": "https://static.mncnow.id/images/channel/194e8f64/cd64_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Celestial Classic",
         "logo_uri": "https://static.mncnow.id/images/channel/15947df7/9e90_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
        "name": "Zee BIOSKOP",
         "logo_uri": "https://static.mncnow.id/images/channel/fe0dd5b9/6c09_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SCM Legend",
         "logo_uri": "https://static.mncnow.id/images/channel/93f14ec7/e945_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "tvN Movies",
         "logo_uri": "https://static.mncnow.id/images/channel/b48d9737/d482_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -848,70 +848,70 @@
         "logo_uri": "https://static.mncnow.id/images/channel/e9e89c98/ccdd_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MiaoMi",
         "logo_uri": "https://static.mncnow.id/images/channel/b1276bb8/4fc8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Boomerang",
         "logo_uri": "https://static.mncnow.id/images/channel/adbf9dd3/8ba6_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Baby TV",
         "logo_uri": "https://static.mncnow.id/images/channel/ff3ba4c4/2f57_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BabyTV/sa_dash_vmx/BabyTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Cbeebies",
         "logo_uri": "https://static.mncnow.id/images/channel/46fceab7/dd27_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Disney Channel",
         "logo_uri": "https://static.mncnow.id/images/channel/53d6b747/4db8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "DISNEY JUNIOR",
         "logo_uri": "https://static.mncnow.id/images/channel/f9d17eca/96f9_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Kids Channel",
         "logo_uri": "https://static.mncnow.id/images/channel/2ac55b6a/96dd_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Cartoon Network",
         "logo_uri": "https://static.mncnow.id/images/channel/90f0101e/ad25_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Nickelodeon",
         "logo_uri": "https://static.mncnow.id/images/channel/e9e89c98/ccdd_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]
   },
@@ -923,70 +923,70 @@
         "logo_uri": "https://static.mncnow.id/images/channel/1b160abe/692a_r32.jpeg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "RCTI",
         "logo_uri": "https://static.mncnow.id/images/channel/a1ad4e34/4c80_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Global TV",
         "logo_uri": "https://static.mncnow.id/images/channel/46535a59/4377_r32.jpeg",
         "uri": "https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MNC TV",
         "logo_uri": "https://static.mncnow.id/images/channel/4638bf6e/ba92_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MNC Entertainment",
         "logo_uri": "https://static.mncnow.id/images/channel/32a32b35/15c7_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Trans TV",
         "logo_uri": "https://static.mncnow.id/images/channel/562d2bb9/2856_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SCTV",
         "logo_uri": "https://static.mncnow.id/images/channel/3ce31c86/081e_r32.jpeg",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Life Style",
         "logo_uri": "https://static.mncnow.id/images/channel/b55085fd/1291_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MNC Muslim",
         "logo_uri": "https://static.mncnow.id/images/channel/fed357e9/38dc_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Al-Quran",
         "logo_uri": "https://static.mncnow.id/images/channel/f4cd0850/09a3_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "TAWAF TV",
@@ -1014,56 +1014,56 @@
         "logo_uri": "https://static.mncnow.id/images/channel/1888655f/a358_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "OK TV",
         "logo_uri": "https://static.mncnow.id/images/channel/e3c04ddf/04e7_r32.jpeg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_dash_vmx/MNCChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MNC Sports",
         "logo_uri": "https://static.mncnow.id/images/channel/84189654/9280_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Soccer Channel",
         "logo_uri": "https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg",
         "uri": "https://liveanevia.mncnow.id/live/eds/SoccerChannel2/sa_dash_vmx/SoccerChannel2.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Trans 7",
         "logo_uri": "https://static.mncnow.id/images/channel/03d5baeb/a38a_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Music Channel",
         "logo_uri": "https://static.mncnow.id/images/channel/9022d60d/9a4c_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "RTV",
         "logo_uri": "https://static.mncnow.id/images/channel/66d568b9/76cd_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "ANTV",
         "logo_uri": "https://static.mncnow.id/images/channel/3b46b39b/7020_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KOMPAS TV",
@@ -1098,7 +1098,7 @@
         "logo_uri": "https://static.mncnow.id/images/channel/65d104a5/6132_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "TV ONE",
@@ -1119,14 +1119,14 @@
         "logo_uri": "https://static.mncnow.id/images/channel/ef77d6b0/ee80_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "BANDUNG TV",
         "logo_uri": "https://static.mncnow.id/images/channel/99eacbb6/c2c4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -1138,98 +1138,98 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fox Crime",
         "logo_uri": "https://www.transvision.co.id/img/channel/fox_crime.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fox Channel",
         "logo_uri": "https://www.transvision.co.id/img/channel/fox.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },      
       {
         "name": "AXN",
         "logo_uri": "https://www.transvision.co.id/img/channel/axn_black.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "FOX LIFE",
         "logo_uri": "https://www.transvision.co.id/img/channel/fox_life.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },      
       {
         "name": "Animax",
         "logo_uri": "https://www.transvision.co.id/img/channel/animax.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
        "name": "tvN",
         "logo_uri": "https://www.transvision.co.id/img/channel/n.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "FX",
         "logo_uri": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/713_100.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "HITS",
         "logo_uri": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/706_100.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },      
       {
        "name": "KIX",
         "logo_uri": "https://www.transvision.co.id/img/channel/kix.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Warner TV",
         "logo_uri": "https://www.transvision.co.id/img/channel/warner.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Sony One",
         "logo_uri": "https://www.transvision.co.id/img/channel/one.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Lifetime",
         "logo_uri": "https://www.transvision.co.id/img/channel/lifetime.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },      
       {
         "name": "WakuWaku Japan",
         "logo_uri": "https://www.transvision.co.id/img/channel/waku_waku.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -1241,77 +1241,77 @@
         "logo_uri": "https://static.mncnow.id/images/channel/aff30af5/2654_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Discovery",
         "logo_uri": "https://static.mncnow.id/images/channel/af64e4f1/7113_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
        "name": "NatGeo Channel",
         "logo_uri": "https://static.mncnow.id/images/channel/c41b5e54/ba16_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },      
       {
         "name": "Animal Planet",
         "logo_uri": "https://static.mncnow.id/images/channel/4f22e986/b578_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "NatGeo Wild",
         "logo_uri": "https://static.mncnow.id/images/channel/df0a34c4/f063_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "History",
         "logo_uri": "https://static.mncnow.id/images/channel/8a59b0c4/1800_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Crime Investigation",
         "logo_uri": "https://static.mncnow.id/images/channel/34922872/3470_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },      
       {
         "name": "AFN",
         "logo_uri": "https://static.mncnow.id/images/channel/5620c27b/9bec_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "HGTV",
         "logo_uri": "https://static.mncnow.id/images/channel/7a19b3d5/55d5_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "NatGeo People",
         "logo_uri": "https://static.mncnow.id/images/channel/45ca14a3/dd4f_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "TLC",
         "logo_uri": "https://static.mncnow.id/images/channel/5ce26cd9/ab8c_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "BE SMART",
@@ -1339,7 +1339,7 @@
         "logo_uri": "https://static.mncnow.id/images/channel/2b0cea4b/976a_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -1351,42 +1351,42 @@
         "logo_uri": "https://static.mncnow.id/images/channel/782cbbe4/5a3d_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fox Sports 2",
         "logo_uri": "https://static.mncnow.id/images/channel/46fcd920/721f_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fox Sports 3",
         "logo_uri": "https://static.mncnow.id/images/channel/7d978fdd/93da_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fight Sports",
         "logo_uri": "https://static.mncnow.id/images/channel/8d0892a0/6504_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "BeIN 1",
         "logo_uri": "https://static.mncnow.id/images/channel/9014a7a3/13e2_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
        "name": "BeIN 2",
         "logo_uri": "https://static.mncnow.id/images/channel/148b1e40/11e5_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -1543,42 +1543,42 @@
         "logo_uri": "https://akashdth.com/assets/uploads/channels_images/1582798479-84334691.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Zee Cinema",
         "logo_uri": "https://www.rdcablenet.com/wp-content/uploads/2019/01/ZEE-CINEMA-HD.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Zee TV",
         "logo_uri": "https://i.pinimg.com/originals/c6/88/f6/c688f65cd773c4914597716082d60c61.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Zing",
         "logo_uri": "https://i0.wp.com/nguyenngoclong.com/blog/wp-content/uploads/2019/04/zing-logo.png?fit=600%2C371&ssl=1",
         "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "DAAITV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "ETWN",
         "logo_uri": "https://logodix.com/logo/2139475.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/ETWN.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "REFORMED 21",
@@ -1600,49 +1600,49 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Hunan TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/6/68/HunanTV_logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "JiangsuTV",
         "logo_uri": "https://list.wiki/images/2/2d/Jiangsu_TV_Station_logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Shanghai DragonTV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/604px-Dragon_Television_%28China%29_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Xing KongTV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/200px-XingXong.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Clubbing TV",
         "logo_uri": "https://www.clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle_50pc_Black220.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ClubbingTV/sa_dash_vmx/ClubbingTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "CinemaWorld",
         "logo_uri": "https://d3cl79h6n1fe0x.cloudfront.net/wp-content/uploads/2016/10/28150842/1-cw.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]
   },
@@ -1748,84 +1748,84 @@
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps1-sang-kancil-dan-kerbau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps1-sang-kancil-dan-kerbau-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & KERBAU 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps2-sang-kancil-dan-kerbau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps2-sang-kancil-dan-kerbau-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & KERBAU 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps3-sang-kancil-dan-kerbau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps3-sang-kancil-dan-kerbau-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL MENGIRA BUAYA 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps4-sang-kancil-mengira-buaya-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps4-sang-kancil-mengira-buaya-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL MENGIRA BUAYA 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps5-sang-kancil-mengira-buaya-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps5-sang-kancil-mengira-buaya-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL MENGIRA BUAYA 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps6-sang-kancil-mengira-buaya-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps6-sang-kancil-mengira-buaya-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & PERIGI BUTA 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps7-sang-kancil-dan-perigi-buta-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps7-sang-kancil-dan-perigi-buta-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & PERIGI BUTA 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps8-sang-kancil-dan-perigi-buta-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps8-sang-kancil-dan-perigi-buta-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & PERIGI BUTA 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps9-sang-kancil-dan-perigi-buta-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps9-sang-kancil-dan-perigi-buta-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & GERGASI 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps10-sang-kancil-dan-gergasi-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps10-sang-kancil-dan-gergasi-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & GERGASI 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps11-sang-kancil-dan-gergasi-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps11-sang-kancil-dan-gergasi-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & GERGASI 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s1-eps12-sang-kancil-dan-gergasi-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s1-eps12-sang-kancil-dan-gergasi-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -1837,168 +1837,168 @@
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps1-sang-kancil-dan-tali-pinggang-hikmat-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps1-sang-kancil-dan-tali-pinggang-hikmat-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & TALI PINGGANG HIKMAT 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps2-sang-kancil-dan-tali-pinggang-hikmat-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps2-sang-kancil-dan-tali-pinggang-hikmat-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & TALI PINGGANG HIKMAT 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps3-sang-kancil-dan-tali-pinggang-hikmat-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps3-sang-kancil-dan-tali-pinggang-hikmat-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL PEMBURU 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps4-sang-kancil-dan-pemburu-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps4-sang-kancil-dan-pemburu-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL PEMBURU 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps5-sang-kancil-dan-pemburu-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps5-sang-kancil-dan-pemburu-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL PEMBURU 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps6-sang-kancil-dan-pemburu-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps6-sang-kancil-dan-pemburu-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & SIPUT 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps7-sang-kancil-berlomba-dengan-siput-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps7-sang-kancil-berlomba-dengan-siput-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & SIPUT 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps8-sang-kancil-berlomba-dengan-siput-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps8-sang-kancil-berlomba-dengan-siput-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & SIPUT 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps9-sang-kancil-berlomba-dengan-siput-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps9-sang-kancil-berlomba-dengan-siput-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & HARIMAU 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps10-sang-kancil-dan-harimau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps10-sang-kancil-dan-harimau-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & HARIMAU 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps11-sang-kancil-dan-harimau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps11-sang-kancil-dan-harimau-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & HARIMAU 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps12-sang-kancil-dan-harimau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps12-sang-kancil-dan-harimau-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & GONG RAJA 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps13-sang-kancil-dan-gong-raja-saliman-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps13-sang-kancil-dan-gong-raja-saliman-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & GONG RAJA 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps14-sang-kancil-dan-gong-raja-saliman-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps14-sang-kancil-dan-gong-raja-saliman-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & GONG RAJA 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps15-sang-kancil-dan-gong-raja-saliman-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps15-sang-kancil-dan-gong-raja-saliman-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL JADI HAKIM 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps16-sang-kancil-menjadi-hakim-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps16-sang-kancil-menjadi-hakim-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL JADI HAKIM 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps17-sang-kancil-menjadi-hakim-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps17-sang-kancil-menjadi-hakim-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL JADI HAKIM 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps18-sang-kancil-menjadi-hakim-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps18-sang-kancil-menjadi-hakim-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KURA-KURA & MONYET 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps19-kura-kura-dan-monyet-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps19-kura-kura-dan-monyet-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KURA-KURA & MONYET 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps20-kura-kura-dan-monyet-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps20-kura-kura-dan-monyet-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KURA-KURA & MONYET 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps21-kura-kura-dan-monyet-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps21-kura-kura-dan-monyet-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "PENGHUNI HUTAN & GERGASI 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps22-penghuni-hutan-menentang-gergasi-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps22-penghuni-hutan-menentang-gergasi-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "PENGHUNI HUTAN & GERGASI 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps23-penghuni-hutan-menentang-gergasi-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps23-penghuni-hutan-menentang-gergasi-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "PENGHUNI HUTAN & GERGASI 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s2-eps24-penghuni-hutan-menentang-gergasi-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s2-eps24-penghuni-hutan-menentang-gergasi-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -2010,252 +2010,252 @@
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps1-sang-kancil-dan-singa-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps1-sang-kancil-dan-singa-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & SINGA 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps2-sang-kancil-dan-singa-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps2-sang-kancil-dan-singa-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SANG KANCIL & SINGA 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps3-sang-kancil-dan-singa-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps3-sang-kancil-dan-singa-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "AYAM & HELANG 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps4-ayam-dan-helang-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps4-ayam-dan-helang-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "AYAM & HELANG 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps5-ayam-dan-helang-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps5-ayam-dan-helang-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "AYAM & HELANG 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps6-ayam-dan-helang-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps6-ayam-dan-helang-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SEMUT, MERPATI & GAJAH 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps7-semut-merpati-dan-gajah-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps7-semut-merpati-dan-gajah-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SEMUT, MERPATI & GAJAH 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps8-semut-merpati-dan-gajah-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps8-semut-merpati-dan-gajah-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SEMUT, MERPATI & GAJAH 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps9-semut-merpati-dan-gajah-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps9-semut-merpati-dan-gajah-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "AYAM & MUSANG 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps10-ayam-dan-musang-bag1clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps10-ayam-dan-musang-bag1clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "AYAM & MUSANG 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps11-ayam-dan-musang-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps11-ayam-dan-musang-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "AYAM & MUSANG 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps12-ayam-dan-musang-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps12-ayam-dan-musang-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "PERKASAM MATA HARIMAU 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps13-perkasam-mata-harimau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps13-perkasam-mata-harimau-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "PERKASAM MATA HARIMAU 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps14-perkasam-mata-harimau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps14-perkasam-mata-harimau-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "PERKASAM MATA HARIMAU 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps15-perkasam-mata-harimau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps15-perkasam-mata-harimau-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "BELALANG & SEMUT 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps16-belalang-dan-semut-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps16-belalang-dan-semut-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "BELALANG & SEMUT 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps17-belalang-dan-semut-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps17-belalang-dan-semut-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "BELALANG & SEMUT 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps18-belalang-dan-semut-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps18-belalang-dan-semut-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KISAH BANGAU 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps19-kisah-bangau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps19-kisah-bangau-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KISAH BANGAU 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps20-kisah-bangau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps20-kisah-bangau-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KISAH BANGAU 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps21-kisah-bangau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps21-kisah-bangau-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "ANJING & BAYANG-BAYANG 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps22-anjing-dan-bayang-bayang-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps22-anjing-dan-bayang-bayang-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "ANJING & BAYANG-BAYANG 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps23-anjing-dan-bayang-bayang-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps23-anjing-dan-bayang-bayang-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "ANJING & BAYANG-BAYANG 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps24-anjing-dan-bayang-bayang-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps24-anjing-dan-bayang-bayang-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KAMBING & BUAYA 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps25-kambing-dan-buaya-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps25-kambing-dan-buaya-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KAMBING & BUAYA 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps26-kambing-dan-buaya-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps26-kambing-dan-buaya-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KAMBING & BUAYA 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps27-kambing-dan-buaya-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps27-kambing-dan-buaya-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "CAWI & HARIMAU 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps28-cawi-dan-harimau-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps28-cawi-dan-harimau-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "CAWI & HARIMAU 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps29-cawi-dan-harimau-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps29-cawi-dan-harimau-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "CAWI & HARIMAU 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps30-cawi-dan-harimau-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps30-cawi-dan-harimau-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KURA-KURA & ITIK 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps31-kura-kura-dan-itik-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps31-kura-kura-dan-itik-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KURA-KURA & ITIK 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps32-kura-kura-dan-itik-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps32-kura-kura-dan-itik-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "KURA-KURA & ITIK 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps33-kura-kura-dan-itik-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps33-kura-kura-dan-itik-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SINGA & TIKUS 1",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps34-singa-dan-tikus-bag1-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps34-singa-dan-tikus-bag1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
        },
       {
         "name": "SINGA & TIKUS 2",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps35-singa-dan-tikus-bag2-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps35-singa-dan-tikus-bag2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
        },
       {
         "name": "SINGA & TIKUS 3",
         "logo_uri": "https://static.mncnow.id/images/vod/a4b8a698-37a.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps36-singa-dan-tikus-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps36-singa-dan-tikus-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
               }
     ]  
   },
@@ -2703,7 +2703,7 @@
         "logo_uri": "https://static.mncnow.id/images/vod/b2bb3760/ce56_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/dalam-mihrab-cinta-apl-rev-anv6/_/sa_dash_vmx/dalam-mihrab-cinta-apl-rev-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -2715,7 +2715,7 @@
         "logo_uri": "https://static.mncnow.id/images/vod/0b0c2728/fcc2_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-apl-rev-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-apl-rev-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MOVIE 2",
@@ -2732,392 +2732,392 @@
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps1-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 2",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps2-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 3",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps3-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 4",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps4-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps4-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 5",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps5-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps5-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 6",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps6-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps6-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 7",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps7-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps7-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 8",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps8-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps8-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 9",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps9-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps9-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 10",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps10-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps10-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 11",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps11-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps11-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 12",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps12-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps12-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 13",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps13-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps13-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 14",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps14-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps14-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 15",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps15-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps15-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 16",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps16-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps16-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 17",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps17-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps17-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 18",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps18-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps18-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 19",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps19-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps19-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 20",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps20-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps20-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 21",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps21-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps21-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 22",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps22-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps22-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 23",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps23-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps23-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 24",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps24-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps24-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 25",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps25-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps25-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 26",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps26-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps26-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 27",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps27-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps27-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 28",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps28-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps28-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 29",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps29-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps29-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 30",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps30-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps30-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 31",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps31-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps31-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 32",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps32-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps32-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 33",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps33-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps33-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 34",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps34-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps34-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 35",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps35-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps35-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 36",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps36-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps36-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 37",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps37-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps37-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 38",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps38-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps38-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 39",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps39-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps39-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 40",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps40-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps40-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 41",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps41-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps41-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 42",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps42-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps42-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 43",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps43-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps43-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 44",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps44-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps44-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 45",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps45-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps45-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 46",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps46-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps46-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 47",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps47-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps47-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 48",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps48-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps48-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 49",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps49-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps49-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 50",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps50-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps50-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 51",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps51-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps51-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 52",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps52-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps52-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 53",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps53-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps53-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 54",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps54-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps54-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 55",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps55-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps55-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "SPECIAL RAMADHAN 56",
         "logo_uri": "https://static.mncnow.id/images/series/a4929d01/6ca4_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-special-ramadhan-eps56-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-special-ramadhan-eps56-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
     ]  
   },
@@ -3129,175 +3129,175 @@
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps1-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps1-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 2",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps2-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps2-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 3",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps3-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps3-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 4",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps4-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps4-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 5",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps5-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps5-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 6",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps6-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps6-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 7",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps7-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps7-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 8",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps8-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps8-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 9",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps9-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps9-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 10",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps10-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps10-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 11",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps11-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps11-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 12",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps12-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps12-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 13",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps13-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps13-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 14",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps14-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps14-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 15",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps15-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps15-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 16",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps16-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps16-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 17",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps17-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps17-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 18",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps18-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps18-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 19",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps19-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps19-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 20",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps20-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps20-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 21",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps21-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps21-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 22",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps22-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps22-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 23",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps23-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps23-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 24",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps24-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps24-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "MERAIH REDHA ILAHI 25",
         "logo_uri": "https://static.mncnow.id/images/series/875ec78e/99a8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
             }
     ]
   },
