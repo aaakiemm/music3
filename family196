@@ -1771,6 +1771,29 @@
     ]  
   },
   {
+    "name": "LAGENDA PUTERI FELORA",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/PuteriFelora.jpg",
+        "uri": "https://f64.megaup.net/Wpfs/Legenda.Puteri.Felora.2021.720p.HDTV.AAC.H.264-OMG.mp4?download_token=8d8fd9197a9e3d6f8a9d6bec7f0ab1cc405dea1c0a1c6f4d7e27bccd8e5e7d07"
+      }
+    ]
+  },
+  {
+    "name": "GODZILA VS KONG",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/godzilavskong.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/14ctJa8U8u5EcYwSlp9Dn-utSN0n3iP5q?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/kongvsgozilla.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      }
+    ]  
+  },
+  {
     "name": "PADA ZAMAN DAHULU S1",
     "samples": [      
       {
@@ -3474,7 +3497,7 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
         "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E28.mp4"
       }
-    ]  
+    ]
   },
   {
     "name": "VILA GHAZARA",
@@ -5499,6 +5522,91 @@
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023363X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34a1609d6474442f478065e367730a777a9a562d577e20662e448cc7dcab953abb889c4acb3b9356604cb7a3b1b72e9dedfa6f0528de819f475b551a18c4a78e&drmId=prod"
+      }
+    ]
+  },
+  {
+    "name": "MOUSE",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1ZRSsB7DhZ0L21QJj3snuJNBartP7r73l?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse1/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1XkD5Y6CxsW7C5MI0ylVAuAuiQ0oI9Ggx?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse2/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 3 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/12ecGauOk0MztJY-it6hIrBBYHKD-gFDM?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse3/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 4 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1OCRKCjoIw4tpvZa_COYIMJX5DAkkClfe?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse4/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 5 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1zB5NIupYt9GXnf0R4DMtmmlcd-8wOs7_?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse5/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 6 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/133oqZ72boBzB7ta2MRLcTPZnEq26igtG?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse6/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 7 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/19peqgFOYd7IKbNTiRrKAljahwfV6RsnV?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse7/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 8 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1YxdRclGBe0vt1_FQ2A80bMp1Hg5K6RO8?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse8/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 9 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/16zAymz8hDak0kJ9sCAqC61DdLjeiB6H6?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse9/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "EPISODE 10 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1tQ1uwhGi3-1aNM9Gky9eMOFCd-XJN3eA?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse10/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
       }
     ]  
   },
