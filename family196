@@ -1776,6 +1776,26 @@
     ]  
   },
   {
+    "name": "AJEN ALI",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ali.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1i-9aLCx-DFYNuNOOe2-UFcnbfzZxszdn?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
+  },
+  {
+    "name": "LARVA ISLAND",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
+  },
+  {
     "name": "MIMALAND",
     "samples": [      
       {
