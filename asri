@@ -1713,6 +1713,21 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
     }
+    ]
+  },
+  {
+    "name": "LAGU KELATE",
+    "samples": [ 
+      {
+        "name": "GEWEKU ORE KELATE ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/geweku.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1bzqeK4Wkis-VOI5wuMpVd3fNhyFUUn-j?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "GUANO PREH SKALO BEREH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ranopereh.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/173JP2Y-e_LAPHLKUeatLm2TUyGiGM2fN?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
     ]  
   },
   {
