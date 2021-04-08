@@ -1751,7 +1751,7 @@
       {
         "name": "MOVIE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/penunggang.jpg",
-        "uri": "https://f75.megaup.net/1Cbm7/Penunggang.Agama.2021.720p.PPVHD.mkv?download_token=10408cb9d47c6885d00aa011cfda06836b2924e342e745d1c9cadd1b0a41a276"
+        "uri": "https://www.googleapis.com/drive/v3/files/17ygjsSlZPA53c1mDFmgHI2nV1UZ3-Nuf?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
@@ -1761,7 +1761,7 @@
       {
         "name": "MOVIE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantubocing2.0.jpg",
-        "uri": "https://f76.megaup.net/1BKew/Hantu.Bonceng.2.0.2021.720p.PPVHD.mkv?download_token=a115cfe0035df0d640fa60a1454b3e1e2bbbe8661e586c41cb5d715e0063c594"
+        "uri": "https://www.googleapis.com/drive/v3/files/1BEsMQAGJXJVKOkAT63a4vDQW5423jK2Y?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
@@ -1786,22 +1786,12 @@
     ]  
   },
   {
-    "name": "LAGENDA PUTERI FELORA",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/PuteriFelora.jpg",
-        "uri": "https://f64.megaup.net/Wpfs/Legenda.Puteri.Felora.2021.720p.HDTV.AAC.H.264-OMG.mp4?download_token=8d8fd9197a9e3d6f8a9d6bec7f0ab1cc405dea1c0a1c6f4d7e27bccd8e5e7d07"
-      }
-    ]
-  },
-  {
     "name": "GODZILA VS KONG",
     "samples": [ 
       {
         "name": "MOVIE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/godzilavskong.jpg",
-        "uri": "OpenDownloadAria2c https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/1sementara-ja/Godzilla%20vs%20Kong%2020212.mp4"
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/1sementara-ja/Godzilla%20vs%20Kong%2020212.mp4"
       }
     ]  
   },
