@@ -3484,6 +3484,19 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seadanyaaku.jpg",
         "uri": "https://files2.ohflix.workers.dev/ohflix342/two/Random%20Drama%20Malay2/Seadanya%20Aku/Seadanya%20Aku%20E28.mp4"
       }
+    ]
+  },
+  {
+    "name": "MOUSE",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1ZRSsB7DhZ0L21QJj3snuJNBartP7r73l?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse1/id.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "id/ID",
+      }
     ]  
   },
   {
