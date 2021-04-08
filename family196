@@ -1751,6 +1751,16 @@
     ]  
   },
   {
+    "name": "KERIS SIAMANG TUNGGAL",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kerisupin.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1wOdSqKaJ-CZCHbyLhaTvYiFma7IDlgn0?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
+  },
+  {
     "name": "MIMALAND",
     "samples": [      
       {
