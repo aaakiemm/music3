@@ -563,12 +563,12 @@
       {
         "name": "RIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",
-        "uri": "https://bit.ly/31ZK33m"
+        "uri": "http://live8.cdn.iptv8k.org:80/review_stream/riakbmm22/i.m3u8"
       },
       {
         "name": "PRIMA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png",
-        "uri": "https://bit.ly/3wGGFZd"
+        "uri": "http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8"
       },
       {
         "name": "OASIS",
@@ -578,17 +578,17 @@
       {
         "name": "WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/warni.m3u8"
+        "uri": "http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8"
       },
       {
         "name": "CITRA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8"
+        "uri": "http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8"
       },
       {
         "name": "CERIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/suko.m3u8"
+        "uri": "http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8"
       },
       {
         "name": "AWANI",
@@ -598,17 +598,17 @@
       {
         "name": "ARENA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek2.m3u8"
+        "uri": "http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8"
       },
       {
         "name": "ASSP 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek1.m3u8"
+        "uri": "http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8"
       },
       {
         "name": "ASSP 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek2.m3u8"
+        "uri": "http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8"
       },
       {
         "name": "ASSP 3",
@@ -618,7 +618,7 @@
       {
         "name": "ASSP 4",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek4.m3u8"
+        "uri": "http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8"
       },
       {
         "name": "BEIN SPORTS MAX",
@@ -639,11 +639,6 @@
         "name": "COLORS",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",
         "uri": "http://51.79.208.146:61980/myplay/c_58041/index.m3u8"
-      },
-      {
-        "name": "BOLLYONEHD",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58043/index.m3u8"
       },
       {
         "name": "TA-DAA",
