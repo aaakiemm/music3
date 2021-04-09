@@ -563,12 +563,12 @@
       {
         "name": "RIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58040/index.m3u8"
+        "uri": "https://bit.ly/31ZK33m"
       },
       {
         "name": "PRIMA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58017/index.m3u8"
+        "uri": "https://bit.ly/3wGGFZd"
       },
       {
         "name": "OASIS",
@@ -578,33 +578,17 @@
       {
         "name": "WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58037/index.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/warni.m3u8"
       },
       {
         "name": "CITRA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58035/index.m3u8"
-      },
-      {
-        "name": "RANIA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58034/index.m3u8"
-      
-      },
-      {
-        "name": "AURA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58036/index.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8"
       },
       {
         "name": "CERIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58024/index.m3u8"
-      },
-      {
-        "name": "TVIQ",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/118_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58020/index.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/suko.m3u8"
       },
       {
         "name": "AWANI",
@@ -614,17 +598,17 @@
       {
         "name": "ARENA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58015/index.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek2.m3u8"
       },
       {
         "name": "ASSP 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
-        "uri": "http://51.79.208.145:61980/myplay/mlsp_601/index.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek1.m3u8"
       },
       {
         "name": "ASSP 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
-        "uri": "http://51.79.208.145:61980/myplay/mlsp_602/index.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek2.m3u8"
       },
       {
         "name": "ASSP 3",
@@ -634,7 +618,7 @@
       {
         "name": "ASSP 4",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
-        "uri": "http://51.79.208.145:61980/myplay/mlsp_604/index.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek4.m3u8"
       },
       {
         "name": "BEIN SPORTS MAX",
