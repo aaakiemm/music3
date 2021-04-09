@@ -600,6 +600,11 @@
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",
         "uri": "http://51.79.208.146:61980/myplay/c_58037/index.m3u8"
       },
+      { 
+        "name": "TVIQ",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/118_144.png",
+        "uri": "http://51.79.208.146:61980/myplay/c_58020/index.m3u8"
+      },
       {        "name": "AWANI",
         "logo_uri": "https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
@@ -607,7 +612,7 @@
       {
         "name": "ARENA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58037/index.m3u8"
+        "uri": "http://51.79.208.146:61980/myplay/c_58015/index.m3u8"
       },
       {
         "name": "ASSP 1",
@@ -617,7 +622,7 @@
       {
         "name": "ASSP 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58037/index.m3u8"
+        "uri": "http://51.79.208.145:61980/myplay/mlsp_602/index.m3u8"
       },
       {
         "name": "ASSP 3",
@@ -627,7 +632,7 @@
       {
         "name": "ASSP 4",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
-        "uri": "http://51.79.208.146:61980/myplay/c_58037/index.m3u8"
+        "uri": "http://51.79.208.145:61980/myplay/mlsp_604/index.m3u8"
       },
       {
         "name": "BEIN SPORTS MAX",
