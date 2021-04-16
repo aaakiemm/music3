@@ -3582,6 +3582,16 @@
         "name": "EPISODE 13 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/taksempurna.jpg",
         "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Random%20Drama%20Malay9/Tak%20Sempurna%20Mencintaimu/Tak%20Sempurna%20Mencintaimu%20Episod%2013.mp4"
+      },
+      {
+        "name": "EPISODE 14 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/taksempurna.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Random%20Drama%20Malay9/Tak%20Sempurna%20Mencintaimu/Tak%20Sempurna%20Mencintaimu%20Episod%2014.mp4"
+      },
+      {
+        "name": "EPISODE 15 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/taksempurna.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Random%20Drama%20Malay9/Tak%20Sempurna%20Mencintaimu/Tak%20Sempurna%20Mencintaimu%20Episod%2015.mp4"
       }
     ]
   },
@@ -4067,6 +4077,31 @@
         "name": "EPISODE 4",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay6/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%20(2020)%20Minggu%204.mp4"
+      },
+      {
+        "name": "EPISODE 5",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%202020%20EP05.mp4"
+      },
+      {
+        "name": "EPISODE 6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%202020%20EP06.mp4"
+      },
+      {
+        "name": "EPISODE 7",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%202020%20EP07.mp4"
+      },
+      {
+        "name": "EPISODE 8",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%202020%20EP08.mp4"
+      },
+      {
+        "name": "EPISODE 9",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%202020%20EP09.mp4"
       }
     ]
   },
@@ -5733,91 +5768,6 @@
         "subtitle_language": "ms"
       }
     ]  
-  },
-  {
-           "name": "WHILE YOU WERE SLEEPING",
-           "samples": [
-      {
-        "name": "episode 1",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618128925~acl=%2f919510749f8cc339178846c9af0f1e0e%2f*~data=cid%3d1163680752%2csid%3dd52483b9-1d90-4912-a188-522573e7f7fe%2cclientId%3dnone%2cn%3d1617437725322%2ch%3d324A7012BAF10C76A6B24619E3B856B3~hmac=d26cd360ad35f267275a0936f8120fb9cd44b97ec855e9858a38b5ff9983b5a0/919510749f8cc339178846c9af0f1e0e/vp63207_V20180606223241/hlsc_e2931_V20200521183323.m3u8"
-      },
-      {
-        "name": "episode 2",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618128974~acl=%2feff46f4d085db3e60bc80ea18e6ca630%2f*~data=cid%3d1163681323%2csid%3d30b9e656-aef4-4062-8de6-cdf663d8acec%2cclientId%3dnone%2cn%3d1617437774116%2ch%3d1B332EBC4157AC85D595DED8595A66F5~hmac=1bf4854f847a859bf2e6b3d5ade3b028772a09206e6ef2afd5780045f05f3ee7/eff46f4d085db3e60bc80ea18e6ca630/vp63207_V20180702101950/hlsc_e2931_V20200521183309.m3u8"
-      },
-      {
-        "name": "episode 3",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129007~acl=%2ffd33b4d527c4d1b1c51ec4de9302386d%2f*~data=cid%3d1163702717%2csid%3d15c6b0f6-84e7-46fa-911d-9a79216e9f93%2cclientId%3dnone%2cn%3d1617437807118%2ch%3dB34F153C8DD70B2885D925A37264C207~hmac=eb3e137f384975122509ac33604e1f5a76a8fbab7b56c878debe91188250757a/fd33b4d527c4d1b1c51ec4de9302386d/vp63207_V20180610164936/hlsc_e2931_V20200521181730.m3u8"
-      },
-      {
-        "name": "episode 4",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129036~acl=%2f8bf37c62f8da3d6344c156638872701a%2f*~data=cid%3d1163702711%2csid%3d5044fe8e-dfeb-42e4-a270-c5d587d7bd13%2cclientId%3dnone%2cn%3d1617437836285%2ch%3d44AC531CF733BBDFF537CCA423DA1623~hmac=35bebcb7c0068dd0dd44fd9b8ef463acef9ac45022638300ec7bc9dbfaca32f6/8bf37c62f8da3d6344c156638872701a/vp63207_V20180603014525/hlsc_e2931_V20200521181744.m3u8"
-      },
-      {
-        "name": "episode 5",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129058~acl=%2f3232ee8033992ba648fe3dddf2118008%2f*~data=cid%3d1163721655%2csid%3d2ef89a8b-896e-468f-97bc-659578fbc7ad%2cclientId%3dnone%2cn%3d1617437858526%2ch%3dEC9D7DF1216427D4D9BEBFAF63B5FBEB~hmac=247f4c53a83f93b8ccb6b0eb1c8f4cd9483b33b6a35d3016dcd9bc61d9c0eda0/3232ee8033992ba648fe3dddf2118008/vp63207_V20190516083154/hlsc_e2931_V20200521180046.m3u8"
-      },
-      {
-        "name": "episode 6",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129099~acl=%2f389543edb2224c74f3d121386d50a292%2f*~data=cid%3d1163721673%2csid%3dbefcb8a3-9971-4654-966c-a4056ec57de7%2cclientId%3dnone%2cn%3d1617437899483%2ch%3dDE9EB567977E7E52964888E7043F7371~hmac=6c846c5f8d4e99423ee34be558a6073fde53a0201bbd33709cdf2f95a112d72e/389543edb2224c74f3d121386d50a292/vp63207_V20180711165436/hlsc_e2931_V20200521180032.m3u8"
-      },
-      {
-        "name": "episode 7",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129122~acl=%2f953ea9afa5b6efb70c4fb00b934a9008%2f*~data=cid%3d1163739186%2csid%3d7f127a87-991a-4c37-98fa-5f5fefeb4293%2cclientId%3dnone%2cn%3d1617437922493%2ch%3d5B3C3E2949DC6DCA943467B72622B0B8~hmac=47befb6c101dfde90bc5700d26377d4e3ac2b1b90426e4a259a9fd5e7def3ba7/953ea9afa5b6efb70c4fb00b934a9008/vp63207_V20190516083142/hlsc_e2931_V20200521174725.m3u8"
-      },
-      {
-        "name": "episode 8",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129156~acl=%2fef8e1379a5571289002e09dac015a195%2f*~data=cid%3d1163739276%2csid%3df44a6f0d-76bd-4d1a-ac77-66f6bff62ce2%2cclientId%3dnone%2cn%3d1617437956875%2ch%3dF927150E914C8639C432DC83501BCB92~hmac=597b3448483b7a3257b7c260097a9e77784b878e17f8aaa479e7049c8edd169a/ef8e1379a5571289002e09dac015a195/vp63207_V20180530002456/hlsc_e2931_V20200521174710.m3u8"
-      },
-      {
-        "name": "episode 9",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129198~acl=%2f8b7e913c469e4a1f560953e6d62672d4%2f*~data=cid%3d1163762392%2csid%3d0d61d4ff-9599-46f0-8df2-53a80af7a5f8%2cclientId%3dnone%2cn%3d1617437998885%2ch%3d92AD72D066023DA314C7A79EAE33E725~hmac=a29330dd16faaf12e3e8687724c1b8225e66467d25464959b76495e510db59b8/8b7e913c469e4a1f560953e6d62672d4/vp63207_V20180528105754/hlsc_e2931_V20200521173224.m3u8"
-      },
-      {
-        "name": "episode 10",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129232~acl=%2fb2b302302fd65aaefdd77929b02c6c12%2f*~data=cid%3d1163763740%2csid%3d8d6f599e-1048-4c8e-ab59-d1efa835b7c9%2cclientId%3dnone%2cn%3d1617438032416%2ch%3d7A2A99919DC349E10C6E9F762B733E7B~hmac=33eb64d8a0a9bd49e2bcec0da6be3281394d4be3f9626c5ccfff3688544a7973/b2b302302fd65aaefdd77929b02c6c12/vp63207_V20180924101841/hlsc_e2931_V20200521173140.m3u8"
-      },
-      {
-        "name": "episode 11",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129272~acl=%2f1496add817a9022236ca4556ff0d7f8b%2f*~data=cid%3d1163776120%2csid%3d48d68d10-7ee5-4cc0-b0ad-448c48eacbfa%2cclientId%3dnone%2cn%3d1617438072828%2ch%3d93980936AF9B709950258F3C472B7311~hmac=082f929573e4c483d67ef8e514a166f3d7329e29ee0d4bace72c6dedffd28d1c/1496add817a9022236ca4556ff0d7f8b/vp63207_V20180924164930/hlsc_e2931_V20200521171949.m3u8"
-      },
-      {
-        "name": "episode 12",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129292~acl=%2fbca9e479c52a0e15230926f39850f512%2f*~data=cid%3d1163776123%2csid%3d3c7a4030-48b7-4dfa-89ef-01988aba48a6%2cclientId%3dnone%2cn%3d1617438092941%2ch%3d2F8A70B2001BECF89645B4976E4BDD35~hmac=c5b210a60d534320679cf7427245683a7b851f2d28ba968e4e311db240063934/bca9e479c52a0e15230926f39850f512/vp63207_V20180528131243/hlsc_e2931_V20200521171935.m3u8"
-      },
-      {
-        "name": "episode 13",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129320~acl=%2f96bad8fd141bf468a4ef5e0fcd86f918%2f*~data=cid%3d1163795836%2csid%3df24c5cee-8242-4461-ae9d-82ffeab24cca%2cclientId%3dnone%2cn%3d1617438120188%2ch%3d7398E5E23125BD64AA0CCCB488BA0C1B~hmac=f7376e9d75e3db541bc17a14b242e43c46a813f96f801f7f46a3ce62a5b9a4a0/96bad8fd141bf468a4ef5e0fcd86f918/vp63207_V20180527194651/hlsc_e2931_V20200521170118.m3u8"
-      },
-      {
-        "name": "episode 14",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129344~acl=%2f9c0e1670a68abfdd62d4d81271184dc0%2f*~data=cid%3d1163795897%2csid%3d0e063c1f-c350-4b86-9fd9-a7e3307abc80%2cclientId%3dnone%2cn%3d1617438144045%2ch%3dAE57946F6F8251F97F3D5EEC66C78125~hmac=2f0161c3c340cc507578d1d7295941a8455c5f971459fb2f0f28901d340313a4/9c0e1670a68abfdd62d4d81271184dc0/vp63207_V20180527205214/hlsc_e2931_V20200521170048.m3u8"
-      },
-      {
-        "name": "episode 15",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129367~acl=%2f3a497d09eed9bf96dd66b16c1cfdbf25%2f*~data=cid%3d1163810235%2csid%3ddbbe5350-e34f-4859-a601-803cb6dea4ac%2cclientId%3dnone%2cn%3d1617438167655%2ch%3d8DBBE1561136722A4C69E6D21D35689C~hmac=b031df6cf72cf341beec5d8942f3f1b0740a3fb6569151fe0d4764998b3ec8db/3a497d09eed9bf96dd66b16c1cfdbf25/vp63207_V20180530152958/hlsc_e2931_V20200521164606.m3u8"
-      },
-      {
-        "name": "episode 16",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sleeping.jpg",
-        "uri": "https://vuclip-eip.akamaized.net/exp=1618129397~acl=%2fa82903c17edb48b9ec9dd74c8b0154c4%2f*~data=cid%3d1163810487%2csid%3d7fc9436a-0125-46e8-acf2-74565b9dd903%2cclientId%3dnone%2cn%3d1617438197646%2ch%3d31B2434F1D59BB818F81243D93E16FB1~hmac=687c4b3fe82b19e4ca7f9ad3bd9a01d2da4cc51f7a6c05607181cf68f22c8951/a82903c17edb48b9ec9dd74c8b0154c4/vp63207_V20180925094207/hlsc_e2931_V20200521164439.m3u8"
-      }
-    ]
   },
   {
            "name": "GOBLIN",
