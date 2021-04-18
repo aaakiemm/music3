@@ -1691,6 +1691,53 @@
     ]  
   },
   {
+    "name": "UPIN IPIN S1",
+    "samples": [      
+      {
+        "name": "ESOK PUASA",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/vod/eds/upin-ipin-s1-eps1-esok-puasa-clean-anv6/_/sa_dash_vmx/upin-ipin-s1-eps1-esok-puasa-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "DUGAAN",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/vod/eds/upin-ipin-s1-eps2-dugaan-clean-anv6/_/sa_dash_vmx/upin-ipin-s1-eps2-dugaan-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "NIKMAT",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/vod/eds/upin-ipin-s1-eps3-nikmat-clean-anv6/_/sa_dash_vmx/upin-ipin-s1-eps3-nikmat-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "TERAWIH",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/vod/eds/upin-ipin-s1-eps4-terawih-clean-anv6/_/sa_dash_vmx/upin-ipin-s1-eps4-terawih-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "ESOK RAYA",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/vod/eds/upin-ipin-s1-eps5-esok-raya-clean-anv6/_/sa_dash_vmx/upin-ipin-s1-eps5-esok-raya-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "HARI RAYA",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/vod/eds/upin-ipin-s1-eps6-hari-raya-clean-anv6/_/sa_dash_vmx/upin-ipin-s1-eps6-hari-raya-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      }
+    ]  
+  },
+  {
     "name": "PADA ZAMAN DAHULU S1",
     "samples": [      
       {
