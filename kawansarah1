@@ -1577,76 +1577,86 @@
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
-    }
-    ]
-  },
-  {
-    "name": "LAGU KELATE",
-    "samples": [ 
-      {
-        "name": "GEWEKU ORE KELATE ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/geweku.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1bzqeK4Wkis-VOI5wuMpVd3fNhyFUUn-j?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "GUANO PREH SKALO BEREH ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ranopereh.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/173JP2Y-e_LAPHLKUeatLm2TUyGiGM2fN?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
   {
-           "name": "VIDEO LAGU",
-           "samples": [
-      {
-        "name": "HARAMKAH",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MELLYYUKJADIAN.png",
-        "uri": "https://www.googleapis.com/drive/v3/files/11w_vqe5UFPwzHZb8vgxQZHTWtUa3ekt2?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "YUK KITA JADIAN",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MELLYYUKJADIAN.png",
-        "uri": "https://www.googleapis.com/drive/v3/files/1YFxN8CoOXuVv_NadSUgcBf2nfoEq5n74?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "KOLEKSI PUASA",
+    "name": "SEPAHTU ALPUASA 2018",
     "samples": [      
       {
-        "name": "16 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/16puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/18U-A1XNYG4bopm7lzCmQr4QHW2cOgIcE?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        "name": "MINGGU 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al%20Puasa%20(2018)/Sepahtu%20Reunion%20Al%20Puasa%20(2018)%20E1.MP4"
       },
       {
-        "name": "17 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/17puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1w0NtT4Asvr7tf1Oyv8aVQvdwJmIazWie?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        "name": "MINGGU 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al%20Puasa%20(2018)/Sepahtu%20Reunion%20Al%20Puasa%20(2018)%20E2.MP4"
       },
       {
-        "name": "18 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/18puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1lgXhlX7oSpHVBLfSYtOXKgnt440IOWrw?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        "name": "MINGGU 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al%20Puasa%20(2018)/Sepahtu%20Reunion%20Al%20Puasa%20(2018)%20E3.MP4"
+      },
+      {
+        "name": "MINGGU 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al%20Puasa%20(2018)/Sepahtu%20Reunion%20Al%20Puasa%20(2018)%20E4.MP4"
       }
     ]  
   },
   {
-    "name": "PENUNGGANG AGAMA",
+    "name": "SEPAHTU ALPUASA 2019",
     "samples": [      
       {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/penunggang.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/17ygjsSlZPA53c1mDFmgHI2nV1UZ3-Nuf?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        "name": "MINGGU 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202019/Sepahtu%20Reunion%20Al-Puasa%202019%20Episod%201.mp4"
+      },
+      {
+        "name": "MINGGU 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202019/Sepahtu%20Reunion%20Al-Puasa%202019%20Episod%202.mp4"
+      },
+      {
+        "name": "MINGGU 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202019/Sepahtu%20Reunion%20Al-Puasa%202019%20Episod%203.mp4"
+      },
+      {
+        "name": "MINGGU 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202019/Sepahtu%20Reunion%20Al-Puasa%202019%20Episod%204.mp4"
       }
     ]  
   },
   {
-    "name": "HANTU BONCENG 2.0",
+    "name": "SEPAHTU ALPUASA 2020",
     "samples": [      
       {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantubocing2.0.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1BEsMQAGJXJVKOkAT63a4vDQW5423jK2Y?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        "name": "MINGGU 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202020/sepahtu%20al%20puasa%202020.mp4"
+      },
+      {
+        "name": "MINGGU 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202020/Sepahtu%20Al%20Puasa%20(2020)%20Minggu%202%20HDTV.mp4"
+      }
+    ]  
+  },
+  {
+    "name": "SEPAHTU ALPUASA 2021",
+    "samples": [      
+      {
+        "name": "MINGGU 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Puasa%20(2021)/Sepahtu%20Reunion%20Al%20Puasa%20(2021)%20Minggu%201.mp4"
+      },
+      {
+        "name": "MINGGU 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Puasa%20(2021)/Sepahtu%20Reunion%20Al%20Puasa%20(2021)%20Minggu%202.mp4"
       }
     ]  
   },
@@ -1677,16 +1687,6 @@
         "name": "MOVIE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "MIMALAND",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MIMA.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1JXeJiS8ftYg_jeRAIAb5bL_euVUTCldj?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
@@ -2253,7 +2253,7 @@
         "uri": "https://liveanevia.mncnow.id/vod/eds/pada-zaman-dahulu-s3-eps36-singa-dan-tikus-bag3-clean-anv6/_/sa_dash_vmx/pada-zaman-dahulu-s3-eps36-singa-dan-tikus-bag3-clean-anv6.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
-              }
+       }
     ]  
   },
   {
