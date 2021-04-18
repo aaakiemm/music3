@@ -1581,76 +1581,6 @@
     ]
   },
   {
-    "name": "LAGU KELATE",
-    "samples": [ 
-      {
-        "name": "GEWEKU ORE KELATE ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/geweku.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1bzqeK4Wkis-VOI5wuMpVd3fNhyFUUn-j?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "GUANO PREH SKALO BEREH ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ranopereh.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/173JP2Y-e_LAPHLKUeatLm2TUyGiGM2fN?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-           "name": "VIDEO LAGU",
-           "samples": [
-      {
-        "name": "HARAMKAH",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MELLYYUKJADIAN.png",
-        "uri": "https://www.googleapis.com/drive/v3/files/11w_vqe5UFPwzHZb8vgxQZHTWtUa3ekt2?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "YUK KITA JADIAN",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MELLYYUKJADIAN.png",
-        "uri": "https://www.googleapis.com/drive/v3/files/1YFxN8CoOXuVv_NadSUgcBf2nfoEq5n74?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "KOLEKSI PUASA",
-    "samples": [      
-      {
-        "name": "16 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/16puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/18U-A1XNYG4bopm7lzCmQr4QHW2cOgIcE?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "17 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/17puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1w0NtT4Asvr7tf1Oyv8aVQvdwJmIazWie?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "18 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/18puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1lgXhlX7oSpHVBLfSYtOXKgnt440IOWrw?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "PENUNGGANG AGAMA",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/penunggang.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/17ygjsSlZPA53c1mDFmgHI2nV1UZ3-Nuf?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "HANTU BONCENG 2.0",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantubocing2.0.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1BEsMQAGJXJVKOkAT63a4vDQW5423jK2Y?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
     "name": "KERIS SIAMANG TUNGGAL",
     "samples": [      
       {
@@ -1677,16 +1607,6 @@
         "name": "MOVIE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "MIMALAND",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MIMA.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1JXeJiS8ftYg_jeRAIAb5bL_euVUTCldj?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
@@ -2255,21 +2175,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
        }
     ]  
-  },
-  {
-    "name": "BOBOIBOY MOVIES",
-    "samples": [ 
-      {
-        "name": "EPISODE 1 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boboboy1.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1NtOIPYNOaMZhKHrSqVjg39f135NU0FbJ?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "EPISODE 2 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boboboy2.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1DykDUUDKUJ240C9stn6Ec_zGSz4GO4Ph?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]
   },
   {
     "name": "SQUAD CILIK S1",
