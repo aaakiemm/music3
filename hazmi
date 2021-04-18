@@ -1577,8 +1577,88 @@
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
-    }
-    ]
+      }
+    ]  
+  },
+  {
+    "name": "SEPAHTU ALPUASA 2018",
+    "samples": [      
+      {
+        "name": "MINGGU 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al%20Puasa%20(2018)/Sepahtu%20Reunion%20Al%20Puasa%20(2018)%20E1.MP4"
+      },
+      {
+        "name": "MINGGU 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al%20Puasa%20(2018)/Sepahtu%20Reunion%20Al%20Puasa%20(2018)%20E2.MP4"
+      },
+      {
+        "name": "MINGGU 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al%20Puasa%20(2018)/Sepahtu%20Reunion%20Al%20Puasa%20(2018)%20E3.MP4"
+      },
+      {
+        "name": "MINGGU 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al%20Puasa%20(2018)/Sepahtu%20Reunion%20Al%20Puasa%20(2018)%20E4.MP4"
+      }
+    ]  
+  },
+  {
+    "name": "SEPAHTU ALPUASA 2019",
+    "samples": [      
+      {
+        "name": "MINGGU 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202019/Sepahtu%20Reunion%20Al-Puasa%202019%20Episod%201.mp4"
+      },
+      {
+        "name": "MINGGU 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202019/Sepahtu%20Reunion%20Al-Puasa%202019%20Episod%202.mp4"
+      },
+      {
+        "name": "MINGGU 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202019/Sepahtu%20Reunion%20Al-Puasa%202019%20Episod%203.mp4"
+      },
+      {
+        "name": "MINGGU 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202019/Sepahtu%20Reunion%20Al-Puasa%202019%20Episod%204.mp4"
+      }
+    ]  
+  },
+  {
+    "name": "SEPAHTU ALPUASA 2020",
+    "samples": [      
+      {
+        "name": "MINGGU 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202020/sepahtu%20al%20puasa%202020.mp4"
+      },
+      {
+        "name": "MINGGU 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Al-Puasa%202020/Sepahtu%20Al%20Puasa%20(2020)%20Minggu%202%20HDTV.mp4"
+      }
+    ]  
+  },
+  {
+    "name": "SEPAHTU ALPUASA 2021",
+    "samples": [      
+      {
+        "name": "MINGGU 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Puasa%20(2021)/Sepahtu%20Reunion%20Al%20Puasa%20(2021)%20Minggu%201.mp4"
+      },
+      {
+        "name": "MINGGU 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Puasa%20(2021)/Sepahtu%20Reunion%20Al%20Puasa%20(2021)%20Minggu%202.mp4"
+      }
+    ]  
   },
   {
     "name": "KERIS SIAMANG TUNGGAL",
