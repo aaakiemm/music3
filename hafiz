@@ -1577,6 +1577,26 @@
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
+       }
+    ]  
+  },
+  {
+    "name": "KOLEKSI PUASA",
+    "samples": [      
+      {
+        "name": "16 PUASA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/16puasa.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/18U-A1XNYG4bopm7lzCmQr4QHW2cOgIcE?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "17 PUASA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/17puasa.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1w0NtT4Asvr7tf1Oyv8aVQvdwJmIazWie?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "18 PUASA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/18puasa.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1lgXhlX7oSpHVBLfSYtOXKgnt440IOWrw?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
