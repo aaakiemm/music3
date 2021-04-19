@@ -1732,6 +1732,21 @@
         "name": "MOVIE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ali.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1i-9aLCx-DFYNuNOOe2-UFcnbfzZxszdn?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       }
+    ]  
+  },
+  {
+    "name": "BOBOIBOY",
+    "samples": [      
+      {
+        "name": "BOBOIBOY 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boboboy1.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1NtOIPYNOaMZhKHrSqVjg39f135NU0FbJ?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "BOBOIBOY 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boboboy2.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1DykDUUDKUJ240C9stn6Ec_zGSz4GO4Ph?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
