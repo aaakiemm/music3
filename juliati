@@ -1581,26 +1581,6 @@
     ]  
   },
   {
-    "name": "KOLEKSI PUASA",
-    "samples": [      
-      {
-        "name": "16 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/16puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/18U-A1XNYG4bopm7lzCmQr4QHW2cOgIcE?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "17 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/17puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1w0NtT4Asvr7tf1Oyv8aVQvdwJmIazWie?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "18 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/18puasa.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1lgXhlX7oSpHVBLfSYtOXKgnt440IOWrw?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
     "name": "SEPAHTU ALPUASA 2018",
     "samples": [      
       {
@@ -1733,31 +1713,6 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ali.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1i-9aLCx-DFYNuNOOe2-UFcnbfzZxszdn?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
        }
-    ]  
-  },
-  {
-    "name": "BOBOIBOY",
-    "samples": [      
-      {
-        "name": "BOBOIBOY 1",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boboboy1.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1NtOIPYNOaMZhKHrSqVjg39f135NU0FbJ?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "BOBOIBOY 2",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boboboy2.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1DykDUUDKUJ240C9stn6Ec_zGSz4GO4Ph?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "LARVA ISLAND",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
     ]  
   },
   {
