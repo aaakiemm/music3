@@ -1577,8 +1577,163 @@
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
-       }
+      }
     ]  
+  },
+  {
+    "name": "JEJAK RASUL S1",
+    "samples": [ 
+      {
+        "name": "EP1-PENGEMBARAAN BERMULA ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1zw3TMgwxbZB52pkA3Bs5QrjnYGkoptak?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP2-NABI MUSA VS FIRAUN ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1X5Cb5ZxvViZDvyueAnIU-2eHLEB5aWoe?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP3-NABI MUSA HANYUT-FIRAU DIAWET ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1UoyArcEFK2SA4cOkYHaje306oQPy_kvC?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP4-TASIK QARUN ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1iicB2FUmdJKW8aobhee6iHEJEs_ljBlu?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP5-WARISAN RASULULLAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1xJ57fysFHYh5x5mYRm5ewhWFkIczjcNu?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP6-NABI MUSA TERIMA WAHYU ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1rtrBgwIBPlw_C46dZLwCvN9TNPmUurV-?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP7-DIALOG NABI MUSA DENGAN ALLAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/116fic2ocJtbm7kwWx6JzF0oDy4cjle1y?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP8-NABI KHIDIR MENGAJAR NABI MUSA ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/17CupSA0m26B5V0RXPlnr6RvvC_2C5kxW?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP9-HUD-HUD ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1Uy2IB_Tqutszap0xt1_B3W2AJsulmEph?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP10-JANGGUT RASULULLAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1C48ED8UtP8abvUU3dcoe2iyqUYfz-in0?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP-11-NABI IBRAHIM DIBAKAR ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1KgTj-ASz5NumvRKf0-o4Pm_Z4zHeHbAD?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP12-GUA NABI IBRAHIM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/18Peag0Z2PmkYjRL8jT_KHov88vBnB_mS?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP13-ASHABUL KAHFI ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/11jzkXM6wUu-zhw2BQT6DMWSNcOEWksn-?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       },
+      {
+        "name": "EP14-LAUT MATI & BAHTERA NABI NUH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1viTihs_j8GVLyC_Ap11EFpk0NtdVdb2T?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP15-EMPAYAR SABA' ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1Xhz1uPJDFebMvx2niLdFR3-BtH1lFsX8?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP16-PUTERI BALQIS ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1sJKE3q1mgtfKe-M5AWEnQccYdqp23NOc?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       },
+      {
+        "name": "EP17-MAKAM 25 METER DI HADRAMAUT ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/121BCfTVqnKdTp81z-pXCykioHRtXjdh3?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP18-MUAZ BIN JABAL ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1bzPVgODH7tefHuqV2cXvY8ADuMPul5kS?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP19-KOTA ABRAHAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/15QrOgadTIVUYPb2-GruWcTXSFDdcsDgE?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       },
+      {
+        "name": "EP20-RUMAH SAIDINA ALI ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1sqSOgYkIXN3CaJS_Lp4CUWNBu3-OPPeL?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP21-PEMBUNUHAN SAIDINA ALI ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1AiJOueTJFNZLisB6W1yo5ciaSZXV5tSb?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP22-KARBALA ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1vh0-xmYkA3QByLDXa2Bl0RfAV14ZQXam?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       },
+      {
+        "name": "EP23-ISTANA NAMRUD ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1184rLQyGXr-SxVMAXxCqdzqDFk3huNVq?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP24-TAMADUN BABYLON ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1WnmI57IpYSqAo0BBwqL2EYOj-ePC45Yt?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP25-NABI-NABI DI IRAQ ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1AbLbgQzJZ-Wx86u3Ra4WsgAcjXeDMph1?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       },
+      {
+        "name": "EP26-GUDANG NABI YUSUF ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1_7SMjYviLlrb-fO1Ze7REE5O38j_J5rR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP27-LEMBAH RAJA ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1Kg58I7m-2gWRj0lzAddnrsHxnfhblQ9r?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP28-ADAM & HAWA ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1p8AVC1egp9SFoaeb_UJnAtJmJdZLgNsf?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       },
+      {
+        "name": "EP29-GUA HIRA' ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/12ihANeTaBguULYgXYDztKGcXiE4S84Y1?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EP30-PIAGAM MADINAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1pnriI8mK-KzTlx-c420akSNx8tw5A14A?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]
   },
   {
     "name": "SEPAHTU ALPUASA 2018",
