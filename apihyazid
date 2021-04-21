@@ -1581,26 +1581,6 @@
     ]  
   },
   {
-    "name": "KOLEKSI PUASA",
-    "samples": [      
-      {
-        "name": "16 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/16puasa.jpg",
-        "uri": "https://f104.megaup.net/Wu92/16.Puasa.2017.HDTV.720p.x264.AAC-LTTi.mp4?download_token=f2ae1e1ec2d26f427682275826626aee979c5c2a352bc46f0ad777ddf476bf70"
-      },
-      {
-        "name": "17 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/17puasa.jpg",
-        "uri": "https://f22.megaup.net/Wu8y/17.Puasa.2019.HDTV.720p.x264.AAC.mp4?download_token=0bfad000d258a543e50bce3161700248c8be7dff39ae123f1ce7a6d2f4dbecf5"
-      },
-      {
-        "name": "18 PUASA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/18puasa.jpg",
-        "uri": "https://f90.megaup.net/1Cuoh/18.Puasa..Di.Kampong.Pisang.1080p.PPVHD.mkv?download_token=260cdfb9e2cb0175e408db7a32711c68e9c23736a88042222c6fb47c0ef41830"
-      }
-    ]  
-  },
-  {
     "name": "JEJAK RASUL S1",
     "samples": [ 
       {
@@ -1754,16 +1734,6 @@
         "uri": "https://www.googleapis.com/drive/v3/files/1pnriI8mK-KzTlx-c420akSNx8tw5A14A?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
-  },
-  {
-    "name": "AYAT DARI LANGIT",
-    "samples": [ 
-      {
-        "name": "MOVIES ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AyatDARI.jpg",
-        "uri": "https://f71.megaup.net/2Ytgw/Ayat.Dari.Langit.2021.1080p.HDTV.WOWMALAYFLIX.mkv?download_token=acf649fff4e030692d5c12b539a6c4e2c960d37cbcb8e1a8a7b3b2886f61f62d"
-      }
-    ]
   },
   {
     "name": "SEPAHTU ALPUASA 2018",
@@ -5657,11 +5627,6 @@
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/30/Padaiyappa%20(1999).mp4"
       },
       {
-        "name": "SIVAJI THE BOSS",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sivaji.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Sivaji%20The%20Boss%20(2007)%20HDRip.mkv"
-      },
-      {
         "name": "PETTA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/petta.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Petta%20HD%20(2019).mkv"
@@ -5700,11 +5665,6 @@
         "name": "ANNIYAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/anniyan.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Anniyan%20HDTV%20(2015).mkv"
-      },
-      {
-        "name": "RAATCHASI",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cikgu.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Raatchasi%20HDRip%20(2019).mkv"
       }
     ]
   },
