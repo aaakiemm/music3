@@ -5480,16 +5480,21 @@
         "name": "DILWALE DULHANIA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dilwaledulhania.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/TamilsBolly/Dilwale%20Dulhania%20Le%20Jayenge%20(1995).mp4"
-      }
+       }
     ]
   },
-      {
+  {
     "name": "TAMIL MOVIES",
     "samples": [ 
       {
         "name": "TEDDY",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Teddy.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/tamil10/Teddy%202021ok.mp4"
+      },
+      {
+        "name": "GHAJINIKANTH",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ghajinikanth.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/Ghajinikanth%20Web-DL%20(2018).mkv"
       },
       {
         "name": "MASTER",
@@ -5517,6 +5522,76 @@
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Theri%20Web-DL%20(2016).mkv"
       },
       {
+        "name": "BHAIRAVAA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bhairavaa.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Bairavaa%20HDRip%20(2017).mkv"
+      },
+      {
+        "name": "PULI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/puli.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil5/Puli%20(2015)%20HDRip.mkv"
+      },
+      {
+        "name": "KATHTHI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bhairavaa.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/Kaththi%20(2014).mkv"
+      },
+      {
+        "name": "THALAIVAA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/thalaivaa.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil5/Thalaivaa.2013.Malaysub.mp4"
+      },
+      {
+        "name": "THUPPAKKI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/thuppaki.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/NewVersion/1/THUPPAKKI%20(2012).MALAY%20HARDSUB.mp4"
+      },
+      {
+        "name": "VELAYUDHAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/vella.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Velayudham%20HDRip%20(2011).mp4"
+      },
+      {
+        "name": "KAAVALAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kaavalan.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/Kaavalan%20(2011)%20HDRip.mkv"
+      },
+      {
+        "name": "POKKIRI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/pokkiri.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/TamilsBolly/Pokkiri%20(2007)%20HD.mp4"
+      },
+      {
+        "name": "VISWASAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/viswasam.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil5/Viswasam%20AVC%20HD%20(2019).mkv"
+      },
+      {
+        "name": "VIVEGAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/vivegam.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil5/Vivegam%20HDRip%20(2017).mkv"
+      },
+      {
+        "name": "YENNAIL ARINDHAAL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/yennai.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil5/Yennai%20Arindhaal%20HDTV%20(2015).mkv"
+      },
+      {
+        "name": "VEDHALAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/vedhalam.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Vedalam%20Web-DL%20(2015).mkv"
+      },
+      {
+        "name": "VEERAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/veeram.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Veeram%20HDRip%20(2014).mkv"
+      },
+      {
+        "name": "ARRAMBAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/arramban.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Arrambam%20SDTV%20(2013).mkv"
+      },
+      {
         "name": "SOORARAI POTTRU",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SSSS.png",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/tamil1/Soorarai%20Pottru%20(2020).mp4"
@@ -5530,26 +5605,120 @@
         "name": "KAAPPAAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/REERYERYE.png",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/Kaappaan%20(2019)%20HD.mkv"
-     },
+      },
       {
         "name": "ANJAAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/TWEWTEWET.png",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Anjaan%20HDRip%20(2014).mkv"
       },
-      {  
+      {
+        "name": "SINGAM 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/singam.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil7/Singam%202%20(2013)%20sub.mkv"
+      },
+      {
+        "name": "SINGAM 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/singam.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Singam%203%20HDRip%20(2017).mkv"
+      },
+      {
+        "name": "AYAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ayan.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Ayan%20(2009)%20Tamil%20720p%20Malay%20Hardsub.mp4"
+      },
+      {   
         "name": "DRISHYAM 2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/drishyam2.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/tamil8/Drishyam%202%20(2021)ok.mp4"
       },
       {
+        "name": "YEVADU",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/yevadu.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil5/Yevadu%20HDRip%20(2014).mkv"
+      },
+      {
+        "name": "BRUCE LEE THE FIGHTER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bruce.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Bruce%20Lee%20The%20Fighter%20HDRip%20(2015).mkv"
+      },
+      {
         "name": "VINAYA VIDHEYA RAMA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Vinaya.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/tamil10/Vinaya%20Vidheya%20Rama%20(2019).mp4"
+      },
+      {
+        "name": "ROBOT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rajinirobot.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Enthiran%20HDTV%20(2010).mkv"
+      },
+      {
+        "name": "2.0",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/2.0.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/2.0%20Web-DL%20(2019).mp4"
+      },
+      {
+        "name": "DARBAR",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/darbar.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/Tamil-Hindi/Tamil8/Darbar%20(2019)%20HDRip.mp4"
+      },
+      {
+        "name": "PADAYAPPA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/padayappa.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/30/Padaiyappa%20(1999).mp4"
+      },
+      {
+        "name": "SIVAJI THE BOSS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sivaji.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Sivaji%20The%20Boss%20(2007)%20HDRip.mkv"
+      },
+      {
+        "name": "PETTA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/petta.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Petta%20HD%20(2019).mkv"
+      },
+      {
+        "name": "MUTHU",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/muthu.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Muthu%20HDTV%20(1995).mkv"
+      },
+      {
+        "name": "CHANDRAMUKHI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/chandramukhi.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Chandramukhi%20HDRip%20(2005).mkv"
+      },
+      {
+        "name": "IRU MUGAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/iru.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/Iru%20Mugan%20Web-DL%20(2016).mkv"
+      },
+      {
+        "name": "VIRUS I",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/virus.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/I%20HDRip%20(2015).mp4"
+      },
+      {
+        "name": "SAAMY 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/saamy2.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Saamy%C2%B2%20%20HD%20AVC%20(2018).mkv"
+      },
+      {
+        "name": "KADARAM KONDAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kondan.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/Kadaram%20Kondan%20HDRip%20(2019).mkv"
+      },
+      {
+        "name": "ANNIYAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/anniyan.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Anniyan%20HDTV%20(2015).mkv"
+      },
+      {
+        "name": "RAATCHASI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cikgu.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Raatchasi%20HDRip%20(2019).mkv"
       }
     ]
   },
-  
-      {
+  {
            "name": "MOVIES",
             "samples": [
        {
