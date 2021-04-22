@@ -1581,6 +1581,21 @@
     ]  
   },
   {
+    "name": "OMBAK RINDU 1",
+    "samples": [      
+      {
+        "name": "cuba test lah",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
+        "uri": "https://iflix-videocdn-p1.akamaized.net/59b35/268377.ism/268377_v2.mpd?idx=0&assetId=268377&userId=v_61-i_527993946",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://csi.gstatic.com/csi?v=2&s=ima&dmc=8&puid=49~kntik02x&c=1743904075091&slotId=871952037545.5&ps=0x0&event_name=unmeasurable_asset&resource_name=https%253A%252F%252Flicense.iflix.com%252Fconsume%252Fb2d81c95-279b-4dc1-b04d-1c93962d08b9&encoded_body_size=0&transfer_size=0",
+	"drm_key_request_properties": {
+        "X-Client-Data" : "CJC2yQEIpLbJAQjEtskBCKmdygEI+MfKAQjknMsBCKmdywE="
+      }
+    }
+    ]  
+  },
+  {
     "name": "JEJAK RASUL S1",
     "samples": [ 
       {
