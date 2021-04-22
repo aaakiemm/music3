@@ -5,14 +5,14 @@
       {
         "name": "TV1",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv1.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
       },
       {
         "name": "TV2",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
       },
@@ -3550,6 +3550,11 @@
         "name": "EPISODE 17 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP17.mp4"
+      },
+      {
+        "name": "EPISODE 18 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP18.mp4"
       }
     ]
   },
