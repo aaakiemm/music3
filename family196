@@ -2864,7 +2864,6 @@
         "name": "cuba test lah",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
         "uri": "https://zee5vod.akamaized.net/drm1/NM4AWS7/Domestic/Library_Content/And_TV/RAZIA_SULTAN/RAZIA_SULTAN_EP01_hi_c3b2e929.mp4/manifest.mpd?c3.ri=6924574760618913868",
-	"extension": "mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://wv-keyos-aps1.licensekeyserver.com/",
 	"drm_key_request_properties": {
