@@ -2864,6 +2864,7 @@
         "name": "cuba test lah",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
         "uri": "https://linear-playback.astro.com.my/linear-livewvdaf/2402/default_ott.mpd",
+	"extension": "mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license",
 	"drm_key_request_properties": {
