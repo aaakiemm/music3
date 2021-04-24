@@ -1577,8 +1577,28 @@
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
-       }
-    ]
+      }
+    ]  
+  },
+  {
+    "name": "KOLEKSI PUASA",
+    "samples": [      
+      {
+        "name": "16 PUASA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/16puasa.jpg",
+        "uri": "https://f104.megaup.net/Wu92/16.Puasa.2017.HDTV.720p.x264.AAC-LTTi.mp4?download_token=5c6525b09691cf8acbb8374417a7e1caae966ab43939d047579bf99ef6e6c5a8"
+      },
+      {
+        "name": "17 PUASA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/17puasa.jpg",
+        "uri": "https://f22.megaup.net/Wu8y/17.Puasa.2019.HDTV.720p.x264.AAC.mp4?download_token=2d014217a6551b54756af86b04b1a3564d6652685e8b24e4ee9b3b1eb80654f7"
+      },
+      {
+        "name": "18 PUASA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/18puasa.jpg",
+        "uri": "https://f67.megaup.net/1Cuok/18.Puasa..Di.Kampong.Pisang.720p.PPVHD.mkv?download_token=9db0d7b003d1eb301592858961617403501bd64be5551fffd9bf4f7f6ce6fb5a"
+      }
+    ]  
   },
   {
     "name": "JEJAK RASUL S1",
