@@ -5429,6 +5429,272 @@
     ]
   },
   {
+    "name": "CHINESE MOVIES",
+    "samples": [ 
+      {
+        "name": "ICEMAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/iceman.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Iceman%20The%20Time%20Traveller%20(2018)Bluray%20Malay%20hardsub.mp4"
+      },
+      {
+        "name": "DEATH CHASING",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/deathchasing.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru10/Death%20Chasing%202021.mp4"
+      },
+      {
+        "name": "DEATH WORM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/deathworm.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru10/Death%20Worm%202020.mp4"
+      },
+      {
+        "name": "FIST OF FURY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/dilchahta.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Fist%20of%20fury%201972%20720p%20bluray%20Malayhardsub.mp4"
+       },
+      {
+        "name": "THE GAME OF DEATH",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/ghajini.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/The%20game%20of%20death%20(1978)brrip%20720p%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "THE WAY OF THE DRAGON",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/pk.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/The%20Way%20Of%20The%20Dragon%20(1972)%20720p%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "ENTER THE DRAGON",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/lagaan.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Enter%20the%20dragon%20(1973)720p%20bluray%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "THE BIG BOSS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/dangal.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/The%20big%20boss%20%20%20(1971)720p%20bluray%20Malayhardsub.mp4"
+      },
+      {
+        "name": "KILL ZONE 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/secretsuperstar.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/SPL%20Kill%20Zone%20(2005)720p%20Bluray%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "KILL ZONE 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/fanaa.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Kill%20Zone%202%20(2015)%20720p%20Bluray%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "KING OF COMEDY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/talaash.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/King%20Of%20Comedy%20(1999)%20Dvdrip%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "KUNGFU HUSTLE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/ishq.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Kung%20Fu%20Hustle%20(2004)%20Bluray%20720p%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "SHAOLIN SOCCER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/raja.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/22/Shaolin%20Soccer%202001.mp4"
+      },
+      {
+        "name": "CJ7",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/ghulam.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/45/Cj7%20-%20Cheung%20Gong%207%20Hou%202008.mp4"
+      },
+      {
+        "name": "LEGEND OF THE FIST",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/dhoom3.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Legend_Of_The_Fist_The_Return.mp4"
+      },
+      {
+        "name": "IP MAN LEGACY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/kuchkuch.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Master%20Z%20Ip%20Man%20Legacy%20(2018)720p%20Brrip%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "THE GREAT WALL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/kabhikhushi.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/The%20Great%20Wall%20(2016)%20Bluray%20720p%20Malay%20hardsub.mp4"
+      },
+      {
+        "name": "IP MAN 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/pardes.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Ip%20Man%202008%20720p%20Malay%20Hardsub.mkv"
+      },
+      {
+        "name": "IP MAN 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/baadshah.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Ip%20Man%202%202010%20720p%20Malay%20Hardsub.mkv"
+      },
+      {
+        "name": "IP MAN 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/duplicate.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Ipman3%202015%20720p%20%20MalayHardsub.mkv"
+      },
+      {
+        "name": "IP MAN 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/dilwaledulhania.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/Random5%20Movies%20Malay%20Sub/Ip%20Man.4%20The%20Finale%20(2019)%20720p%20BluRay%20x264%20AAC.mkv4"
+      },
+      {
+        "name": "OPERATION RED",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/dilse.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Operation%20Red%20Sea%202018%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "COOK UP A STORM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/diltopagal.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Cook%20Up%20AStorm%20(2017)%20Bluray%20720p%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "DRAGON BLADE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/dilwale.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Dragon%20Blade%202015%20720p%20BluRay%20x264%20AAC%20-%20Ozlem.mp4"
+      },
+      {
+        "name": "INITIAL D",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/kahonaa.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Initial%20D%20(2005)%20Bluray%20720p%20Malay%20Hardsub.mkv"
+      },
+      {
+        "name": "CONNECTED",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/koimilgaya.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Connected%202008%20Hardsub%20Malay%20@hardsubmalaymovie.mp4"
+      },
+      {
+        "name": "BOUNTY HUNTER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/krrish.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Bounty%20Hunters%20(2016)%20720p%20Bluray%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "PROJECT GUTENBERG",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/krrish.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Project%20Gutenberg%20(2018)%20720p%20Bluray%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "THE SORCERER AND THE WHITE SNAKE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/krrish.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/The%20Sorcerer_and%20the%20White%20Snake.mp4"
+      },
+      {
+        "name": "MR. VAMPIRE 1985",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/hardil.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/14/Mr.%20Vampire%20(1985).mp4"
+      },
+      {
+        "name": "MR.VAMPIRE 1987",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/chori.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/14/Mr.%20Vampire%203%20(1987)%20.mp4"
+      },
+      {
+        "name": "MR.VAMPIRE 1989",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/bhaijaan.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/16/Vampire%20Vs%20Vampire%20(1989).mp4"
+      },
+      {
+        "name": "MR VAMPIRE SAGA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/sultan.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/14/Mr.%20Vampire%20saga.mp4"
+      },
+      {
+        "name": "WARLORDS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/humsaath.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/14/The%20Warlords%202007.mp4"
+      },
+      {
+        "name": "THE MONKEY KING 2014",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/kick.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/22/The%20Monkey%20King%20(2014)%20.mp4"
+      },
+      {
+        "name": "THE MONKEY KING 2016",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/jaiho.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/22/The%20Monkey%20King%202%20(2016).mp4"
+      },
+      {
+        "name": "THE INVINCIBLE DRAGON",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/bodyguard.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/27/The%20Invincible%20Dragon%202019.mp4"
+      },
+      {
+        "name": "CHINESE ZODIAC",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/dabang2.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/29/CZ12%20(2012).mp4"
+      },
+      {
+        "name": "MISSION MILANO",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/dabang3.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/32/Mission%20Milano%20(2016)%20.mp4"
+      },
+      {
+        "name": "THE WHITE STORM 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/tubelight.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/32/The%20White%20Storm%202%20Drug%20Lords%20(2019).mp4"
+      },
+      {
+        "name": "CRIME STORY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/33/Crime%20Story%201993.mp4"
+      },
+      {
+        "name": "MANHUNT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/31/Manhunt%20(2017).mp4"
+      },
+      {
+        "name": "THE THOUSAND FACES OF DUNJIA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/30/The%20Thousand%20Faces%20Of.mp4"
+      
+      },
+      {
+        "name": "SHINJUKU INCIDENT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/30/Shinjuku%20Incident%20(2009).mp4"
+      },
+      {
+        "name": "LITTLE BIG SOLDIER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/30/Little%20Big%20Soldier%20%5B2010%5D.mp4"
+      },
+      {
+        "name": "DOUBLE WORLD",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/33/Double%20World%202020.mp4"
+      },
+      {
+        "name": "THE MEDALLION",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/33/The%20Medallion%202003.mp4"
+      },
+      {
+        "name": "TWIN DRAGONS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/33/Twin%20Dragons%201992.mp4"
+      },
+      {
+        "name": "THUNDERBOLT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/35/Thunderbolt%20(1995).mp4"
+      },
+      {
+        "name": "SHANGHAI NOON",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/36/Shanghai%20Noon%202000.mp4"
+      },
+      {
+        "name": "THE MASTER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/36/The%20Master%201989.mp4"
+      },
+      {
+        "name": "FIRE STORM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/1/andazapna.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/Firestorm%202013.mp4"
+      }
+    ]
+  },
+  {
     "name": "HINDI MOVIES",
     "samples": [ 
       {
