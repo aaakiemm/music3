@@ -5706,6 +5706,36 @@
         "name": "FIRE STORM",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/firestorm.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/Firestorm%202013.mp4"
+      },
+      {
+        "name": "POLICE STORY 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/policetory1.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/Police%20Story%20(1985).mp4"
+      },
+      {
+        "name": "POLICE STORY 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/policetory2.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/Police%20Story%202%20(1988).mp4"
+      },
+      {
+        "name": "POLICE STORY 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/policetory3.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/Police%20Story%203%20(1992).mp4"
+      },
+      {
+        "name": "POLICE STORY 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/policetory4.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/First%20Strike%201996.mp4"
+      },
+      {
+        "name": "NEW POLICE STORY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/newpolicetory.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/New%20Police%20Story%202004.mp4"
+       },
+      {
+        "name": "POLICE STORY 2013",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/policetory2013.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/Police%20Story%20Lockdown%20(2013).mp4"
       }
     ]
   },
