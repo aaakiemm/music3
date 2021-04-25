@@ -1601,31 +1601,6 @@
     ]  
   },
   {
-    "name": "JASON STATHAM MOVIES",
-    "samples": [      
-      {
-        "name": "THE TRANSPORTER 1",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/The%20Transporter.mp4"
-      },
-      {
-        "name": "THE TRANSPORTER 2",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Transporter%20II%20Malay%20Hardsub.mp4"
-      },
-      {
-        "name": "THE TRANSPORTER 3",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Transporter%20III%20Malay%20Hardsub.mp4"
-      },
-      {
-        "name": "THE MECHANIC",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mechanic.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/The%20Mechanic%20(2011)%20Bluray%20720p%20Malay%20Hardsub.mp4"
-      }
-    ]  
-  },
-  {
     "name": "JEJAK RASUL S1",
     "samples": [ 
       {
@@ -5470,8 +5445,33 @@
         "name": "EPISODE 50",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Yehjaadu.jpg",
         "uri": "https://files2.ohflix.workers.dev/ohflix342/three/end-tv-series5/Yehh%20Jadu%20Hai%20Jinn%20Kai/Yehh%20Jadu%20Hai%20Jinn%20Kai%2050.mp4"
+       }
+    ]  
+  },
+  {
+    "name": "JASON STATHAM MOVIES",
+    "samples": [      
+      {
+        "name": "THE TRANSPORTER 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/The%20Transporter.mp4"
+      },
+      {
+        "name": "THE TRANSPORTER 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Transporter%20II%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "THE TRANSPORTER 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Transporter%20III%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "THE MECHANIC",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mechanic.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/The%20Mechanic%20(2011)%20Bluray%20720p%20Malay%20Hardsub.mp4"
       }
-    ]
+    ]  
   },
   {
     "name": "CHINESE MOVIES",
@@ -5756,11 +5756,216 @@
         "name": "NEW POLICE STORY",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/newpolicestory.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/New%20Police%20Story%202004.mp4"
-       },
+      },
       {
         "name": "POLICE STORY 2013",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/policestory2013.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/37/Police%20Story%20Lockdown%20(2013).mp4"
+      },
+      {
+        "name": "14 BLADES",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/14blades.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/38/14%20Blades%20(2010).mp4"
+      },
+      {
+        "name": "SAVING GENERAL YANG",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/generalyang.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/38/Saving%20General%20Yang%202013.mp4"
+      },
+      {
+        "name": "DRAGON FOREVER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dragonforever.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/39/Dragons%20Forever%201988.mp4"
+      },
+      {
+        "name": "DRAGON WU XIA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wuxia.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/42/Wu%20Xia%202011-Update%20Soon.mp4"
+      },
+      {
+        "name": "OPERATION MEKONG",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mekong.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/40/Operation%20Mekong%20(2016).mp4"
+      },
+      {
+        "name": "GOLDEN JOB",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/goldenjob.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/40/Golden%20Job%202018.mp4"
+      },
+      {
+        "name": "LAWLESS KINGDOM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lawless.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/40/Lawless%20Kingdom%202013.mp4"
+      },
+      {
+        "name": "FEARLESS HYENA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/fearless.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/40/Fearless%20Hyena%201979.mp4"
+      },
+      {
+        "name": "FEARLESS HYENA 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/fearless.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/40/Fearless%20Hyena%202%201983.mp4"
+      },
+      {
+        "name": "MONSTER HUNT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/monsterhunt.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/43/Monster%20Hunt%20(2015).mp4"
+      },
+      {
+        "name": "CITY ON FIRE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cityonfire.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/43/City%20On%20Fire%201987.mp4"
+      },
+      {
+        "name": "BLEEDING STEEL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bleedingsteel.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/44/Bleeding%20Steel%202017.mp4"
+      },
+      {
+        "name": "ONCE A THIEF",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/onceathief.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/44/Once%20A%20Thief%201991.mp4"
+      },
+      {
+        "name": "FIGHT BACK TO SCHOOL 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/fightbacktoschool.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/45/Fight%20Back%20To%20School%201%20(1991).mp4"
+      },
+      {
+        "name": "FIGHT BACK TO SCHOOL 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/fightbacktoschool.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/45/Fight%20Back%20To%20School%202%20(1992).mp4"
+      },
+      {
+        "name": "FIGHT BACK TO SCHOOL 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/fightbacktoschool.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/45/Fight%20Back%20To%20School%203%20(1993).mp4"
+      },
+      {
+        "name": "IRON MONKEY 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ironmonkey.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/49/Iron%20Monkey.mp4"
+      },
+      {
+        "name": "IRON MONKEY 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ironmonkey.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/49/Iron%20Monkey%202.mp4"
+      },
+      {
+        "name": "TRIPLE TAP",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tripletap.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/48/Triple%20Tap%202010%20Chinese.mp4"
+      },
+      {
+        "name": "LEGALLY DECLARED DEAD",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/legally.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/baru1/Legally%20Declared%20Dead%20(2019).mp4"
+      },
+      {
+        "name": "LEAP",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/leap.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/baru2/Leap%20(2020).mp4"
+      },
+      {
+        "name": "BEYOND THE DREAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/beyondthedream.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/baru3/Beyond%20the%20Dream%20(2019).mp4"
+      },
+      {
+        "name": "THE LEAKERS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/theleakers.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/50/The%20Leakers%20(2018).mp4"
+      },
+      {
+        "name": "MONSTER RUN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MONSTERRUN.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/baru6/Monster%20Run%20(2020).mp4"
+      },
+      {
+        "name": "COLD WAR 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/coldwar.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/51/Cold%20War%202012.mp4"
+      },
+      {
+        "name": "COLD WAR 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/coldwar.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/51/Cold%20War%202%202016.mp4"
+      },
+      {
+        "name": "BIG BROTHER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bigbrother.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/52/Big%20Brother%202018.mp4"
+      },
+      {
+        "name": "ONCE UPON TIME IN SHANGHAI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/onceupontimwinshanghai.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/52/Once%20Upon%20a%20Time%20in%20Shanghai%20(2014).mp4"
+      },
+      {
+        "name": "DRUNKEN MASTER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/drunkenmaster.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/53/Drunken%20Master%201978.mp4"
+      },
+      {
+        "name": "FORBIDDEN CITY COP",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/forbiddencitycop.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/53/Forbidden%20City%20Cop%20(1996).mp4"
+      },
+      {
+        "name": "THE REDEEMERS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/theredeemers.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru9/The%20Redeemers%20(2020).mp4"
+      },
+      {
+        "name": "FROM BEIJING WITH LOVE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frombeijingwithlove.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru9/From%20Beijing%20with%20Love%201994.mp4"
+      },
+      {
+        "name": "FIND YOUR VOICE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/findyourvoice.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru9/Find%20Your%20Voice%20(2020).mp4"
+      },
+      {
+        "name": "FATAL VISIT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/fatalvisit.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru9/Fatal%20Visit%20(2019).mp4"
+      },
+      {
+        "name": "THE LEGEND OF DRUNKEN MASTER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/thelegendofdrunkenmaster.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/53/The%20Legend%20of%20Drunken%20Master%201994.mp4"
+      },
+      {
+        "name": "LOVE ON DELIVERY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/loveondelivery.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/53/Love%20on%20Delivery%20(1994).mp4"
+      },
+      {
+        "name": "SHOCK WAVE 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/shockwave.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/42/Shock%20Wave%202017.mp4"
+      },
+      {
+        "name": "SHOCK WAVE 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/shockwave.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru10/Shock%20Wave%202%20(2020).mp4"
+      },
+      {
+        "name": "THE SAINT OF GAMBLERS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/thesaintofgamblers.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru10/The%20Saint%20Of%20Gamblers%20(1995).mp4"
+      },
+      {
+        "name": "UNLEASHED",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/unleashed.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru10/Unleashed%20(2020).mp4"
+      },
+      {
+        "name": "KUNGFU DUNK",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kungfudunk.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Kung%20Fu%20Dunk%20(2008).mp4"
       }
     ]
   },
