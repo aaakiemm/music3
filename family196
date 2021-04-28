@@ -8371,6 +8371,31 @@
         "uri": "https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8"
       },
       {
+        "name": "ERA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/era%20baru.jpg",
+        "uri": "http://astro2.rastream.com/era"
+      },
+      {
+        "name": "ERA SABAH FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERASABAH.jpg",
+        "uri": "http://astro2.rastream.com/amp-era-kk"
+      },
+      {
+        "name": "ERA SARAWAK FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERASARAWAK.jpg",
+        "uri": "http://astro2.rastream.com/amp-era-kch"
+      },
+      {
+        "name": "SINAR FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SINAR.jpg",
+        "uri": "http://astro2.rastream.com/sinar"
+      },
+      {
+        "name": "GEGAR FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/GEGAR.jpg",
+        "uri": "http://astro3.rastream.com/gegar"
+      },
+      {
         "name": "KELANTAN FM ",
         "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-KelantanFM-New.jpg",
         "uri": "https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8"
