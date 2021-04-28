@@ -8350,8 +8350,20 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021729X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1a0af66214599c6322e5ada86d688fbb365e6f062aa36ea816289e7f800705e6db3eeb2f0da6523f2743f95b777d17541920e0b6ad870be9874d935abeadfdcd&drmId=prod"
       }
+    ]  
+  },
+  {
+    "name": "RADIO FM",
+    "samples": [ 
+      {
+        "name": "EPISOD 1 ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8",
+        "ad_tag_uri": "https://vastsynthesizer.appspot.com/empty-midroll"
+      }
     ]
   }
 ]
+
 
 
