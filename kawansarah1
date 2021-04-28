@@ -625,6 +625,11 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
       },
       {
+        "name": "BOLLYONEHD",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/buliwud.m3u8"
+      },
+      {
         "name": "ASTRO BOO",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/boolaa.m3u8"
@@ -3529,6 +3534,11 @@
         "name": "EPISODE 19 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP19.mp4"
+      },
+      {
+        "name": "EPISODE 20 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP20.mp4"
       }
     ]
   },
@@ -5434,6 +5444,11 @@
         "name": "THE MECHANIC",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mechanic.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/The%20Mechanic%20(2011)%20Bluray%20720p%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "MECHANIC RESURRECTION",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mechanic2.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Mechanicresurrection(2016)Hardsub.mp4"
       }
     ]  
   },
