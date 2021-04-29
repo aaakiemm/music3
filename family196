@@ -8401,11 +8401,6 @@
         "uri": "http://astro4.rastream.com/india"
       },
       {
-        "name": "HIJRAH FM ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/HIJRAHFM.jpg",
-        "uri": "http://cloud.tujuh.my:8073/stream"
-      },
-      {
         "name": "BAPAKKU FM ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BAPAKKUFM.jpg",
         "uri": "http://radio.bapakku.fm:8000/;stream.nsv&type=mp3"
@@ -8414,11 +8409,6 @@
         "name": "SANDAKAN FM ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SANDAKANFM.jpg",
         "uri": "http://192.111.140.6:8142/;stream.nsv&type=mp3"
-      },
-      {
-        "name": "TAWAU FM ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/TAWAUFM.jpg",
-        "uri": "http://192.111.140.6:8144/;stream.nsv&type=mp3"
       },
       {
         "name": "MANIS FM ",
