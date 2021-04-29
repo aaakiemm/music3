@@ -8372,28 +8372,78 @@
       },
       {
         "name": "ERA FM ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/era%20baru.jpg",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
         "uri": "http://astro2.rastream.com/era"
       },
       {
         "name": "ERA SABAH FM ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERASABAH.jpg",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
         "uri": "http://astro2.rastream.com/amp-era-kk"
       },
       {
         "name": "ERA SARAWAK FM ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERASARAWAK.jpg",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
         "uri": "http://astro2.rastream.com/amp-era-kch"
       },
       {
         "name": "SINAR FM ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SINAR.jpg",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SINARFM.jpg",
         "uri": "http://astro2.rastream.com/sinar"
       },
       {
         "name": "GEGAR FM ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/GEGAR.jpg",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/GEGARFM.jpg",
         "uri": "http://astro3.rastream.com/gegar"
+      },
+      {
+        "name": "INDIABEAT FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/INDIABEAT.jpg",
+        "uri": "http://astro4.rastream.com/india"
+      },
+      {
+        "name": "HIJRAH FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/HIJRAHFM.jpg",
+        "uri": "http://cloud.tujuh.my:8073/stream"
+      },
+      {
+        "name": "BAPAKKU FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BAPAKKUFM.jpg",
+        "uri": "http://radio.bapakku.fm:8000/;stream.nsv&type=mp3"
+      },
+      {
+        "name": "SANDAKAN FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SANDAKANFM.jpg",
+        "uri": "http://192.111.140.6:8142/;stream.nsv&type=mp3"
+      },
+      {
+        "name": "TAWAU FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/TAWAUFM.jpg",
+        "uri": "http://192.111.140.6:8144/;stream.nsv&type=mp3"
+      },
+      {
+        "name": "MANIS FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MANISFM.jpg",
+        "uri": "https://n14.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdZzjyGgATLZAajOGnI_yhg"
+      },
+      {
+        "name": "IDOLA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/IDOLAFM.jpg",
+        "uri": "https://usa18.fastcast4u.com/proxy/idolafm?mp=/1"
+      },
+      {
+        "name": "IMPIAN FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/IMPIANFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-impian/icecast.audio"
+      },
+      {
+        "name": "LAGENDA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/LAGENDAFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-lagenda/icecast.audio"
+      },
+      {
+        "name": "KELATE KITO FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/KELATEKITOFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-klatekita/icecast.audio"
       },
       {
         "name": "KELANTAN FM ",
