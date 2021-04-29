@@ -590,6 +590,11 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/suko.m3u8"
       },
       {
+        "name": "CITRA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8"
+      },
+      {
         "name": "ARENA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek5.m3u8"
@@ -615,11 +620,6 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek4.m3u8"
       },
       {
-        "name": "CITRA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8"
-      },
-      {
         "name": "WWE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
@@ -636,7 +636,7 @@
       },
       {
         "name": "DRAMA SANGAT",
-        "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
       },
       {
@@ -1786,6 +1786,11 @@
         "name": "MINGGU 2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Puasa%20(2021)/Sepahtu%20Reunion%20Al%20Puasa%20(2021)%20Minggu%202.mp4"
+      },
+      {
+        "name": "MINGGU 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Puasa%20(2021)/Sepahtu%20Reunion%20Al%20Puasa%20(2021)%20Minggu%203.mp4"
       }
     ]  
   },
@@ -3539,6 +3544,11 @@
         "name": "EPISODE 20 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP20.mp4"
+      },
+      {
+        "name": "EPISODE 21 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP21.mp4"
       }
     ]
   },
@@ -3819,6 +3829,16 @@
         "name": "EPISODE 26 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/taksempurna.jpg",
         "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Random%20Drama%20Malay9/Tak%20Sempurna%20Mencintaimu/Tak%20Sempurna%20Mencintaimu%20Episod%2026.mp4"
+      },
+      {
+        "name": "EPISODE 27 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/taksempurna.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Random%20Drama%20Malay9/Tak%20Sempurna%20Mencintaimu/Tak%20Sempurna%20Mencintaimu%20Episod%2027.mp4"
+      },
+      {
+        "name": "EPISODE 28 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/taksempurna.jpg",
+        "uri": "https://files2.ohflix.workers.dev/ohflix342/three/Random%20Drama%20Malay9/Tak%20Sempurna%20Mencintaimu/Tak%20Sempurna%20Mencintaimu%20Episod%2028.mp4"
       }
     ]
   },
@@ -5449,6 +5469,21 @@
         "name": "MECHANIC RESURRECTION",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mechanic2.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Mechanicresurrection(2016)Hardsub.mp4"
+      },
+      {
+        "name": "THE MEG",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/meg.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/14/The%20Meg%202018%20Hardsub%20Malay.mp4"
+      },
+      {
+        "name": "WILD CARD",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wildcard.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Wildcard%20(2015)%20720p%20Malay%20Hardsub.mp4"
+      },
+      {
+        "name": "HOME FRONT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/homefront.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/NewVersion/6/Homefront%20(2013)%20BluRay.mp4"
       }
     ]  
   },
@@ -8335,8 +8370,169 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021729X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1a0af66214599c6322e5ada86d688fbb365e6f062aa36ea816289e7f800705e6db3eeb2f0da6523f2743f95b777d17541920e0b6ad870be9874d935abeadfdcd&drmId=prod"
       }
+    ]  
+  },
+  {
+    "name": "RADIO FM",
+    "samples": [ 
+      {
+        "name": "KLASIK FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8"
+      },
+      {
+        "name": "NATIONAL FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradionasionlfm.jpg",
+        "uri": "https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8"
+      },
+      {
+        "name": "ASYIK FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioasyikfm.jpg",
+        "uri": "https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8"
+      },
+      {
+        "name": "ERA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
+        "uri": "http://astro2.rastream.com/era"
+      },
+      {
+        "name": "ERA SABAH FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
+        "uri": "http://astro2.rastream.com/amp-era-kk"
+      },
+      {
+        "name": "ERA SARAWAK FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
+        "uri": "http://astro2.rastream.com/amp-era-kch"
+      },
+      {
+        "name": "SINAR FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SINARFM.jpg",
+        "uri": "http://astro2.rastream.com/sinar"
+      },
+      {
+        "name": "GEGAR FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/GEGARFM.jpg",
+        "uri": "http://astro3.rastream.com/gegar"
+      },
+      {
+        "name": "INDIABEAT FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/INDIABEAT.jpg",
+        "uri": "http://astro4.rastream.com/india"
+      },
+      {
+        "name": "BAPAKKU FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BAPAKKUFM.jpg",
+        "uri": "http://radio.bapakku.fm:8000/;stream.nsv&type=mp3"
+      },
+      {
+        "name": "SANDAKAN FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SANDAKANFM.jpg",
+        "uri": "http://192.111.140.6:8142/;stream.nsv&type=mp3"
+      },
+      {
+        "name": "MANIS FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MANISFM.jpg",
+        "uri": "https://n14.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdZzjyGgATLZAajOGnI_yhg"
+      },
+      {
+        "name": "IDOLA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/IDOLAFM.jpg",
+        "uri": "https://usa18.fastcast4u.com/proxy/idolafm?mp=/1"
+      },
+      {
+        "name": "IMPIAN FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/IMPIANFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-impian/icecast.audio"
+      },
+      {
+        "name": "LAGENDA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/LAGENDAFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-lagenda/icecast.audio"
+      },
+      {
+        "name": "KELATE KITO FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/KELATEKITOFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-klatekita/icecast.audio"
+      },
+      {
+        "name": "KELANTAN FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-KelantanFM-New.jpg",
+        "uri": "https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8"
+      },
+      {
+        "name": "TERENGGANU FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-TerengganuFM-New.jpg",
+        "uri": "https://terengganufm.secureswiftcontent.com/rtm-ch033/rtm-ch033/playlist.m3u8"
+      },
+      {
+        "name": "PERAK FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-PerakFM-New.jpg",
+        "uri": "https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/playlist.m3u8"
+      },
+      {
+        "name": "KEDAH FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-KedahFM-New.jpg",
+        "uri": "https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8"
+      },
+      {
+        "name": "PERLIS FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-PerlisFM-New.jpg",
+        "uri": "https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/playlist.m3u8"
+      },
+      {
+        "name": "PAHANG FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-PahangFM-New.jpg",
+        "uri": "https://pahangfm.secureswiftcontent.com/rtm-ch034/rtm-ch034/playlist.m3u8"
+      },
+      {
+        "name": "MUTIARA FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-MutiaraFM-New.jpg",
+        "uri": "https://mutiarafmmobile.secureswiftcontent.com/rtm-ch039/rtm-ch039/playlist.m3u8"
+      },
+      {
+        "name": "SELANGOR FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-SelangorFM-New.jpg",
+        "uri": "https://selangorfmmobile.secureswiftcontent.com/rtm-ch023/rtm-ch023/playlist.m3u8"
+      },
+      {
+        "name": "KL FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklfm.jpg",
+        "uri": "https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/playlist.m3u8"
+      },
+      {
+        "name": "NEGERI FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-NegeriFM-New.jpg",
+        "uri": "https://negerifmmobile.secureswiftcontent.com/rtm-ch036/rtm-ch036/playlist.m3u8"
+      },
+      {
+        "name": "MELAKA FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-MelakaFM-New.jpg",
+        "uri": "https://melakafmmobile.secureswiftcontent.com/rtm-ch041/rtm-ch041/playlist.m3u8"
+      },
+      {
+        "name": "JOHOR FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-JohorFM-New4.jpg",
+        "uri": "https://johorfmmobile.secureswiftcontent.com/rtm-ch035/rtm-ch035/playlist.m3u8"
+      },
+      {
+        "name": "SARAWAK FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",
+        "uri": "https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8"
+      },
+      {
+        "name": "SABAH FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",
+        "uri": "https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8"
+      },
+      {
+        "name": "LABUAN FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-LabuanFM-New.jpg",
+        "uri": "https://labuanfmmobile.secureswiftcontent.com/rtm-ch030/rtm-ch030/playlist.m3u8"
+      }
     ]
   }
 ]
+
 
 
