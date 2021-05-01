@@ -676,12 +676,12 @@
       },
       {
         "name": "RTM BERITA",
-        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg",
         "uri": "https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
       },
       {
         "name": "RTM OKEY",
-        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",
         "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
