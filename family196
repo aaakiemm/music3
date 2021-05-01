@@ -665,19 +665,34 @@
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
       },
       {
+        "name": "RTM 1",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",
+        "uri": "https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+      },
+      {
+        "name": "RTM 2",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",
+        "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+      },
+      {
+        "name": "RTM BERITA",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",
+        "uri": "https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
         "name": "RTM OKEY",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_100.png",
-        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg",
+        "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
         "name": "RTM TV6",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv6.png",
-        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg",
+        "uri": "https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
       },
       {
         "name": "RTM SPORTS",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
-        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg",
+        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
       }
     ]  
   },
@@ -1546,12 +1561,12 @@
       {
         "name": "RTB SUKMA INDERA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png",
-        "uri": "https://rtb-channel.glue.live/smil:rtb1/playlist.m3u8"
+        "uri": "https://rtb-channel.glue.live/smil:rtb1/manifest.mpd"
       },
       {
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
-        "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
+        "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/manifest.mpd"
       }
     ]  
   },
