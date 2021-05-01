@@ -567,37 +567,37 @@
       {
         "name": "RIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/23.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/riak.m3u8"
       },
       {
         "name": "PRIMA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/21.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/rima.m3u8"
      },
       {
         "name": "OASIS",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/18.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/omar.m3u8"
       },
       {
         "name": "WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/24.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/warni.m3u8"
       },
       {
         "name": "CERIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/19.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/suko.m3u8"
       },
       {
         "name": "CITRA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/26.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8"
       },
       {
         "name": "ARENA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/147.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek5.m3u8"
       },
       {
         "name": "ASSP 1",
@@ -627,12 +627,12 @@
       {
         "name": "BOLLYONEHD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/143.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/buliwud.m3u8"
       },
       {
         "name": "ASTRO BOO",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/33.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/boolaa.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
