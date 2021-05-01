@@ -646,38 +646,53 @@
       },
       {
         "name": "TVS",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8"
       },
       {
         "name": "ASTRO GAAYA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_100.png",		
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
         "uri": "https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8"
       },
       {
         "name": "ASTRO RUUMA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8"
       },
       {
         "name": "ASTRO RAAYA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_100.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
       },
       {
+        "name": "RTM 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",
+        "uri": "https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+      },
+      {
+        "name": "RTM 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
+        "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+      },
+      {
+        "name": "RTM BERITA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
+        "uri": "https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
         "name": "RTM OKEY",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_100.png",
-        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
+        "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
         "name": "RTM TV6",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv6.png",
-        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
+        "uri": "https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
       },
       {
         "name": "RTM SPORTS",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
-        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
+        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
       }
     ]  
   },
@@ -1546,12 +1561,12 @@
       {
         "name": "RTB SUKMA INDERA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png",
-        "uri": "https://rtb-channel.glue.live/smil:rtb1/playlist.m3u8"
+        "uri": "https://rtb-channel.glue.live/smil:rtb1/manifest.mpd"
       },
       {
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
-        "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
+        "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/manifest.mpd"
       }
     ]  
   },
