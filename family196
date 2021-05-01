@@ -666,12 +666,12 @@
       },
       {
         "name": "RTM 1",
-        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/logo_high_tv1_new.jpg",
         "uri": "https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
       },
       {
         "name": "RTM 2",
-        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/logo_TV2.jpg",
         "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
       },
       {
