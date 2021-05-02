@@ -602,27 +602,37 @@
       {
         "name": "ASSP 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/148.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek1.m3u8"
       },
       {
         "name": "ASSP 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/149.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek2.m3u8"
       },
       {
         "name": "ASSP 3",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/150.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek3.m3u8"
       },
       {
         "name": "ASSP 4",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
-        "uri": "http://monyengtv@foctv.xyz:25510/live/WS77196/lbwkwyaJtX/151.m3u8.ts"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek4.m3u8"
       },
       {
         "name": "WWE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
+      },
+      {
+        "name": "CELESTIAL MOVIES",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cali.m3u8"
+      },
+      {
+        "name": "CELESTIAL CLASSIC",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cium.m3u8"
       },
       {
         "name": "BOLLYONEHD",
@@ -633,6 +643,11 @@
         "name": "ASTRO BOO",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/boolaa.m3u8"
+      },
+      {
+        "name": "SONY ONE",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/satu.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
