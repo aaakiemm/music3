@@ -1588,21 +1588,24 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/manifest.mpd"
       }
-    ]
+    ]  
   },
   {
-    "name": "PREDATOR TEST",
-    "logo_uri": "",
-    "uri": "https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/f795e5e6-e109-5f9d-bd2d-7768739c9388/default_ott.mpd",
-    "drm_scheme": "widevine",
-     "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license/?kid=89581511-7470-6981-8c6a-a899c3c98410",
-     "drm_key_request_properties": {
-     "authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTk5NzYxOTcsInN1YiI6IjgxNDgzMjM4IiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTYxOTk4Njk5Nywic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImJ1c1VuaXRJZCI6IkFTVFJPIiwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ1cElkIjoiODE0ODMyMzhfMCIsImRldklkIjoiODE0ODMyMzguYTc2OGZkYzMtM2M5NS00YzViLWFkZmYtODcxNzA2OWM1MWJiIiwicmVnaW9uIjoiUE9TVFBBSUQiLCJjbWRjUmVnaW9uIjoiODAwMDAiLCJkZXZpY2VGZWF0dXJlcyI6WyJBQlIiLCJQRVJTT05BTC1DT01QVVRFUiIsIlVOTUFOQUdFRCIsIkRBU0giLCJXVi1EUk0iLCJTZWNvbmRTY3JlZW4iXSwiY21kY0RldmljZVR5cGUiOiJQQyIsImRldmljZVR5cGUiOiJDT01QQU5JT04iLCJ0ZW5hbnQiOiJrIiwic29sdXRpb25JZCI6ImsiLCJ0ZW5hbnRJZCI6IkFTVFJPIiwiZ3Vlc3RNb2RlIjpmYWxzZSwiaGhJZCI6IjgxNDgzMjM4In0sImhoSGFzaCI6MTcsImNvbW11bml0eSI6Ik1hbGF5c2lhIExpdmUifSwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ0b2tlbl90eXBlIjoiYWNjZXNzX3Rva2VuIiwic3NhX2p0aSI6ImJyb3dzZXIiLCJjbGllbnRfaWQiOiJicm93c2VyIiwianRpIjoiZTBjNTNiN2QtNTMyYi00MWRlLWFiYzQtMmE1NjVhOGM1OTYwIn0.aF8gUN6c4Enb1qv8OrFZgMZsY1FqWhFzZkt1tA6hXEc",
-     "Set-Cookie1": "WsbSession=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1cElkIjoiODE0ODMyMzhfMCIsImhoSWQiOiI4MTQ4MzIzOCIsImlhdCI6MTYxOTk3NjkzNywic2Vzc2lvbklkIjoiMzI5YzdlZmYtNDZkNC00MzEyLTg3ZWYtYmNiMGY2ZTc2MDU1Iiwic2Vzc2lvbkRhdGEiOnsidXBJZCI6IjgxNDgzMjM4XzAiLCJoaElkIjoiODE0ODMyMzgiLCJyZWdpb24iOiJQT1NUUEFJRCIsInRlbmFudCI6ImsiLCJzZXNzaW9uSWQiOiIzMjljN2VmZi00NmQ0LTQzMTItODdlZi1iY2IwZjZlNzYwNTUiLCJkZXZpY2VUeXBlIjoiQ09NUEFOSU9OIiwiZ3Vlc3RNb2RlIjpmYWxzZSwiZGV2aWNlRmVhdHVyZXMiOlsiQUJSIiwiUEVSU09OQUwtQ09NUFVURVIiLCJVTk1BTkFHRUQiLCJEQVNIIiwiV1YtRFJNIiwiU2Vjb25kU2NyZWVuIl0sImJ1c1VuaXRIb3VzZWhvbGRJZCI6IjgxNDgzMjM4IiwiZGV2SWQiOiI4MTQ4MzIzOC5hNzY4ZmRjMy0zYzk1LTRjNWItYWRmZi04NzE3MDY5YzUxYmIiLCJjbWRjRGV2aWNlVHlwZSI6IlBDIiwiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImNtZGNSZWdpb24iOiI4MDAwMCIsImJ1c1VuaXRJZCI6IkFTVFJPIn0sImd1ZXN0TW9kZSI6ZmFsc2UsImxhc3RVcGRhdGVJZCI6ImI1MDdhZWRkLWY1YTUtNGFmNS05ZDJlLWExNmEyOWZjYmZjYSIsImV4cCI6MTYxOTk4MDUzNywiZGV2SWQiOiI4MTQ4MzIzOC5hNzY4ZmRjMy0zYzk1LTRjNWItYWRmZi04NzE3MDY5YzUxYmIiLCJhdWQiOiJpdnAuc2Vzc2lvbmd1YXJkIiwiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImhoSGFzaCI6MTQsImJ1c1VuaXRJZCI6IkFTVFJPIn0.GFPzCtvtlHVGBBOKSdfVX4sy9oZScmBcUNka4-WfE52mLK3fLSWKmKJqXnY5a79h9Yv_QXLj3m9OjwA3iD3ASQ; Path=/; HttpOnly; SameSite=None; Secure; Expires=Sun, 02-May-21 19:35:37 GMT; Max-Age=7200",
-     "Set-Cookie2": "cmty=%7B%22community%22%3A%22Malaysia%20Live%22%2C%22hhHash%22%3A14%7D; Path=/; HttpOnly; SameSite=None; Secure; Expires=Tue, 01-Jun-21 17:35:37 GMT; Max-Age=2592000"
-     }
-    }
-   ]  
+    "name": "TEST",
+    "samples": [
+	 {
+          "name": "PREDATOR TEST",
+          "logo_uri": "",
+          "uri": "https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/f795e5e6-e109-5f9d-bd2d-7768739c9388/default_ott.mpd",
+          "drm_scheme": "widevine",
+          "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license/?kid=89581511-7470-6981-8c6a-a899c3c98410",
+          "drm_key_request_properties": {
+          "authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTk5NzYxOTcsInN1YiI6IjgxNDgzMjM4IiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTYxOTk4Njk5Nywic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImJ1c1VuaXRJZCI6IkFTVFJPIiwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ1cElkIjoiODE0ODMyMzhfMCIsImRldklkIjoiODE0ODMyMzguYTc2OGZkYzMtM2M5NS00YzViLWFkZmYtODcxNzA2OWM1MWJiIiwicmVnaW9uIjoiUE9TVFBBSUQiLCJjbWRjUmVnaW9uIjoiODAwMDAiLCJkZXZpY2VGZWF0dXJlcyI6WyJBQlIiLCJQRVJTT05BTC1DT01QVVRFUiIsIlVOTUFOQUdFRCIsIkRBU0giLCJXVi1EUk0iLCJTZWNvbmRTY3JlZW4iXSwiY21kY0RldmljZVR5cGUiOiJQQyIsImRldmljZVR5cGUiOiJDT01QQU5JT04iLCJ0ZW5hbnQiOiJrIiwic29sdXRpb25JZCI6ImsiLCJ0ZW5hbnRJZCI6IkFTVFJPIiwiZ3Vlc3RNb2RlIjpmYWxzZSwiaGhJZCI6IjgxNDgzMjM4In0sImhoSGFzaCI6MTcsImNvbW11bml0eSI6Ik1hbGF5c2lhIExpdmUifSwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ0b2tlbl90eXBlIjoiYWNjZXNzX3Rva2VuIiwic3NhX2p0aSI6ImJyb3dzZXIiLCJjbGllbnRfaWQiOiJicm93c2VyIiwianRpIjoiZTBjNTNiN2QtNTMyYi00MWRlLWFiYzQtMmE1NjVhOGM1OTYwIn0.aF8gUN6c4Enb1qv8OrFZgMZsY1FqWhFzZkt1tA6hXEc",
+          "Set-Cookie1": "WsbSession=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1cElkIjoiODE0ODMyMzhfMCIsImhoSWQiOiI4MTQ4MzIzOCIsImlhdCI6MTYxOTk3NjkzNywic2Vzc2lvbklkIjoiMzI5YzdlZmYtNDZkNC00MzEyLTg3ZWYtYmNiMGY2ZTc2MDU1Iiwic2Vzc2lvbkRhdGEiOnsidXBJZCI6IjgxNDgzMjM4XzAiLCJoaElkIjoiODE0ODMyMzgiLCJyZWdpb24iOiJQT1NUUEFJRCIsInRlbmFudCI6ImsiLCJzZXNzaW9uSWQiOiIzMjljN2VmZi00NmQ0LTQzMTItODdlZi1iY2IwZjZlNzYwNTUiLCJkZXZpY2VUeXBlIjoiQ09NUEFOSU9OIiwiZ3Vlc3RNb2RlIjpmYWxzZSwiZGV2aWNlRmVhdHVyZXMiOlsiQUJSIiwiUEVSU09OQUwtQ09NUFVURVIiLCJVTk1BTkFHRUQiLCJEQVNIIiwiV1YtRFJNIiwiU2Vjb25kU2NyZWVuIl0sImJ1c1VuaXRIb3VzZWhvbGRJZCI6IjgxNDgzMjM4IiwiZGV2SWQiOiI4MTQ4MzIzOC5hNzY4ZmRjMy0zYzk1LTRjNWItYWRmZi04NzE3MDY5YzUxYmIiLCJjbWRjRGV2aWNlVHlwZSI6IlBDIiwiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImNtZGNSZWdpb24iOiI4MDAwMCIsImJ1c1VuaXRJZCI6IkFTVFJPIn0sImd1ZXN0TW9kZSI6ZmFsc2UsImxhc3RVcGRhdGVJZCI6ImI1MDdhZWRkLWY1YTUtNGFmNS05ZDJlLWExNmEyOWZjYmZjYSIsImV4cCI6MTYxOTk4MDUzNywiZGV2SWQiOiI4MTQ4MzIzOC5hNzY4ZmRjMy0zYzk1LTRjNWItYWRmZi04NzE3MDY5YzUxYmIiLCJhdWQiOiJpdnAuc2Vzc2lvbmd1YXJkIiwiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImhoSGFzaCI6MTQsImJ1c1VuaXRJZCI6IkFTVFJPIn0.GFPzCtvtlHVGBBOKSdfVX4sy9oZScmBcUNka4-WfE52mLK3fLSWKmKJqXnY5a79h9Yv_QXLj3m9OjwA3iD3ASQ; Path=/; HttpOnly; SameSite=None; Secure; Expires=Sun, 02-May-21 19:35:37 GMT; Max-Age=7200",
+          "Set-Cookie2": "cmty=%7B%22community%22%3A%22Malaysia%20Live%22%2C%22hhHash%22%3A14%7D; Path=/; HttpOnly; SameSite=None; Secure; Expires=Tue, 01-Jun-21 17:35:37 GMT; Max-Age=2592000"
+         }
+       }
+     ]  
   },
   {
     "name": "KOLEKSI PUASA",
