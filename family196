@@ -1005,7 +1005,7 @@
       {
         "name": "OK TV",
         "logo_uri": "https://static.mncnow.id/images/channel/e3c04ddf/04e7_r32.jpeg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_dash_vmx/MNCChannel.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
