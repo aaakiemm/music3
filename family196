@@ -1591,17 +1591,6 @@
     ]
   },
   {
-    "name": "UPIN IPIN SEASON 14",
-    "samples": [ 
-      {
-        "name": "TEST SAJA",
-        "logo_uri": "https://static.mncnow.id/images/channel/2ffcaa77/166c_r32.jpg",
-        "uri": "https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/a825d55f-a0ba-51c9-a58d-582c86f7535e/default_ott.mpd",
-        "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTk5OTE1MDgsInN1YiI6IjgxNDgzMjM4IiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTYyMDAwMjMwOCwic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImJ1c1VuaXRJZCI6IkFTVFJPIiwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ1cElkIjoiODE0ODMyMzhfMCIsImRldklkIjoiODE0ODMyMzguYTc2OGZkYzMtM2M5NS00YzViLWFkZmYtODcxNzA2OWM1MWJiIiwicmVnaW9uIjoiUE9TVFBBSUQiLCJjbWRjUmVnaW9uIjoiODAwMDAiLCJkZXZpY2VGZWF0dXJlcyI6WyJBQlIiLCJQRVJTT05BTC1DT01QVVRFUiIsIlVOTUFOQUdFRCIsIkRBU0giLCJXVi1EUk0iLCJTZWNvbmRTY3JlZW4iXSwiY21kY0RldmljZVR5cGUiOiJQQyIsImRldmljZVR5cGUiOiJDT01QQU5JT04iLCJ0ZW5hbnQiOiJrIiwic29sdXRpb25JZCI6ImsiLCJ0ZW5hbnRJZCI6IkFTVFJPIiwiZ3Vlc3RNb2RlIjpmYWxzZSwiaGhJZCI6IjgxNDgzMjM4In0sImhoSGFzaCI6MTcsImNvbW11bml0eSI6Ik1hbGF5c2lhIExpdmUifSwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ0b2tlbl90eXBlIjoiYWNjZXNzX3Rva2VuIiwic3NhX2p0aSI6ImJyb3dzZXIiLCJjbGllbnRfaWQiOiJicm93c2VyIiwianRpIjoiYmZkYjliYTAtNzQ3MC00ODUwLThmMGMtNTA4ZThiMmMwZjIwIn0.5exhEVdzb4wo-kJPHcU4LgL8Ip4yZTzFNTLW5BQNpW0&state=startServiceLayer&token_type=bearer&expires_in=10800"
-      }
-    ]  
-  },
-  {
     "name": "KOLEKSI PUASA",
     "samples": [      
       {
