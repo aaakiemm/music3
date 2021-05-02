@@ -214,6 +214,11 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {        
+	"name": "SHEMAROO TV",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Shemaroo_TV.png",
+        "uri": "https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8"
       }
     ]
   },
