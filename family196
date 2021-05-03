@@ -1887,6 +1887,26 @@
         "name": "2020 EP2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Raya/Sepahtu%20Reunion%20Al-Raya%20(2020)2.mp4"
+     }
+    ]  
+  },
+  {
+    "name": "PENUNGGANG AGAMA",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/penunggang.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/17ygjsSlZPA53c1mDFmgHI2nV1UZ3-Nuf?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
+  },
+  {
+    "name": "HANTU BONCENG 2.0",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantubocing2.0.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1BEsMQAGJXJVKOkAT63a4vDQW5423jK2Y?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
