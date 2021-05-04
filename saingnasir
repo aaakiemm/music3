@@ -1588,7 +1588,7 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/manifest.mpd"
       }
-    ]
+    ]  
   },
   {
     "name": "KOLEKSI PUASA",
@@ -1891,6 +1891,16 @@
     ]  
   },
   {
+    "name": "MONSTER HUNTER",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/monsterhunter.jpg",
+        "uri": "https://f20.megaup.net/1By8n/Monster_Hunter_(2020)_malaysub.mkv?download_token=3e2851a3eae6235aeb2b9f87c33fe507634ba7b4f7e626eaf2f9619f49d94172"
+      }
+    ]  
+  },
+  {
     "name": "PENUNGGANG AGAMA",
     "samples": [      
       {
@@ -1927,6 +1937,151 @@
         "name": "MOVIE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ali.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1i-9aLCx-DFYNuNOOe2-UFcnbfzZxszdn?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       }
+    ]  
+  },
+  {
+    "name": "LARVA ISLAND",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       }
+    ]  
+  },
+  {
+    "name": "LARVA ISLAND S1",
+    "samples": [      
+      {
+        "name": "EP 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.01.mp4"
+      },
+      {
+        "name": "EP 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.02.mp4"
+       },
+       {
+        "name": "EP 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.03.mp4"
+      },
+      {
+        "name": "EP 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.04.mp4"
+       },
+       {
+        "name": "EP 5",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.05.mp4"
+      },
+      {
+        "name": "EP 6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.06.mp4"
+       },
+       {
+        "name": "EP 7",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.07.mp4"
+      },
+      {
+        "name": "EP 8",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.08.mp4"
+       },
+       {
+        "name": "EP 9",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.09.mp4"
+      },
+      {
+        "name": "EP 10",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.10.mp4"
+       },
+       {
+        "name": "EP 11",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.11.mp4"
+      },
+      {
+        "name": "EP 12",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s1/Larva.Island.12.END.mp4"
+        }
+    ]  
+  },
+  {
+    "name": "LARVA ISLAND S2",
+    "samples": [      
+      {
+        "name": "EP 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E01.mp4"
+      },
+      {
+        "name": "EP 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E02.mp4"
+       },
+       {
+        "name": "EP 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E03.mp4"
+      },
+      {
+        "name": "EP 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E04.mp4"
+       },
+       {
+        "name": "EP 5",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E05.mp4"
+      },
+      {
+        "name": "EP 6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E06.mp4"
+       },
+       {
+        "name": "EP 7",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E07.mp4"
+      },
+      {
+        "name": "EP 8",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E08.mp4"
+       },
+       {
+        "name": "EP 9",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E09.mp4"
+      },
+      {
+        "name": "EP 10",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E010.mp4"
+       },
+       {
+        "name": "EP 11",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E11.mp4"
+      },
+      {
+        "name": "EP 12",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E12.mp4"
+      },
+      {
+        "name": "EP 13",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show3/end-tv-series4/Larva%20Island/s2/Larva.Island.S02E13.END.mp4"
        }
     ]  
   },
