@@ -1588,7 +1588,7 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/manifest.mpd"
       }
-    ]
+    ]  
   },
   {
     "name": "KOLEKSI PUASA",
@@ -1888,6 +1888,16 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Raya/Sepahtu%20Reunion%20Al-Raya%20(2020)2.mp4"
      }
+    ]  
+  },
+  {
+    "name": "MONSTER HUNTER",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/monsterhunter.jpg",
+        "uri": "https://f20.megaup.net/1By8n/Monster_Hunter_(2020)_malaysub.mkv?download_token=3e2851a3eae6235aeb2b9f87c33fe507634ba7b4f7e626eaf2f9619f49d94172"
+      }
     ]  
   },
   {
