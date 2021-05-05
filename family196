@@ -1598,9 +1598,9 @@
         "logo_uri": "https://akamaividz.zee5.com/resources/0-1-101372/list/270x152/01101372_list_1002008892.jpg",
         "uri": "https://zee5vod.akamaized.net/drm1/NM4AWS7/Domestic/Library_Content/And_TV/RAZIA_SULTAN/RAZIA_SULTAN_EP01_hi_c3b2e929.mp4/manifest.mpd?c3.ri=6904309810463888800",
         "drm_scheme": "widevine",
-	"drm_license_url": "https://wv-keyos-aps1.licensekeyserver.com/",
-        "drm_key_id":"eb914881-d237-46c6-b5d0-f664235f2d48"
-      }
+        "drm_key_id":"eb914881-d237-46c6-b5d0-f664235f2d48",
+	"drm_license_url": "https://wv-keyos-aps1.licensekeyserver.com/" 
+       }
     ]  
   },
   {
