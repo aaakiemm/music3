@@ -1921,6 +1921,26 @@
     ]  
   },
   {
+    "name": "FROZEN",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frozen1.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1xgXM5-ZHutTitTg-guXAM1XLNeTErZ07?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
+  },
+  {
+    "name": "INSIDE OUT",
+    "samples": [      
+      {
+        "name": "MOVIE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/insideout.png",
+        "uri": "https://www.googleapis.com/drive/v3/files/1aMxGYOmsc6cGo6sp6ytNTA3R--kqKXW_?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
+  },
+  {
     "name": "KERIS SIAMANG TUNGGAL",
     "samples": [      
       {
@@ -6415,7 +6435,7 @@
       {
         "name": "SULTHAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sulthan.jpg",
-        "uri": "https://f37.megaup.net/2iKdw/Sultan.2021.720p.WEBRip.MS.PENCURiMOViE.WEBSiTE.mkv?download_token=b962a1778b1d7fde823f3e5ab1b8b8ede372b93ac29ce125c85aa7ef36ef158d"
+        "uri": "https://www.googleapis.com/drive/v3/files/1PsG06P57NP6XmsX-a765MVdAcn3-SfLT?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       },
       {
         "name": "TEDDY",
