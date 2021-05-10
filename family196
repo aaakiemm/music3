@@ -8796,7 +8796,7 @@
       {
         "name": "HOT FM ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hotfm.jpg",
-        "uri": "https://youtu.be/l50cEkwVCrQ"
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1620650839/ei/99aYYNi0E9SmwgOh1L_4Dg/ip/27.125.249.150/id/l50cEkwVCrQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373,24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRAIgcBDMGZgt_uA_43W7zq7UsdGWPkWbk0T0J4oOYSJHEX8CIHIvH7Au9k-09r076tY0OXVtA0hMT1KLMlWfTFiZP83R/file/index.m3u8"
       },
       {
         "name": "KLASIK FM ",
