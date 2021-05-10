@@ -1591,6 +1591,16 @@
     ]
   },
   {
+    "name": "MARVELS MOVIES",
+    "samples": [ 
+      {
+        "name": "AVENGERS ENDGAME ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/endgame.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1WyX4T_EJ6IdKGCiGe8J1N5oyBkJP5Ijp?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]
+  },
+  {
     "name": "KOLEKSI PUASA",
     "samples": [      
       {
