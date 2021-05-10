@@ -1588,7 +1588,17 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/manifest.mpd"
       }
-    ]  
+    ]
+  },
+  {
+    "name": "MARVELS MOVIES",
+    "samples": [ 
+      {
+        "name": "AVENGERS ENDGAME ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/endgame.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1WyX4T_EJ6IdKGCiGe8J1N5oyBkJP5Ijp?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]
   },
   {
     "name": "KOLEKSI PUASA",
@@ -6532,6 +6542,11 @@
   {
     "name": "TAMIL MOVIES",
     "samples": [ 
+      {
+        "name": "AKSHARA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/akshara.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/tamil11/Akshara%20(2021).mp4"
+      },
       {
         "name": "SULTHAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sulthan.jpg",
