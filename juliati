@@ -1588,7 +1588,17 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/manifest.mpd"
       }
-    ]  
+    ]
+  },
+  {
+    "name": "MARVELS MOVIES",
+    "samples": [ 
+      {
+        "name": "AVENGERS ENDGAME ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/endgame.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1WyX4T_EJ6IdKGCiGe8J1N5oyBkJP5Ijp?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]
   },
   {
     "name": "KOLEKSI PUASA",
