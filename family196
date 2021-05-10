@@ -1598,7 +1598,7 @@
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",
         "uri": "https://linear-playback.astro.com.my/linear-livewvdaf/1004/default_ott.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license"
+        "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license",
         "drm_key_request_properties": {
         "x-amz-cf-id": "aAC7J51oKZWgtqfPkWToCR2L9H4YymuFue3yyZXE1Y4q0iHUDeYSpw=="
         }
