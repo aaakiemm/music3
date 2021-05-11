@@ -5971,7 +5971,42 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/homefront.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/NewVersion/6/Homefront%20(2013)%20BluRay.mp4"
       }
-    ]  
+    ]
+  },
+  {
+    "name": "MALAY MOVIES",
+    "samples": [ 
+      {
+        "name": "CICAK MAN 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN1.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1yHc425gctr7mz5F-hqPMo5PpCm5H2TcG?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "CICAK MAN 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN2.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1ZAVWJ4-4e8dicCeAeC6VtHqugeEZc97K?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "CICAK MAN 3 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN3.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1Iuafd86D60qtYCPctDdyTxMp1tW-R120?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       },
+       {
+        "name": "HANTU KAK LIMAH BALIK RUMAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BalikRumah.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1JhLjj5FveWsn8u2Jv706rUmgm_j0mOPl?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "HANTU KAK LIMAH 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kaklimah2.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1X07VWqTrkhRcc5-9SJFQB8HCBGjNAUJe?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "HANTU KAK LIMAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantukaklimah.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1p-rW53dcvzSZtGlsR_N_3MknFaEvudxm?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]
   },
   {
     "name": "CHINESE MOVIES",
