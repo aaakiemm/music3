@@ -6457,6 +6457,16 @@
   {
     "name": "HINDI MOVIES",
     "samples": [ 
+       {
+        "name": "MR.X",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mrx.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1koG9y9f-lwRAGjJOpGZc7UqpKFQvfl1i?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "NAIL POLISH",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/nailpolish.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/tamil4/Nail%20Polish%202020.mp4"
+      },
       {
         "name": "3 IDIOT",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/3_IdiotsFDGASGDSG.png",
@@ -6637,6 +6647,16 @@
   {
     "name": "TAMIL MOVIES",
     "samples": [ 
+      {
+        "name": "KAITHI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kaithi.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil6/Kaithi%20(2019)%20HDRip.mkv"
+      },
+      {
+        "name": "SIVAGAMI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sivagami.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/NewVersion/5/Sivagami%20(2016).mkv"
+      },
       {
         "name": "AKSHARA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/akshara.jpg",
