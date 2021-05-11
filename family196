@@ -1588,13 +1588,53 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/manifest.mpd"
       }
-    ]  
+    ]
   },
   {
     "name": "MARVELS MOVIES",
     "samples": [ 
       {
-        "name": "AVENGERS ENDGAME ",
+        "name": "IRON MAN 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ironman.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1KykRQMcNV2LTTBW9HyHCpTyE0bUBI5tE?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "IRON MAN 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ironman.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/18lNqTTcB4CHOzQXj2tbykvUN9l-zwOP_?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "IRON MAN 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ironman.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1KpAGk2dDZHWPbVzs_39CxaqBL07w8WvO?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "THOR",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/thor1.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1y9z9sQO-JLw77AdzjioZnr3bklP0jqwE?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "GUARDIANS OF THE GALAXY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/guardians.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1-H8wOXJAOk3UVaCTRoVitDlkZHseegQQ?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "CAPTAIN AMERICA CIVIL WAR",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/avengers.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1j-0mldq0cf5s5Vv14tzRtaXvkd0ekwcg?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "AVENGERS AGE OF ULTRON",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/avengers.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/12xPAbT1jGnlsnj7Fej1xIccGNng-yhU3?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "AVENGERS INFINITY WAR",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/avengers.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1ncok9z9plZVfco4MLm2hccQY8C0TSSdd?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "AVENGERS ENDGAME",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/endgame.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1WyX4T_EJ6IdKGCiGe8J1N5oyBkJP5Ijp?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
