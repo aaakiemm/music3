@@ -1696,16 +1696,6 @@
     ]
   },
   {
-    "name": "MULAN MOVIES",
-    "samples": [ 
-      {
-        "name": "MULAN ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mulan.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1K_t-TiHpSUumcwfgGszXFLTIwLmkU28r?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]
-  },
-  {
     "name": "KOLEKSI PUASA",
     "samples": [      
       {
