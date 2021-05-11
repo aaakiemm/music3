@@ -1637,6 +1637,61 @@
         "name": "AVENGERS ENDGAME",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/endgame.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1WyX4T_EJ6IdKGCiGe8J1N5oyBkJP5Ijp?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       }
+    ]
+  },
+  {
+    "name": "X-MEN MOVIES",
+    "samples": [ 
+      {
+        "name": "X-MEN ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/xmen.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1Z-E_KESYzBL2w2sif7ihtAJEVEoCy5YQ?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "X-MEN UNITED",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/xmen.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1adQtE-uZnomqpZWRz9y8H-QcsoERCtO-?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "X-MEN THE LAST STAND",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/xmen.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1KDqIoiwnkq3U0HvDBs0yUSYnrP57V3sI?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "X-MEN ORIGINS WOLVERINE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/originswolverine.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1LqnlEGBpPXFxmMIoTNyJuxnzc8-JaU9f?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "THE WOLVERINE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wolverine.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1P0gYlOh1DJLWCSGttHlxiFviOF2YA2Io?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "LOGAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/logan.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/109DvpTq1atwYBo5YA0UfrxkLLMtnOVkE?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "X-MEN FIRST CLASS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/firstclass.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1TKexBty8os-uTl24KoXlJXQ0hpiAX9Lu?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "X-MEN DAYS OF FUTURE PAST",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/futurepast.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1wIffjZG5n7VKyHQgnyWzLxq0hKX6nU-N?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "X-MEN APOCALYPSE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/apocalypse.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1Y_Mc9ccyz5J2S8XlRCX4SNLgVxnpaJMv?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "X-MEN DARK PHOENIX",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/darkphoenix.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1h9fxtY_VxELnlGcn6uCn5ICf5ainUIFF?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]
   },
