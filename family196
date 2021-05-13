@@ -214,11 +214,6 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
-      },
-      {        
-	"name": "SHEMAROO TV",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Shemaroo_TV.png",
-        "uri": "https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8"
       }
     ]
   },
@@ -285,13 +280,6 @@
         "name": "FOX LIFE",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Fox-Life.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
-      },
-      {
-        "name": "COMEDY CENTRAL HD",
-	"logo_uri": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/717_300.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
       },
@@ -2312,6 +2300,116 @@
         "name": "HARI RAYA",
         "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
         "uri": "https://anevia114.mncnow.id/vod/eds/upin-ipin-s1-eps6-hari-raya-clean-anv6/_/sa_dash_vmx/upin-ipin-s1-eps6-hari-raya-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      }
+    ]  
+  },
+  {
+    "name": "UPIN IPIN S12",
+    "samples": [      
+      {
+        "name": "APA BENDA TU 1",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-apa-benda-tu-bag1-eps37-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-apa-benda-tu-bag1-eps37-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "APA BENDA TU 2",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-apa-benda-tu-bag2-eps38-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-apa-benda-tu-bag2-eps38-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "APA BENDA TU 3",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-apa-benda-tu-bag3-eps39-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-apa-benda-tu-bag3-eps39-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "DAH BESAR1",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-dah-besar-bag1-eps40-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-dah-besar-bag1-eps40-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "DAH BESAR 2",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-dah-besar-bag2-eps41-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-dah-besar-bag2-eps41-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "DAH BESAR 3",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-dah-besar-bag3-eps42-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-dah-besar-bag3-eps42-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "AKU SEBUAH BUKU 1",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-aku-sebuah-buku-bag1-eps34-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-aku-sebuah-buku-bag1-eps34-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "AKU SEBUAH BUKU 2",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-aku-sebuah-buku-bag2-eps35-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-aku-sebuah-buku-bag2-eps35-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "AKU SEBUAH BUKU 3",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-aku-sebuah-buku-bag3-eps36-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-aku-sebuah-buku-bag3-eps36-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "ALUNAN RAMADHAN 1",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-alunan-ramadhan-bag1-eps4-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-alunan-ramadhan-bag1-eps4-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "ALUNAN RAMADHAN 2",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-alunan-ramadhan-bag2-eps5-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-alunan-ramadhan-bag2-eps5-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "ALUNAN RAMADHAN 3",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-alunan-ramadhan-bag3-eps6-clean-anv6/_/sa_dash_vmx/upin-ipin-s12-alunan-ramadhan-bag3-eps6-clean-anv6.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "IDOLA MISTERI 1",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-idola-misteri-bag1-eps13-clean-anv6-has/_/sa_dash_vmx/upin-ipin-s12-idola-misteri-bag1-eps13-clean-anv6-has.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "IDOLA MISTERI 2",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-idola-misteri-bag2-eps14-clean-anv6-has/_/sa_dash_vmx/upin-ipin-s12-idola-misteri-bag2-eps14-clean-anv6-has.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "IDOLA MISTERI 3",
+        "logo_uri": "https://static.mncnow.id/images/series/deeb9c7c/61db_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/upin-ipin-s12-idola-misteri-bag3-eps15-clean-anv6-has/_/sa_dash_vmx/upin-ipin-s12-idola-misteri-bag3-eps15-clean-anv6-has.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       }
