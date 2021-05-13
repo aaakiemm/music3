@@ -1729,21 +1729,6 @@
     ]
   },
   {
-    "name": "KINGSMAN",
-    "samples": [ 
-      {
-        "name": "THE SECRET SERVICE ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/secretservice.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/22/Kingsman%20The%20Secret%20Service%202014.mp4"
-      },
-      {
-        "name": "THE GOLDEN CIRCLE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/goldencircle.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/22/Kingsman%20The%20Golden%20Circle%202017.mp4"
-      }
-    ]
-  },
-  {
     "name": "KOLEKSI PUASA",
     "samples": [      
       {
@@ -1777,7 +1762,7 @@
         "uri": "https://www.googleapis.com/drive/v3/files/1X5Cb5ZxvViZDvyueAnIU-2eHLEB5aWoe?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       },
       {
-        "name": "EP3-NABI MUSA HANYUT-FIRAU DIAWET ",
+        "name": "EP3-NABI MUSA HANYUT-FIRAUN DIAWET ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jejakrasul.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1UoyArcEFK2SA4cOkYHaje306oQPy_kvC?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       },
@@ -2005,6 +1990,11 @@
         "name": "MINGGU 4",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Puasa%20(2021)/Sepahtu%20Reunion%20Al%20Puasa%20(2021)%20Minggu%204.mp4"
+      },
+      {
+        "name": "MINGGU 5",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlPuasa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Puasa%20(2021)/Sepahtu%20Reunion%20Al%20Puasa%20(2021)%20Minggu%205.mp4"
       }
     ]  
   },
@@ -2041,66 +2031,6 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Raya/Sepahtu%20Reunion%20Al-Raya%20(2020)2.mp4"
      }
-    ]  
-  },
-  {
-    "name": "MONSTER HUNTER",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/monsterhunter.jpg",
-        "uri": "https://urlbox.paduhq.com/1817424252358960/Monster.Hunter.2020.1080p.BluRay.x264.AAC5.1-YTS.MX.mkv"
-      }
-    ]  
-  },
-  {
-    "name": "PENUNGGANG AGAMA",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/penunggang.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/17ygjsSlZPA53c1mDFmgHI2nV1UZ3-Nuf?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "HANTU BONCENG 2.0",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantubocing2.0.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1BEsMQAGJXJVKOkAT63a4vDQW5423jK2Y?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "KERIS SIAMANG TUNGGAL",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kerisupin.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1wOdSqKaJ-CZCHbyLhaTvYiFma7IDlgn0?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "AJEN ALI",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ali.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1i-9aLCx-DFYNuNOOe2-UFcnbfzZxszdn?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-       }
-    ]  
-  },
-  {
-    "name": "LARVA ISLAND",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-       }
     ]  
   },
   {
@@ -6052,8 +5982,97 @@
     ]  
   },
   {
-    "name": "JASON STATHAM MOVIES",
+    "name": "ANIMATION MOVIES",
+    "samples": [          
+      {
+        "name": "LARVA ISLAND",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "KERIS SIAMANG TUNGGAL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kerisupin.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1wOdSqKaJ-CZCHbyLhaTvYiFma7IDlgn0?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "EJEN ALI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ali.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1i-9aLCx-DFYNuNOOe2-UFcnbfzZxszdn?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       }
+        "name": "FROZEN 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frozen1.jpg",
+        "uri": "https://urlbox.paduhq.com/1786088170967344/Frozen.2013.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"    
+      },
+      {
+        "name": "INSIDE OUT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/insideout.png",
+        "uri": "https://urlbox.paduhq.com/1786122530705712/Inside.Out.2015.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
+      }
+    ]  
+  },
+  {
+    "name": "MALAY MOVIES",
+    "samples": [ 
+      {
+        "name": "PENUNGGANG AGAMA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/penunggang.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/17ygjsSlZPA53c1mDFmgHI2nV1UZ3-Nuf?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },  
+      {
+        "name": "HANTU BONCENG 2.0",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantubocing2.0.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1BEsMQAGJXJVKOkAT63a4vDQW5423jK2Y?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "CICAK MAN 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN1.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1yHc425gctr7mz5F-hqPMo5PpCm5H2TcG?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "CICAK MAN 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN2.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1ZAVWJ4-4e8dicCeAeC6VtHqugeEZc97K?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "CICAK MAN 3 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN3.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1Iuafd86D60qtYCPctDdyTxMp1tW-R120?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+       },
+       {
+        "name": "HANTU KAK LIMAH BALIK RUMAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BalikRumah.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1JhLjj5FveWsn8u2Jv706rUmgm_j0mOPl?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "HANTU KAK LIMAH 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kaklimah2.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1X07VWqTrkhRcc5-9SJFQB8HCBGjNAUJe?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      },
+      {
+        "name": "HANTU KAK LIMAH ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantukaklimah.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1p-rW53dcvzSZtGlsR_N_3MknFaEvudxm?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
+  },
+  {
+    "name": "ENGLISH MOVIES",
     "samples": [      
+      {
+        "name": "KINGSMAN THE SECRET SERVICE ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/secretservice.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/22/Kingsman%20The%20Secret%20Service%202014.mp4"
+      },
+      {
+        "name": "KINGSMAN-THE GOLDEN CIRCLE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/goldencircle.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/22/Kingsman%20The%20Golden%20Circle%202017.mp4"
+      },
+      {
+        "name": "MONSTER HUNTER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/monsterhunter.jpg",
+        "uri": "https://urlbox.paduhq.com/1817424252358960/Monster.Hunter.2020.1080p.BluRay.x264.AAC5.1-YTS.MX.mkv"
+      },
       {
         "name": "THE TRANSPORTER 1",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
@@ -6095,56 +6114,6 @@
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/NewVersion/6/Homefront%20(2013)%20BluRay.mp4"
       }
     ]  
-  },
-  {
-    "name": "ANIMATION MOVIES",
-    "samples": [      
-      {
-        "name": "FROZEN 1",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frozen1.jpg",
-        "uri": "https://urlbox.paduhq.com/1786088170967344/Frozen.2013.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"    
-      },
-      {
-        "name": "INSIDE OUT",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/insideout.png",
-        "uri": "https://urlbox.paduhq.com/1786122530705712/Inside.Out.2015.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
-      }
-    ]  
-  },
-  {
-    "name": "MALAY MOVIES",
-    "samples": [ 
-      {
-        "name": "CICAK MAN 1 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN1.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1yHc425gctr7mz5F-hqPMo5PpCm5H2TcG?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "CICAK MAN 2",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN2.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1ZAVWJ4-4e8dicCeAeC6VtHqugeEZc97K?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "CICAK MAN 3 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN3.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1Iuafd86D60qtYCPctDdyTxMp1tW-R120?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-       },
-       {
-        "name": "HANTU KAK LIMAH BALIK RUMAH ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BalikRumah.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1JhLjj5FveWsn8u2Jv706rUmgm_j0mOPl?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "HANTU KAK LIMAH 2",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kaklimah2.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1X07VWqTrkhRcc5-9SJFQB8HCBGjNAUJe?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      },
-      {
-        "name": "HANTU KAK LIMAH ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hantukaklimah.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1p-rW53dcvzSZtGlsR_N_3MknFaEvudxm?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]
   },
   {
     "name": "CHINESE MOVIES",
