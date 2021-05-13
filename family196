@@ -2074,26 +2074,6 @@
     ]  
   },
   {
-    "name": "FROZEN",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frozen1.jpg",
-        "uri": "https://urlbox.paduhq.com/1786088170967344/Frozen.2013.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
-      }
-    ]  
-  },
-  {
-    "name": "INSIDE OUT",
-    "samples": [      
-      {
-        "name": "MOVIE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/insideout.png",
-        "uri": "https://urlbox.paduhq.com/1786122530705712/Inside.Out.2015.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
-      }
-    ]  
-  },
-  {
     "name": "KERIS SIAMANG TUNGGAL",
     "samples": [      
       {
@@ -6114,7 +6094,22 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/homefront.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/NewVersion/6/Homefront%20(2013)%20BluRay.mp4"
       }
-    ]
+    ]  
+  },
+  {
+    "name": "ANIMATION MOVIES",
+    "samples": [      
+      {
+        "name": "FROZEN 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frozen1.jpg",
+        "uri": "https://urlbox.paduhq.com/1786088170967344/Frozen.2013.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"    
+      },
+      {
+        "name": "INSIDE OUT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/insideout.png",
+        "uri": "https://urlbox.paduhq.com/1786122530705712/Inside.Out.2015.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
+      }
+    ]  
   },
   {
     "name": "MALAY MOVIES",
