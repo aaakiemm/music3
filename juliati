@@ -2223,6 +2223,11 @@
     "name": "HINDI MOVIES",
     "samples": [ 
        {
+        "name": "RADHE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/radhe.jpg",
+        "uri": "https://urlbox.paduhq.com/1821959737823536/[TM] RADHE (2021) Hindi HQ HDRip 1080p HEVC.mkv"
+      },
+      {
         "name": "MR.X",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mrx.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1koG9y9f-lwRAGjJOpGZc7UqpKFQvfl1i?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
@@ -2412,6 +2417,11 @@
   {
     "name": "TAMIL MOVIES",
     "samples": [ 
+      {
+        "name": "KARNAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/karnan.jpg",
+        "uri": "https://urlbox.paduhq.com/1824708516892976/[TM] KARNAN 2021 Tamil HDRip 1080p HEVC.mkv"
+      },
       {
         "name": "KAITHI",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kaithi.jpg",
