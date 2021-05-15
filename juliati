@@ -2238,7 +2238,7 @@
       {
         "name": "DHOOM",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dhoom.jpg",
-        "uri": "OpenDownloadAria2c https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Dhoom.2004.Hindi.720p.BluRay.mp4"
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Dhoom.2004.Hindi.720p.BluRay.mp4"
       },
       {
         "name": "DHOOM 2",
@@ -5574,7 +5574,7 @@
         "name": "EPISODE 27 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP27.mp4"
-       },
+      },
       {
         "name": "EPISODE 28 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
@@ -5584,6 +5584,16 @@
         "name": "EPISODE 29 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP29.mp4"
+       },
+      {
+        "name": "EPISODE 30 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP30.mp4"
+      },
+      {
+        "name": "EPISODE 31 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP31.mp4"
       }
     ]
   },
