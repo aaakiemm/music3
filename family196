@@ -1700,6 +1700,11 @@
         "uri": "https://www.googleapis.com/drive/v3/files/1BEsMQAGJXJVKOkAT63a4vDQW5423jK2Y?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       },
       {
+        "name": "POLIS EVO 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/polisevo2.jpg",
+        "uri": "https://urlbox.paduhq.com/1861370357731632/Polis Evo 2.mp4"
+      },
+      {
         "name": "CICAK MAN 1 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN1.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1yHc425gctr7mz5F-hqPMo5PpCm5H2TcG?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
@@ -2746,6 +2751,48 @@
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605addf26d048943f77953cc_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028939X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6d41985c0806f54b8c027eb09c13d6e3d39e241c5519cc7688c4f4112e43a178e1fb195159c60c7c17f5b2655035abc9294603d3ba196087a77d52f52f786422&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029540X0-landscape.jpg",
+	"name": "BATMAN: DEATH IN THE FAMILY",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605ac1b16d048943f7795124_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029540X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a2c08e205e60dd38f392d83cc46a4028b5334316b07e4f68f856a4517e55f58c0f9dcb56f6a2cf64f193ae4e34fdfee4094aff8d0e7ca14e815b977daf534247&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023682X0-landscape.jpg",
+	"name": "THE OUTPOST",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605acb446d048943f7795210_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023682X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ea516cc3daf881d64e66c0dba5f1af491e3ba76209318c7ef1d794300978d875f89f2ba8b177c78c14d804cea2f5a1ed245d41035877ac61cf781a4c0e90a2c1&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029121X0-landscape.jpg",
+	"name": "HOOKING UP",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605ac1866d048943f779511e_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029121X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=75d0c268c72f9043c3524d677abfeeaf50c40fe7825d270a0ff1d11e1cd07289914266ae285f2b8cc97370eaef2724259bfc166963032ae112e827bceabc5491&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029382X0-landscape.jpg",
+	"name": "THE SECRET GARDEN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605ac5856d048943f7795183_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029382X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=803500cc3f0d8c6c304c68b4a5476ff9010afa65fe8b8e020407fa7a536e54834a1d11d7af8aa54cc529e636ca4d909292b0f82a5e64033fd4a09dcf011093ca&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029385X0-landscape.jpg",
+	"name": "SCOOB!",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60303d026d048943f7756441_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029385X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c8abb890c5f194956c9c084bdffb353abab2091ddb8e7353e01dab1a0fb564a07a747a64d0650bc6366ac0af00608ef8fbe314e7b8e85d52e4c1db40d049d64&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023883X0-landscape.jpg",
+	"name": "DRAGONHEART: VENGEANCE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/604214486d048943f777098f_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023883X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0ca011cf5587543274038fe90af880675f49df5cd747f4375161330488294aab503752f1e430786ef088ce1e32a51b56dea2e57284e79890770ddb2655c9ddce&drmId=prod"
       },
       {  
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028815X0-landscape.jpg",
