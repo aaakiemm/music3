@@ -2741,6 +2741,48 @@
            "name": "HBO MOVIES",
             "samples": [
        {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028939X0-landscape.jpg",
+	"name": "MY SPY",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605addf26d048943f77953cc_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028939X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6d41985c0806f54b8c027eb09c13d6e3d39e241c5519cc7688c4f4112e43a178e1fb195159c60c7c17f5b2655035abc9294603d3ba196087a77d52f52f786422&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028815X0-landscape.jpg",
+	"name": "THE ROADS NOT TAKEN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6042160b6d048943f77709bc_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028815X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0890fc4894b38efbc33d960e77b214c56ae5794ace68588babbe536e0561825367c34edb73308b8f9c4ee6012ebba07f0d652d677427d9cb89d65799278144cb&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029386X0-landscape.jpg",
+	"name": "SUPER INTELLIGENCE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/603c6f466d048943f77681b7_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029386X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=39247e04b0b6117988a904cf50378d55a423cf2e1e89b5bc12436882ac35a1c32460564124ea8e451b5734299fc582c4c81ab6015da2d18bde1fca58ad279785&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028817X0-landscape.jpg",
+	"name": "THE TURNING",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/603c6f186d048943f77681b1_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028817X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=47acf82c469631d7ea737b702c622ff87399705bdd1daa9f147c442c41cb66d30ad58c576771022f5266631c902e2acd2385dcf72442a2f2935f89da219f80da&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027667X0-landscape.jpg",
+	"name": "EMMA",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6041c4ff6d048943f7770215_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027667X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0fc57f6b475a004b061175455c321b65bcb533851daf1dd62638ae735fb54ca184b30dfb4f12309d48c502ea45a64701bbd14a7ad9f82f278075f9a044e7d2c9&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028886X0-landscape.jpg",
+	"name": "WISH UPON A UNICORN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/603efae06d048943f776bd80_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028886X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=19b2b312b78a7702e1f7492828d9fb43c79fbd1a3ba5fbc07c42ae97d111d2ce97e0e3bff0c3ecb1aab296402605205c6f5a90ac1ea122fc333a23ba5297ffd1&drmId=prod"
+      },
+      {  
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023943X0-landscape.jpg",
 	"name": "DOLITTLE",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feefbc06d048943f76f5f3a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903176612870712281",
