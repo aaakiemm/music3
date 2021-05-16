@@ -1750,6 +1750,11 @@
         "uri": "https://urlbox.paduhq.com/1817424252358960/Monster.Hunter.2020.1080p.BluRay.x264.AAC5.1-YTS.MX.mkv"
       },
       {
+        "name": "STUBER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/stuber.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Stuber.2019.720p.BluRay.x264.mp4"
+      },
+      {
         "name": "THE TRANSPORTER 1",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/The%20Transporter.mp4"
@@ -3635,7 +3640,7 @@
     ]  
   },
   {
-    "name": "SEPAHTU AlRAYA",
+    "name": "SEPAHTU ALRAYA",
     "samples": [      
       {
         "name": "2017 EP1",
@@ -3666,6 +3671,16 @@
         "name": "2020 EP2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show2/Random%20Drama%20Malay2/Sepahtu%202015-2020/Sepahtu%20Reunion%20Raya/Sepahtu%20Reunion%20Al-Raya%20(2020)2.mp4"
+      },
+      {
+        "name": "2021 EP1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
+        "uri": "https://urlbox.paduhq.com/1860305205842224/Sepahtu Reunion Al Raya (2021) episode 1 - PencuriMovie.mp4"
+      },
+      {
+        "name": "2021 EP2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
+        "uri": "https://urlbox.paduhq.com/1860580083749168/Sepahtu Reunion Al Raya (2021) episode 2 - PencuriMovie.mp4"
      }
     ]  
   },
