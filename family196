@@ -2356,9 +2356,12 @@
     "name": "HINDI MOVIES",
     "samples": [ 
        {
-        "name": "RADHE",
+        "name": "RADHE ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/radhe.jpg",
-        "uri": "https://urlbox.paduhq.com/1821959737823536/[TM] RADHE (2021) Hindi HQ HDRip 1080p HEVC.mkv"
+        "uri": "hhttps://urlbox.paduhq.com/1821959737823536/[TM] RADHE (2021) Hindi HQ HDRip 1080p HEVC.mkv",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/radhe.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
       },
       {
         "name": "MR.X",
