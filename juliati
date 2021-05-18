@@ -1620,6 +1620,21 @@
         "uri": "https://urlbox.paduhq.com/1786122530705712/Inside.Out.2015.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
       },
       {
+        "name": "COCO",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/coco.jpg",
+        "uri": "https://urlbox.paduhq.com/1786259969659184/Coco.2017.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
+      },
+      {
+        "name": "ZOOTOPIA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/zootopia.jpg",
+        "uri": "https://urlbox.paduhq.com/1786225609920816/Zootopia.2016.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
+      },
+      {
+        "name": "TANGLED",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tangled.jpg",
+        "uri": "https://urlbox.paduhq.com/1786294329397552/Tangled.2010.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
+      },
+      {
         "name": "STANDBY ME DORAEMON",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/standbyme.jpg",
         "uri": "https://urlbox.paduhq.com/1897207564849456/Doraemon Stand By Me (2014) Malay Dubbed 720p WEBRip.mp4"
@@ -1628,6 +1643,96 @@
         "name": "STANDBY ME DORAEMON 2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/standbyme.jpg",
         "uri": "https://urlbox.paduhq.com/1809968189133104/Stand By Me 2 Doraemon || Uaena04_source.mp4"
+      },
+      {
+        "name": "UP",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/up.jpg",
+        "uri": "https://urlbox.paduhq.com/1792960118640944/Up (2009) Malay Dubbed 1080p DSNP WEBRip.mkv"
+      },
+      {
+        "name": "TOY STORY 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/toystory.jpg",
+        "uri": "https://urlbox.paduhq.com/1790486217478448/Toy.Story.1995.1080p.MALAY.DSNP.WEB-DL-NikkiPipe.mkv"
+      },
+      {
+        "name": "TOY STORY 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/toystory.jpg",
+        "uri": "https://urlbox.paduhq.com/1792925758902576/Toy Story 2 (1999)  Malay Dubbed 1080p DSNP WEBRip.mkv"
+      },
+      {
+        "name": "TOY STORY 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/toystory.jpg",
+        "uri": "https://urlbox.paduhq.com/1792891399164208/Toy Story 3 (2010) Malay Dubbed 1080p DSNP WEB-DL.mkv"
+      },
+      {
+        "name": "TOY STORY 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/toystory.jpg",
+        "uri": "https://urlbox.paduhq.com/1786191250182448/Toy.Story.4.2019.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
+      },
+      {
+        "name": "THE INCRIDIBLES 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/theincridibles.jpg",
+        "uri": "https://urlbox.paduhq.com/1786019451490608/The_Incredibles_2004_1080p_MALAY_DSNP_WEB_DL_x264_AAC_ExpectHD.mkv"
+      },
+      {
+        "name": "THE INCRIDIBLES 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/theincridibles.jpg",
+        "uri": "https://urlbox.paduhq.com/1785916372275504/Incredibles.2.2018.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
+      },
+      {
+        "name": "TREASURE PLANET",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/treasure.jpeg",
+        "uri": "https://urlbox.paduhq.com/1792857039425840/Treasure Planet (2002) Malay Dubbed 720p DSNP WEBRip.mkv"
+      },
+      {
+        "name": "TARZAN & JANE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tarzan&jane.jpg",
+        "uri": "https://urlbox.paduhq.com/1785813293060400/Tarzan_and_Jane_2002_1080p_MALAY_DSNP_WEB_DL_x265_AAC_ExpectHD.mkv"
+      },
+      {
+        "name": "RATATOUILLE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ratatuli.jpg",
+        "uri": "https://urlbox.paduhq.com/1792444722565424/Ratatouille (2007) Malay Dubbed 1080p DSNP WEB-DL.mkv"
+      },
+      {
+        "name": "ALICE IN WONDERLAND",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/alicewonderland.jpg",
+        "uri": "https://urlbox.paduhq.com/1792101125181744/Alice in Wonderland (1951) Malay Dubbed 1080p DSNP WEB-DL.mkv"
+      },
+      {
+        "name": "BIG HERO 6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bighero6.png",
+        "uri": "https://urlbox.paduhq.com/1792066765443376/Big Hero 6 (2014) Malay Dubbed 1080p DSNP WEB-DL.mkv"
+      },
+      {
+        "name": "BRAVE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/scale.jpg",
+        "uri": "https://urlbox.paduhq.com/1792032405705008/Brave (2012) Malay Dubbed 1080p DSNP WEB-DL.mkv"
+      },
+      {
+        "name": "THE JUNGLE BOOK 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/junglebook.jpg",
+        "uri": "https://urlbox.paduhq.com/1791826247274800/The Jungle Book (1957) Malay Dubbed 1080p DSNP WEB-DL.mkv"
+      },
+      {
+        "name": "THE JUNGLE BOOK 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/junglebook.jpg",
+        "uri": "https://urlbox.paduhq.com/1791791887536432/The Jungle Book 2 (2003) Malay Dubbed 1080p DSNP WEB-DL.mkv"
+      },
+      {
+        "name": "CINDERELLA 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Cinderella.jpg",
+        "uri": "https://urlbox.paduhq.com/1789902101926192/Cinderella.1950.1080p.MALAY.DSNP.WEB-DL.x264.AAC-Nikki.mkv"
+      },
+      {
+        "name": "CINDERELLA 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Cinderella.jpg",
+        "uri": "https://urlbox.paduhq.com/1789867742187824/Cinderella_II_Dreams_Come_True_2001_1080p_MALAY_DSNP_WEB_DL_x264.mkv"
+      },
+      {
+        "name": "CINDERELLA 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Cinderella.jpg",
+        "uri": "https://urlbox.paduhq.com/1789833382449456/Cinderella_III_A_Twist_in_Time_2007_1080p_MALAY_DSNP_WEB_DL_x264.mkv"
       }
     ]  
   },
@@ -1845,6 +1950,21 @@
         "uri": "https://urlbox.paduhq.com/1817424252358960/Monster.Hunter.2020.1080p.BluRay.x264.AAC5.1-YTS.MX.mkv"
       },
       {
+        "name": "THE MASK",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/THEMASK.jpg",
+        "uri": "https://urlbox.paduhq.com/1785744573583664/The Mask (1994) Malay Dubbed 720p HDTV.mkv"
+      },
+      {
+        "name": "JURASSIC WORLD",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jurasikworld.jpg",
+        "uri": "https://urlbox.paduhq.com/1809040476197168/MijiNiko.Jurassic.World.2015.BluRay.1080p.x265.Malay.mkv"
+      },
+      {
+        "name": "GEORGE IN THE JUNGLE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/george-of-the-jungle.jpg",
+        "uri": "https://urlbox.paduhq.com/1792753960210736/George of the Jungle (1997) Indo Dubbed 720p DSNP WEBRip.mkv"
+      },
+      {
         "name": "STUBER",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/stuber.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/Stuber.2019.720p.BluRay.x264.mp4"
@@ -1877,7 +1997,7 @@
       {
         "name": "THE MEG",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/meg.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/14/The%20Meg%202018%20Hardsub%20Malay.mp4"
+        "uri": "https://urlbox.paduhq.com/1809006116458800/The.Meg.2018.720p.BRRip.x265.MALAY.AAC.mkv"
       },
       {
         "name": "WILD CARD",
