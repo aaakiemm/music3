@@ -1621,8 +1621,13 @@
       },
       {
         "name": "STANDBY ME DORAEMON",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/standbyme.png",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/standbyme.jpg",
         "uri": "https://urlbox.paduhq.com/1897207564849456/Doraemon Stand By Me (2014) Malay Dubbed 720p WEBRip.mp4"
+      },
+      {
+        "name": "STANDBY ME DORAEMON 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/standbyme.jpg",
+        "uri": "https://urlbox.paduhq.com/1809968189133104/Stand By Me 2 Doraemon || Uaena04_source.mp4"
       }
     ]  
   },
