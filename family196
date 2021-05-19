@@ -2015,6 +2015,11 @@
     "name": "CHINESE MOVIES",
     "samples": [ 
       {
+        "name": "THE KARATE KID",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/karatekid.png",
+        "uri": "https://urlbox.paduhq.com/1907567025967408/The Karate Kid.mp4"
+      },
+      {
         "name": "ICEMAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/iceman.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Iceman%20The%20Time%20Traveller%20(2018)Bluray%20Malay%20hardsub.mp4"
