@@ -4800,6 +4800,19 @@
     ]  
   },
   {
+    "name": "DRAGON BALL SUPER",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dragonballsuper.jpg",
+        "uri": "https://urlbox.paduhq.com/1909319372624176/Dragon Ball Super.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dragonballsuper001.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      }
+    ]  
+  },
+  {
     "name": "SQUAD CILIK S1",
     "samples": [  
       {
