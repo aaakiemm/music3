@@ -1605,6 +1605,19 @@
         "uri": "https://urlbox.paduhq.com/1809109195673904/Boboiboy Movie 2 (2019) 1080p PPVHD x265.mkv"
       },
       {
+        "name": "THE CROODS 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/croods.jpg",
+        "uri": "https://urlbox.paduhq.com/1963023643693360/The Croods (2013) Malay Dub 720p WEBRip.mkv"
+      },
+      {
+        "name": "THE CROODS 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/croods.jpg",
+        "uri": "https://urlbox.paduhq.com/1963092363170096/@Kande76_The.Croods.A.New.Age.2020.720p.BluRay.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/croods2/ms.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
         "name": "FROZEN 1",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frozen1.jpg",
         "uri": "https://urlbox.paduhq.com/1786088170967344/Frozen.2013.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"    
