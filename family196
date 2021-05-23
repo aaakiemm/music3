@@ -3151,6 +3151,27 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029381X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=99696abee858b3614333e7ad176d15016d2abbf96c7a89030545b36d4814012b865b232b3e91b231bdd1ba26ef114ffd9dc8e050936dcbbf55e19aa21a032578&drmId=prod"
       },
       {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/012927X0-landscape.jpg",
+	"name": "MASK",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6035ab376d048943f775e31c_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012927X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7ee31bea4ae8b6ea5d81864e610814a0676949ecf3009e77f42287cbb5e01c378acbab24fb82a20b704b51b34474164a7376b43b3610e113b54285803a5da230&drmId=prod"
+      },
+      {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/019041X0-landscape.jpg",
+	"name": "CHAPPIE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e65bd4a3a736626ceca31ef_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=019041X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cc1839d3b23e322b6b3cabc32a529ddf61ca36895b3cd23e6bdfedd24fcf48f58442a5fa9eeb7b3bfdbeb7d9bfe3c2c0aff28c32e9c1606117cc1abc5d0e8add&drmId=prod"
+      },
+      {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/013986X0-landscape.jpg",
+	"name": "TERMINATOR 3: RISE OF THE MACHINES",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ec39d5d6d048943f7536939_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=013986X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5e24617d6a6550905fba9867bc519153b23958eadb89b56b6097e321e57375d1fec20f56b2e291086ad6185193e0a71cb6b66da9b2b3360103a32e18602a5f46&drmId=prod"
+      },
+      {     
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023889X0-landscape.jpg",
 	"name": "BODY CAM",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/600d198f6d048943f77229c1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6896423658019509637",
