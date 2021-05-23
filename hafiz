@@ -701,6 +701,11 @@
         "name": "RTM SPORTS",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
         "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+      },
+      {
+        "name": "IKIM STREAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ikim.png",
+        "uri": "http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8" 
       }
     ]  
   },
@@ -1517,7 +1522,7 @@
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHOHdqOTliejlBQ3RIVTZaOUxpNzN0WmNCbTJPcU1LWE1qWnFFVmNDNVpfNjEtZHpfTjlSQUhzQXphbWFvd1JMRm05X3VCMXMydHdlcjNtN05MYkVpYUNsZ3ZBTnI1eWw3emlQOEpDUVNETUdjNE9xbWRBOG9YZ1pPUGZ5bXlFM0FSbG1Kdnh5MGlOb1V6dEljMjM1YnVxLXhZdUk3OHc0VXlQWXUtSEZtLUhXRjVMWEZIc1lnR3R1Y3BYb0dMa203dllHeGppRnlpMS1SUFdMQlZWc3dVMWdaR05MRDQzZHpMSm5JeElPSndJY2dCUExYcGJWV3Q2ajdsMkxoeTFQSUV3Z1NoaHZrWGRTS0Z5WlYyekd5QWczWEdXOVRLTWcxd2xJRnNGemZ3RkZMTWRUYWw0T044Y1hta3hnMTh1MmVxdFl0Uzk0VWdKOU85cmgxcVdxU0xwTjducnV5cW5mWkNmSGtyNC05Mi0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIzMDMzMiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJjbW5fZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRzh3ajk5Yno5QUN0SFU2WjlMaTczdFpjQm0yT3FNS1hNalpxRVZjQzVaXzYxLWR6X045UkFIc0F6YW1hb3dSTEZtOV91QjFzMnR3ZXIzbTdOTGJFaWFDbGd2QU5yNXlsN3ppUDhKQ1FTRE1HYzRPcW1kQThvWGdaT1BmeW15RTNBUmxtSnZ4eTBpTm9VenRJYzIzNWJ1cS14WXVJNzh3NFV5UFl1LUhGbS1IV0Y1TFhGSHNZZ0d0dWNwWG9HTGttN3ZZR3hqaUZ5aTEtUlBXTEJWVnN3VTFnWkdOTEQ0M2R6TEpuSXhJT0p3SWNnQlBMWHBiVld0Nmo3bDJMaHkxUElFd2dTaGh2a1hkU0tGeVpWMnpHeUFnM1hHVzlUS01nMXdsSUZzRnpmd0ZGTE1kVGFsNE9OOGNYbWt4ZzE4dTJlcXRZdFM5NFVnSjlPOXJoMXFXcVNMcE43bnJ1eXFuZlpDZkhrcjQtOTItIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=CuuP7Zxn%2b7Us4AJxMv6DJnuLSrM%3d"
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIRkR2Z1lDMWt1WGd3YkVuLU1LN0xLR0pZMU5KUF91cmE2Zm1fUmZqWGxVWnMzeDUydkQ0REkybkhOR1NkN2ZYSVRGa3lSVV9SSFE5WFBRUkg0QUVuTUNLcndPMGlONDd2WndySEFUWUR3TERmcnFGYVNPVjhOZmM1eXNXTUloVTFHajdmdzUwOUpjaFlUcmVSc3FPZ25TTkpreUtyalU2UFN5aUxvN0x3OFV4R2g1cnMtdmFESUVkdkNXSU81Y3pGNUliZlZ1MUhqcFJmaFA5b2xpc1c1WlNxSm1kVlY4Vmd1T2pMWHExZV95V2tDM2RqaTRCMzFnTUEtcmE1SXoycnNoa2tOWDhnTm1ieGxYZk9iUmJ3Qk9qWlNodzI1N0ktWEFONUo5QzRWNCZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjMwMzMyIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3dlYmNtbl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZIRkR2Z1lDMWt1WGd3YkVuLU1LN0xLR0pZMU5KUF91cmE2Zm1fUmZqWGxVWnMzeDUydkQ0REkybkhOR1NkN2ZYSVRGa3lSVV9SSFE5WFBRUkg0QUVuTUNLcndPMGlONDd2WndySEFUWUR3TERmcnFGYVNPVjhOZmM1eXNXTUloVTFHajdmdzUwOUpjaFlUcmVSc3FPZ25TTkpreUtyalU2UFN5aUxvN0x3OFV4R2g1cnMtdmFESUVkdkNXSU81Y3pGNUliZlZ1MUhqcFJmaFA5b2xpc1c1WlNxSm1kVlY4Vmd1T2pMWHExZV95V2tDM2RqaTRCMzFnTUEtcmE1SXoycnNoa2tOWDhnTm1ieGxYZk9iUmJ3Qk9qWlNodzI1N0ktWEFONUo5QzRWNCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=N6JzLKQSXLUVA5hbR7rV%2f%2fHbEuw%3d"
       },
       {
         "name": "CNA",
@@ -1531,21 +1536,21 @@
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=45&ImageId=%272862880%27&EntityType=%27Item%27&EntityId=%27213503%27&Width=316&Height=316&ImageUrl=%272862880.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp01.akamaized.net/out/v1/6ef9a0ae3c864dde8209572a472741b4/manifest.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJYURZNnhsdVdiTUlhUUI5OTBYTWZTSVV2NTJzQkFGbFJ3WlkwQXZlaE9Na0dPSDRnOHB4UWxZSl93UEkxbUstYVBfdl9GZm9KNllzclN6Z05uOXVHaDl5TnZORTlJYnJCdUpGTnNwRlBYdnAzOFBZd1oweUxRT0hFVjczcXlPTVJwWXlOXzlNeUdHWk9Mdl9BWFRzcjBYWjFzWXdnTTZ6ZjZVUFVHSHNiRjdxWHRsQXFReG5IdUpzOHU4VlJUaEhLV1M1MEFxY1FGcUNCb0Q3RVFQZHlNb3hIRUcxRlZvYnZxYmtCMjZkRGdfSWxMcU90eGZiVEtHQXlDU0MtUUdKblNTSGYwSUxucWtiNTJqT3ZwTE4wUnlDVVhEZXhUSmlGM3hDMTJMS25WT2VKRnUyaVVEYkRCRGRJRlFRaE1tNXllVEgzZnBJT09FaE1jem9PMi0xTFE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMzNjY3MDAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoicGFzc3RocnVfZUdHbmV0d29ya19kYXNoX2Ntbl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZJYURZNnhsdVdiTUlhUUI5OTBYTWZTSVV2NTJzQkFGbFJ3WlkwQXZlaE9Na0dPSDRnOHB4UWxZSl93UEkxbUstYVBfdl9GZm9KNllzclN6Z05uOXVHaDl5TnZORTlJYnJCdUpGTnNwRlBYdnAzOFBZd1oweUxRT0hFVjczcXlPTVJwWXlOXzlNeUdHWk9Mdl9BWFRzcjBYWjFzWXdnTTZ6ZjZVUFVHSHNiRjdxWHRsQXFReG5IdUpzOHU4VlJUaEhLV1M1MEFxY1FGcUNCb0Q3RVFQZHlNb3hIRUcxRlZvYnZxYmtCMjZkRGdfSWxMcU90eGZiVEtHQXlDU0MtUUdKblNTSGYwSUxucWtiNTJqT3ZwTE4wUnlDVVhEZXhUSmlGM3hDMTJMS25WT2VKRnUyaVVEYkRCRGRJRlFRaE1tNXllVEgzZnBJT09FaE1jem9PMi0xTFE9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=oPioyeoCMj4YnXSeyh6YPv%2fxm3g%3d"
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEcEFGUlZiRnl3VHJNQ2NaMm1xc0FDRktlSHRzRnd4cGRfYnpkWlMxSzA2OGEzRlU3OHQ4eXF0aG84TkhWYXF6LXp1RzdCaTZUNHphT3ZpSExvS3lmQWgyY0pDcHNJdkRpMW5QMC1lZE9rVWhLamw5LWM4UHBMdzdYVlZSN2t3TndzbnBxdHlPWFBubE16MUxUai0weGdyNWRwWGlldVhRMmF6d01JX294ZHVuM0Jra3lZX25yanhCeC0ycHFITXZCUTJqZDdWLUVIdld5eS1zU3NKWEtGVWhrV1g2UE5qNnItWlBSNFZhQ3NYQUNOZmFDcGc2V1BKQW9ndVNaN3E3UjlLdHFSaDMtWVNaSnBwdDNfQ1Q1cmR1ZDc4M1QyM25vTXNnR2tLWFd6NWVMTmUtZE5OQ2I4N3I2bWpvUUY3Rk1Td3J5NVpnQmNFQkFwVmpaU3lGNDVpR2tQejZ6eHBVanJRMk4zR1JEOVUmY29udGV4dFR5cGU9bm9uZSZpZD0xMzM2NjcwMCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJwYXNzdGhydV9lR0duZXR3b3JrX2Rhc2hfY21uX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRwQUZSVmJGeXdUck1DY1oybXFzQUNGS2VIdHNGd3hwZF9iemRaUzFLMDY4YTNGVTc4dDh5cXRobzhOSFZhcXotenVHN0JpNlQ0emFPdmlITG9LeWZBaDJjSkNwc0l2RGkxblAwLWVkT2tVaEtqbDktYzhQcEx3N1hWVlI3a3dOd3NucHF0eU9YUG5sTXoxTFRqLTB4Z3I1ZHBYaWV1WFEyYXp3TUlfb3hkdW4zQmtreVlfbnJqeEJ4LTJwcUhNdkJRMmpkN1YtRUh2V3l5LXNTc0pYS0ZVaGtXWDZQTmo2ci1aUFI0VmFDc1hBQ05mYUNwZzZXUEpBb2d1U1o3cTdSOUt0cVJoMy1ZU1pKcHB0M19DVDVyZHVkNzgzVDIzbm9Nc2dHa0tYV3o1ZUxOZS1kTk5DYjg3cjZtam9RRjdGTVN3cnk1WmdCY0VCQXBWalpTeUY0NWlHa1B6Nnp4cFVqclEyTjNHUkQ5VSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=lKTtDfbAIotNoDWwuHCJWq9GN34%3d"
       },
       {
         "name": "VASANTHAM",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%272858072%27&EntityType=%27LinearSchedule%27&EntityId=%27186c9789-4530-4dc3-b6a3-687129f7df11%27&Width=540&Height=305&ImageUrl=%272858072.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFd2RvRjJCSVliMEg4Ti03VDNMNTI0ZUl3VmVfcVZmQnJIWUw2d3I4bjVGbmFjc3luZU1jOHhUeTlyS0ZHLVJJX0NlejB3eUQ5YjI2TXZ6dlN2RTVNWENDdnNYVHlWSnU5bkNwdFpQcUlWRGducjNrWTk4U1pwNHNNMFpaZlE1MVkzVHpJeTdpNVljaUl1Y0tqZVVMTzEwTzF6MDhrcUFwTWh5S1FDbm1xMWtYX2JRRUpvckdkRk5JMTFjdlQ0WTlORGlXX2tqLWs0cy1UQ3B1aWZ6Xy1LUW9DTzNKZmVEd2FLNzBuUW8ta0ZJVm5RTVpjRzRldUlIS0MtSkJrVzZLMGRaU3hNOXA1UGsyNGVGODJILXJydDJ2c1hpSzNwN3BWYXE3TW1BeUhPWGJ3YU5BeTZsRGRjVWF3bU1ta19LZVNaUUZFdDhjajd2a1pTdVFLQVdrUDg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjk5OTAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFd2RvRjJCSVliMEg4Ti03VDNMNTI0ZUl3VmVfcVZmQnJIWUw2d3I4bjVGbmFjc3luZU1jOHhUeTlyS0ZHLVJJX0NlejB3eUQ5YjI2TXZ6dlN2RTVNWENDdnNYVHlWSnU5bkNwdFpQcUlWRGducjNrWTk4U1pwNHNNMFpaZlE1MVkzVHpJeTdpNVljaUl1Y0tqZVVMTzEwTzF6MDhrcUFwTWh5S1FDbm1xMWtYX2JRRUpvckdkRk5JMTFjdlQ0WTlORGlXX2tqLWs0cy1UQ3B1aWZ6Xy1LUW9DTzNKZmVEd2FLNzBuUW8ta0ZJVm5RTVpjRzRldUlIS0MtSkJrVzZLMGRaU3hNOXA1UGsyNGVGODJILXJydDJ2c1hpSzNwN3BWYXE3TW1BeUhPWGJ3YU5BeTZsRGRjVWF3bU1ta19LZVNaUUZFdDhjajd2a1pTdVFLQVdrUDg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=8n6wyY27a9j2erbuALZ4BsrDviI%3d"		
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMUklQX2dSMDBPMTlTNEFWMmJVamx5emp3TkdWcVZHeFBIUnNwMmJzcDI5aUw0Nmp2XzVUb3ZOWkF1aXB6QTNzU0hoU0I0QTdzV0RXNEFDbEVuaERWek1hNmh4M1NFemdqS0JoY0RwaTJFaGN6OGdTcEZDcFpfX1pvMENOY0x0SmplNmNwWjRLTFBmR3VIc2htOWtoUU5talF0N0VjaWR3NUZPeTV1aWIyT25ib2dIMmx2WUdmYzZpeExiWHh2cE0zWC1mUW15TGoxSnYteEVMd1JzTldNSVZxMlozT0ZwRzVUNk45YUlYN3EtNE5ieExYMmRJSzluTlR3TWpoNV9IdVg0bHVxQU9jcFc2cGxJYlU1c2JFT3Jxb2h2TTI1NVRCZ2tsVWloVlU4aXMtV01JaC10WXRtWG1xYlBybE5fV3c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI5OTkwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTFJJUF9nUjAwTzE5UzRBVjJiVWpseXpqd05HVnFWR3hQSFJzcDJic3AyOWlMNDZqdl81VG92TlpBdWlwekEzc1NIaFNCNEE3c1dEVzRBQ2xFbmhEVnpNYTZoeDNTRXpnaktCaGNEcGkyRWhjejhnU3BGQ3BaX19abzBDTmNMdEpqZTZjcFo0S0xQZkd1SHNobTlraFFObWpRdDdFY2lkdzVGT3k1dWliMk9uYm9nSDJsdllHZmM2aXhMYlh4dnBNM1gtZlFteUxqMUp2LXhFTHdSc05XTUlWcTJaM09GcEc1VDZOOWFJWDdxLTROYnhMWDJkSUs5bk5Ud01qaDVfSHVYNGx1cUFPY3BXNnBsSWJVNXNiRU9ycW9odk0yNTVUQmdrbFVpaFZVOGlzLVdNSWgtdFl0bVhtcWJQcmxOX1d3PT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=H4tCT13ySzQa4vg4cCii8MqbqCA%3d"		
       },
       {
         "name": "LIVE 1",
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%272540525%27&EntityType=%27LinearSchedule%27&EntityId=%276db03774-5e76-4a0e-9cc1-5a9274b91603%27&Width=1080&Height=608&ImageUrl=%272540525.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMTE9BLWowUlpuTDRyZkxyVFB3SmhzNVY2MW40ZlVKVUVBOFpETWxURzUxNlQ0eGN5V0pvZm5EeUF0Z3VkYjF5WFNhR1dCWkZoYTJhbjVZUUE2Q1ZCWGd2NHphRmZQWGsyaURzUVlHQnl2T0JIOGp3OWlXLTY0UHFZOHVUdXkxQUtWODZ0SXNYT0hTMGtWNWo5WEhfRlY0U3JxWGNjYkNJYXNBbGJMT0p5bkV0cDNxSW80RkVCTE9VSlVnOGIzVmlhOUp2YUx2WDY5d1JBLWhyNGpKYUJzaDdUd2NxRWp1LTVvZl85WjkwMXVwRE9wNmZ3Nmhpd1JpQkNqNFBqdkdYZ2JxaEd1andyTjc5VW12S2Vab01OYy1oZmw2MjRnN0NvNE1KYy13ZkxwX0JjSmRoUzFFcEN5MjdjNE53cXgzS0tva0tIMkI2UlAyTW1RN0ZwRzBONWc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMzAzMzIiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfd2ViY21uX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkxMT0EtajBSWm5MNHJmTHJUUHdKaHM1VjYxbjRmVUpVRUE4WkRNbFRHNTE2VDR4Y3lXSm9mbkR5QXRndWRiMXlYU2FHV0JaRmhhMmFuNVlRQTZDVkJYZ3Y0emFGZlBYazJpRHNRWUdCeXZPQkg4anc5aVctNjRQcVk4dVR1eTFBS1Y4NnRJc1hPSFMwa1Y1ajlYSF9GVjRTcnFYY2NiQ0lhc0FsYkxPSnluRXRwM3FJbzRGRUJMT1VKVWc4YjNWaWE5SnZhTHZYNjl3UkEtaHI0akphQnNoN1R3Y3FFanUtNW9mXzlaOTAxdXBET3A2Znc2aGl3UmlCQ2o0UGp2R1hnYnFoR3Vqd3JONzlVbXZLZVpvTU5jLWhmbDYyNGc3Q280TUpjLXdmTHBfQmNKZGhTMUVwQ3kyN2M0TndxeDNLS29rS0gyQjZSUDJNbVE3RnBHME41Zz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=8cvAoR5Dmr6tbOh91XBbQlbYfBs%3d"		
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMMnJyc3Z6RFg0cUMwMkxINTdTcDdZdDlxRXVJeU1YLVJjMXRFci1UaUVIcWk0d1FhdXRhX0tjZ3h6Ui1MRERCbFQ2SXdwTDg0ZTdXS3JLODEyQUN4UUR0bU9VaTdQQ1poMWZPSnpnTE5CWjdlNUxXcU1WMV9QOGR4Q0FqN19pa1U0U2FLSGNpaTI2emNGRzZsbmJYZmxuQTNpSVBZOUJab016aDZ5ZzVGaWhjb0N0ZENlU0ZtS0dOVm92QmhGN1V0RGlqU2xsUjM2WEZBS0RWZ1Jzd0xGLS05UVNSdHNPUU5DM1VJVUtHZzlEQ180eEtCbXJzSjBIeVpQWGM0UV9BOFlUa2lCc2xoR2E1U0RTd3RIWFM5eGJ2U0czWEppaG5EX2JNa1V2NGx1VlpvYjBvZDhIOS1tMkJjbGQ2dXQxbl92OUUtcFJLR2RvbnItWEFRY1p3ZzA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMzAzMzIiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfd2ViY21uX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkwycnJzdnpEWDRxQzAyTEg1N1NwN1l0OXFFdUl5TVgtUmMxdEVyLVRpRUhxaTR3UWF1dGFfS2NneHpSLUxEREJsVDZJd3BMODRlN1dLcks4MTJBQ3hRRHRtT1VpN1BDWmgxZk9KemdMTkJaN2U1TFdxTVYxX1A4ZHhDQWo3X2lrVTRTYUtIY2lpMjZ6Y0ZHNmxuYlhmbG5BM2lJUFk5QlpvTXpoNnlnNUZpaGNvQ3RkQ2VTRm1LR05Wb3ZCaEY3VXREaWpTbGxSMzZYRkFLRFZnUnN3TEYtLTlRU1J0c09RTkMzVUlVS0dnOURDXzR4S0JtcnNKMEh5WlBYYzRRX0E4WVRraUJzbGhHYTVTRFN3dEhYUzl4YnZTRzNYSmlobkRfYk1rVXY0bHVWWm9iMG9kOEg5LW0yQmNsZDZ1dDFuX3Y5RS1wUktHZG9uci1YQVFjWndnMD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=wAb6FMY2%2bW8Zr9jRdEsb%2f%2bW%2fthY%3d"		
       },
       {
         "name": "LIVE 2",
@@ -1603,6 +1608,19 @@
         "name": "BOBOIBOY 2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boboboy1.jpg",
         "uri": "https://urlbox.paduhq.com/1809109195673904/Boboiboy Movie 2 (2019) 1080p PPVHD x265.mkv"
+      },
+      {
+        "name": "THE CROODS 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/croods.jpg",
+        "uri": "https://urlbox.paduhq.com/1963023643693360/The Croods (2013) Malay Dub 720p WEBRip.mkv"
+      },
+      {
+        "name": "THE CROODS 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/croods.jpg",
+        "uri": "https://urlbox.paduhq.com/1963092363170096/@Kande76_The.Croods.A.New.Age.2020.720p.BluRay.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/croods2/ms.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
       },
       {
         "name": "FROZEN 1",
@@ -3138,6 +3156,34 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029381X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=99696abee858b3614333e7ad176d15016d2abbf96c7a89030545b36d4814012b865b232b3e91b231bdd1ba26ef114ffd9dc8e050936dcbbf55e19aa21a032578&drmId=prod"
       },
       {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/012927X0-landscape.jpg",
+	"name": "MASK",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6035ab376d048943f775e31c_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012927X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7ee31bea4ae8b6ea5d81864e610814a0676949ecf3009e77f42287cbb5e01c378acbab24fb82a20b704b51b34474164a7376b43b3610e113b54285803a5da230&drmId=prod"
+      },
+      {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/019041X0-landscape.jpg",
+	"name": "CHAPPIE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e65bd4a3a736626ceca31ef_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=019041X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cc1839d3b23e322b6b3cabc32a529ddf61ca36895b3cd23e6bdfedd24fcf48f58442a5fa9eeb7b3bfdbeb7d9bfe3c2c0aff28c32e9c1606117cc1abc5d0e8add&drmId=prod"
+      },
+      {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/013986X0-landscape.jpg",
+	"name": "TERMINATOR 3: RISE OF THE MACHINES",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ec39d5d6d048943f7536939_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=013986X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5e24617d6a6550905fba9867bc519153b23958eadb89b56b6097e321e57375d1fec20f56b2e291086ad6185193e0a71cb6b66da9b2b3360103a32e18602a5f46&drmId=prod"
+      },
+      {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029152X0-landscape.jpg",
+	"name": "ZOMBIELAND: DOUBLE TAP",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605ae1c66d048943f779542a_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029152X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e9855f586d90e8ee7cf4c1c90e126bce7f4639fda91e0c2652850af6272d4d375aca18622ad339f30f4c161c6e3763a70a04366b46b5a057c577c7171f341334&drmId=prod"
+      },
+      {    
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023889X0-landscape.jpg",
 	"name": "BODY CAM",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/600d198f6d048943f77229c1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6896423658019509637",
@@ -4014,13 +4060,18 @@
       {
         "name": "2021 EP1",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
-        "uri": "https://urlbox.paduhq.com/1860305205842224/Sepahtu Reunion Al Raya (2021) episode 1 - PencuriMovie.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Raya/SepahtuRAlRaya2021.EP01.mp4"
       },
       {
         "name": "2021 EP2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
-        "uri": "https://urlbox.paduhq.com/1860580083749168/Sepahtu Reunion Al Raya (2021) episode 2 - PencuriMovie.mp4"
-     }
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Raya/SepahtuRAlRaya2021.EP02.mp4"
+      },
+      {
+        "name": "2021 EP3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/AlRaya.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Sepahtu%20Reunion%20Al%20Raya/SepahtuRAlRaya2021.EP03.mp4"
+      }
     ]  
   },
   {
