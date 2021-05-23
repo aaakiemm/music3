@@ -3171,7 +3171,14 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=013986X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5e24617d6a6550905fba9867bc519153b23958eadb89b56b6097e321e57375d1fec20f56b2e291086ad6185193e0a71cb6b66da9b2b3360103a32e18602a5f46&drmId=prod"
       },
-      {     
+      {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029152X0-landscape.jpg",
+	"name": "ZOMBIELAND: DOUBLE TAP",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/605ae1c66d048943f779542a_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029152X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e9855f586d90e8ee7cf4c1c90e126bce7f4639fda91e0c2652850af6272d4d375aca18622ad339f30f4c161c6e3763a70a04366b46b5a057c577c7171f341334&drmId=prod"
+      },
+      {    
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023889X0-landscape.jpg",
 	"name": "BODY CAM",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/600d198f6d048943f77229c1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6896423658019509637",
