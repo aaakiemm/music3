@@ -701,6 +701,11 @@
         "name": "RTM SPORTS",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
         "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+      },
+      {
+        "name": "IKIM STREAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ikim.png",
+        "uri": "http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8" 
       }
     ]  
   },
