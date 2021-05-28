@@ -2564,6 +2564,16 @@
     "name": "HINDI MOVIES",
     "samples": [ 
        {
+        "name": "MARDAANI 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mardaani.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/Random4%20Movies%20Malay%20Sub/B%20Mardaani%20(2014)%20malaysub.mp4"
+      },
+      {
+        "name": "MARDAANI 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mardaani.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/2-1/Tamil-Hindi/Tamil8/Mardaani%202%20(2019)%20HDRip.mp4"
+      },
+      {
         "name": "RADHE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/radhe.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok/Radhe%202021ok.mp4"
