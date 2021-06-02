@@ -1577,18 +1577,6 @@
     ]  
   },
   {
-    "name": "TESTING HOTSTAR",
-    "samples": [      
-      {
-        "name": "TEST TRY",
-        "logo_uri": "https://static.mncnow.id/images/channel/336f766d/14b6_r32.jpg",
-        "uri": "https://hses3.hotstar.com/videos/movies/english/avengersinfinitywar/1660010677/1590754431187/1678eb3d5fc9948f3d65d16c260426a9/master-tv-1.mpd?hdnea=st=1622618326~exp=1622618926~acl=/videos/movies/english/avengersinfinitywar/1660010677/1590754431187/1678eb3d5fc9948f3d65d16c260426a9/*~data=ip=010687a4882d3e21104aa6521f6e9dbcb17250a061fbf58b260ff408bb59-userid=1593316cb5239c5d79cf6d1782f5a6f899ec98203deeb7b180b5626a21949369-~hmac=74baf0f93a1df3b1ae6140f6fbf83b9dcacc2b2050ee92b5e1c1b73c8849c0c2~ay=CoreLibrary-4.16.25:HTML5Loader-1.3.12~bb=~cg=Superhero~cm=~dx=300.0100000000001~en=Avengers:%20Infinity%20War~os=Windows-10~pd=HS-WEB-PLAYER-S~sa=Desktop~tt=Avengers:%20Infinity%20War~m=PL~u=~v=1199621.1439999999~x=300015~z=0~aa=hses3.hotstar.com~ap=2~da=0~dd=0~de=0~dg=0~fb=0~fd=0~fe=0~fk=~fl=0:300015~rs=~_cd_4738=7.19.1",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://api.hotstar.com/my/hodor/v2/web/my/entitlement/device/5d7910c1-9eb7-41c4-aba7-e8eeeba8ed76/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1bV9hY2Nlc3MiLCJleHAiOjE2MjI3MDE0NTcsImlhdCI6MTYyMjYxNTA1NywiaXNzIjoiVFMiLCJqdGkiOiI4MmEwZmU5Mzk2OGI0ZmNmOGVjNzY1NjQ5NThlNGI2MCIsInN1YiI6IntcImhJZFwiOlwiN2VkOTMzZTZlMjI4NDlmMmI1NzQ5ZDZmOGJjYjI4MmJcIixcInBJZFwiOlwiZDRkOThiNWU0YjJlNDEwMzkxMTViMjdkMmUzNjIxZmRcIixcIm5hbWVcIjpcIkJBRFlBTElOQSBCQURST05cIixcInBob25lXCI6XCIxOTk3NzcxOTZcIixcImlwXCI6XCIyNy4xMjUuMjQ5LjI0OFwiLFwiY291bnRyeUNvZGVcIjpcIm15XCIsXCJjdXN0b21lclR5cGVcIjpcIm51XCIsXCJ0eXBlXCI6XCJwaG9uZVwiLFwiaXNFbWFpbFZlcmlmaWVkXCI6ZmFsc2UsXCJpc1Bob25lVmVyaWZpZWRcIjp0cnVlLFwiZGV2aWNlSWRcIjpcIjVkNzkxMGMxLTllYjctNDFjNC1hYmE3LWU4ZWVlYmE4ZWQ3NlwiLFwicHJvZmlsZVwiOlwiQURVTFRcIixcInZlcnNpb25cIjpcInYyXCIsXCJzdWJzY3JpcHRpb25zXCI6e1wibXlcIjp7fX0sXCJpc3N1ZWRBdFwiOjE2MjI2MTUwNTc4ODZ9IiwidmVyc2lvbiI6IjFfMCJ9.qSEa52K8PENEGxDEMhWRAMcgXO7BoIPEiUxgaONnPyg/"
-      }
-    ]  
-  },
-  {
     "name": "ANIMATION MOVIES",
     "samples": [          
       {
