@@ -1993,6 +1993,11 @@
     "name": "ENGLISH MOVIES",
     "samples": [      
       {
+        "name": "THE WRATH MAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wrathman.jpg",
+        "uri": "https://urlbox.paduhq.com/2173099084075312/Wrath.of.Man.2021.720p.WEBRip.mp4"
+      },
+      {
         "name": "KINGSMAN THE SECRET SERVICE ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/secretservice.jpg",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-2/NewVersion/22/Kingsman%20The%20Secret%20Service%202014.mp4"
@@ -6041,6 +6046,61 @@
     ]  
   },
   {
+    "name": "DIVA POPULAR",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP1.mp4"
+      },
+      {
+        "name": "EPISODE 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP2.mp4"
+      },
+      {
+        "name": "EPISODE 3 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP3.mp4"
+      },
+      {
+        "name": "EPISODE 4 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP4.mp4"
+      },
+      {
+        "name": "EPISODE 5 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP5.mp4"
+      },
+      {
+        "name": "EPISODE 6 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP6.mp4"
+      },
+      {
+        "name": "EPISODE 7 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP7.mp4"
+      },
+      {
+        "name": "EPISODE 8 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP8.mp4"
+      },
+      {
+        "name": "EPISODE 9 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP9.mp4"
+      },
+      {
+        "name": "EPISODE 10 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP10.mp4"
+      }
+    ]  
+  },
+  {
     "name": "SABARLAH DUHAI HATI",
     "samples": [ 
       {
@@ -6207,7 +6267,17 @@
         "name": "EPISODE 33 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sabarlahduhaihati.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay10/Sabarlah%20Duhai%20Hati/Sabarlah%20Duhai%20Hati%20EP33.mp4"
-      }
+      },
+      {
+        "name": "EPISODE 34 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sabarlahduhaihati.jpg",
+        "uri": "https://urlbox.paduhq.com/2152328622231856/[DTDrama] Sabarlah Duhai Hati EP34.mp4"
+      },
+      {
+        "name": "EPISODE 35 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sabarlahduhaihati.jpg",
+        "uri": "https://urlbox.paduhq.com/2152345802101040/[DTDrama] Sabarlah Duhai Hati EP35(Akhir).mp4"
+       }
     ]  
   },
   {
@@ -6216,82 +6286,82 @@
       {
         "name": "EPISODE 1 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP01.mp4"
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP01.mp4"
       },
       {
         "name": "EPISODE 2 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP02.mp4"
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP02.mp4"
       },
       {
         "name": "EPISODE 3 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP03.mp4"
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP03.mp4"
       },
       {
         "name": "EPISODE 4 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP04.mp4"
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP04.mp4"
       },
       {
         "name": "EPISODE 5 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP05.mp4"
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP05.mp4"
       },
       {
         "name": "EPISODE 6 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP06.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP06.mp4"
       },
       {
         "name": "EPISODE 7 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP07.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP07.mp4"
       },
       {
         "name": "EPISODE 8 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP08.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP08.mp4"
       },
       {
         "name": "EPISODE 9 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP09.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP09.mp4"
       },
       {
         "name": "EPISODE 10 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP10.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP10.mp4"
       },
       {
         "name": "EPISODE 11 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP11.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP11.mp4"
       },
       {
         "name": "EPISODE 12 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP12.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP12.mp4"
       },
       {
         "name": "EPISODE 13 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP13.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP13.mp4"
       },
       {
         "name": "EPISODE 14 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP14.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP14.mp4"
       },
       {
         "name": "EPISODE 15 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP15.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP15.mp4"
       },
       {
         "name": "EPISODE 16 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
-        "uri": "https://www.ohflix.com/files/serial-45677/show3/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP16.mp4"
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP16.mp4"
       },
       {
         "name": "EPISODE 17 ",
@@ -6372,7 +6442,7 @@
         "name": "EPISODE 32 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP32.mp4"
-       },
+      },
       {
         "name": "EPISODE 33 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
@@ -6407,6 +6477,26 @@
         "name": "EPISODE 39 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
         "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP39.mp4"
+      },
+      {
+        "name": "EPISODE 40 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP40.mp4"
+      },
+      {
+        "name": "EPISODE 41 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP41.mp4"
+      },
+      {
+        "name": "EPISODE 42 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP42.mp4"
+      },
+      {
+        "name": "EPISODE 43 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.com/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP43.mp4"
       }
     ]
   },
