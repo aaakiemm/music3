@@ -1577,7 +1577,7 @@
     ]  
   },
   {
-    "name": "VIDEO LAGU",
+    "name": "VIDEO SANTAI & IKLAN",
     "samples": [          
       {
         "name": "KUCU KUCA ",
@@ -1591,6 +1591,11 @@
         "name": "RINDU AWAK SEPARUH NYAWA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduseparuhnyawa.jpg",
         "uri": "https://urlbox.paduhq.com/2231441919824176/Naqiu_Vanessa_Reynauld_Rindu_Separuh_Nyawa_OST_Rindu_Awak_Separuh.mp4"
+      },
+      {
+        "name": "TAMAR COCOA ALHADAD",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cocotamar.jpg",
+        "uri": "https://urlbox.paduhq.com/2235290210521392/VID-20210606-WA0093.mp4"
       }
     ]  
   },
