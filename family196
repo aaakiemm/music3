@@ -1789,9 +1789,7 @@
         "name": "RUMAH PUSAKA DI SIMPANG JALAN ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rumahpusaka.jpg",
         "uri": "https://urlbox.paduhq.com/2236939477963056/Rumah Pusaka Di Simpang Jalan (2015) PPVRip.mkv",
-        "audio_uri": "https://urlbox.paduhq.com/2238657464881456/Rumah Pusaka Di Simpang Jalan (2015) PPVRip.m4a",
-        "audio_mime_type": "audio/mp4",
-        "audio_language": "may"
+	"spherical_stereo_mode": "Enables spherical view. Values: mono, top_bottom, left_right"
       },
       {
         "name": "DEKATNYA CINTA",
