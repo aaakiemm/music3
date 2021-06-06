@@ -1577,6 +1577,29 @@
     ]  
   },
   {
+    "name": "VIDEO SANTAI & IKLAN",
+    "samples": [          
+      {
+        "name": "KUCU KUCA ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kucukuca.jpg",
+        "uri": "https://urlbox.paduhq.com/2231270121132336/Lia Aziz  Kucu Kuca Official Music Video_1080p.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kucukuca.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "RINDU AWAK SEPARUH NYAWA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduseparuhnyawa.jpg",
+        "uri": "https://urlbox.paduhq.com/2231441919824176/Naqiu_Vanessa_Reynauld_Rindu_Separuh_Nyawa_OST_Rindu_Awak_Separuh.mp4"
+      },
+      {
+        "name": "TAMAR COCOA ALHADAD",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cocotamar.jpg",
+        "uri": "https://urlbox.paduhq.com/2235290210521392/VID-20210606-WA0093.mp4"
+      }
+    ]  
+  },
+  {
     "name": "ANIMATION MOVIES",
     "samples": [          
       {
@@ -2090,17 +2113,17 @@
       {
         "name": "ICEMAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/iceman.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Iceman%20The%20Time%20Traveller%20(2018)Bluray%20Malay%20hardsub.mp4"
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Iceman%20The%20Time%20Traveller%20(2018)Bluray%20Malay%20hardsub.mp4"
       },
       {
         "name": "DEATH CHASING",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/deathchasing.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru10/Death%20Chasing%202021.mp4"
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-3/NewVersion2/baru10/Death%20Chasing%202021.mp4"
       },
       {
         "name": "DEATH WORM",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/deathworm.jpg",
-        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion2/baru10/Death%20Worm%202020.mp4"
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-3/NewVersion2/baru10/Death%20Worm%202020.mp4"
       },
       {
         "name": "FIST OF FURY",
