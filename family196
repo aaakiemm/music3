@@ -1577,6 +1577,17 @@
     ]  
   },
   {
+    "name": "VIDEO LAGU",
+    "samples": [          
+      {
+        "name": "KUCU KUCA ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kucukuca.jpg",
+        "uri": "https://urlbox.paduhq.com/2231270121132336/Lia Aziz  Kucu Kuca Official Music Video_1080p.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kucukuca.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
     "name": "ANIMATION MOVIES",
     "samples": [          
       {
