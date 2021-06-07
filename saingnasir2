@@ -2026,6 +2026,11 @@
     "name": "ENGLISH MOVIES",
     "samples": [      
       {
+        "name": "MORTAL KOMBAT 2021",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mortalkombat.jpg",
+        "uri": "https://urlbox.paduhq.com/2259926142931248/@LaunchCinema Mortal.Kombat.2021.720p.WEBRip.x264.mkv"
+      },
+      {
         "name": "THE WRATH MAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wrathman.jpg",
         "uri": "https://urlbox.paduhq.com/2173099084075312/Wrath.of.Man.2021.720p.WEBRip.mp4"
