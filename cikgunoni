@@ -1786,6 +1786,11 @@
     "name": "MALAY MOVIES",
     "samples": [ 
       {
+        "name": "RUMAH PUSAKA DI SIMPANG JALAN ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rumahpusaka.jpg",
+        "uri": "https://urlbox.paduhq.com/2246422765752624/Rumah Pusaka Di Simpang Jalan (2015) PPVRip.mkv"
+      },
+      {
         "name": "DEKATNYA CINTA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dekatnyacinta.jpg",
         "uri": "https://urlbox.paduhq.com/2130767886405936/Dekatnya.Cinta.2021.720p.PPVHD.PENCURiMOViE.mp4"
@@ -2827,6 +2832,36 @@
     "name": "TAMIL MOVIES",
     "samples": [ 
       {
+        "name": "MUNI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/muni.jpg",
+        "uri": "https://urlbox.paduhq.com/2247762795548976/@RajuBhaiMovie2 Muni (2007) Tamil Subs Malay"
+      },
+      {
+        "name": "KANCHANA 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kanchana1.jpg",
+        "uri": "https://urlbox.paduhq.com/2247728435810608/@RajuBhaiMovie2 Kanchana: Muni 2 (2011) Tamil Subs Malay"
+      },
+      {
+        "name": "KANCHANA 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kanchana2.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/2-1/NewVersion/5/Kanchana%202%20(2015).mkv"
+      },
+      {
+        "name": "KANCHANA 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kanchana3.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/Kanchana%203%20HDRip%20(2019).mkv"
+      },
+      {
+        "name": "MAARI 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/maari.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Maari%20HDRip%20(2015).mkv"
+      },
+      {
+        "name": "MAARI 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/maari.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Maari%202%20HD%20AVC%20(2018).mkv"
+      },
+      {
         "name": "KARNAN",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/karnan.jpg",
         "uri": "https://urlbox.paduhq.com/1824708516892976/[TM] KARNAN 2021 Tamil HDRip 1080p HEVC.mkv"
@@ -2967,6 +3002,11 @@
         "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Anjaan%20HDRip%20(2014).mkv"
       },
       {
+        "name": "SINGAM 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/singam.jpg",
+        "uri": "https://urlbox.paduhq.com/2247865874764080/SINGAM 2010 malay hardsub.mp4"
+      },
+      {
         "name": "SINGAM 2",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/singam.jpg",
         "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil7/Singam%202%20(2013)%20sub.mkv"
@@ -3015,6 +3055,14 @@
         "name": "DARBAR",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/darbar.jpg",
         "uri": "https://www.ohflix.org/files/g5dkg1ff4x/2-1/Tamil-Hindi/Tamil8/Darbar%20(2019)%20HDRip.mp4"
+      },
+      {
+        "name": "SIVAJI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sivaji.jpg",
+        "uri": "https://urlbox.paduhq.com/2247900234502448/@N3SSSS Sivaji.2007.720p.BluRay.mp4",
+	"subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sivaji.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
       },
       {
         "name": "PADAYAPPA",
