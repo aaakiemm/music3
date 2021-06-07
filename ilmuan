@@ -1,0 +1,342 @@
+[
+  {
+    "name": "LIVE IPTV",
+    "samples": [
+      {
+        "name": "NTV7",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ntv7.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "SALAM HD",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/salam.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "TV ALHIJRAH",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/al-hijrah.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "LOVE NATURE",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/love-nature.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "NATIONAL GEOGRAPHIC",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/natgeo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "NAT GEO WILD",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/natgeo-wild.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {        "name": "AWANI",
+        "logo_uri": "https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",
+        "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
+      },
+      {
+        "name": "BBC Earth",
+        "logo_uri": "https://static.mncnow.id/images/channel/aff30af5/2654_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "Discovery",
+        "logo_uri": "https://static.mncnow.id/images/channel/af64e4f1/7113_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },   
+      {
+        "name": "History",
+        "logo_uri": "https://static.mncnow.id/images/channel/8a59b0c4/1800_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "Animal Planet",
+        "logo_uri": "https://static.mncnow.id/images/channel/4f22e986/b578_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "HGTV",
+        "logo_uri": "https://static.mncnow.id/images/channel/7a19b3d5/55d5_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "RTM SPORTS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
+        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+      },
+      {
+        "name": "RTM OKEY",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
+        "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+      },
+      {
+        "name": "IKIM STREAM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ikim.png",
+        "uri": "http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8" 
+      },
+      {
+        "name": "RTM OKEY",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
+        "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+       },
+      {
+        "name": "Al-Quran",
+        "logo_uri": "https://static.mncnow.id/images/channel/f4cd0850/09a3_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      }
+    ]  
+  },
+  {
+    "name": "KELAS 601",
+    "samples": [ 
+      {
+        "name": "EP 4 AYAT PEMERI ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kelas601.jpg",
+        "uri": "https://urlbox.paduhq.com/2253638310809904/Kelas 601 Ep 4  Kata Pemeri PENUH_480p.mp4"
+      },
+      {
+        "name": "NOTA RINGKAS KATA PENGUAT ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://urlbox.paduhq.com/2253672670548272/Kelas 601 – Nota Ringkas Bagi “Kata Penguat”.mp4"
+      },
+      {
+        "name": "NOTA RINGKAS KATA SENDI ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://urlbox.paduhq.com/2253707030286640/Kelas 601 – Nota Ringkas Bagi _Kata Sendi_.mp4"
+      },
+      {
+        "name": "NOTA RINGKAS KATA PEMERI ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://urlbox.paduhq.com/2253741390025008/Kelas 601 – Nota Ringkas Bagi _Kata Pemeri_.mp4"
+      },
+      {
+        "name": "NOTA RINGKAS KATA HUBUNG ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://urlbox.paduhq.com/2253844469240112/Kelas 601 – Nota Ringkas Bagi _Kata Hubung_.mp4"
+      },
+      {
+        "name": "NOTA RINGKAS KATA IMBUHAN ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://urlbox.paduhq.com/2253878828978480/Kelas 601 – Nota Ringkas Bagi _Imbuhan_.mp4"
+      },
+      {
+        "name": "NOTA RINGKAS PENJODOH BILANGAN ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://urlbox.paduhq.com/2254188066623792/Kelas 601 – Nota Ringkas Bagi _Penjodoh Bilangan_.mp4"
+      },
+      {
+        "name": "NOTA RINGKAS KATA HAMPIR SAMA MAKNA ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://urlbox.paduhq.com/2254256786100528/Kelas 601 – Nota Ringkas Bagi _Kata Hampir Sama Makna_.mp4"
+      },
+      {
+        "name": "NOTA RINGKAS BINA 5 AYAT ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://urlbox.paduhq.com/2254291145838896/Kelas 601 – Nota Ringkas Bagi _Bina Lima Ayat_.mp4"
+      }
+    ]  
+  },
+  {
+    "name": "RADIO FM",
+    "samples": [ 
+      {
+        "name": "HOT FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hotfm.jpg",
+        "uri": "http://mediaprima.rastream.com:80/mediaprima-hotfm.android"
+      },
+      {
+        "name": "KLASIK FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklasik.jpg",
+        "uri": "https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8"
+      },
+      {
+        "name": "NATIONAL FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradionasionlfm.jpg",
+        "uri": "https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8"
+      },
+      {
+        "name": "ASYIK FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioasyikfm.jpg",
+        "uri": "https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8"
+      },
+      {
+        "name": "ERA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
+        "uri": "http://astro2.rastream.com/era"
+      },
+      {
+        "name": "ERA SABAH FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
+        "uri": "http://astro2.rastream.com/amp-era-kk"
+      },
+      {
+        "name": "ERA SARAWAK FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ERAFM.jpg",
+        "uri": "http://astro2.rastream.com/amp-era-kch"
+      },
+      {
+        "name": "SINAR FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SINARFM.jpg",
+        "uri": "http://astro2.rastream.com/sinar"
+      },
+      {
+        "name": "GEGAR FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/GEGARFM.jpg",
+        "uri": "http://astro3.rastream.com/gegar"
+      },
+      {
+        "name": "INDIABEAT FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/INDIABEAT.jpg",
+        "uri": "http://astro4.rastream.com/india"
+      },
+      {
+        "name": "BAPAKKU FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BAPAKKUFM.jpg",
+        "uri": "http://radio.bapakku.fm:8000/;stream.nsv&type=mp3"
+      },
+      {
+        "name": "SANDAKAN FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SANDAKANFM.jpg",
+        "uri": "http://192.111.140.6:8142/;stream.nsv&type=mp3"
+      },
+      {
+        "name": "MANIS FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MANISFM.jpg",
+        "uri": "https://n14.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdZzjyGgATLZAajOGnI_yhg"
+      },
+      {
+        "name": "IDOLA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/IDOLAFM.jpg",
+        "uri": "https://usa18.fastcast4u.com/proxy/idolafm?mp=/1"
+      },
+      {
+        "name": "IMPIAN FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/IMPIANFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-impian/icecast.audio"
+      },
+      {
+        "name": "LAGENDA FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/LAGENDAFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-lagenda/icecast.audio"
+      },
+      {
+        "name": "KELATE KITO FM ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/KELATEKITOFM.jpg",
+        "uri": "https://radio-online.my/apii.php?url=https://radiokrug.ru/malaysia/radio-klatekita/icecast.audio"
+      },
+      {
+        "name": "KELANTAN FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-KelantanFM-New.jpg",
+        "uri": "https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8"
+      },
+      {
+        "name": "TERENGGANU FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-TerengganuFM-New.jpg",
+        "uri": "https://terengganufm.secureswiftcontent.com/rtm-ch033/rtm-ch033/playlist.m3u8"
+      },
+      {
+        "name": "PERAK FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-PerakFM-New.jpg",
+        "uri": "https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/playlist.m3u8"
+      },
+      {
+        "name": "KEDAH FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-KedahFM-New.jpg",
+        "uri": "https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8"
+      },
+      {
+        "name": "PERLIS FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-PerlisFM-New.jpg",
+        "uri": "https://perlisfmmobile.secureswiftcontent.com/rtm-ch040/rtm-ch040/playlist.m3u8"
+      },
+      {
+        "name": "PAHANG FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-PahangFM-New.jpg",
+        "uri": "https://pahangfm.secureswiftcontent.com/rtm-ch034/rtm-ch034/playlist.m3u8"
+      },
+      {
+        "name": "MUTIARA FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-MutiaraFM-New.jpg",
+        "uri": "https://mutiarafmmobile.secureswiftcontent.com/rtm-ch039/rtm-ch039/playlist.m3u8"
+      },
+      {
+        "name": "SELANGOR FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-SelangorFM-New.jpg",
+        "uri": "https://selangorfmmobile.secureswiftcontent.com/rtm-ch023/rtm-ch023/playlist.m3u8"
+      },
+      {
+        "name": "KL FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradioklfm.jpg",
+        "uri": "https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/playlist.m3u8"
+      },
+      {
+        "name": "NEGERI FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-NegeriFM-New.jpg",
+        "uri": "https://negerifmmobile.secureswiftcontent.com/rtm-ch036/rtm-ch036/playlist.m3u8"
+      },
+      {
+        "name": "MELAKA FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-MelakaFM-New.jpg",
+        "uri": "https://melakafmmobile.secureswiftcontent.com/rtm-ch041/rtm-ch041/playlist.m3u8"
+      },
+      {
+        "name": "JOHOR FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-JohorFM-New4.jpg",
+        "uri": "https://johorfmmobile.secureswiftcontent.com/rtm-ch035/rtm-ch035/playlist.m3u8"
+      },
+      {
+        "name": "SARAWAK FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg",
+        "uri": "https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8"
+      },
+      {
+        "name": "SABAH FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg",
+        "uri": "https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8"
+      },
+      {
+        "name": "LABUAN FM ",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Small-LabuanFM-New.jpg",
+        "uri": "https://labuanfmmobile.secureswiftcontent.com/rtm-ch030/rtm-ch030/playlist.m3u8"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
