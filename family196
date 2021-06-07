@@ -2025,6 +2025,11 @@
   {
     "name": "ENGLISH MOVIES",
     "samples": [      
+       {
+        "name": "A QUIET PLACE",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/aquietplace.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/A%20Quiet%20Place%202018%20720p%20Bluray.mp4"
+      },
       {
         "name": "MORTAL KOMBAT 2021",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mortalkombat.jpg",
