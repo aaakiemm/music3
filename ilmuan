@@ -1,6 +1,6 @@
 [
   {
-    "name": "LIVE IPTV",
+    "name": "LEARNING IPTV",
     "samples": [
       {
         "name": "NTV7",
@@ -159,6 +159,13 @@
         "name": "NOTA RINGKAS BINA 5 AYAT ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/kelas601.jpg",
         "uri": "https://urlbox.paduhq.com/2254291145838896/Kelas 601 – Nota Ringkas Bagi _Bina Lima Ayat_.mp4"
+      }
+    ]  
+  },
+  {
+        "name": "GENG UPSR ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/gengupsr.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1oRwTTPI5xxiPwQzBWXV0nOFklJ9Zp5QK?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
     ]  
   },
