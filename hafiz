@@ -60,6 +60,16 @@
         "uri": "https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
       },
       {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
+      },
+      {
+        "name": "HELLO",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
+      },
+      {
         "name": "RTM SPORTS",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
         "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
@@ -661,16 +671,6 @@
         "name": "SONY ONE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/satu.m3u8"
-      },
-      {
-        "name": "DRAMA SANGAT",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
-      },
-      {
-        "name": "HELLO",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
       },
       {
         "name": "TVS",
