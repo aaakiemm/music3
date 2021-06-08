@@ -45,6 +45,26 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
       },
       {
+        "name": "RTM BERITA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
+        "uri": "https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
+        "name": "RTM OKEY",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
+        "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+      },
+      {
+        "name": "RTM TV6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
+        "uri": "https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
+        "name": "RTM SPORTS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
+        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+      },
+      {
         "name": "SALAM HD",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/salam.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
@@ -681,26 +701,6 @@
         "name": "RTM 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
         "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
-      },
-      {
-        "name": "RTM BERITA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
-        "uri": "https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
-      },
-      {
-        "name": "RTM OKEY",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
-        "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
-      },
-      {
-        "name": "RTM TV6",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
-        "uri": "https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
-      },
-      {
-        "name": "RTM SPORTS",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
-        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
       },
       {
         "name": "IKIM STREAM",
