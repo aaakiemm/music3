@@ -119,37 +119,6 @@
     ]  
   },
   {
-    
-    "name": "GENG UPSR 1",
-    "samples": [ 
-      {
-        "name": "EP 1- 10 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/gengupsr.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1oRwTTPI5xxiPwQzBWXV0nOFklJ9Zp5QK?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "GENG UPSR 2 ",
-    "samples": [ 
-      {
-        "name": "EP 1-5 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/gengupsr.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1d1ES0bDkBEHOXhkCEHR2Abayd_pNDxKp?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
-    "name": "GENG UPSR 2 ",
-    "samples": [ 
-      {
-        "name": "EP 6-10 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/gengupsr.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1ZfnnBeXpdPkbSUx6FZ_qmJGRc4JPK90G?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]  
-  },
-  {
     "name": "RADIO FM",
     "samples": [ 
       {
