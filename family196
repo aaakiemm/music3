@@ -45,6 +45,36 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
       },
       {
+        "name": "RTM BERITA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
+        "uri": "https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
+        "name": "RTM OKEY",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
+        "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+      },
+      {
+        "name": "RTM TV6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
+        "uri": "https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
+      },
+      {
+        "name": "HELLO",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
+      },
+      {
+        "name": "RTM SPORTS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
+        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+      },
+      {
         "name": "SALAM HD",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/salam.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
@@ -643,16 +673,6 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/satu.m3u8"
       },
       {
-        "name": "DRAMA SANGAT",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
-      },
-      {
-        "name": "HELLO",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
-      },
-      {
         "name": "TVS",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8"
@@ -681,26 +701,6 @@
         "name": "RTM 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
         "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
-      },
-      {
-        "name": "RTM BERITA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
-        "uri": "https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
-      },
-      {
-        "name": "RTM OKEY",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
-        "uri": "https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
-      },
-      {
-        "name": "RTM TV6",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
-        "uri": "https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
-      },
-      {
-        "name": "RTM SPORTS",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
-        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
       },
       {
         "name": "IKIM STREAM",
@@ -2025,7 +2025,15 @@
   {
     "name": "ENGLISH MOVIES",
     "samples": [      
-       {
+      {
+        "name": "ARMY OF THE DEATH",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/armydead.jpg",
+        "uri": "https://urlbox.paduhq.com/2322941903098160/Nonton Army of the Dead (2021).mkv",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/armyofdeath.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
         "name": "A QUIET PLACE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/aquietplace.jpg",
         "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/A%20Quiet%20Place%202018%20720p%20Bluray.mp4"
