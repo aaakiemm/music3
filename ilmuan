@@ -135,6 +135,17 @@
     ]  
   },
   {
+    
+    "name": "GENG UPSR 2",
+    "samples": [ 
+      {
+        "name": "EP 1-10 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/gengupsr2.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1Vhr3woPMMM_ZkWycakKrw3_xDMGD-WOB?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]  
+  },
+  {
     "name": "RADIO FM",
     "samples": [ 
       {
