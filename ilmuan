@@ -10,7 +10,7 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
-        "name": "MNC Muslim",
+        "name": "MNC MUSLIM",
         "logo_uri": "https://static.mncnow.id/images/channel/fed357e9/38dc_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
         "drm_scheme": "widevine",
@@ -99,7 +99,7 @@
       },      
       {
         "name": "AFN ID",
-        "logo_uri": "https://static.mncnow.id/images/channel/5620c27b/9bec_r32.jpg",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/afnindo.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
