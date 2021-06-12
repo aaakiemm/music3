@@ -1608,6 +1608,11 @@
     "name": "ANIMATION MOVIES",
     "samples": [          
       {
+        "name": "WISH DRAGON",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wishdragon.jpg",
+        "uri": "https://urlbox.paduhq.com/2354106185797936/moviekeluarga068.cdr"
+      },
+      {
         "name": "LARVA ISLAND",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
