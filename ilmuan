@@ -44,7 +44,15 @@
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
       },
-      {        "name": "AWANI",
+      {
+        "name": "BERNAMA",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bernama-news-channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {       
+        "name": "AWANI",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/awana.png",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
       },
