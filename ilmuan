@@ -207,7 +207,6 @@
     ]
   },
   {
-    
     "name": "INTENSIF BM UPSR",
     "samples": [ 
       {
@@ -218,7 +217,6 @@
     ]
   },
   {
-    
     "name": "MATEMATIK UPSR",
     "samples": [ 
       {
@@ -231,10 +229,19 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/matematikupsr.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1qaGxVqmS5soQGblndO0QjypTOx5da0py?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
       }
-    ]  
+    ]
   },
   {
-    
+    "name": "SAINS UPSR",
+    "samples": [ 
+      {
+        "name": "EP 1-7 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/upsrsains.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1bKZniZM_CzGaOy8ZNlVPcZ9e9g_srjwC?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+      }
+    ]
+  },
+  {
     "name": "GENG UPSR 1",
     "samples": [ 
       {
@@ -250,7 +257,6 @@
     ]  
   },
   {
-    
     "name": "GENG UPSR 2",
     "samples": [ 
       {
