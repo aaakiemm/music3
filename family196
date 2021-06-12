@@ -1610,7 +1610,10 @@
       {
         "name": "WISH DRAGON",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wishdragon.jpg",
-        "uri": "https://urlbox.paduhq.com/2354106185797936/moviekeluarga068.cdr"
+        "uri": "https://urlbox.paduhq.com/2354106185797936/moviekeluarga068.cdr",
+	"subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wishdragon.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "id"
       },
       {
         "name": "LARVA ISLAND",
