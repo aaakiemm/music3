@@ -47,7 +47,8 @@
       {        "name": "AWANI",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/awana.png",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
-      {
+      },
+      { 
         "name": "BBC EARTH ID",
         "logo_uri": "https://static.mncnow.id/images/channel/aff30af5/2654_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd",
