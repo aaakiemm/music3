@@ -1608,6 +1608,14 @@
     "name": "ANIMATION MOVIES",
     "samples": [          
       {
+        "name": "WISH DRAGON",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wishdragon.jpg",
+        "uri": "https://urlbox.paduhq.com/2354106185797936/moviekeluarga068.cdr",
+	"subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wishdragon.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "id"
+      },
+      {
         "name": "LARVA ISLAND",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/larvaisland.jpg",
         "uri": "https://www.googleapis.com/drive/v3/files/1HYrcSN1T2i_ZYRCezPKkE5v6flD251yR?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
@@ -10449,6 +10457,66 @@
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c87fe3ae366782ad95907_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863999853",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021729X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1a0af66214599c6322e5ada86d688fbb365e6f062aa36ea816289e7f800705e6db3eeb2f0da6523f2743f95b777d17541920e0b6ad870be9874d935abeadfdcd&drmId=prod"
+     }
+    ]  
+  },
+  {
+    "name": "LUPIN S1",
+    "samples": [ 
+      {
+        "name": "CHAPTER 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355858532454704/[WF] Lupin 2021 English S01E01 720p WEBRip ESub.mkv"
+      },
+      {
+        "name": "CHAPTER 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355875712323888/[WF] Lupin 2021 English S01E02 720p WEBRip ESub.mkv"
+      },
+      {
+        "name": "CHAPTER 3 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355892892193072/[WF] Lupin 2021 English S01E03 720p WEBRip ESub.mkv"
+      },
+      {
+        "name": "CHAPTER 4 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355910072062256/[WF] Lupin 2021 English S01E04 720p WEBRip ESub.mkv"
+      },
+      {
+        "name": "CHAPTER 5 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355927251931440/[WF] Lupin 2021 English S01E05 720p WEBRip ESub.mkv"
+      }
+    ]  
+  },
+  {
+    "name": "LUPIN S2",
+    "samples": [ 
+      {
+        "name": "CHAPTER 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355944431800624/[WF] Lupin S02E01 720p HEVC.mkv"
+      },
+      {
+        "name": "CHAPTER 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355961611669808/[WF] Lupin S02E02 720p HEVC.mkv"
+      },
+      {
+        "name": "CHAPTER 3 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355978791538992/[WF] Lupin S02E03 720p HEVC.mkv"
+      },
+      {
+        "name": "CHAPTER 4 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2355995971408176/[WF] Lupin S02E04 720p HEVC.mkv"
+      },
+      {
+        "name": "CHAPTER 5 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
+        "uri": "https://urlbox.paduhq.com/2356013151277360/[WF] Lupin S02E05 720p HEVC.mkv"
       }
     ]  
   },
