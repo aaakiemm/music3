@@ -1610,10 +1610,7 @@
       {
         "name": "WISH DRAGON",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wishdragon.jpg",
-        "uri": "https://urlbox.paduhq.com/2354106185797936/moviekeluarga068.cdr",
-	"subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wishdragon.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "id"
+        "uri": "https://urlbox.paduhq.com/2360084780273968/Wish.Dragon.2021.720p.WEBRip.MALAY.HC.mp4"
       },
       {
         "name": "LARVA ISLAND",
@@ -6229,6 +6226,11 @@
         "name": "EPISODE 15 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
         "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP15.mp4"
+      },
+      {
+        "name": "EPISODE 16 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/divapopular.jpg",
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay10/Diva%20Popular/Diva%20Popular%20EP16.mp4"
       }
     ]  
   },
@@ -6629,6 +6631,26 @@
         "name": "EPISODE 43 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
         "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP43.mp4"
+      },
+      {
+        "name": "EPISODE 44 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP44.mp4"
+      },
+      {
+        "name": "EPISODE 45 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP45.mp4"
+      },
+      {
+        "name": "EPISODE 46 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP46.mp4"
+      },
+      {
+        "name": "EPISODE 47 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rinduawakeparuhnyawa.jpg",
+        "uri": "https://www.ohflix.org/files/serial-45677/show4/Random%20Drama%20Malay9/Rindu%20Awak%20Separuh%20Nyawa/Rindu%20Awak%20Separuh%20Nyawa%202021%20EP47.mp4"
       }
     ]  
   },
@@ -10487,36 +10509,6 @@
         "name": "CHAPTER 5 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
         "uri": "https://urlbox.paduhq.com/2355927251931440/[WF] Lupin 2021 English S01E05 720p WEBRip ESub.mkv"
-      }
-    ]  
-  },
-  {
-    "name": "LUPIN S2",
-    "samples": [ 
-      {
-        "name": "CHAPTER 1 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
-        "uri": "https://urlbox.paduhq.com/2355944431800624/[WF] Lupin S02E01 720p HEVC.mkv"
-      },
-      {
-        "name": "CHAPTER 2 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
-        "uri": "https://urlbox.paduhq.com/2355961611669808/[WF] Lupin S02E02 720p HEVC.mkv"
-      },
-      {
-        "name": "CHAPTER 3 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
-        "uri": "https://urlbox.paduhq.com/2355978791538992/[WF] Lupin S02E03 720p HEVC.mkv"
-      },
-      {
-        "name": "CHAPTER 4 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
-        "uri": "https://urlbox.paduhq.com/2355995971408176/[WF] Lupin S02E04 720p HEVC.mkv"
-      },
-      {
-        "name": "CHAPTER 5 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
-        "uri": "https://urlbox.paduhq.com/2356013151277360/[WF] Lupin S02E05 720p HEVC.mkv"
       }
     ]  
   },
