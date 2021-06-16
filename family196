@@ -1580,39 +1580,24 @@
     "name": "SPECIAL SPORTS",
     "samples": [          
       {
-        "name": "SKYNET HD",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynethd.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/sekahd.m3u8"
+        "name": "BEIN SPORTS 1",
+        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/beben1.m3u8"
       },
       {
-        "name": "SKYNET 1",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynet1.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/seka1.m3u8"
+        "name": "BEIN SPORTS 2",
+        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/beben2.m3u8"
       },
       {
-        "name": "SKYNET 2",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynet2.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/seka2.m3u8"
+        "name": "CHAMPIONS 1",
+        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_champ1_small.png?v=2",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/compong1.m3u8"
       },
       {
-        "name": "SKYNET 3",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynet3.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/seka3.m3u8"
-      },
-      {
-        "name": "SKYNET 4",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynet4.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/seka4.m3u8"
-      },
-      {
-        "name": "SKYNET 5",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynet5.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/seka5.m3u8"
-      },
-      {
-        "name": "SKYNET 6",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynet6.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/seka6.m3u8"
+        "name": "CHAMPIONS 2",
+        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_champ2_small.png?v=2",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/compong2.m3u8"
       }
     ]  
   },
