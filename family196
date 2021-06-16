@@ -1577,31 +1577,6 @@
     ]  
   },
   {
-    "name": "SPECIAL SPORTS",
-    "samples": [          
-      {
-        "name": "BEIN SPORTS 1",
-        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/beben1.m3u8"
-      },
-      {
-        "name": "BEIN SPORTS 2",
-        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/beben2.m3u8"
-      },
-      {
-        "name": "CHAMPIONS 1",
-        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_champ1_small.png?v=2",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/compong1.m3u8"
-      },
-      {
-        "name": "CHAMPIONS 2",
-        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_champ2_small.png?v=2",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/compong2.m3u8"
-      }
-    ]  
-  },
-  {
     "name": "VIDEO SANTAI & IKLAN",
     "samples": [          
       {
