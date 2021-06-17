@@ -6154,6 +6154,21 @@
         "uri": "https://liveanevia.mncnow.id/vod/eds/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6/_/sa_dash_vmx/ketika-cinta-bertasbih-s2-meraih-ridho-ilahi-eps25-clean-anv6.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+     }
+    ]  
+  },
+  {
+    "name": "LOVE ELSA",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/loveelsa.jpg",
+        "uri": "https://urlbox.paduhq.com/2447341335859504/%5BEPISOD%20PENUH%5D%20Love%20Elsa%20-%20EP1.mp4"
+      },
+      {
+        "name": "EPISODE 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/loveelsa.jpg",
+        "uri": "https://urlbox.paduhq.com/2447358515728688/IMG_0258.mp4"
       }
     ]  
   },
