@@ -1791,6 +1791,11 @@
     "name": "MALAY MOVIES",
     "samples": [ 
       {
+        "name": "MR DRIFT ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mr.drift.jpg",
+        "uri": "https://urlbox.paduhq.com/2541401119641904/2021-06-21_10:26:42.mp4"
+      },
+      {
         "name": "RUMAH PUSAKA DI SIMPANG JALAN ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rumahpusaka.jpg",
         "uri": "https://urlbox.paduhq.com/2246422765752624/Rumah Pusaka Di Simpang Jalan (2015) PPVRip.mkv"
@@ -2030,6 +2035,11 @@
   {
     "name": "ENGLISH MOVIES",
     "samples": [      
+      {
+        "name": "THE UNHOLY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/unholy.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-4/NewVersion2/baru13/The%20Unholy%20(2021).mp4"
+      },
       {
         "name": "ARMY OF THE DEATH",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/armydead.jpg",
@@ -8659,6 +8669,19 @@
         "name": "EPISODE 50",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Yehjaadu.jpg",
         "uri": "https://files2.ohflix.workers.dev/ohflix342/three/end-tv-series5/Yehh%20Jadu%20Hai%20Jinn%20Kai/Yehh%20Jadu%20Hai%20Jinn%20Kai%2050.mp4"
+       }
+    ]  
+  },
+  {
+    "name": "MIRACLE IN CELL NO 7",
+    "samples": [ 
+      {
+        "name": "KOREAN MOVIES ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/miracleincell.jpg",
+        "uri": "https://urlbox.paduhq.com/2541916515717424/Miracle%20in%20Cell%20No%207%20%5B2013%5D%20BluRay.720p@KT.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/miracle.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
        }
     ]  
   },
