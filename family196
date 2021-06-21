@@ -1577,6 +1577,41 @@
     ]  
   },
   {
+    "name": "disneyhotstartest",
+    "samples": [
+	 {
+        "name": "TEST",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://hses4.hotstar.com/videos/hotstarint/1260053051/1260053403/1612795444933/589802a40fd169cd9954c75b3aa382dc/master-tv-0.mpd?hdnea=st=1624290342~exp=1624290942~acl=/videos/hotstarint/1260053051/1260053403/1612795444933/589802a40fd169cd9954c75b3aa382dc/*~data=ip=010687a4882d3e211143a652196b8256749febfe50e000dc15d87a68e14e-userid=1593316cb5239c5d79cf6d1782f5a6f899ec98203deeb7b180b5626a21949369-~hmac=758b02a5dce94a39905fd7a90d4f41bb51d00e9223fbeee73562b6b320d71c66",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKeIAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGCI73RQT7mNpeZJhQ64X-n4lnycdqwst7OEAgcwTSXYEG_RO9uudidpLZEl_iCVI0tGP3M6e4a77r69y1XXCXoBjwOgpDx5J-XsLyYo7C0-ktXo0Hb4Z6egkaoFIfJvv6s7TZHIqRlg5OcdUb2x-BdiYzltXg",
+        "drm_key_request_properties": {
+          "X-Request-Id": "d44b82e4-3d79-4fc1-92b8-fbaa53aa6541"
+        }
+      }
+    ]  
+  },
+  {
+    "name": "iptv.sg",
+    "samples": [
+	 {
+        "name": "Channel 5",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&"
+      },	
+      {
+    "name": "iptv.sg",
+    "samples": [
+	 {
+        "name": "Channel 5",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&"
+      },	
+      {
     "name": "VIDEO SANTAI & IKLAN",
     "samples": [          
       {
