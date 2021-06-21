@@ -8677,8 +8677,10 @@
         "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/miracle.vtt",
         "subtitle_mime_type": "text/vtt",
         "subtitle_language": "ms"
-      },
-      {
+       }
+    ]  
+  },
+  {
     "name": "A LITTLE PRINCESS",
     "samples": [ 
       {
