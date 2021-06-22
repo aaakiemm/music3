@@ -653,6 +653,16 @@
         "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=bein2"
       },
       {
+        "name": "USEE SPORTS 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/useesports.png",
+        "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=useesports2"
+      },
+      {
+        "name": "USEE SPORTS 2 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/useesports.png",
+        "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=useesport"
+      },
+      {
         "name": "WWE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
