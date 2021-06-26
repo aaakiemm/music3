@@ -648,6 +648,26 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek4.m3u8"
       },
       {
+        "name": "SONY SIX",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonysix.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls&manifest/sixhd.m3u8"
+      },
+      {
+        "name": "SONY TEN 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten1hd.m3u8"
+      },
+      {
+        "name": "SONY TEN 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten2hd.m3u8"
+      },
+      {
+        "name": "SONY TEN 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten3hd.m3u8"
+      },
+      {
         "name": "WWE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
@@ -660,7 +680,10 @@
       {
         "name": "VAANAVIL",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8",
+	"subtitle_uri": "https://linear-playback.astro.com.my/linear-livewvdaf/2309/CC_3534_may_Subtitle/init.mp4",
+        "subtitle_mime_type": "video/mp4",
+        "subtitle_language": "may"
       },
       {
         "name": "TVS",
