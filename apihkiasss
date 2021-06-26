@@ -244,6 +244,21 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "VAANAVIL",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
+      },
+      {
+        "name": "SUN TV",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26menifest/kelingsun.m3u8"
+      },
+      {
+        "name": "STAR VIJAY",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.kelingvijay.m3u8"
       }
     ]
   },
