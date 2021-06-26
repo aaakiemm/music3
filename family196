@@ -1591,7 +1591,37 @@
         "name": "GEL MANDIAN ZAHRA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mandizahra.jpg",
         "uri": "https://urlbox.paduhq.com/2235324570259760/VID-20210606-WA0094.mp4"
-      }
+       }
+    ]  
+  },
+  {
+    "name": "HORROR MOVIES",
+    "samples": [          
+      {
+        "name": "TRAIN TO BUSAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/traintobusan.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Traintobusan2016bluray720p900mbganoolis_T1_C1.mkv"
+      },
+      {
+        "name": "TRAIN TO BUSAN 2 - PENINSULA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/traintobusan2.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-2/NewVersion/36/Train%20To%20Busan%202%20Peninsula%20(2020).mp4"
+      },
+      {
+        "name": "THE CONJURING 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/conjuring.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Theconjuring2013%20720pbluray%20Malayhardsub.mp4"
+      },
+      {
+        "name": "THE CONJURING 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/conjuring.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/The%20conjuring%202%20(2016)720p%20bluray%20Malay%20hardsub.mp4"
+      },
+      {
+        "name": "THE CONJURING - THE DEVIL MADE ME DO IT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/conjuring.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-4/NewVersion2/baru14/The%20Conjuring%20the%20Devil%20Made%20Me%20Do%20It%202021.mp4"
+       }
     ]  
   },
   {
