@@ -618,6 +618,11 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8"
       },
       {
+        "name": "ASTRO BOO",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/boolaa.m3u8"
+      },
+      {
         "name": "ARENA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek5.m3u8"
@@ -643,49 +648,9 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek4.m3u8"
       },
       {
-        "name": "BEIN SPORTS 1",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",
-        "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=bein1"
-      },
-      {
-        "name": "BEIN SPORTS 2",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",
-        "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=bein2"
-      },
-      {
-        "name": "USEE SPORTS 1 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/useesports.png",
-        "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=useesports2"
-      },
-      {
-        "name": "USEE SPORTS 2 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/useesports.png",
-        "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=useesport"
-      },
-      {
-        "name": "CHAMPIONS 1 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/champions.png",
-        "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=champion1"
-      },
-      {
-        "name": "CHAMPIONS 2 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/champions.png",
-        "uri": "http://122.248.43.134:80/US33T4/MPD/master.m3u8?id=champion2"
-      },
-      {
         "name": "WWE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
-      },
-      {
-        "name": "CELESTIAL MOVIES",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cali.m3u8"
-      },
-      {
-        "name": "CELESTIAL CLASSIC",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cium.m3u8"
       },
       {
         "name": "BOLLYONEHD",
@@ -693,14 +658,9 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/buliwud.m3u8"
       },
       {
-        "name": "ASTRO BOO",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/boolaa.m3u8"
-      },
-      {
-        "name": "SONY ONE",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/satu.m3u8"
+        "name": "VAANAVIL",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
       },
       {
         "name": "TVS",
