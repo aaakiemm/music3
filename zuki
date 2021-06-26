@@ -648,6 +648,26 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek4.m3u8"
       },
       {
+        "name": "SONY SIX",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonysix.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls&manifest/sixhd.m3u8"
+      },
+      {
+        "name": "SONY TEN 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten1hd.m3u8"
+      },
+      {
+        "name": "SONY TEN 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten2hd.m3u8"
+      },
+      {
+        "name": "SONY TEN 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten3hd.m3u8"
+      },
+      {
         "name": "WWE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
@@ -660,7 +680,10 @@
       {
         "name": "VAANAVIL",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8",
+	"subtitle_uri": "https://linear-playback.astro.com.my/linear-livewvdaf/2309/CC_3534_may_Subtitle/init.mp4",
+        "subtitle_mime_type": "video/mp4",
+        "subtitle_language": "may"
       },
       {
         "name": "TVS",
@@ -1591,7 +1614,47 @@
         "name": "GEL MANDIAN ZAHRA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mandizahra.jpg",
         "uri": "https://urlbox.paduhq.com/2235324570259760/VID-20210606-WA0094.mp4"
-      }
+       }
+    ]  
+  },
+  {
+    "name": "HORROR MOVIES",
+    "samples": [          
+      {
+        "name": "TRAIN TO BUSAN",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/traintobusan.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Traintobusan2016bluray720p900mbganoolis_T1_C1.mkv"
+      },
+      {
+        "name": "TRAIN TO BUSAN 2 - PENINSULA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/traintobusan2.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-2/NewVersion/36/Train%20To%20Busan%202%20Peninsula%20(2020).mp4"
+      },
+      {
+        "name": "THE CONJURING 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/conjuring.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Theconjuring2013%20720pbluray%20Malayhardsub.mp4"
+      },
+      {
+        "name": "THE CONJURING 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/conjuring.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/The%20conjuring%202%20(2016)720p%20bluray%20Malay%20hardsub.mp4"
+      },
+      {
+        "name": "THE CONJURING - THE DEVIL MADE ME DO IT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/conjuring.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-4/NewVersion2/baru14/The%20Conjuring%20the%20Devil%20Made%20Me%20Do%20It%202021.mp4"
+      },
+      {
+        "name": "A QUIET PLACE PART 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/aquietplace.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/A%20Quiet%20Place%202018%20720p%20Bluray.mp4"
+       },
+      {
+        "name": "A QUIET PLACE PART 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/aquietplace.jpg",
+        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-4/NewVersion2/baru14/A%20Quiet%20Place%20Part%202%202021.mp4"
+       }
     ]  
   },
   {
