@@ -244,6 +244,86 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "VAANAVIL",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
+      },
+      {
+        "name": "SUN TV",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26menifest/kelingsun.m3u8"
+      },
+      {
+        "name": "SUN LIFE",
+        "logo_uri": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-life-white.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.sunlife.m3u8"
+      },
+      {
+        "name": "SUN MUSIC",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.sunmusic.m3u8"
+      },
+      {
+        "name": "CHUTTI",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.chutti.m3u8"
+      },
+      {
+        "name": "STAR VIJAY",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.kelingvijay.m3u8"
+      },
+      {
+        "name": "HD TAMIL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hdtamil.png",
+        "uri": "https://live.hdtamiltv.ca/live/hdv/index.m3u8"
+      },
+      {
+        "name": "RAJ TV",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rajtv.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.rajtv.m3u8"
+      },
+      {
+        "name": "RAJ DIGITAL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rajtv.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.rajdigitalplus.m3u8"
+      },
+      {
+        "name": "RAJ MUSIC",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rajtv.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.rajmusic.m3u8"
+      },
+      {
+        "name": "IBC TAMIL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ibc.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8"
+      },
+      {
+        "name": "IBC COMEDY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ibc.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8"
+      },
+      {
+        "name": "IBC COMEDY",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ibc.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8"
+      },
+      {
+        "name": "IBC MUSIC",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ibc.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8"
+      },
+      {
+        "name": "IBC CANADA",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ibc.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8"
+      },
+      {
+        "name": "IBC MAZHALAI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ibc.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8"
       }
     ]
   },
@@ -648,6 +728,26 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/inspek4.m3u8"
       },
       {
+        "name": "SONY SIX",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonysix.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls&manifest/sixhd.m3u8"
+      },
+      {
+        "name": "SONY TEN 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten1hd.m3u8"
+      },
+      {
+        "name": "SONY TEN 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten2hd.m3u8"
+      },
+      {
+        "name": "SONY TEN 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sonyten.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest/ten3hd.m3u8"
+      },
+      {
         "name": "WWE",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
@@ -660,7 +760,10 @@
       {
         "name": "VAANAVIL",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8",
+	"subtitle_uri": "https://linear-playback.astro.com.my/linear-livewvdaf/2309/CC_3534_may_Subtitle/init.mp4",
+        "subtitle_mime_type": "video/mp4",
+        "subtitle_language": "may"
       },
       {
         "name": "TVS",
