@@ -72,7 +72,7 @@
       {
         "name": "RTM SPORTS",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
-        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
       },
       {
         "name": "SALAM HD",
@@ -839,7 +839,7 @@
       {
         "name": "RTM 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
-        "uri": "https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+        "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
       },
       {
         "name": "IKIM STREAM",
