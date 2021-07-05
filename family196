@@ -1,6 +1,6 @@
 [
   {
-    "name": "iptv.my 01",
+    "name": "MALAYSIA 01",
     "samples": [
       {
         "name": "TV1",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "name": "iptv.my 02",
+    "name": "MALAYSIA 02",
     "samples": [
      {
         "name": "TVN MOVIES HD",
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "name": "iptv.my 03",
+    "name": "MALAYSIA 03",
     "samples": [
       {
         "name": "YUPP THIRAI HD",
@@ -328,7 +328,7 @@
     ]
   },
   {
-    "name": "iptv.my 04",
+    "name": "MALAYSIA 04",
     "samples": [
       {
         "name": "FOX MOVIES",
@@ -410,7 +410,7 @@
     ]
   },
   {
-    "name": "iptv.my 05",
+    "name": "MALAYSIA 05",
     "samples": [
       {
         "name": "LOVE NATURE",
@@ -478,7 +478,7 @@
     ]
   },
   {
-    "name": "iptv.my 06",
+    "name": "MALAYSIA 06",
     "samples": [
       {
         "name": "DREAMWORK HD",
@@ -525,7 +525,7 @@
     ]
   },
   {
-    "name": "iptv.my 07",
+    "name": "MALAYSIA 07",
     "samples": [
       {
         "name": "DW",
@@ -600,7 +600,7 @@
     ]
   },
   {
-    "name": "iptv.my 08",
+    "name": "MALAYSIA 08",
     "samples": [
      {
         "name": "UNIFI SPORTS 1",
@@ -661,7 +661,7 @@
     ]
   },
   {
-    "name": "iptv.my 09",
+    "name": "MALAYSIA 09",
     "samples": [ 
       { "name": "AWANI",
         "uri": "https://linear03-playback.sooka.my/CH5/masterCH5.mpd",
@@ -826,7 +826,7 @@
     ]  
   },
   {
-    "name": "iptv.id 01",
+    "name": "INDONESIA 01",
     "samples": [
       {
         "name": "HBO SIGNATURE",
@@ -943,7 +943,7 @@
     ]  
   },
   {
-    "name": "iptv.id 02",
+    "name": "INDONESIA 02",
     "samples": [      
       {
         "name": "Nick Jr",
@@ -1011,7 +1011,7 @@
     ]
   },
   {
-    "name": "iptv.id 03",
+    "name": "INDONESIA 03",
     "samples": [
       {
         "name": "Indosiar",
@@ -1226,7 +1226,7 @@
     ]  
   },
   {
-    "name": "iptv.id 04",
+    "name": "INDONESIA 04",
     "samples": [
       {
         "name": "FMN",
@@ -1329,7 +1329,7 @@
     ]  
   },
   {
-    "name": "iptv.id 05",
+    "name": "INDONESIA 05",
     "samples": [
       {
         "name": "BBC Earth",
@@ -1439,7 +1439,7 @@
     ]  
   },
   {
-    "name": "iptv.id 06",
+    "name": "INDONESIA 06",
     "samples": [      
       {
         "name": "Fox Sports 3",
@@ -1472,7 +1472,7 @@
     ]  
   },
   {
-    "name": "iptv.id 07",
+    "name": "INDONESIA 07",
     "samples": [      
       {
         "name": "Channel News Asia",
@@ -1610,7 +1610,7 @@
     ]  
   },
   {
-    "name": "iptv.sg",
+    "name": "SINGAPURA",
     "samples": [
 	 {
         "name": "Channel 5",
@@ -1679,7 +1679,7 @@
     ]
   },
   {
-    "name": "iptv.bn",
+    "name": "BRUNEI DARUSSALAM",
     "samples": [ 
       {
         "name": "RTB SUKMA INDERA",
@@ -1694,7 +1694,7 @@
     ]
   },
   {
-    "name": "VIDEO SANTAI & IKLAN",
+    "name": "LAGU DAN IKLAN",
     "samples": [          
       {
         "name": "KUCU KUCA ",
@@ -2195,12 +2195,7 @@
        {
         "name": "FORD V FERRARI",
         "logo_uri": "https://www.automobilemag.com/uploads/sites/11/2019/11/Ford-vs-Ferrari-15.jpg",
-        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-2/NewVersion/45/Ford%20V%20Ferrari%202019.mp4"
-      },
-      {
-        "name": "THE UNHOLY",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/unholy.jpg",
-        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/3-4/NewVersion2/baru13/The%20Unholy%20(2021).mp4"
+        "uri": "https://urlbox.paduhq.com/2846567135957296/Ford_v_Ferrari_2019_Indo_Dubbed_+_Indo_Hardsub_720p_DSNP_WEBRip.mkv"
       },
       {
         "name": "ARMY OF THE DEATH",
@@ -2217,11 +2212,6 @@
 	"subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/f9.vtt",
         "subtitle_mime_type": "text/vtt",
         "subtitle_language": "ms"
-      },
-      {
-        "name": "A QUIET PLACE",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/aquietplace.jpg",
-        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/A%20Quiet%20Place%202018%20720p%20Bluray.mp4"
       },
       {
         "name": "MORTAL KOMBAT 2021",
@@ -2287,31 +2277,6 @@
         "name": "THE TRANSPORTER REFUELED",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/transporter.jpg",
         "uri": "https://urlbox.paduhq.com/2228779040100656/The Transporter Refueled (2015) malaysub.mp4"
-      },
-      {
-        "name": "THE MECHANIC",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mechanic.jpg",
-        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/The%20Mechanic%20(2011)%20Bluray%20720p%20Malay%20Hardsub.mp4"
-      },
-      {
-        "name": "MECHANIC RESURRECTION",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mechanic2.jpg",
-        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Mechanicresurrection(2016)Hardsub.mp4"
-      },
-      {
-        "name": "THE MEG",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/meg.jpg",
-        "uri": "https://urlbox.paduhq.com/1809006116458800/The.Meg.2018.720p.BRRip.x265.MALAY.AAC.mkv"
-      },
-      {
-        "name": "WILD CARD",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wildcard.jpg",
-        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Wildcard%20(2015)%20720p%20Malay%20Hardsub.mp4"
-      },
-      {
-        "name": "HOME FRONT",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/homefront.jpg",
-        "uri": "https://www.ohflix.org/files/g5dkg1ff4x/2-1/NewVersion/6/Homefront%20(2013)%20BluRay.mp4"
       }
     ]  
   },
