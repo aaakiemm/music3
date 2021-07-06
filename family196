@@ -253,27 +253,7 @@
       {
         "name": "SUN TV",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26menifest/kelingsun.m3u8"
-      },
-      {
-        "name": "SUN LIFE",
-        "logo_uri": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-life-white.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.sunlife.m3u8"
-      },
-      {
-        "name": "SUN MUSIC",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.sunmusic.m3u8"
-      },
-      {
-        "name": "CHUTTI",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.chutti.m3u8"
-      },
-      {
-        "name": "STAR VIJAY",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.kelingvijay.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/sun.m3u8"
       },
       {
         "name": "HD TAMIL",
@@ -281,27 +261,7 @@
         "uri": "https://live.hdtamiltv.ca/live/hdv/index.m3u8"
       },
       {
-        "name": "RAJ TV",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rajtv.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.rajtv.m3u8"
-      },
-      {
-        "name": "RAJ DIGITAL",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rajtv.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.rajdigitalplus.m3u8"
-      },
-      {
-        "name": "RAJ MUSIC",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rajtv.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/hls%26manifest.rajmusic.m3u8"
-      },
-      {
         "name": "IBC TAMIL",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ibc.png",
-        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8"
-      },
-      {
-        "name": "IBC COMEDY",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ibc.png",
         "uri": "https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8"
       },
