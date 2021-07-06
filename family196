@@ -1426,14 +1426,14 @@
     "samples": [      
       {
         "name": "Fox Sports 1",
-        "logo_uri": "https://static.mncnow.id/images/channel/7d978fdd/93da_r32.jpg",
+        "logo_uri": "https://static.mncnow.id/images/channel/782cbbe4/5a3d_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
         "name": "Fox Sports 2",
-        "logo_uri": "https://static.mncnow.id/images/channel/7d978fdd/93da_r32.jpg",
+        "logo_uri": "https://static.mncnow.id/images/channel/46fcd920/721f_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
