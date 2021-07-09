@@ -5854,180 +5854,74 @@
     "name": "MOUSE",
     "samples": [ 
       {
-        "name": "EPISODE 1 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1ZRSsB7DhZ0L21QJj3snuJNBartP7r73l?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse1/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 1",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_t4x5ba7b/v/1/ev/11/flavorId/1_,sim7bm5x,cn3q4i76,0lo09sc2,zrgd4ugd,4eulh09g,5rz2hfrk,srzxs7tl,bfcj10li,dy6jvuxu,eh5gcpvh,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQ3NjUiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV90NHg1YmE3Yl8xX3NyenhzN3RsLDFfdDR4NWJhN2JfMV9zaW03Ym01eCwxX3Q0eDViYTdiXzFfY24zcTRpNzYsMV90NHg1YmE3Yl8xXzBsbzA5c2MyLDFfdDR4NWJhN2JfMV96cmdkNHVnZCwxX3Q0eDViYTdiXzFfNGV1bGgwOWcsMV90NHg1YmE3Yl8xXzVyejJoZnJrIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=P3m6%2bzToYRVAb8rkbRq5AuF1zLw%3d"
       },
       {
-        "name": "EPISODE 2 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1XkD5Y6CxsW7C5MI0ylVAuAuiQ0oI9Ggx?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse2/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 2",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_er9gbj64/v/1/ev/11/flavorId/1_,a0r7voov,8wd7bpzs,0wck55ol,7t7elc8w,0sl25fps,zonc3o90,idbmr9vl,cnk7kn5a,s6r0bnvg,curfjtuj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQ4NDAiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV9lcjlnYmo2NF8xX2lkYm1yOXZsLDFfZXI5Z2JqNjRfMV9hMHI3dm9vdiwxX2VyOWdiajY0XzFfOHdkN2JwenMsMV9lcjlnYmo2NF8xXzB3Y2s1NW9sLDFfZXI5Z2JqNjRfMV83dDdlbGM4dywxX2VyOWdiajY0XzFfMHNsMjVmcHMsMV9lcjlnYmo2NF8xX3pvbmMzbzkwIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=2yDH5S6hwfutyzvYeX4p5MDhj8U%3d"
       },
       {
-        "name": "EPISODE 3 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/12ecGauOk0MztJY-it6hIrBBYHKD-gFDM?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse3/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 3",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_svzfo2zw/v/1/ev/11/flavorId/1_,6sxn8vto,bwz0lg2i,epbesvsz,dj1dtprr,wvqvpx91,5j1cm7mf,dqak7fho,oiqa4spd,dnge9v9y,7rrns3ic,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQ2MjAiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV9zdnpmbzJ6d18xX2RxYWs3ZmhvLDFfc3Z6Zm8yendfMV82c3huOHZ0bywxX3N2emZvMnp3XzFfYnd6MGxnMmksMV9zdnpmbzJ6d18xX2VwYmVzdnN6LDFfc3Z6Zm8yendfMV9kajFkdHByciwxX3N2emZvMnp3XzFfd3ZxdnB4OTEsMV9zdnpmbzJ6d18xXzVqMWNtN21mIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=5LuG0w4ZfnCioEmCkIov6MQoJaM%3d"
       },
       {
-        "name": "EPISODE 4 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1OCRKCjoIw4tpvZa_COYIMJX5DAkkClfe?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse4/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 4",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_0u46pcjz/v/1/ev/11/flavorId/1_,r5cqicz5,mhmisk95,ula4s3cr,7n3ubhg3,df24c6gf,616baoo2,afyi832a,ddxkyutp,zxlb3vqi,gxl41fj3,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQzMzAiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV8wdTQ2cGNqel8xX2FmeWk4MzJhLDFfMHU0NnBjanpfMV9yNWNxaWN6NSwxXzB1NDZwY2p6XzFfbWhtaXNrOTUsMV8wdTQ2cGNqel8xX3VsYTRzM2NyLDFfMHU0NnBjanpfMV83bjN1YmhnMywxXzB1NDZwY2p6XzFfZGYyNGM2Z2YsMV8wdTQ2cGNqel8xXzYxNmJhb28yIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=ckNLkLnEFqyDDDtgp2xM996ETeE%3d"
       },
       {
-        "name": "EPISODE 5 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1bw2s6s2qsYpJRJGW6IGBYBrc66PoTmMP?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse5/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 5",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_vj99rtk9/v/1/ev/11/flavorId/1_,3e4cwnbi,6hx432lw,eezwsujz,a0nzafdk,kfinyg0d,18md02yw,az71f31i,71habdk3,7o2jbte5,fro8ydws,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjM4OTciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV92ajk5cnRrOV8xX2F6NzFmMzFpLDFfdmo5OXJ0azlfMV8zZTRjd25iaSwxX3ZqOTlydGs5XzFfNmh4NDMybHcsMV92ajk5cnRrOV8xX2VlendzdWp6LDFfdmo5OXJ0azlfMV9hMG56YWZkaywxX3ZqOTlydGs5XzFfa2ZpbnlnMGQsMV92ajk5cnRrOV8xXzE4bWQwMnl3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=3hb8yiPs3zALMl15CKw3UqPi5cA%3d"
       },
       {
-        "name": "EPISODE 6 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/19LW7ILOO2G4NOIH2aQ3mpJzaUn-Qb0HU?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse6/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 6",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_wj0jhvnv/v/1/ev/11/flavorId/1_,nrv11flr,l3tjcuqe,gih6ymf9,0eu9sgm3,nf87h7n6,24plas6t,4ekxoobc,clbss8dm,sxfsd0mx,tvxzfbhj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQ2MjgiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV93ajBqaHZudl8xXzRla3hvb2JjLDFfd2owamh2bnZfMV9ucnYxMWZsciwxX3dqMGpodm52XzFfbDN0amN1cWUsMV93ajBqaHZudl8xX2dpaDZ5bWY5LDFfd2owamh2bnZfMV8wZXU5c2dtMywxX3dqMGpodm52XzFfbmY4N2g3bjYsMV93ajBqaHZudl8xXzI0cGxhczZ0IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=GjKFKImNNx602dCWs5eb6dLEP6Y%3d"
       },
       {
-        "name": "EPISODE 7 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/19peqgFOYd7IKbNTiRrKAljahwfV6RsnV?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse7/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 7",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_ikk56jw8/v/1/ev/11/flavorId/1_,3g8croau,nxxfs57u,m8r0q8pg,gxt3cjb0,61gj5rfn,ffwpcqf4,zev8s4ba,r5ayigow,bzcwki5x,a6sqsx5y,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQzODEiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV9pa2s1Nmp3OF8xX3pldjhzNGJhLDFfaWtrNTZqdzhfMV8zZzhjcm9hdSwxX2lrazU2anc4XzFfbnh4ZnM1N3UsMV9pa2s1Nmp3OF8xX204cjBxOHBnLDFfaWtrNTZqdzhfMV9neHQzY2piMCwxX2lrazU2anc4XzFfNjFnajVyZm4sMV9pa2s1Nmp3OF8xX2Zmd3BjcWY0IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=qKpBQ0r5qlR5LUpioPcl3BQZ6E8%3d"
       },
       {
-        "name": "EPISODE 8 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1YxdRclGBe0vt1_FQ2A80bMp1Hg5K6RO8?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse8/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 8",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_er9gbj64/v/1/ev/11/flavorId/1_,a0r7voov,8wd7bpzs,0wck55ol,7t7elc8w,0sl25fps,zonc3o90,idbmr9vl,cnk7kn5a,s6r0bnvg,curfjtuj,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQ4NDAiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV9lcjlnYmo2NF8xX2lkYm1yOXZsLDFfZXI5Z2JqNjRfMV9hMHI3dm9vdiwxX2VyOWdiajY0XzFfOHdkN2JwenMsMV9lcjlnYmo2NF8xXzB3Y2s1NW9sLDFfZXI5Z2JqNjRfMV83dDdlbGM4dywxX2VyOWdiajY0XzFfMHNsMjVmcHMsMV9lcjlnYmo2NF8xX3pvbmMzbzkwIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=2yDH5S6hwfutyzvYeX4p5MDhj8U%3d"
       },
       {
-        "name": "EPISODE 9 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/16zAymz8hDak0kJ9sCAqC61DdLjeiB6H6?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse9/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 9",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_5gye9zos/v/1/ev/11/flavorId/1_,iusj9kio,6wsd4lqy,2phrw943,3y7s5nbw,dhygqfq8,a6iic6m4,msvwjwf0,0kprzqu8,10iwzz33,tsof7kqf,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQwMTQiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV81Z3llOXpvc18xX21zdndqd2YwLDFfNWd5ZTl6b3NfMV9pdXNqOWtpbywxXzVneWU5em9zXzFfNndzZDRscXksMV81Z3llOXpvc18xXzJwaHJ3OTQzLDFfNWd5ZTl6b3NfMV8zeTdzNW5idywxXzVneWU5em9zXzFfZGh5Z3FmcTgsMV81Z3llOXpvc18xX2E2aWljNm00IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=7WCj9VlOlhVUWTEo3GsEzlWjSlk%3d"
       },
       {
-        "name": "EPISODE 10 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1tQ1uwhGi3-1aNM9Gky9eMOFCd-XJN3eA?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse10/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 11 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1d2Y3DSIY8UM7TBJW1EsqPWq3tJmED8E5?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse11/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 12 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1mxjagpkhZg0ofguKcw7b3l9H5ZIBY17J?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse12/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 13 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1LWe0jK6Ngy-WCU-B_7X8qUOYVj-knI5f?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse13/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 14 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1QmxGbIrfoKoCCqWyZ2dZ6Nfl3q2GV-D9?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse14/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 15 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1GXWsFd2jtAyHWwJWFrPB5wYadEadKRJe?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse15/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "MOUSE THE PREDATOR EP 1 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mousethepredator.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1oIXFr_eSE0Q4EfW-fISTXv75ayaFBt6Z?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mousepredator1/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "MOUSE THE PREDATOR EP 2 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mousethepredator.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/16T91nP_dQBYefiodLD5LmlARZuwIjKus?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mousepredator2/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 16 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/16cBGbM1IrGQfZQo3Rku976cPBAfaLZFd?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse16/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 17 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1igq7C91g1ZuME5A6-VVauMBxfgXmHb76?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse17/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 18 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1w9JDtkC0ZQ3GxXK2h68NVhUA0T7NVazK?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse18/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 19 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1Gpi3ersbuErIW3dGha-KPj8AEi79Puy8?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse19/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
-      },
-      {
-        "name": "EPISODE 20 ",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/18GCSeljkZ7-dic3EjOljRqoxuLbNcFTi?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
-        "subtitle_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mouse20/id.vtt",
-        "subtitle_mime_type": "text/vtt",
-        "subtitle_language": "ms"
+        "name": "EPISODE 10",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/38b7e657a62d408fa3b64ca802505538/version/3/width/1280/height/720",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_6z715kpk/v/1/ev/8/flavorId/1_,nlrgfldt,2j741ott,12g8oca6,asb7542f,u1zwemxn,l1ys8gla,49x2ivjp,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjQ3NjkiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV82ejcxNWtwa18xXzQ5eDJpdmpwLDFfNno3MTVrcGtfMV9ubHJnZmxkdCwxXzZ6NzE1a3BrXzFfMmo3NDFvdHQsMV82ejcxNWtwa18xXzEyZzhvY2E2LDFfNno3MTVrcGtfMV9hc2I3NTQyZiwxXzZ6NzE1a3BrXzFfdTF6d2VteG4sMV82ejcxNWtwa18xX2wxeXM4Z2xhIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=8eiujMCJNXEBgx2A6VsdjCpKP9Q%3d"
       }
     ]  
   },
