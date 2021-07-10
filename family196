@@ -1926,6 +1926,11 @@
     "name": "MALAY MOVIES",
     "samples": [ 
       {
+        "name": "JANGAN TAKUT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jangantakut.jpg",
+        "uri": "https://urlbox.paduhq.com/2952635648299312/moviekeluarga328_jtkktatpt2021.cdv"
+      },
+      {
         "name": "HANTU BONCENG 2.0",
         "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/1bfa8d4cb1964cedb567cec636a57e5b/version/7/width/1280/height/720",
         "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_6fk7rsy0/v/1/ev/10/flavorId/1_,13a2jyb0,wnjkbx1d,htbvyezz,5ets4x6j,m9tnmymb,597qqjg0,52n3ognp,ni0uprma,m2kx31ae,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
