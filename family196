@@ -2521,6 +2521,16 @@
     "name": "ENGLISH MOVIES",
     "samples": [      
        {
+        "name": "A QUIT PLACE 1",
+        "logo_uri": "https://i.insider.com/60b15d5702ac410018f9388a?width=1200&format=jpeg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/A%20Quiet%20Place%202018%20720p%20Bluray.mp4"
+      },
+      {
+        "name": "A QUIT PLACE 2",
+        "logo_uri": "https://i.insider.com/60b15d5702ac410018f9388a?width=1200&format=jpeg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru14/A%20Quiet%20Place%20Part%202%202021ok.mp4"
+      },
+      {
         "name": "FORD V FERRARI",
         "logo_uri": "https://www.automobilemag.com/uploads/sites/11/2019/11/Ford-vs-Ferrari-15.jpg",
         "uri": "https://urlbox.paduhq.com/2846567135957296/Ford_v_Ferrari_2019_Indo_Dubbed_+_Indo_Hardsub_720p_DSNP_WEBRip.mkv"
