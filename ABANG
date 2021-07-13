@@ -628,7 +628,7 @@
 	"logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",
         "uri": "https://linear03-playback.sooka.my/CH5/masterCH5.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeTRKclplazF0RHJGTG5MUUdoR2NsRnZBbVRiYW1oQUNGVXlMSzZBXzljWU5jQjZZZ3RhRjZFWWJpVFNENGJEY3BrWWpmRnNlY3VoaXlfVS1sY25RT0t5N2VpOUo5RTFvdWR0Qmo0Y1NYTUNEYTRvWXlwMW5nZXJpdmxPLUtCVmZnSWZtdmxTc2tHTXZ5YUNMVEJpQUJLdjJCdVd2ak9XWFhJeTJEb3NzVnpXR1NyTnJ2UnFfQnliTVZWcmdQanZMX1lJSWtXeVJtY1N1Y0tQOVVzQWcxQjc0V3FjYUhMTmt3blcxOWU1YmtzaHR2XzFxdjdjMjQtODk2VWhmcVUxc2poVmtaZDd2WkNfZjZ3ZEZaU2w3VW1tUWZUUXZ1eXVER1lTa3FzbUJtVkdWbW9iSUtPTnNKUXpQUk1RTjFXNG5zMElpOERJNl83RkZHRjBjc1RDUU9iJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM0MTAzMTIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiNGZjMTEyZjlfMmE5Zl80ZWI5Xzg5YTFfYmQ3ODBkM2UzZGU2IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHk0SnJaZWsxdERyRkxuTFFHaEdjbEZ2QW1UYmFtaEFDRlV5TEs2QV85Y1lOY0I2WWd0YUY2RVliaVRTRDRiRGNwa1lqZkZzZWN1aGl5X1UtbGNuUU9LeTdlaTlKOUUxb3VkdEJqNGNTWE1DRGE0b1l5cDFuZ2VyaXZsTy1LQlZmZ0lmbXZsU3NrR012eWFDTFRCaUFCS3YyQnVXdmpPV1hYSXkyRG9zc1Z6V0dTck5ydlJxX0J5Yk1WVnJnUGp2TF9ZSUlrV3lSbWNTdWNLUDlVc0FnMUI3NFdxY2FITE5rd25XMTllNWJrc2h0dl8xcXY3YzI0LTg5NlVoZnFVMXNqaFZrWmQ3dlpDX2Y2d2RGWlNsN1VtbVFmVFF2dXl1REdZU2txc21CbVZHVm1vYklLT05zSlF6UFJNUU4xVzRuczBJaThESTZfN0ZGR0YwY3NUQ1FPYiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=Tg%2bfFkdxE1OcWxTw%2bc%2fU1BXPlx4%3d"
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeWxnQ3dJVUgtNWpXSXlVQzBZaWtaY3lYM3Y2YUlURE4zbDBXd0V2WGJqVWl2Y1pFc3NzR0pvOFR1SkNXSEtOaWdzUUVnVVNUT3RnY1pOZ3hQcFpMZWNzdGxZNjg5c25oOXVvU0MxSy0tNzd5NWtZSkwtVnA3bXAySkZldWVaZ1RpR1ZPYjlfbnpVZm9DcjhJVWNrcFRqbUhUT3ZFdVRJdzQ4aW95YnVLeHNtOXJKbll6Rm9EOE1TMy1pblE2dG1Eamtla1RKN284QUd3Z1dvTC11VHB1Z3M3VE9nOTR4TllzZ3hjQks2ZTBHQktkYWhfOXJjb19INjFWMmdMNVdZQnZzV3NiSUVZbWNNaHdvMVhwLXR4c1JndVdJS2VjU2dISTlYWGJYa3Uzck5BYWRSV2NTQVZmcUFrUmJESV93bmZoQmxWbm1vX3FZUnpDb2RlTTR3WkpwQnZjQS1TTEpPcHJrN3RsX0IzZFFhTnh1TkNHa0tkUjRxeVdiOWd4bnlhZjZGdnpCVGNmd0labDBYQlNRS1JkdndXdE9OSFJTdnpRZVBpOVBOLU5IRER6VU1YanNYNUdoYjJkOF85UUxEd1VHREtpcGVQR19NcHJ1aHdiTTkwUFBOTXJrR3FxU2M1TDVhWldOWk12eWFBRGl5UzVrMGJITXhYVVlyenc0ZmtRPSZjb250ZXh0VHlwZT1ub25lJmlkPTEzNDEwMzEyIiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjRmYzExMmY5XzJhOWZfNGViOV84OWExX2JkNzgwZDNlM2RlNiIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5bGdDd0lVSC01aldJeVVDMFlpa1pjeVgzdjZhSVRETjNsMFd3RXZYYmpVaXZjWkVzc3NHSm84VHVKQ1dIS05pZ3NRRWdVU1RPdGdjWk5neFBwWkxlY3N0bFk2ODlzbmg5dW9TQzFLLS03N3k1a1lKTC1WcDdtcDJKRmV1ZVpnVGlHVk9iOV9uelVmb0NyOElVY2twVGptSFRPdkV1VEl3NDhpb3lidUt4c205ckpuWXpGb0Q4TVMzLWluUTZ0bURqa2VrVEo3bzhBR3dnV29MLXVUcHVnczdUT2c5NHhOWXNneGNCSzZlMEdCS2RhaF85cmNvX0g2MVYyZ0w1V1lCdnNXc2JJRVltY01od28xWHAtdHhzUmd1V0lLZWNTZ0hJOVhYYlhrdTNyTkFhZFJXY1NBVmZxQWtSYkRJX3duZmhCbFZubW9fcVlSekNvZGVNNHdaSnBCdmNBLVNMSk9wcms3dGxfQjNkUWFOeHVOQ0drS2RSNHF5V2I5Z3hueWFmNkZ2ekJUY2Z3SVpsMFhCU1FLUmR2d1d0T05IUlN2elFlUGk5UE4tTkhERHpVTVhqc1g1R2hiMmQ4XzlRTER3VUdES2lwZVBHX01wcnVod2JNOTBQUE5NcmtHcXFTYzVMNWFaV05aTXZ5YUFEaXlTNWswYkhNeFhVWXJ6dzRma1E9IiwidWRpZCI6ImNkOWJjY2JlLTI4ZjItNGFkNi1iMGI2LTgyODljMjZjNjVmYl93ZWJfd2FyaXNhZ3VuYUBnbWFpbC5jb21fV0VCLWUwYTM3NTI2LWRmNmEtZmM3Yi1iZTI1LTZlODc4YmM0M2JhMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=46pcbjhGOWVBoERvsbKBzec5yZE%3d"
       },
       {
         "name": "RIA",
@@ -2641,18 +2641,38 @@
     ]
   },
   {
-    "name": "HINDI MOVIES",
+    "name": "INDIAN MOVIES",
     "samples": [ 
-      {
-        "name": "MR.X",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mrx.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1koG9y9f-lwRAGjJOpGZc7UqpKFQvfl1i?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]
-  },
-  {
-    "name": "TAMIL MOVIES",
-    "samples": [ 
+      { 
+        "name": "SURA",
+        "logo_uri": "https://i.ytimg.com/vi/efYSQ2EHlV4/maxresdefault.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok2/Sura%202010ok.mp4"
+      },
+      {  
+        "name": "SKATER GIRL",
+        "logo_uri": "https://bingeddata.s3.amazonaws.com/uploads/2021/05/Skater-Girl-Trailer.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru14/Skater%20Girl%20(2021).mp4"
+      },
+      {  
+        "name": "SKATER GIRL",
+        "logo_uri": "https://bingeddata.s3.amazonaws.com/uploads/2021/05/Skater-Girl-Trailer.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru14/Skater%20Girl%20(2021).mp4"
+      },
+      {   
+        "name": "JAGAME THANDHIRAN",
+        "logo_uri": "https://goodnewsbyte.com/wp-content/uploads/2021/07/Jagame-Thandhiram-1200.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru14/Jagame%20Thandhiram%202021.mp4"
+      },
+      {  
+        "name": "COLD CASE",
+        "logo_uri": "https://viralkekda.com/wp-content/uploads/2021/06/Cold-Case-Movie-2021-Poster.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru15/COLD%20CASE%202021ok2.mp4"
+      },
+      { 
+        "name": "HASEEN DILRUBA",
+        "logo_uri": "https://i.ytimg.com/vi/OmFRRtRAsA0/sddefault.jpg#404_is_fine",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru15/Haseen%20Dillruba%202021.mp4"
+      },
       {
 	"logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/03beb33793ba4062aa57690250266615/version/11/width/1280/height/720",
 	"name": "KUTTRAM SEIYAL",
