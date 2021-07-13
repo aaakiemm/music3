@@ -2641,18 +2641,38 @@
     ]
   },
   {
-    "name": "HINDI MOVIES",
+    "name": "INDIAN MOVIES",
     "samples": [ 
-      {
-        "name": "MR.X",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mrx.jpg",
-        "uri": "https://www.googleapis.com/drive/v3/files/1koG9y9f-lwRAGjJOpGZc7UqpKFQvfl1i?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
-      }
-    ]
-  },
-  {
-    "name": "TAMIL MOVIES",
-    "samples": [ 
+      { 
+        "name": "SURA",
+        "logo_uri": "https://i.ytimg.com/vi/efYSQ2EHlV4/maxresdefault.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok2/Sura%202010ok.mp4"
+      },
+      {  
+        "name": "SKATER GIRL",
+        "logo_uri": "https://bingeddata.s3.amazonaws.com/uploads/2021/05/Skater-Girl-Trailer.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru14/Skater%20Girl%20(2021).mp4"
+      },
+      {  
+        "name": "SKATER GIRL",
+        "logo_uri": "https://bingeddata.s3.amazonaws.com/uploads/2021/05/Skater-Girl-Trailer.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru14/Skater%20Girl%20(2021).mp4"
+      },
+      {   
+        "name": "JAGAME THANDHIRAN",
+        "logo_uri": "https://goodnewsbyte.com/wp-content/uploads/2021/07/Jagame-Thandhiram-1200.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru14/Jagame%20Thandhiram%202021.mp4"
+      },
+      {  
+        "name": "COLD CASE",
+        "logo_uri": "https://viralkekda.com/wp-content/uploads/2021/06/Cold-Case-Movie-2021-Poster.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru15/COLD%20CASE%202021ok2.mp4"
+      },
+      { 
+        "name": "HASEEN DILRUBA",
+        "logo_uri": "https://i.ytimg.com/vi/OmFRRtRAsA0/sddefault.jpg#404_is_fine",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/baru15/Haseen%20Dillruba%202021.mp4"
+      },
       {
 	"logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/03beb33793ba4062aa57690250266615/version/11/width/1280/height/720",
 	"name": "KUTTRAM SEIYAL",
