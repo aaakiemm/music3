@@ -2649,6 +2649,16 @@
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion/tamil6/MASTER%20(2021)ok.mp4"
       },
       {  
+        "name": "MAHARSHI",
+        "logo_uri": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qfp2k2a32cpcmtseej62j6t934-20190524013924.Medi.jpeg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Maharshi%20(2019)%20Malay.mp4"
+      },
+      { 
+        "name": "RAKSHASI",
+        "logo_uri": "https://1847884116.rsc.cdn77.org/telugu/gallery/movies/rakshasi/main.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-2/NewVersion/20/Rakshasi%20(2017)%20Telugu.mp4"
+      },
+      {  
         "name": "ATHIRAN",
         "logo_uri": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9000/549000-h",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Athiran%20(2019)%20HDRip.mkv"
@@ -2662,6 +2672,11 @@
         "name": "SURA",
         "logo_uri": "https://i.ytimg.com/vi/efYSQ2EHlV4/maxresdefault.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok2/Sura%202010ok.mp4"
+      },
+      { 
+        "name": "DRISHYAM",
+        "logo_uri": "https://assets.thehansindia.com/h-upload/2021/02/19/1032291-drishyam-2-movie-review.webp",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion/tamil8/Drishyam%202%20(2021)ok.mp4"
       },
       {  
         "name": "SKATER GIRL",
