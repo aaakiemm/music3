@@ -2644,6 +2644,16 @@
     "name": "INDIAN MOVIES",
     "samples": [ 
       { 
+        "name": "ATHIRAN",
+        "logo_uri": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9000/549000-h",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Athiran%20(2019)%20HDRip.mkv"
+      },
+      { 
+        "name": "NOTA",
+        "logo_uri": "https://dgzmedia.com/wp-content/uploads/2018/10/Nota.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Nota%20HDRip%20(2019).mkv"
+      },
+      {  
         "name": "SURA",
         "logo_uri": "https://i.ytimg.com/vi/efYSQ2EHlV4/maxresdefault.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok2/Sura%202010ok.mp4"
@@ -5600,7 +5610,14 @@
         "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_xzxs8rhg/v/1/ev/8/flavorId/1_,f6p89ec7,1vz45iqp,yf9xh44i,ir7waqr4,27lrf5ev,h1udahg1,zs2nqtxr,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeWxnQ3dJVUgtNWpXSXlVQzBZaWtaY3lYM3Y2YUlURE4zbDBXd0V2WGJqVWl2Y1pFc3NzR0pvOFR1SkNXSEtOaWdzUUVnVVNUT3RnY1pOZ3hQcFpMZWNzdGxZNjg5c25oOXVvU0MxSy0tNzd5NWtZSkwtVnA3bXAySkZldWVaZ1RpR1ZPYjlfbnpVZm9DcjhJVWNrcFRqbUhUT3ZFdVRJdzQ4aW95YnVLeHNtOXJKbll6Rm9EOE1TMy1pblE2dG1Eamtla1RKN284QUd3Z1dvTC11VHB1Z3M3VE9nOTR4TllzZ3hjQks2ZTBHQktkYWhfOXJjb19INjFWMmdMNVdZQnZzV3NiSUVZbWNNaHdvMVhwLXR4c1JndVdJS2VjU2dISTlYWGJYa3Uzck5BYWRSV2NTQVZmcUFrUmJESV93bmZoQmxWbm1vX3FZUnpDb2RlTTR3WkpwQnZjQS1TTEpPcHJrN3RsX0IzZFFhTnh1TkNHa0tkUjRxeVdiOWd4bnlhZjZGdnpCVGNmd0labDBYQlNRS1JkdndXdE9OSFJTdnpRZVBpOVBOLU5IRER6VU1YanNYNUdoYjJkOF85UUxEd1VHREtpcGVQR19NcHJ1aHdiTTkwUFBOTXJrR3FxU2M1TDVhWldOWk12eWFBRGl5UzVrMGJITXhYVVlyenc0ZmtRPSZjb250ZXh0VHlwZT1ub25lJmlkPTE0MTA2OTMzIiwiYWNjb3VudF9pZCI6MzA4OTYzMywiY29udGVudF9pZCI6IjFfeHp4czhyaGdfMV96czJucXR4ciwxX3h6eHM4cmhnXzFfZjZwODllYzcsMV94enhzOHJoZ18xXzF2ejQ1aXFwLDFfeHp4czhyaGdfMV95Zjl4aDQ0aSwxX3h6eHM4cmhnXzFfaXI3d2FxcjQsMV94enhzOHJoZ18xXzI3bHJmNWV2LDFfeHp4czhyaGdfMV9oMXVkYWhnMSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNekl3T1h5bGdDd0lVSC01aldJeVVDMFlpa1pjeVgzdjZhSVRETjNsMFd3RXZYYmpVaXZjWkVzc3NHSm84VHVKQ1dIS05pZ3NRRWdVU1RPdGdjWk5neFBwWkxlY3N0bFk2ODlzbmg5dW9TQzFLLS03N3k1a1lKTC1WcDdtcDJKRmV1ZVpnVGlHVk9iOV9uelVmb0NyOElVY2twVGptSFRPdkV1VEl3NDhpb3lidUt4c205ckpuWXpGb0Q4TVMzLWluUTZ0bURqa2VrVEo3bzhBR3dnV29MLXVUcHVnczdUT2c5NHhOWXNneGNCSzZlMEdCS2RhaF85cmNvX0g2MVYyZ0w1V1lCdnNXc2JJRVltY01od28xWHAtdHhzUmd1V0lLZWNTZ0hJOVhYYlhrdTNyTkFhZFJXY1NBVmZxQWtSYkRJX3duZmhCbFZubW9fcVlSekNvZGVNNHdaSnBCdmNBLVNMSk9wcms3dGxfQjNkUWFOeHVOQ0drS2RSNHF5V2I5Z3hueWFmNkZ2ekJUY2Z3SVpsMFhCU1FLUmR2d1d0T05IUlN2elFlUGk5UE4tTkhERHpVTVhqc1g1R2hiMmQ4XzlRTER3VUdES2lwZVBHX01wcnVod2JNOTBQUE5NcmtHcXFTYzVMNWFaV05aTXZ5YUFEaXlTNWswYkhNeFhVWXJ6dzRma1E9IiwidWRpZCI6ImNkOWJjY2JlLTI4ZjItNGFkNi1iMGI2LTgyODljMjZjNjVmYl93ZWJfd2FyaXNhZ3VuYUBnbWFpbC5jb21fV0VCLWUwYTM3NTI2LWRmNmEtZmM3Yi1iZTI1LTZlODc4YmM0M2JhMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MzIwOX0%3d&signature=3bBLqqkqby35gla6Nhe7NsLTYKA%3d"
-     }
+      },
+      {
+        "name": "EPISOD 10",
+        "logo_uri": "https://linear-poster.astro.com.my/prod/poster/JUERX_IVP_LAND_432x243.jpg",
+        "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_5we7jt1d/v/1/ev/8/flavorId/1_,vb4w6e90,l694qgco,uda7y15u,n07dlfw4,n85niz7v,97zffq7p,q35rwqbx,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHZpaFRrRGVfbFcyeWJfamc0V1g3emNjWWp2WkZoaVFER0RnU3RXVWpLc1Rmdjg4N1ptaXBFd2NnQUt5UWc3THVVYWVSRVdxWkJCWW1CZUt1ZFlhOVRONVd4U3ZUQWtVdUdvS1JoNk9mQnJJNXpRZldoZ2Q5bkwyV3JCc2pCV21HalB6ZE9rOWloLVNxUlJELW9SUjhQXzNzUTEzUXRxWnNCY1I1Y1kxaGhOQlkwSnZhZlJjeUphM292R3hWeFJMMUpreG5nOG9ULS1acGc0a0tDclpNdjBsNmotWi1WbEhaLW52SjlEbHNkaGRGdTJ0RGs1VXhyekV1Y25NckU2ZlpPRVhscUZJSlZ3OF9BSllGNkxQOWxyUVVlRUhlSURoOE4tMkRkc21tbUNEVG1wVUxKcmg1YlYzMzhDUnY2SXVIMkM0Qi0zempzcFN4d1FBLWZwRW5hU2xXVE9qalhQaE1IWkpQcHpMMzcwUUJKR2pmMVJyX2dhOVZXd1JkTEh4T0ZZZGk0TDh1QWxUT0dQNk43dFdONEhSV21Ud1FhQXlRMDF5X2tCazZjU2FUVDBZNmpXX0JtYm5QLVJIeTJfZ0gxNUxCajNCelJ0N2pwSG0zTFNDWE94MDFQb3dfZXh3Y3JldlZESnNLWXdKME9WRGVhYTJyQ2ZsMU5rcnNOX2lhMFUtcWU4Vmw2MmMySjdkamdyWnl3JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTQxMDY5MzciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV81d2U3anQxZF8xX3EzNXJ3cWJ4LDFfNXdlN2p0MWRfMV92YjR3NmU5MCwxXzV3ZTdqdDFkXzFfbDY5NHFnY28sMV81d2U3anQxZF8xX3VkYTd5MTV1LDFfNXdlN2p0MWRfMV9uMDdkbGZ3NCwxXzV3ZTdqdDFkXzFfbjg1bml6N3YsMV81d2U3anQxZF8xXzk3emZmcTdwIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh2aWhUa0RlX2xXMnliX2pnNFdYN3pjY1lqdlpGaGlRREdEZ1N0V1VqS3NUZnY4ODdabWlwRXdjZ0FLeVFnN0x1VWFlUkVXcVpCQlltQmVLdWRZYTlUTjVXeFN2VEFrVXVHb0tSaDZPZkJySTV6UWZXaGdkOW5MMldyQnNqQldtR2pQemRPazlpaC1TcVJSRC1vUlI4UF8zc1ExM1F0cVpzQmNSNWNZMWhoTkJZMEp2YWZSY3lKYTNvdkd4VnhSTDFKa3huZzhvVC0tWnBnNGtLQ3JaTXYwbDZqLVotVmxIWi1udko5RGxzZGhkRnUydERrNVV4cnpFdWNuTXJFNmZaT0VYbHFGSUpWdzhfQUpZRjZMUDlsclFVZUVIZUlEaDhOLTJEZHNtbW1DRFRtcFVMSnJoNWJWMzM4Q1J2Nkl1SDJDNEItM3pqc3BTeHdRQS1mcEVuYVNsV1RPampYUGhNSFpKUHB6TDM3MFFCSkdqZjFScl9nYTlWV3dSZExIeE9GWWRpNEw4dUFsVE9HUDZON3RXTjRIUldtVHdRYUF5UTAxeV9rQms2Y1NhVFQwWTZqV19CbWJuUC1SSHkyX2dIMTVMQmozQnpSdDdqcEhtM0xTQ1hPeDAxUG93X2V4d2NyZXZWREpzS1l3SjBPVkRlYWEyckNmbDFOa3JzTl9pYTBVLXFlOFZsNjJjMko3ZGpnclp5dyIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi01MDZlZWNhOC01ZWNjLTFkMjAtNDFkNS1lOWMzY2ZkMmFhMzUiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=ialTiYOb9YBrL4JpvJstYt0ghII%3d"
+      }
     ]  
   },
   {
