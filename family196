@@ -2644,6 +2644,16 @@
     "name": "INDIAN MOVIES",
     "samples": [ 
       { 
+        "name": "ATHIRAN",
+        "logo_uri": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9000/549000-h",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Athiran%20(2019)%20HDRip.mkv"
+      },
+      { 
+        "name": "NOTA",
+        "logo_uri": "https://dgzmedia.com/wp-content/uploads/2018/10/Nota.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Nota%20HDRip%20(2019).mkv"
+      },
+      {  
         "name": "SURA",
         "logo_uri": "https://i.ytimg.com/vi/efYSQ2EHlV4/maxresdefault.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok2/Sura%202010ok.mp4"
