@@ -2644,6 +2644,21 @@
     "name": "INDIAN MOVIES",
     "samples": [ 
       { 
+        "name": "MASTER",
+        "logo_uri": "https://images.indianexpress.com/2020/12/master-release-date-1200.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion/tamil6/MASTER%20(2021)ok.mp4"
+      },
+      {  
+        "name": "MAHARSHI",
+        "logo_uri": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qfp2k2a32cpcmtseej62j6t934-20190524013924.Medi.jpeg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Maharshi%20(2019)%20Malay.mp4"
+      },
+      { 
+        "name": "RAKSHASI",
+        "logo_uri": "https://1847884116.rsc.cdn77.org/telugu/gallery/movies/rakshasi/main.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-2/NewVersion/20/Rakshasi%20(2017)%20Telugu.mp4"
+      },
+      {  
         "name": "ATHIRAN",
         "logo_uri": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/9000/549000-h",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Athiran%20(2019)%20HDRip.mkv"
@@ -2657,6 +2672,11 @@
         "name": "SURA",
         "logo_uri": "https://i.ytimg.com/vi/efYSQ2EHlV4/maxresdefault.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok2/Sura%202010ok.mp4"
+      },
+      { 
+        "name": "DRISHYAM",
+        "logo_uri": "https://assets.thehansindia.com/h-upload/2021/02/19/1032291-drishyam-2-movie-review.webp",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion/tamil8/Drishyam%202%20(2021)ok.mp4"
       },
       {  
         "name": "SKATER GIRL",
@@ -2691,6 +2711,56 @@
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHhza19BNWMwQ0RsNEc1cUR6ekxTVk9wN2duR0YyQVM1SWRNcUZ2WW9TdUNGLXZKZ1BZSThDN1Z4RE02eGllbkZxRmZzdWx2bmI2X3FIUFItdTNzUnAwbjJBY0Z3ZU0yYjVVS2hQeU56X002WXhRTmxJLWNIRWQxNnFUcXliaUd3R0lMTFpMTVRlWHNUXzd1blFyVnNRbFZFeUNIYUoyOG1qTG9KZVN6Y1hjcC1mY3oxeldNR3dYeUZ4UHdfanh0ZkZIVW1ZZC1pVHFlRWxpdFNRWDRjWHo4Ml9RQWhPTHBSdlV4bG5ZNDFfZ2MtbS1JQ2Q1dUNsMUM4OVA3NVlmN2lqOXpBNWpVOXZ5SkNDUVdaOXhKMlNsdWR6andTdkdxWnpHbnFxX3BPdm9vZlBLU1IwdWxSXzl0QzdiUVVqazlJSmgwZ2xTQ3ZaZlE1Q0pkU0M4U1hxYVFGME9sMXVhd3lhTUZwblFhWXFSelBEVXFBV1hEYnR3NWs2dU92ZHV1ZXVCb3RJcnlrUGc5V2hoekNTajB3NTRhNm10cHRmU0tEZG56cEtSMXlxTkt6cE5mX2tGNTRzNnhrbmM1anNUYTBlQmowNE81d1J0dDdHaFl4X0pIV2gtczhqb3RNdDhyRHFvNC03Q3Jab1ZLa0dlSkRhWEpHaTdHV1pPOGZtSldIY2ZKYTJVcnZmc1FfTmJLbzhvOWxRJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM1MjU0NTUiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiMV81Y2hpZzFmel8xX2JmOWRzMTNxLDFfNWNoaWcxZnpfMV9hdDFmaWRmMywxXzVjaGlnMWZ6XzFfZjRpZHMyYWosMV81Y2hpZzFmel8xX24wZnM1dGJsLDFfNWNoaWcxZnpfMV80MW1kbHB3cSwxXzVjaGlnMWZ6XzFfc3d5dTA5ZHcsMV81Y2hpZzFmel8xX2todTdzNTJjIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh4c2tfQTVjMENEbDRHNXFEenpMU1ZPcDdnbkdGMkFTNUlkTXFGdllvU3VDRi12SmdQWUk4QzdWeERNNnhpZW5GcUZmc3Vsdm5iNl9xSFBSLXUzc1JwMG4yQWNGd2VNMmI1VUtoUHlOel9NNll4UU5sSS1jSEVkMTZxVHF5YmlHd0dJTExaTE1UZVhzVF83dW5RclZzUWxWRXlDSGFKMjhtakxvSmVTemNYY3AtZmN6MXpXTUd3WHlGeFB3X2p4dGZGSFVtWWQtaVRxZUVsaXRTUVg0Y1h6ODJfUUFoT0xwUnZVeGxuWTQxX2djLW0tSUNkNXVDbDFDODlQNzVZZjdpajl6QTVqVTl2eUpDQ1FXWjl4SjJTbHVkemp3U3ZHcVp6R25xcV9wT3Zvb2ZQS1NSMHVsUl85dEM3YlFVams5SUpoMGdsU0N2WmZRNUNKZFNDOFNYcWFRRjBPbDF1YXd5YU1GcG5RYVlxUnpQRFVxQVdYRGJ0dzVrNnVPdmR1dWV1Qm90SXJ5a1BnOVdoaHpDU2owdzU0YTZtdHB0ZlNLRGRuenBLUjF5cU5LenBOZl9rRjU0czZ4a25jNWpzVGEwZUJqMDRPNXdSdHQ3R2hZeF9KSFdoLXM4am90TXQ4ckRxbzQtN0NyWm9WS2tHZUpEYVhKR2k3R1daTzhmbUpXSGNmSmEyVXJ2ZnNRX05iS284bzlsUSIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi1lN2EzNmY4ZC03NTJjLTMwNmItNmU2My0wOTJhYjU1MmI4ZmEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=VE97h8ICgQANfjAnQBbOCCnElLg%3d"
       },
       { 
+        "name": "VINAYA VIDHEY RAMA",
+        "logo_uri": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7914/547914-h",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/tamil10/Vinaya%20Vidheya%20Rama%20(2019).mp4"
+      },
+      { 
+        "name": "TEDDY",
+        "logo_uri": "https://images.hindustantimes.com/img/2021/03/12/1600x900/teddy-2_1615536809310_1615536816494.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/tamil10/Teddy%202021ok.mp4"
+      },
+      { 
+        "name": "INSPECTOR VIKRAM",
+        "logo_uri": "https://qqcdnpictest.mxplay.com/pic/723071e90c0595d15b37ae2be1764a1f/en/16x9/640x360/test_pic1619684161235.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/tamil11/Inspector%20Vikram%20(2021).mp4"
+      },
+      { 
+        "name": "CALLS",
+        "logo_uri": "https://i.ytimg.com/vi/qYR2otRiiss/maxresdefault.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/tamil11/Calls%20(2021).mp4"
+      },
+      { 
+        "name": "BIYA",
+        "logo_uri": "https://i.ytimg.com/vi/HIjSH3MK_sY/maxresdefault.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/tamil11/BIYA%20(2020).mp4"
+      },
+      { 
+        "name": "POGARU",
+        "logo_uri": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/3s1vhxy2ihhk6cma_1613720055.jpeg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/tamil11/Pogaru%20(2021).mp4"
+      },
+      { 
+        "name": "WILD DOG",
+        "logo_uri": "https://img.onmanorama.com/content/dam/mm/en/entertainment/2020/nizhal-movie-review-1.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok/Wild%20Dog%20(2021)ok.mp4"
+      },
+      { 
+        "name": "NIZHAL",
+        "logo_uri": "https://img.onmanorama.com/content/dam/mm/en/entertainment/2020/nizhal-movie-review-1.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok/Nizhal%202021ok.mp4"
+      },
+      { 
+        "name": "SULTHAN",
+        "logo_uri": "https://images.indianexpress.com/2021/04/sulthan.jpeg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok/Sulthan%20(2021)ok.mp4"
+      },
+      {
+        "name": "RADHE",
+        "logo_uri": "https://i.ytimg.com/vi/0ZbIJtd1b9M/maxresdefault.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-4/NewVersion2/tamil12/ok/Radhe%202021ok.mp4"
+      },
+      {
         "name": "MUNI",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/muni.jpg",
         "uri": "https://urlbox.paduhq.com/2247762795548976/@RajuBhaiMovie2 Muni (2007) Tamil Subs Malay"
