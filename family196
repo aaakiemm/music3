@@ -2363,7 +2363,17 @@
       {
         "name": "AZURA",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/azura.jpg",
-        "uri": "https://urlbox.paduhq.com/1866558678225200/Azura (1984).mp4"
+        "uri": " https://misty-dust.evanwinters.workers.dev/0:/public/Azura.1984.1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4"
+      },  
+      {
+        "name": "BARA",
+        "logo_uri": "https://walter.trakt.tv/images/movies/000/145/075/fanarts/full/ae4472066e.jpg.webp",
+        "uri": "https://misty-dust.evanwinters.workers.dev/0:/public/Bara.1999,1080p.MUBI.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mp4"
+      },  
+      {
+        "name": "BUDOK KUBA",
+        "logo_uri": "https://s3media.freemalaysiatoday.com/wp-content/uploads/2019/07/budak-kerbau-bernama-180719-1.jpg",
+        "uri": "https://misty-dust.evanwinters.workers.dev/0:/public/Budok.Kuba.2019.1080p.SOOKA.WEB-DL.AAC.2.0.x264.INTERNAL-AON.mkv"
       },  
       {
         "name": "GILA-GILA REMAJA",
