@@ -1936,7 +1936,7 @@
         "uri": "https://videos.mubicdn.net/watch/3a3508893caca2decad6ff51396571ee/60f3c547/mubi-films/288474/ali-setan_msa_zxx_840x504_20000_mezz32270/b8726ed220/drm_playlist.4bdb9dd02b.ism/playlist.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://lic.drmtoday.com/license-proxy-widevine/cenc/",
-	"x-dt-adat-data": "ewogICAgInVzZXJJZCI6ICJnb3JhbiIsCiAgICAic2Vzc2lvbklkIjogImFhc3NhYXNzYWEiLAogICAgIm1lcmNoYW50IjogImJlZW5pdXMiCn0K"
+	"x-dt-adat-data": "eyJ1c2VySWQiOjExODY2MjgxLCJzZXNzaW9uSWQiOiIzMDFjMGFjZDkxZjYzYjIyNjIyYTRlOTEzMDg1OGYwMmI1MTBhOSIsIm1lcmNoYW50IjoibXViaSJ9"
       },
       {
         "name": "HANTU BONCENG 2.0",
