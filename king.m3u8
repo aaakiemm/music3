@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://bitball.b-cdn.net/movies/disk3/2020-11/11-01-2020/Monkey.King.2020.720p.iQIYI.WEB-DL.x264-IDFL.vtt",GROUP-ID="default-text-group",LANGUAGE="hr",NAME="Croatian",AUTOSELECT=YES
-#EXT-X-STREAM-INF:BANDWIDTH=140800,RESOLUTION=1280x720,CODECS="avc1.42c01e,mp4a.40.2",SUBTITLES="default-text-group"
-https://bitball.b-cdn.net/movies/disk3/2020-11/11-01-2020/Monkey.King.2020.720p.iQIYI.WEB-DL.x264-IDFL.mp4
