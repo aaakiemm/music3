@@ -1937,7 +1937,8 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://lic.drmtoday.com/license-proxy-widevine/cenc/"
         "drm_key_request_properties": {
-          "x-dt-custom-data": "ewogICAgInVzZXJJZCI6ICJnb3JhbiIsCiAgICAic2Vzc2lvbklkIjogImFhc3NhYXNzYWEiLAogICAgIm1lcmNoYW50IjogImJlZW5pdXMiCn0K"
+          "x-dt-custom-data": "eyJ1c2VySWQiOjExODY2MjgxLCJzZXNzaW9uSWQiOiJlNTlhZDE1ZjE0OTIzYWNiZTk0MTBkNjZhZjg0ZTlmNWI1MTBhOSIsIm1lcmNoYW50IjoibXViaSJ9"
+        }
       },
       {
         "name": "HANTU BONCENG 2.0",
