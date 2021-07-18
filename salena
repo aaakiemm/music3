@@ -1687,12 +1687,12 @@
       {
         "name": "RTB SUKMA INDERA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png",
-        "uri": "https://rtb-channel.glue.live/smil:rtb1/manifest.mpd"
+        "uri": "https://d19j8udk9agj55.cloudfront.net/smil:rtb1/manifest.mpd"
       },
       {
         "name": "RTB ANEKA",
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
-        "uri": "https://rtb-channel.glue.live/smil:rtbgo/manifest.mpd"    
+        "uri": "https://d19j8udk9agj55.cloudfront.net/smil:rtbgo/manifest.mpd"    
       }
     ]
   },
@@ -8357,22 +8357,22 @@
       {
         "name": "NUR ISLAM FM",
         "logo_uri": "https://cdn-rtb.glueapi.io/v1/content/5/image/1200x0/images.title?quality=100",
-        "uri": "https://rtb-radio.glue.live/rd004/chunklist.m3u8"
+        "uri": "https://d21nlq1llt02jo.cloudfront.net/rd004/playlist.m3u8"
       },
       {
         "name": "PELANGI FM ",
         "logo_uri": "https://rtb.glueapi.io/v1/content/6/image/1200x0/images.title?quality=100",
-        "uri": "https://rtb-radio.glue.live/rd001/chunklist.m3u8"
+        "uri": "https://d21nlq1llt02jo.cloudfront.net/rd001/playlist.m3u8"
       },
       {
         "name": "HARMONI FM",
         "logo_uri": "https://rtb.glueapi.io/v1/content/3/image/1200x0/images.title?quality=100",
-        "uri": "https://rtb-radio.glue.live/rd002/chunklist.m3u8"
+        "uri": "https://d21nlq1llt02jo.cloudfront.net/rd002/playlist.m3u8"
       },
       {
         "name": "NASIONAL FM",
         "logo_uri": "https://rtb.glueapi.io/v1/content/4/image/1200x0/images.title?quality=100",
-        "uri": "https://rtb-radio.glue.live/rd005/chunklist.m3u8"
+        "uri": "https://d21nlq1llt02jo.cloudfront.net/rd005/playlist.m3u8"
       }
     ]  
   },
