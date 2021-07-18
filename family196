@@ -1118,7 +1118,7 @@
       {
         "name": "Soccer Channel",
         "logo_uri": "https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/SoccerChannel2/sa_dash_vmx/SoccerChannel2.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
