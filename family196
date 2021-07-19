@@ -2741,9 +2741,12 @@
       {              
         "name": "SIVAJI",
         "logo_uri": "https://i.ytimg.com/vi/yT9YnRTCUB0/maxresdefault.jpg",
-        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Sivaji%20The%20Boss%20(2007)%20HDRip.mkv"
+        "uri": "https://urlbox.paduhq.com/3150994417897776/@Kande76_Sivaji.The%20Boss.2007.Tamil-DVDRip.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/555Z555/music2/main/sivaji.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
       },
-      {              
+      {            
         "name": "PETTA",
         "logo_uri": "https://images.indianexpress.com/2018/10/petta-1200.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Petta%20HD%20(2019).mkv"
