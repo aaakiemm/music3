@@ -251,24 +251,9 @@
         "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
       },
       {
-        "name": "SUN HD",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",
-        "uri": "https://github.com/555Z555/music3/raw/main/sonson.m3u8"
-      },
-      {
         "name": "SUN TV",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",
-        "uri": "https://github.com/555Z555/music3/raw/main/sun.m3u8"
-      },
-      {
-        "name": "STAR VIJAY,
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",
-        "uri": "https://github.com/555Z555/music3/raw/main/SETAR.m3u8"
-      },
-      {
-        "name": "ZEE TAMIL,
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",
-        "uri": "https://github.com/555Z555/music3/raw/main/ZEE35.m3u8"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/sun.m3u8"
       },
       {
         "name": "HD TAMIL",
