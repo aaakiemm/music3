@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://uk4.zecast.com:1935/star-live/suntv.stream/chunklist_w1331398042.m3u8
