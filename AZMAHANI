@@ -256,6 +256,16 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/sun.m3u8"
       },
       {
+        "name": "ZEE TAMIL",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",
+        "uri": "https://github.com/555Z555/music3/raw/main/ZEE35.m3u8"
+      },
+      {
+        "name": "STAR VIJAY",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",
+        "uri": "http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8"
+      },
+      {
         "name": "HD TAMIL",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hdtamil.png",
         "uri": "https://live.hdtamiltv.ca/live/hdv/index.m3u8"
