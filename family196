@@ -598,6 +598,62 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
       },
       {
+        "name": "UNIFI SPORTS 6",
+	"logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports6-Olympic.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227795/3221227795.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "UNIFI SPORTS 7",
+	"logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports7-Olympic.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227787/3221227787.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "UNIFI SPORTS 8",
+	"logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports8-Olympic.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227798/3221227798.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "UNIFI SPORTS 9",
+	"logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports9-Olympic.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227793/3221227793.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "UNIFI SPORTS 10",
+	"logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports10-Olympic.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227830/3221227830.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "UNIFI SPORTS 11",
+	"logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports11-Olympic.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227833/3221227833.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "UNIFI SPORTS 12",
+	"logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports12-Olympic.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227799/3221227799.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "UNIFI SPORTS 13",
+	"logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports13-Olympic.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227802/3221227802.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
         "name": "FOX SPORTS HD",
 	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
