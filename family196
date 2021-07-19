@@ -2627,6 +2627,13 @@
         "uri": "https://urlbox.paduhq.com/1907567025967408/The Karate Kid.mp4"
       },
       {
+        "name": "MY FATHER IS HERO",
+        "logo_uri": "https://kungfukingdom.com/wp-content/uploads/2020/01/My-Father-is-a-Hero-1995-Kung-Fu-Kingdom-770x472.jpg",
+        "uri": "http://centerrrs.hypp.tv/88888888/16/20200710/268708150/268708150.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%2C1502109523143355851405361%2C42.153.53.58%2C20210719005054%2CSP0043808158%2C1502109523143355851405361%2C-1%2C1%2C0%2C%2C%2C1%2CHESA1060%2C%2C%2C1%2C2096667%2C0%2C1002024%2Ce53d8ef0-52ee-bcad-da60-f36b9aec66ed%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOTYvCMBiE_02OIU36echJERaWumDd6zImb2MxbTSpwv577W7B68w8wzNHGPrY6kbZTFRlASVFDsLJUq-MUNTIOq_6giW6tUFLZuD9MLk22AX7Pmx-MsEFlzLjSrBuudt5uHXZ3scTxTd2oPgYDGmbev5A4nAuksM8hIl_efweo18njLpVLStlWQvRqKqpczYvaYd0eTXsjLQJ4xWR7Gdwf4Du4ROxK8wFjlqMpKe79__cPtqXzRM38uUf9AAAAA&tenantId=6003",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
         "name": "SPICY KILLER",
         "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/ce147f05dfb94bd98e9a0cf273bb5dc1/version/6/width/1280/height/720",
         "uri": "https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_iz2wxzgx/v/1/ev/12/flavorId/1_,jpegfrtp,0yhuw4bk,t9jm42q0,713jdpp1,cdzwanz2,i2a5u1zk,yr6zyysg,3tynge29,9kthiw30,6sjxs29w,/forceproxy/true/name/a.mp4.urlset/manifest.mpd",
