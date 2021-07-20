@@ -2746,11 +2746,6 @@
         "logo_uri": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/8jtuo-87VBMMPBVFT-Full-Image_GalleryBackground-en-US-1604733233617._SX1080_.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Bruce%20Lee%20The%20Fighter%20HDRip%20(2015).mkv"
       },
-      {  
-        "name": "RANGASTHALAM",
-        "logo_uri": "https://images.indianexpress.com/2018/03/rangasthalam-1200.jpg",
-        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Rangasthalam%20HD%20AVC%20(2018).mkv"
-      },
       {   
         "name": "RANGASTHALAM",
         "logo_uri": "https://images.indianexpress.com/2018/03/rangasthalam-1200.jpg",
@@ -2762,6 +2757,11 @@
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil5/Yevadu%20HDRip%20(2014).mkv"
       },
       {   
+        "name": "DHRUVA",
+        "logo_uri": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/2697/1000192697/1000192697-h",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Dhruva%20HDRip%20(2017).mkv"
+      },
+      {  
         "name": "PATTAS",
         "logo_uri": "https://www.todaynewstrends.com/wp-content/uploads/2020/01/pattas-review-banner.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/2-1/Tamil-Hindi/Tamil8/Pattas.mp4"
@@ -2806,15 +2806,38 @@
         "logo_uri": "https://images.indianexpress.com/2019/07/raatchasi-759.jpg",
         "uri": "https://urlbox.paduhq.com/3177554495656240/Raatchasi_2019_720p_HDTV_Malay_Hardsub.mp4"
       },
-      {   
-        "name": "DHRUVA",
-        "logo_uri": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/2697/1000192697/1000192697-h",
-        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Dhruva%20HDRip%20(2017).mkv"
-      },
       {  
         "name": "KGF CHAPTER 1",
         "logo_uri": "https://images.hindustantimes.com/img/2021/06/02/550x309/_0c83cf50-50cc-11eb-8a3c-8a727805186f_1622632139859.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil2/K.G.F%20Chapter%201%20HD%20AVC%20(2018).mkv"
+      },
+      {  
+        "name": "DANGAL",
+        "logo_uri": "https://images.indianexpress.com/2016/12/dangal-7591.jpg",
+        "uri": "https://urlbox.paduhq.com/3177554495656240/Raatchasi_2019_720p_HDTV_Malay_Hardsub.mp4"
+      },
+      {  
+        "name": "3 IDIOT",
+        "logo_uri": "https://images.cinemaexpress.com/uploads/user/imagelibrary/2020/5/1/original/3_Idiots.PNG",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Idiots%202009.mp4"
+      },
+      {  
+        "name": "P.K",
+        "logo_uri": "https://news.bbcimg.co.uk/media/images/79934000/jpg/_79934580_pk1jpg.jpg",
+        "uri": "https://urlbox.paduhq.com/3178104251470128/@Kande76_PK.2014.Hindi-720p.BrRip.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/555Z555/music2/main/pk.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {  
+        "name": "DHOOM 3",
+        "logo_uri": "https://www.india.com/wp-content/uploads/2013/12/aamir-katrina-dance_dhoom3.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Random2%20Movies%20Malay%20Sub/Dhoom%203%202013%20@hardsubmalaymovie.mp4"
+      },
+      {  
+        "name": "GHAJINI",
+        "logo_uri": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/03/aamir-ghajini-2-1583936081.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-2/NewVersion/26/Ghajini%202008.mp4"
       },
       {  
         "name": "MASTER",
@@ -2905,6 +2928,11 @@
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/24%20HDRip%20(2016).mkv"
       },
       {              
+        "name": "GHAJINI",
+        "logo_uri": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/1680/-/0/79/18/2761f980a30f11e98ec7c1466ab9e35f_1563440931532_l_medium.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion/tamil4/Ghajini%20(2005).mp4"
+      },
+      {               
         "name": "DARBAR",
         "logo_uri": "https://img.theweek.in/content/dam/week/news/entertainment/images/2019/11/7/darbar-motion-picture.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/2-1/Tamil-Hindi/Tamil8/Darbar%20(2019)%20HDRip.mp4"
