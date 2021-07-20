@@ -2712,6 +2712,16 @@
     "name": "INDIAN MOVIES",
     "samples": [ 
       { 
+        "name": "U-TURN",
+        "logo_uri": "https://www.quirkybyte.com/wp-content/uploads/2021/05/10-18.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion/tamil7/U%20Turn%20(2020)ok.mp4"
+      },
+      {  
+        "name": "KAITHI",
+        "logo_uri": "https://images.indianexpress.com/2019/10/Kaithi-1200-6.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil6/Kaithi%20(2019)%20HDRip.mkv"
+      },
+      {  
         "name": "RAATCHASI",
         "logo_uri": "https://images.indianexpress.com/2019/07/raatchasi-759.jpg",
         "uri": "https://urlbox.paduhq.com/3177554495656240/Raatchasi_2019_720p_HDTV_Malay_Hardsub.mp4"
