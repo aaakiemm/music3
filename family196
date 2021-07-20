@@ -2712,6 +2712,36 @@
     "name": "INDIAN MOVIES",
     "samples": [ 
       { 
+        "name": "PATTAS",
+        "logo_uri": "https://www.todaynewstrends.com/wp-content/uploads/2020/01/pattas-review-banner.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/2-1/Tamil-Hindi/Tamil8/Pattas.mp4"
+      },
+      {  
+        "name": "WAR",
+        "logo_uri": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/10/02/Pictures/_d4ebc3ea-e4f2-11e9-939f-ba4a7f73df5c.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil6/War%20(2019)%20.mkv"
+      },
+      {  
+        "name": "GODFATHER",
+        "logo_uri": "https://i.ytimg.com/vi/z_YyBiGhl0k/maxresdefault.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/2-1/Tamil-Hindi/Tamil9/1/God%20Father%20(2020)%20HDRip.mp4"
+      },
+      {   
+        "name": "KANNUM KANNUM",
+        "logo_uri": "https://assets.thehansindia.com/h-upload/2020/02/15/263153-dulqer.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/2-1/Tamil-Hindi/Tamil9/1/Kannum%20Kannum%20Kollaiyadithaal%20(2020)%20HDRip.mp4"
+      },
+      {  
+        "name": "PISAASU",
+        "logo_uri": "https://static.moviecrow.com/marquee/mysskins-pisasu-2-first-look/180550_thumb_665.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Pisasu%20HDRip%20(2014).mkv"
+      },
+      {  
+        "name": "AVAL",
+        "logo_uri": "https://www.tamilplainmemes.download/images/aval-siddharth-jribb/full",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil1/Aval%20Web-DL%20(2017).mkv"
+      },
+      {  
         "name": "U-TURN",
         "logo_uri": "https://www.quirkybyte.com/wp-content/uploads/2021/05/10-18.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion/tamil7/U%20Turn%20(2020)ok.mp4"
