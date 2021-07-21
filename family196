@@ -3527,6 +3527,34 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031226X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=05866b09d0d99cf148d99c60d75d2896d6b745e761aaab3473745d130ec3804d075ccf8aa5bcecf0f9a0a597eb9e505622fe6c26beb3f7ba26d3eeae71e40d55&drmId=prod"
       },
       {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031281X0-landscape.jpg",
+	"name": "RAGING PHOENIX",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae091f8caa5a5e0b1152c2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031281X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=1582258699289985496539d460ae5e2e5d6d7d49296008d147e737fcac23513b652be4fbaa7c811ba61093a4e26bc157ff65449418f6b02be500016518f9a4c1&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031222X0-landscape.jpg",
+	"name": "DANGEROUS FLOWERS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae3d448caa5a5e0b1157b8_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031222X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=f843e8cf9636aa2ceed4789df8faa2311d6833c7e43ffa9319a2f325afdc27162eef72f9a9f4efa6d35d5e4dde5b897b7cc3513e0183e6b64c8197b1a29b55be&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031223X0-landscape.jpg",
+	"name": "CHOCOLATE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae55658caa5a5e0b115a06_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031223X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=373e0d0f3f6a7e86ca4186515f348afd4845dbd3d1f8c43d9d038a5190e91bd177092453356c545b51f385ae5012d69d2d075f67310c5535eaa98151457a36e2&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031546X0-landscape.jpg",
+	"name": "LEGEND OF THE BROKEN SWORD HERO",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c4317d16b55f4d934d64a0_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031546X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=65bcc68a06b62320a2e5b5f7936a99b84c7b4fc9b0fc851a29d6c181c12dd0719e52c805b00f6300506c6b91be5b395339fa00a754e18f9a65d3d8b376cbc08e&drmId=prod"
+      },
+      {
         "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029536X0-landscape.jpg",
 	"name": "RUN (2020)",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d904024cbea8a6a4eef9782_hbovodhd/dash0/MYS_index.mpd",
