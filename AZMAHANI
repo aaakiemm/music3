@@ -3373,9 +3373,191 @@
            "name": "HBO MOVIES",
             "samples": [
        {
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029536X0-landscape.jpg",
-	"name": "RUN (2020)",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031732X0-landscape.jpg",
+	"name": "ONG BAK",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60cbf6a116b55f4d934e24c5_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031732X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=283bd008674ee7991070a67237047562baba94471ae06e56f1bc156177c369203c5c9f9ea600d1d84e0b7a114e4f96ef0046e37de68be62e3b23940c89befb97&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031733X0-landscape.jpg",
+	"name": "ONG BAK 2: ONE MAN ARMY",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60cbf22016b55f4d934e2456_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031733X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=3359f4b6ca4133b38c248102b823c156847c197275b0adcb7a55eaf4e7278839d55443b87dbc9539e1a707fb609b23e08448c036ddbe2ed62e77f99f56a59ef9&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/013075X0-landscape.jpg",
+	"name": "ONG BAK 3: THE FINAL WARRIOR",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c6df4816b55f4d934da71c_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=013075X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=2c68d704f267c21385616b5d142a79bec158de0fa8babcf880a2ee099261f6b3549f5b4f3c06b770caac2d50c1b6ec3f0a0565eab44c438db40cdf1b1205706b&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031227X0-landscape.jpg",
+	"name": "TOM-YUM-GOONG",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4d9e28caa5a5e0b11f6ec_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031227X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=5b064b3e861a1bbc3ad55e1087b442fb08b686239e2028cc159ed8c61a3676f9c2d16c21f2f933ae426487a00bbfc0fa7529313028a9288487932c9312a778d5&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031221X0-landscape.jpg",
+	"name": "TOM-YUM-GOONG 2",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4e2748caa5a5e0b11f7c2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031221X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=19ba9d0c543ff63c8cb76f23cfcda93d77049a3e73254c4d10f1f58763ade00c1f390acb33fe31fb94a4ae5a2c528ab0f13ab530d99f7efa467107e47e370055&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031219X0-landscape.jpg",
+	"name": "THE BODYGUARD",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae70de8caa5a5e0b115caa_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031219X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=9366d0e57f11bfd30befa9b9ed6a25bd416dad87bbc308fd2c49e337a75922ed5b5307cfe6bf56abfc2379f3058ab7945f1ea87d0771139019da7b982e66213a&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031220X0-landscape.jpg",
+	"name": "THE BODYGUARD 2",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4c9818caa5a5e0b11f557_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031220X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=f9cf6a5a89d06479d3f3559ac69220a00a6ba1ab4db466c763a732a473f6116ba7b9618eef99097c1075e56d14f35a5541cbc57c4bd4d4542b4ea725fb6bb0e4&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031373X0-landscape.jpg",
+	"name": "AH BOYS TO MEN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c047ca16b55f4d934d0284_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031373X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=8d3d051648218df84039cda980eef152ec2384f194574c7dfe19d00a14262bb3476481889cbf779e9048276959bee42485c622336e9e749d9154097cf58c42fe&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031374X0-landscape.jpg",
+	"name": "AH BOYS TO MEN 2",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b48f8c8caa5a5e0b11efa0_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031374X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=5f8fe7a15ce54ba16fdddb5df5caa3a9eb24b598fbc731d1ffc9b13239d35883b8c20a0528189eba6f80362a8a8d6f5c2b9707b2871b45da5eae8ea5bbae62c5&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031377X0-landscape.jpg",
+	"name": "WE NOT NAUGHTY",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b6dca98caa5a5e0b122770_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031377X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=746f4c3be378b92cfd860a94038e40185a3210d5ad5d77dd0d8af6f88fd12505893be95cd769200d03ba3617ab7b3b9843c2fcbc93c841e4039bf553ea83d3ce&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031224X0-landscape.jpg",
+	"name": "KHUN PAN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60adcb608caa5a5e0b114cca_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031224X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=275da4e0504c5183cee6e0329cfccdf48258b530d6c8d8b06e47c31a637cb49784db50841935820b254e1161c90f25aea9e1aab07f37c1bd5c505d1a32ba95aa&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031225X0-landscape.jpg",
+	"name": "KHUN PAN 2",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae218b8caa5a5e0b115513_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031225X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=9806c078075d20215f24b7b7af4144f765540f020016af19de9a764a9f37aa8de7cb229afee685e838f334b157e8891eb16f58ca79ad2a7a7b4f494cc7c41117&drmId=prod"
+      },
+      {	
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX001975-landscape.jpg",
+	"name": "BEAST STALKER",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60adebe78caa5a5e0b114ff1_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX001975&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=e497c78b360c8d4cb623af1d3946d47f1a469f615d3b3084816c01d3e8c1b3e7386e41ed259dd10f2148817de616c3d759f90aac5c56d898c237e2dde1081ccf&drmId=prod"
+      },
+      {	
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX001973-landscape.jpg",
+	"name": "CONNECTED",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8ffacbcbea8a6a4eef90a4_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX001973&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=5790398fac7e41dac9535688a5ef2edc3df3b29164787e563c2fff154882f3e09287b503993a76ce45629c9007f0980e95479281db9f8bc81cd99ea43b70bba0&drmId=prod"
+      },
+      {	
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002217-landscape.jpg",
+	"name": "LET THE BULLETS FLY",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c8268cebe7189575a8d7e56_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002217&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=afd613a4dec0a28df2b582a52e511bc31d1f7aee58961dea9ea0aacd3f8e75eec58575062d367daa7f172bde143d717d034b847afe62d860132c424b49e788df&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002177-landscape.jpg",
+	"name": "THE STOOL PIGEON",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f0018636d048943f75928f9_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002177&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=0452ef216e5f96b42770fbcfa518f58a82c130d81dcfcf9e23dbc41a286fd4c74656083942a1fcea40194a4ef175760e8afe3b9a9589a4c8ba44fc252305e2f4&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002178-landscape.jpg",
+	"name": "TRIPLE TAP",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e623bbb3a736626cec9dcd5_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002178&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b7572bcd8441f0cd7acefc27f2cfe9d0e93d132313e32e724fe655f4f6e739579b844de4aa5d5c65e7c4e8c9b29e621148fedb24b4b9c2c7bccd81dd090bca89&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031376X0-landscape.jpg",
+	"name": "PHUA CHU KANG: THE MOVIE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60cb266b16b55f4d934e1165_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031376X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=33c443e2c2503616fa31fb65e115e487ac7a7ab7bf3d06ebef9b07c798f363ccbf96c7c6cfa9d81ecbdeab7b7c9ff340fb05536a59472482e533b1fc87936c2b&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031381X0-landscape.jpg",
+	"name": "23:59",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b48fad8caa5a5e0b11efa7_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031381X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=bce9a3ae1fdbcb223bf3e8f72460631a3da4c12a6abee69a738064fe53dcc64a3ecc006c683805aa5d8e4ebf962221aa71f2fc1919720e9738fbfbc2b5fa9bd4&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031375X0-landscape.jpg",
+	"name": "LOVE MATTERS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4adb38caa5a5e0b11f28d_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031375X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=604813894b8d86da0f63698d948c960b8838be83b88a23b2e13287676cbc00c1602624dd1f6198a0590218075398e9099922414348d176fb27098a7140385f63&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031228X0-landscape.jpg",
+	"name": "VANQUISHER",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4e48c8caa5a5e0b11f7fc_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031228X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=1b4a59ad148cce21a29a32d738e570259edf35bee92a2b12de1c0208158fe5ea70d32948465bfaee1e35b05cdaea4b5ea2008f57657b0989336e1f8ec6c02083&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031226X0-landscape.jpg",
+	"name": "SICK NURSES",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4cb428caa5a5e0b11f584_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031226X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=05866b09d0d99cf148d99c60d75d2896d6b745e761aaab3473745d130ec3804d075ccf8aa5bcecf0f9a0a597eb9e505622fe6c26beb3f7ba26d3eeae71e40d55&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031281X0-landscape.jpg",
+	"name": "RAGING PHOENIX",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae091f8caa5a5e0b1152c2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031281X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=1582258699289985496539d460ae5e2e5d6d7d49296008d147e737fcac23513b652be4fbaa7c811ba61093a4e26bc157ff65449418f6b02be500016518f9a4c1&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031222X0-landscape.jpg",
+	"name": "DANGEROUS FLOWERS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae3d448caa5a5e0b1157b8_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031222X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=f843e8cf9636aa2ceed4789df8faa2311d6833c7e43ffa9319a2f325afdc27162eef72f9a9f4efa6d35d5e4dde5b897b7cc3513e0183e6b64c8197b1a29b55be&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031223X0-landscape.jpg",
+	"name": "CHOCOLATE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae55658caa5a5e0b115a06_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031223X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=373e0d0f3f6a7e86ca4186515f348afd4845dbd3d1f8c43d9d038a5190e91bd177092453356c545b51f385ae5012d69d2d075f67310c5535eaa98151457a36e2&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031546X0-landscape.jpg",
+	"name": "LEGEND OF THE BROKEN SWORD HERO",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c4317d16b55f4d934d64a0_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031546X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=65bcc68a06b62320a2e5b5f7936a99b84c7b4fc9b0fc851a29d6c181c12dd0719e52c805b00f6300506c6b91be5b395339fa00a754e18f9a65d3d8b376cbc08e&drmId=prod"
+      },
+      {
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029536X0-landscape.jpg",
+	"name": "RUN (2020)",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d904024cbea8a6a4eef9782_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029536X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=fdde8c8ed87ab8500f18c5af11a97b276d7ff7accb5fafc31373748b501be17451e24a4762bebc2563d38b6ff7aefa65b122e4c1a9f4e052b1403ac4df7475d3&drmId=prod"
       },
