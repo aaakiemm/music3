@@ -2060,6 +2060,11 @@
         "uri": "https://urlbox.paduhq.com/1792857039425840/Treasure Planet (2002) Malay Dubbed 720p DSNP WEBRip.mkv"
       },
       {
+        "name": "TARZAN",
+        "logo_uri": "https://image.tmdb.org/t/p/w780/vaq2VamgogWEyO5gIKQXnWHHs3v.jpg",
+        "uri": "https://urlbox.paduhq.com/3213597861204272/Tarzan.1999.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
+      },
+      {
         "name": "TARZAN & JANE",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tarzan&jane.jpg",
         "uri": "https://urlbox.paduhq.com/1785813293060400/Tarzan_and_Jane_2002_1080p_MALAY_DSNP_WEB_DL_x265_AAC_ExpectHD.mkv"
@@ -9400,3 +9405,4 @@
   }
 ]
 
+ 
