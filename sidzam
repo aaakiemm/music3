@@ -9101,7 +9101,82 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021729X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1a0af66214599c6322e5ada86d688fbb365e6f062aa36ea816289e7f800705e6db3eeb2f0da6523f2743f95b777d17541920e0b6ad870be9874d935abeadfdcd&drmId=prod"
      }
-    ]  
+    ]
+  },
+  {
+           "name": "SWAMP THING S1",
+            "samples": [
+       {
+        "name": "01: PILOT",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030505X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a8e266d048943f77ac4b3_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030505X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=6fd754b385e1f5c40528f0372433983279b2e512c917446d402d73d4e789e317b6533d704f7c5daee13a996b04093fa114cd4ced29ba6c5a00c4fc822a175166&drmId=prod"
+      },
+      {
+        "name": "02: WORLDS APART",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030506X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a90fb6d048943f77ac4f9_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030506X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b8665efddb2fd15898cc43d2cd39be1081209625d47de1b0ee57aa6e6d0f2cc65f9c781fa03f5bd2e37b004324887077ccdbd2d8feb3adbf21b6bc2d02b8cf29&drmId=prod"
+      },
+      {
+        "name": "03: HE SPEAKS",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030507X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a91c06d048943f77ac50d_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030507X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=55cde6dc213fd61cd091aae271d9232c87ecb95f134d30836ebbed3e006d9216165052f49611ff311378ae69ba148a2d193311d95d0fe03b9a255ef2e9c9d3dc&drmId=prod"
+      },
+      {
+        "name": "04: DARKNESS ON THE EDGE OF TOWN",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030508X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a8b2b6d048943f77ac469_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030508X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=0f10e4ba4a571c5db6d09340c8ddabf7fa7d486fc16de72e0bd8dee501c6ce6cd07ae436d28b9d45060883446b5878f3acb7482ec331616dc30b47cc6f381bcb&drmId=prod"
+      },
+      {
+        "name": "05: DRIVE ALL NIGHT",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030509X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a927d6d048943f77ac521_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030509X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=9200f0d099fc25dd11e01d8ffd4963e5a864152acdcf51f0d30cac6a51bbf83b6931c228c8d48df5267797682b168352f542bfb5fd27c163f5230d7ff97bd022&drmId=prod"
+      },
+      {
+        "name": "06: THE PRICE YOU PAY",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030510X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a8ec76d048943f77ac4c4_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030510X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=2f6cf503e1434a3a62f0dace8229cbb3e271a604e7a7ad1560c01f2558d12c1f9a26087e940c0e3370bf332b61680b73ba62c65560e4def76dfeacd4b16e2779&drmId=prod"
+      },
+      {
+        "name": "07: BRILLIANT DISGUISE",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030511X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a8bd16d048943f77ac47a_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030511X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=94cbf9d207954224419e95884bec15c0bb5345d4ad4ec9e5483b5730bd855b5e055437eb55e74a3a8e58b0aa1d94cbc54f9dcab6c8a8f90a9c6d0f5f72378da7&drmId=prod"
+      },
+      {
+        "name": "08: LONG WALK HOME",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030512X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a97036d048943f77ac58f_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030512X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=1e7a811042810181869803762b800544c8f3b195b195acb44e6dde6993484f010b72666356aa7b8c45dc60e1ed58502dc8fc192375b44a6a25866877b7dec3c7&drmId=prod"
+      },
+      {
+        "name": "09: THE ANATOMY LESSON",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030513X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a99356d048943f77ac5c5_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030513X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=31be64fe722eee7e3b2a17c6d9def0729f63849622f74e1329e2838f980be09e6bbf6ace32e66f4534357159db0fc572b173e0c66d76b0c272d95c2204f7edab&drmId=prod"
+      },
+      {
+        "name": "10: LOOSE ENDS",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030514X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/606a935c6d048943f77ac537_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=030514X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=0bb257daeee88ece41313608b8eaa24133b2fc4d0906295926866e1cd63f94dcc02bf817159cce3163af9440d10363a92708d2dd2ddbdc2a4fa0d0199e273248&drmId=prod"
+      }
+    ]
   },
   {
     "name": "LUPIN S1",
