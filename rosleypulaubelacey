@@ -52,7 +52,7 @@
       {
         "name": "RTM OKEY",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
-        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/mulutpahit.mpd"
       },
       {
         "name": "RTM TV6",
@@ -72,7 +72,7 @@
       {
         "name": "RTM SPORTS",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
-        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/mulutmasam.mpd" 
       },
       {
         "name": "SALAM HD",
@@ -942,7 +942,7 @@
       {
         "name": "RTM 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
-        "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/mulutmanis.mpd"
       },
       {
         "name": "IKIM STREAM",
@@ -2058,6 +2058,11 @@
         "name": "TREASURE PLANET",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/treasure.jpeg",
         "uri": "https://urlbox.paduhq.com/1792857039425840/Treasure Planet (2002) Malay Dubbed 720p DSNP WEBRip.mkv"
+      },
+      {
+        "name": "TARZAN",
+        "logo_uri": "https://image.tmdb.org/t/p/w780/vaq2VamgogWEyO5gIKQXnWHHs3v.jpg",
+        "uri": "https://urlbox.paduhq.com/3213597861204272/Tarzan.1999.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv"
       },
       {
         "name": "TARZAN & JANE",
@@ -9400,3 +9405,4 @@
   }
 ]
 
+ 
