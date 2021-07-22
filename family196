@@ -3464,9 +3464,9 @@
       {	
         "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX001975-landscape.jpg",
 	"name": "BEAST STALKER",
-        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60adebe78caa5a5e0b114ff1_hbovodhd/dash0/MYS_index.mpd",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d904024cbea8a6a4eef9782_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX001975&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=e497c78b360c8d4cb623af1d3946d47f1a469f615d3b3084816c01d3e8c1b3e7386e41ed259dd10f2148817de616c3d759f90aac5c56d898c237e2dde1081ccf&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX001975&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=86ed410c0c94fa5d9d16d4947150c844693fc04e1219df1f83abc15f26628fb341ea16a5a5e617c59b4a100021086a43a26b426ecf04d11c736c5740f1677b5d&drmId=prod"
       },
       {	
         "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX001973-landscape.jpg",
