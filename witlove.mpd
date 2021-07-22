@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<MPD
+    type="dynamic"
+    xmlns="urn:mpeg:dash:schema:mpd:2011"
+    xmlns:cenc="urn:mpeg:cenc:2013"
+    xmlns:mspr="urn:microsoft:playready"
+    availabilityStartTime="2021-07-22T00:46:37Z"
+    publishTime="2021-07-22T01:16:37Z"
+    minimumUpdatePeriod="PT6S"
+    minBufferTime="PT6S"
+    timeShiftBufferDepth="PT31S"
+    profiles="urn:hbbtv:dash:profile:isoff-live:2012,urn:mpeg:dash:profile:isoff-live:2011"
+    xmlns:xsi="http://www.w3.org/2011/XMLSchema-instance"
+    xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 DASH-MPD.xsd">
+  <Period start="PT0S" id="dash">
+    <AdaptationSet
+        id="1"
+        startWithSAP="1"
+        segmentAlignment="true"
+        maxWidth="1920"
+        maxHeight="1080"
+        maxFrameRate="25"
+        par="16:9">
+      <Representation
+          id="01_1080_H264"
+          mimeType="video/mp4"
+          codecs="avc1.42c028"
+          sar="1:1"
+          bandwidth="4000000"
+          width="1920"
+          height="1080"
+          >
+        <SegmentTemplate
+            presentationTimeOffset="0"
+            timescale="1000"
+            media="01_1080-$Time$.m4v"
+            initialization="01_1080-init.m4v">
+          <SegmentTimeline>
+             <S t="1770446" d="6000"/>
+             <S t="1776446" d="6000"/>
+             <S t="1782446" d="6000"/>
+             <S t="1788446" d="6000"/>
+             <S t="1794446" d="6000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+          id="01_720_H264"
+          mimeType="video/mp4"
+          codecs="avc1.42c028"
+          sar="1:1"
+          bandwidth="2000000"
+          width="1280"
+          height="720"
+          >
+        <SegmentTemplate
+            presentationTimeOffset="0"
+            timescale="1000"
+            media="01_720-$Time$.m4v"
+            initialization="01_720-init.m4v">
+          <SegmentTimeline>
+             <S t="74585486" d="6000"/>
+             <S t="74591486" d="6000"/>
+             <S t="74597486" d="6000"/>
+             <S t="74603486" d="6000"/>
+             <S t="74609486" d="6000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+          id="01_480_H264"
+          mimeType="video/mp4"
+          codecs="avc1.42c028"
+          sar="1:1"
+          bandwidth="1000000"
+          width="854"
+          height="480"
+          >
+        <SegmentTemplate
+            presentationTimeOffset="0"
+            timescale="1000"
+            media="01_480-$Time$.m4v"
+            initialization="01_480-init.m4v">
+          <SegmentTimeline>
+             <S t="74704166" d="6000"/>
+             <S t="74710166" d="6000"/>
+             <S t="74716166" d="6000"/>
+             <S t="74722166" d="6000"/>
+             <S t="74728166" d="6000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+          id="01_360_H264"
+          mimeType="video/mp4"
+          codecs="avc1.42c028"
+          sar="1:1"
+          bandwidth="600000"
+          width="640"
+          height="360"
+          >
+        <SegmentTemplate
+            presentationTimeOffset="0"
+            timescale="1000"
+            media="01_360-$Time$.m4v"
+            initialization="01_360-init.m4v">
+          <SegmentTimeline>
+             <S t="74706926" d="6000"/>
+             <S t="74712926" d="6000"/>
+             <S t="74718926" d="6000"/>
+             <S t="74724926" d="6000"/>
+             <S t="74730926" d="6000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation
+          id="01_240_H264"
+          mimeType="video/mp4"
+          codecs="avc1.42c028"
+          sar="1:1"
+          bandwidth="300000"
+          width="426"
+          height="240"
+          >
+        <SegmentTemplate
+            presentationTimeOffset="0"
+            timescale="1000"
+            media="01_240-$Time$.m4v"
+            initialization="01_240-init.m4v">
+          <SegmentTimeline>
+             <S t="74704166" d="6000"/>
+             <S t="74710166" d="6000"/>
+             <S t="74716166" d="6000"/>
+             <S t="74722166" d="6000"/>
+             <S t="74728166" d="6000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet
+        id="2"
+        segmentAlignment="true">
+      <AudioChannelConfiguration
+          schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011"
+          value="1"/>
+      <Representation
+          id="01_1080_AAC"
+          mimeType="audio/mp4"
+          codecs="mp4a.40.2"
+          audioSamplingRate="44100"
+          startWithSAP="1"
+          bandwidth="93000">
+        <SegmentTemplate
+            timescale="1000"
+            media="01_1080-$Time$.m4a"
+            initialization="01_1080-init.m4a">
+          <SegmentTimeline>
+             <S t="1770446" d="6000"/>
+             <S t="1776446" d="6000"/>
+             <S t="1782446" d="6000"/>
+             <S t="1788446" d="6000"/>
+             <S t="1794446" d="6000"/>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
