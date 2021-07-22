@@ -3,7 +3,7 @@
     type="dynamic"
     xmlns="urn:mpeg:dash:schema:mpd:2011"
     xmlns:cenc="urn:mpeg:cenc:2013"
-    xmlns:mspr="urn:microsoft:widevine"
+    xmlns:mspr="urn:microsoft:playready"
     availabilityStartTime="2021-07-21T04:45:25Z"
     publishTime="2021-07-22T01:55:38Z"
     minimumUpdatePeriod="PT6S"
