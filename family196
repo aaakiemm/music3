@@ -9279,6 +9279,16 @@
     ]  
   },
   {
+    "name": "TEST",
+    "samples": [ 
+      {
+        "name": "UPIN IPIN",
+        "logo_uri": "https://www.sparrowsph.my/image/cache/data/theme/People%20Lifestyle%20Art/upin-ipin--new_010920150406-2500x1667_0.jpg",
+        "uri": "https://iptv--iptv.repl.co/youtube_dl?url=https://www.youtube.com/watch?v=PzBnGsORZ6Q"
+      }
+    ]  
+  },
+  {
     "name": "RADIO FM",
     "samples": [ 
       {
