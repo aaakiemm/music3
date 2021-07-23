@@ -2746,6 +2746,14 @@
     "name": "ENGLISH MOVIES",
     "samples": [      
        {
+        "name": "BLOOD RED SKY",
+        "logo_uri": "https://www.looper.com/img/gallery/blood-red-sky-netflix-release-date-cast-and-plot/intro-1619639397.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1qGhQV6GkQBJpunbGnAVyEtR-L5OKTOJn?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/555Z555/music2/main/redsky.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "id"
+      },
+      {
         "name": "A QUIT PLACE 1",
         "logo_uri": "https://i.insider.com/60b15d5702ac410018f9388a?width=1200&format=jpeg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/A%20Quiet%20Place%202018%20720p%20Bluray.mp4"
