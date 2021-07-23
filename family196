@@ -9254,12 +9254,22 @@
     ]  
   },
   {
-    "name": "UPIN IPIN 24-JAM",
+    "name": "LIVE 24-JAM",
     "samples": [ 
       {
         "name": "UPIN-IPIN LIVE",
-        "logo_uri": "https://www.sparrowsph.my/image/cache/data/theme/People%20Lifestyle%20Art/upin-ipin--new_010920150406-2500x1667_0.jpg",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627052208/ei/UIT6YO_0LuDDlu8P6OG_kAw/ip/34.69.211.204/id/PzBnGsORZ6Q.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/4F/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/5/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627029741/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAN60yxZCNS1hUa8aIsrBq2gGoxI92VGED5OcnCSyOSHnAiEA2NzIjdxTgLKWAGSGsnRp8MHfIKBPcmrt6qXIl5iZ4IA%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAKNuTfcow3vP7t9zLyOsDKpvI36mpxedyIvegDZ0pOwXAiALE7r1iGLD-ZY2czuqeCGt_mKSpO94SZEB_hDup08EPw%3D%3D/playlist/index.m3u8"
+        "logo_uri": "https://i.ytimg.com/vi/cFMBylIFCiQ/maxresdefault.jpg",
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627053327/ei/r4j6YMWiBpK02_gPk_WroAY/ip/34.69.211.204/id/PzBnGsORZ6Q.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/4F/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/5/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627031165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhANhPDz2LUdooEis7Y7M3_MhQGmxYGd8fa7ANnM27BynTAiBAzXyePT2u9SoE0NWSl3YmBcdxUptnO93i3x8-OG5Ucg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAMEtWDl9OOzICkyxq23XBmm9g3Z11ISOqwAcWAGt79QwAiEA5P5H03oNe8XNyAdELg4FgxSuyPStPBQLBfVJqUhmSXI%3D/playlist/index.m3u8"
+      },
+      {
+        "name": "LARVA LIVE",
+        "logo_uri": "https://i.ytimg.com/vi/mAMznHxrfgw/maxresdefault.jpg",
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627053363/ei/04j6YJWeJZCO2_gPq9uk2Ac/ip/34.69.211.204/id/yjqQZ-6kTTQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-qxo7rn7e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/CX/mm/44/mn/sn-qxo7rn7e/ms/lva/mv/u/mvi/6/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466585/mt/1627031165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAJH7qF6qlWFcVPKsw_gR1GrbrDMoa08-0XjBf6SnrapuAiEA2J5kH-mpySG_GsJElpjX42gnrAKfGd8asIcX7EIzaVQ%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgXrmMU_xwZrFm_w8VR7xEkKNhqcIjtQafEueZMnZWHgUCIHeu8KZywj2fqL8i7GoQYmS4osZlOGMH4ERwGCnxBpxW/playlist/index.m3u8"
+      },
+      {
+        "name": "SPONGEBOB LIVE",
+        "logo_uri": "https://pbs.twimg.com/media/E5jhAaMXwAMhjRo.jpg",
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627053395/ei/8oj6YKLuOpPG2_gPv5Sn4AU/ip/34.69.211.204/id/1qbmNFqheG4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Cp/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/4/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627031165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgMQ_Q-ghqDxd6xE3fBfiGrg2C5C_RC7yUMLE9Q_5LjqoCIQDwnCdmjdiPsgSj72nkuLiN3k1RxPZUGpu2z9ZqFwWCeQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgT3raIsYOttbgfuEdtse148iGBdlRSuyv55l4riQ6AZ0CIQCmdCUkuTqbWFV49unGMR2qe4m8PUuC0eLoRwf0SfyC-A%3D%3D/playlist/index.m3u8"
       }
     ]  
   },
