@@ -122,6 +122,31 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+      },
+      {
+        "name": "RTM OLIMPIK 1",
+	"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.jpg",
+        "uri": "https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_manifest.mpd"
+      },
+      {
+        "name": "RTM OLIMPIK 2",
+	"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.jpg",
+        "uri": "https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_manifest.mpd"
+      },
+      {
+        "name": "RTM OLIMPIK 3",
+	"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.jpg",
+        "uri": "https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_manifest.mpd"
+      },
+      {
+        "name": "RTM OLIMPIK 4",
+	"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.jpg",
+        "uri": "https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_manifest.mpd"
+      },
+      {
+        "name": "RTM OLIMPIK 5",
+	"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.jpg",
+        "uri": "https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_manifest.mpd"
       }
     ]
   },
