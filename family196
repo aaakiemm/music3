@@ -9270,6 +9270,11 @@
         "name": "SPONGEBOB LIVE",
         "logo_uri": "https://pbs.twimg.com/media/E5jhAaMXwAMhjRo.jpg",
         "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627053395/ei/8oj6YKLuOpPG2_gPv5Sn4AU/ip/34.69.211.204/id/1qbmNFqheG4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Cp/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/4/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627031165/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgMQ_Q-ghqDxd6xE3fBfiGrg2C5C_RC7yUMLE9Q_5LjqoCIQDwnCdmjdiPsgSj72nkuLiN3k1RxPZUGpu2z9ZqFwWCeQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgT3raIsYOttbgfuEdtse148iGBdlRSuyv55l4riQ6AZ0CIQCmdCUkuTqbWFV49unGMR2qe4m8PUuC0eLoRwf0SfyC-A%3D%3D/playlist/index.m3u8"
+      },
+      {
+        "name": "LOONEY TUNES LIVE",
+        "logo_uri": "https://images3.newscred.com/Zz04MWVlYzMyNTc1NTQxMWViYTg1ZmU5YzE5YTI4Y2U2Ng==?width=900&q=80",
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627055849/ei/iZL6YMKEGPvn2_gPsL6aqA0/ip/34.69.211.204/id/braVWtZNnsc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/LX/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/2/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627033760/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgOow1jgjtgZvect6JR6lnPhUh4i5BWP05hdrg2b1Zt8gCIEw2XI7DVcHtwB9EFZidU349eO5m3GqV3HvFZQkyMoan/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhANBT18M1cJDEZsYl1toHeM3ZMWx2kOeDpijUbdGWaIlSAiEAhgoUPvS9bLGquYwUHGx1K7QhYLhp94Ckr7UykN-S_PA%3D/playlist/index.m3u8"
       }
     ]  
   },
