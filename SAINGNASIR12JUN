@@ -7,42 +7,42 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv1.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "TV2",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "TV3",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "NTV7",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ntv7.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "8TV",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/8tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "TV9",
 	       "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv9.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "RTM BERITA",
@@ -69,49 +69,49 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/salam.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "TV ALHIJRAH",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/al-hijrah.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "HYPP SENSASI HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Hypp-Sensasi.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "HYYP INSPIRASI HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hypp-inspirasi.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "DUNIA SINEMA HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dunia-sinema.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "PESONA HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Pesona.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "LAKU MALL HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/laku-mall.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       }
     ]
   },
@@ -123,49 +123,49 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tvN-Movies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
      },
      {
         "name": "SETI",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seti.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
      },
 	   {
         "name": "TVN HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tvn.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "STAR CHINESE MOVIES HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/scm.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "STAR CHINESE LEGEND HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SCM-Legend.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "STAR CHINESE CHANNEL HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/STAR-Chinese-Channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "NOW JELLI HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/now-jelli.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       }
     ]
   },
@@ -177,63 +177,63 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/yupp-thirai.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "COLORS TAMIL HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Zee-tamil.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "POLIMER",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Polimer.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "JAYA MAX",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jaya-max.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "SONY MAX",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Sony-Max.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "COLORS CINEPLEX",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hLnucnRV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "COLORS",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ZEE-TV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "SONY SAB",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sony-sab.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {        
 	      "name": "SONY SET",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SONY-SET.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "VAANAVIL",
@@ -295,77 +295,77 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Fox-Movies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "FOX ACTION MOVIES",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Fox-Action.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "FOX FAMILY MOVIES",
 		    "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Fox-Family.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "PARAMOUNT CHANNEL HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/paramount-channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "CINEMA WORLD HD",
 	      "logo_uri": "https://d3cl79h6n1fe0x.cloudfront.net/wp-content/uploads/2016/10/28150842/1-cw.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "WARNER TV HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/warner-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "FOX",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Fox.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "FX",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Fx.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "FOX LIFE",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Fox-Life.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "BLUE ANT ENTERTAINMENT HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtl-cbs-entertainment.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "BLUE ANT EXTREME",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtl-cbs-extreme.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       }
     ]
   },
@@ -377,63 +377,63 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/love-nature.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "NATIONAL GEOGRAPHIC",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/natgeo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "NAT GEO WILD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/natgeo-wild.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "NAT GEO PEOPLE HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/nat-geo-people.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "TRAVEL CHANNEL HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/travel-channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "LUXE.TV HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/luxe-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "MTV ASIA HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mtv-asia.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "BBC EARTH HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-earth.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "BBC LIFESTYLE HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-lifestyle.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       }
     ]
   },
@@ -445,42 +445,42 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dreamworks.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "NICK JR.",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/nick-jr.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {           
 	      "name": "NICKELODEON",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/nickelodeon.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "BOOMERANG HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boomerang.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "BABY TV",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/baby-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "CBEEBIES HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cbeebies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       }
     ]
   },
@@ -492,70 +492,70 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/DW.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "ALJAZEERA HD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/al-jazeera.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "CHANNEL NEWS ASIA",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/channel-news-asia.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "PARLIMEN",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jata-negara-png-9.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "BBC WORLD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-world-news.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "NHK WORLD",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/NHKWorld2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "SKY NEWS",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynews.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "EURONEWS",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/euronews.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "BERNAMA",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bernama-news-channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "ABC AUSTRALIA",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/australia-plus.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       }
     ]
   },
@@ -567,112 +567,112 @@
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/unifi-sports-1.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 2",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/unifi-sports-2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 3",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/unifi-sports-3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 4",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/unifi-sports-4.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 5",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/unifi-sports-5.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 6",
 	      "logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports6-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227795/3221227795.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 7",
 	      "logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports7-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227787/3221227787.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 8",
 	      "logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports8-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227798/3221227798.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 9",
 	      "logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports9-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227793/3221227793.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 10",
 	      "logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports10-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227830/3221227830.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 11",
 	      "logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports11-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227833/3221227833.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 12",
 	      "logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports12-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227799/3221227799.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "UNIFI SPORTS 13",
 	      "logo_uri": "https://raw.githubusercontent.com/555Z555/music2/main/unfi-Sports13-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227802/3221227802.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "FOX SPORTS HD",
 	      "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "FOX SPORTS 2 HD",
 	      "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/836_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "FOX SPORTS 3 HD",
 	      "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/837_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       }
     ]
   },
@@ -2854,7 +2854,7 @@
         "logo_uri": "https://kungfukingdom.com/wp-content/uploads/2020/01/My-Father-is-a-Hero-1995-Kung-Fu-Kingdom-770x472.jpg",
         "uri": "http://centerrrs.hypp.tv/88888888/16/20200710/268708150/268708150.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%2C1502109523143355851405361%2C42.153.53.58%2C20210719005054%2CSP0043808158%2C1502109523143355851405361%2C-1%2C1%2C0%2C%2C%2C1%2CHESA1060%2C%2C%2C1%2C2096667%2C0%2C1002024%2Ce53d8ef0-52ee-bcad-da60-f36b9aec66ed%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOTYvCMBiE_02OIU36echJERaWumDd6zImb2MxbTSpwv577W7B68w8wzNHGPrY6kbZTFRlASVFDsLJUq-MUNTIOq_6giW6tUFLZuD9MLk22AX7Pmx-MsEFlzLjSrBuudt5uHXZ3scTxTd2oPgYDGmbev5A4nAuksM8hIl_efweo18njLpVLStlWQvRqKqpczYvaYd0eTXsjLQJ4xWR7Gdwf4Du4ROxK8wFjlqMpKe79__cPtqXzRM38uUf9AAAAA&tenantId=6003",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=Y2Q1ZWE0ZDMtZDU5OC0zZjIyLWE0MDMtNWY0YmQ0NWVmYmY0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YWZkODgyNTctYjI2ZS0zNzFjLWJkNzQtNWM1ZDQ5ZGY5MDhm"
       },
       {
         "name": "SPICY KILLER",
@@ -9252,22 +9252,22 @@
       {
         "name": "UPIN-IPIN LIVE",
         "logo_uri": "https://i.ytimg.com/vi/cFMBylIFCiQ/maxresdefault.jpg",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627134097/ei/McT7YIDpA9ut6QK-nZ3IDw/ip/35.193.9.51/id/PzBnGsORZ6Q.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/4F/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/5/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/beids/23886215/mt/1627111781/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAL7x5Jw9QSYzjb_eWeC1rpybgv-YQM_OQF0qczMTOmUeAiB3fIptP6pYhFW-2rz1dhtpj-3gPH29mzr4M-Zq0BVW9g%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAI6piG0VpOIJZpNmjxhBVWJMig32Rd2MUI7I6jAWMTlDAiEA2zhf2zdsJJ5zpwUFKrQIm4Fk8BoUXR3TUhd_fM86S8Y%3D/playlist/index.m3u8"
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627152380/ei/nAv8YK6xM52i2_gPkNqdsAw/ip/35.193.9.51/id/PzBnGsORZ6Q.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/4F/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/5/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627130225/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAMOcyGyejnss0-7LPAX_CTu67G9BVE5UYwUq4dcUgmXLAiAavYb8JhcDSsUIEQvrv2BKV4U04XPKZDBRZhTl_zN8Hw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgUn64nup5Kz7jYniwKZHN72f0tWUBhUa804FQvi294a0CIFK8E1U-jvhnYcr0hvE9W-YXPnjXrhE9Rp8ArdL8lk-T/playlist/index.m3u8"
       },
       {
         "name": "LARVA LIVE",
         "logo_uri": "https://i.ytimg.com/vi/mAMznHxrfgw/maxresdefault.jpg",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627134141/ei/XcT7YKGKIKCb2_gPvv28sAg/ip/35.193.9.51/id/yjqQZ-6kTTQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-qxoedn7z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/CX/mm/44/mn/sn-qxoedn7z/ms/lva/mv/u/mvi/6/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627111781/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgOcEzFj4fBu6Ae1P3vZv3i_lWs7HMcHk8s0gVogkj3-wCIELd97F9IAk7ItWGc8VWRMl5QAQdYSgt2ufDOx1YMJqd/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgW8Swq0uoAStDGUx5Ywpubg30xea3IwIcyQqSIHvYhqoCIA2F1AeOMSdh5om2s8mkyY_DaFurMhj5yTdTbtD8eb9q/playlist/index.m3u8"
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627152417/ei/wQv8YNn-Npri2_gPiM6rOA/ip/35.193.9.51/id/yjqQZ-6kTTQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-qxoedn7z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/CX/mm/44/mn/sn-qxoedn7z/ms/lva/mv/u/mvi/6/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627130225/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgJe6hREcWRPZ1s0ax3mGaQr4dk6Km3-hNklT7Rf9nTEMCIQCC1F3CysEtRgncxlnTAhG1IFH3t0Kb6Ja7KkyFkLCZng%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALuyeDgDf8vZW0chbU2N-0SW13sxMmQqyUOwJ50MYyhNAiBVRZ4ChKS5bY3dYpUbkiQCyViSf9RAQSt1o5oS_uO4cg%3D%3D/playlist/index.m3u8"
       },
       {
         "name": "SPONGEBOB LIVE",
         "logo_uri": "https://pbs.twimg.com/media/E5jhAaMXwAMhjRo.jpg",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627134206/ei/nsT7YN2jHoP6uQLF8IjQCQ/ip/35.193.9.51/id/1qbmNFqheG4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Cp/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/4/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627111781/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAOpl6I_Z0XtRFwD7txBQkC__WhsmJfp-hHkc2HXqURdxAiEA-35tBWJGH3Ksstfk6G4fEgu3PqaI2QSvQRMFQVIH_YU%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAJbonBR28csayRqpupWvsV1Jr1RxlCsMKZS8ZJ3a_XT6AiEAkloDZdAn-HcdjTdL5BLT7PyZkkCWpGpsSaROUXRTFT8%3D/playlist/index.m3u8"
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627152455/ei/5wv8YNqcIMaRuAKIrpOwDw/ip/35.193.9.51/id/1qbmNFqheG4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Cp/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/4/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627130836/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgSZVEXg8Q6tSL3_1V9cW-AI5GjXSZjcGt1JrxYrZrxdICIQCVwGGWceq1j_HH-TOjUNqHYqnFhgxmqQxJYGFQqhbqVA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgLkTwMb6Wh-GwMoqQEX6lap-AsSCTpeQZjCAPV8ET15wCIQCx1Y1ismuIrVm5NRMf6asqlX_NPO-5wepwGJjBgYro3g%3D%3D/playlist/index.m3u8"
       },
       {
         "name": "LOONEY TUNES LIVE",
         "logo_uri": "https://images3.newscred.com/Zz04MWVlYzMyNTc1NTQxMWViYTg1ZmU5YzE5YTI4Y2U2Ng==?width=900&q=80",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627134171/ei/e8T7YJWFFYr8uQKJ-Ku4Dg/ip/35.193.9.51/id/braVWtZNnsc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-qxo7rn7e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/LX/mm/44/mn/sn-qxo7rn7e/ms/lva/mv/u/mvi/2/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627112410/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgBCme9QjJLtuoz5bBbJVAGEAj51A9Uh1A6kF5qJiorH8CIQC4W4RRXXUEnqL7_8DbFiV5kXBqPUT2HYWX8kQWVWRQNg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAKeMuAeD04XOd3LgclIUAfrDXYcMkElWNGYphuST9qY6AiBwOIRz7Rz1N3uPy75n70E7U8OvK08E_I4t-haBNnz3Qg%3D%3D/playlist/index.m3u8"
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627152488/ei/CAz8YKiXG86flu8P0K6vCA/ip/35.193.9.51/id/braVWtZNnsc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/LX/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/2/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627130225/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgIIXEz0pjoDaJWJ3twkiGWXmaSo0REy409PNdovQde68CIERShRzTKNzSmWRXIegtjjbVG24-A-hKVftf36VAa1XN/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgOwBI8kH3qFFT8e9bHk3ojaDflzKlDd26IN6zgj5EZ6cCID8as3_tmoE5Tv3qE0VrWjDRYO06jXTPFbBY01-GoLNM/playlist/index.m3u8"
       }
     ]  
   },
