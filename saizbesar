@@ -24,6 +24,21 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MGNkNWRkMzAtMDI0Mi0zZjFhLWFlOTQtOGU5ODE1MWUzOTBm"
       },
       {
+        "name": "RTM OKEY",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
+        "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_manifest.mpd"
+      },
+      {
+        "name": "RTM SPORTS",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
+        "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/02_manifest.mpd" 
+      },
+      {
+        "name": "RTM TV6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
+        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
         "name": "NTV7",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ntv7.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
@@ -43,16 +58,6 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MGNkNWRkMzAtMDI0Mi0zZjFhLWFlOTQtOGU5ODE1MWUzOTBm"
-      },
-      {
-        "name": "RTM BERITA",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
-        "uri": "https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
-      },
-      {
-        "name": "RTM TV6",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
-        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
       },
       {
         "name": "DRAMA SANGAT",
@@ -928,6 +933,11 @@
         "name": "RTM 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",
         "uri": "https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+      },
+      {
+        "name": "RTM 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
+        "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/01_manifest.mpd"
       },
       {
         "name": "IKIM STREAM",
@@ -9243,31 +9253,6 @@
         "name": "CHAPTER 5 ",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/lupin.jpg",
         "uri": "https://urlbox.paduhq.com/2355927251931440/[WF] Lupin 2021 English S01E05 720p WEBRip ESub.mkv"
-      }
-    ]  
-  },
-  {
-    "name": "LIVE 24-JAM",
-    "samples": [ 
-      {
-        "name": "UPIN-IPIN LIVE",
-        "logo_uri": "https://i.ytimg.com/vi/cFMBylIFCiQ/maxresdefault.jpg",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627152380/ei/nAv8YK6xM52i2_gPkNqdsAw/ip/35.193.9.51/id/PzBnGsORZ6Q.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/4F/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/5/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627130225/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAMOcyGyejnss0-7LPAX_CTu67G9BVE5UYwUq4dcUgmXLAiAavYb8JhcDSsUIEQvrv2BKV4U04XPKZDBRZhTl_zN8Hw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgUn64nup5Kz7jYniwKZHN72f0tWUBhUa804FQvi294a0CIFK8E1U-jvhnYcr0hvE9W-YXPnjXrhE9Rp8ArdL8lk-T/playlist/index.m3u8"
-      },
-      {
-        "name": "LARVA LIVE",
-        "logo_uri": "https://i.ytimg.com/vi/mAMznHxrfgw/maxresdefault.jpg",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627152417/ei/wQv8YNn-Npri2_gPiM6rOA/ip/35.193.9.51/id/yjqQZ-6kTTQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-qxoedn7z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/CX/mm/44/mn/sn-qxoedn7z/ms/lva/mv/u/mvi/6/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627130225/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgJe6hREcWRPZ1s0ax3mGaQr4dk6Km3-hNklT7Rf9nTEMCIQCC1F3CysEtRgncxlnTAhG1IFH3t0Kb6Ja7KkyFkLCZng%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALuyeDgDf8vZW0chbU2N-0SW13sxMmQqyUOwJ50MYyhNAiBVRZ4ChKS5bY3dYpUbkiQCyViSf9RAQSt1o5oS_uO4cg%3D%3D/playlist/index.m3u8"
-      },
-      {
-        "name": "SPONGEBOB LIVE",
-        "logo_uri": "https://pbs.twimg.com/media/E5jhAaMXwAMhjRo.jpg",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627152455/ei/5wv8YNqcIMaRuAKIrpOwDw/ip/35.193.9.51/id/1qbmNFqheG4.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Cp/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/4/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627130836/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgSZVEXg8Q6tSL3_1V9cW-AI5GjXSZjcGt1JrxYrZrxdICIQCVwGGWceq1j_HH-TOjUNqHYqnFhgxmqQxJYGFQqhbqVA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgLkTwMb6Wh-GwMoqQEX6lap-AsSCTpeQZjCAPV8ET15wCIQCx1Y1ismuIrVm5NRMf6asqlX_NPO-5wepwGJjBgYro3g%3D%3D/playlist/index.m3u8"
-      },
-      {
-        "name": "LOONEY TUNES LIVE",
-        "logo_uri": "https://images3.newscred.com/Zz04MWVlYzMyNTc1NTQxMWViYTg1ZmU5YzE5YTI4Y2U2Ng==?width=900&q=80",
-        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627152488/ei/CAz8YKiXG86flu8P0K6vCA/ip/35.193.9.51/id/braVWtZNnsc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-qxoedne7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/LX/mm/44/mn/sn-qxoedne7/ms/lva/mv/u/mvi/2/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1627130225/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgIIXEz0pjoDaJWJ3twkiGWXmaSo0REy409PNdovQde68CIERShRzTKNzSmWRXIegtjjbVG24-A-hKVftf36VAa1XN/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgOwBI8kH3qFFT8e9bHk3ojaDflzKlDd26IN6zgj5EZ6cCID8as3_tmoE5Tv3qE0VrWjDRYO06jXTPFbBY01-GoLNM/playlist/index.m3u8"
       }
     ]  
   },
