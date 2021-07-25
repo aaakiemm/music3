@@ -2001,6 +2001,14 @@
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Nezha%20Conquers%20the%20Dragon%20King%20(2019).mp4"
       },
       {
+        "name": "NE ZHA ",
+        "logo_uri": "https://jalurnyaman.com/wp-content/uploads/2021/04/Ne-Zha-2019-Official-Trailer-800x440.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1deDLaqtLtA2elGuj7tVpahVJK0wbYfnw?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/555Z555/music2/main/nezha.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
         "name": "NEZHA REBORN",
         "logo_uri": "https://i.ytimg.com/vi/xwJX_IicpDs/maxresdefault.jpg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Nazha%20Reborn%20(2021)ok.mp4"
