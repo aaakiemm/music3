@@ -905,19 +905,29 @@
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8"
       },
       {
-        "name": "GAAYA",
+        "name": "GOSHOP GAAYA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
         "uri": "https://agsplayback01.astro.com.my/CH3/master_GOSHOP3.m3u8"
       },
       {
-        "name": "RUUMA",
+        "name": "GOSHOP RUUMA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP.m3u8"
       },
       {
-        "name": "ASTRO RAAYA",
+        "name": "GOSHOP RAAYA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
+      },
+      {
+        "name": "GOSHOP MYTV",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
+        "uri": "https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4.m3u8"
+      },
+      {
+        "name": "GOSHOP CINA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8"
       }
     ]  
   },
