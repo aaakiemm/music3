@@ -945,6 +945,31 @@
         "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/01_manifest.mpd"
       },
       {
+        "name": "TV3 MEDIAPRIMA",
+	      "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
+        "uri": "https://github.com/555Z555/music3/raw/main/tvtsalaasah.m3u8"
+      },
+      {
+        "name": "NTV7 MEDIAPRIMA",
+	      "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png",
+        "uri": "https://github.com/555Z555/music3/raw/main/tv.sabaah.m3u8"
+      },
+      {
+        "name": "8TV MEDIAPRIMA",
+	      "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",
+        "uri": "https://github.com/555Z555/music3/raw/main/tv.tsamaaniah.m3u8"
+      },
+      {
+        "name": "TV9 MEDIAPRIMA",
+	      "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",
+        "uri": "https://github.com/555Z555/music3/raw/main/tv.sittah.m3u8"
+      },
+      {
+        "name": "DRAMA SANGAT",
+	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
+        "uri": "https://github.com/555Z555/music3/raw/main/tv.laghosangat.m3u8"
+      },
+      {
         "name": "OKEY RTM",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
         "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_manifest.mpd"
