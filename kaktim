@@ -805,6 +805,13 @@
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHZpaFRrRGVfbFcyeWJfamc0V1g3emNjWWp2WkZoaVFER0RnU3RXVWpLc1Rmdjg4N1ptaXBFd2NnQUt5UWc3THVVYWVSRVdxWkJCWW1CZUt1ZFlhOVRONVd4U3ZUQWtVdUdvS1JoNk9mQnJJNXpRZldoZ2Q5bkwyV3JCc2pCV21HalB6ZE9rOWloLVNxUlJELW9SUjhQXzNzUTEzUXRxWnNCY1I1Y1kxaGhOQlkwSnZhZlJjeUphM292R3hWeFJMMUpreG5nOG9ULS1acGc0a0tDclpNdjBsNmotWi1WbEhaLW52SjlEbHNkaGRGdTJ0RGs1VXhyekV1Y25NckU2ZlpPRVhscUZJSlZ3OF9BSllGNkxQOWxyUVVlRUhlSURoOE4tMkRkc21tbUNEVG1wVUxKcmg1YlYzMzhDUnY2SXVIMkM0Qi0zempzcFN4d1FBLWZwRW5hU2xXVE9qalhQaE1IWkpQcHpMMzcwUUJKR2pmMVJyX2dhOVZXd1JkTEh4T0ZZZGk0TDh1QWxUT0dQNk43dFdONEhSV21Ud1FhQXlRMDF5X2tCazZjU2FUVDBZNmpXX0JtYm5QLVJIeTJfZ0gxNUxCajNCelJ0N2pwSG0zTFNDWE94MDFQb3dfZXh3Y3JldlZESnNLWXdKME9WRGVhYTJyQ2ZsMU5rcnNOX2lhMFUtcWU4Vmw2MmMySjdkamdyWnl3JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNDciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYmRhN2Y3NGJfODQyZl80ZjBlX2IxNDJfMzk1ZGFkZDkxZjA3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh2aWhUa0RlX2xXMnliX2pnNFdYN3pjY1lqdlpGaGlRREdEZ1N0V1VqS3NUZnY4ODdabWlwRXdjZ0FLeVFnN0x1VWFlUkVXcVpCQlltQmVLdWRZYTlUTjVXeFN2VEFrVXVHb0tSaDZPZkJySTV6UWZXaGdkOW5MMldyQnNqQldtR2pQemRPazlpaC1TcVJSRC1vUlI4UF8zc1ExM1F0cVpzQmNSNWNZMWhoTkJZMEp2YWZSY3lKYTNvdkd4VnhSTDFKa3huZzhvVC0tWnBnNGtLQ3JaTXYwbDZqLVotVmxIWi1udko5RGxzZGhkRnUydERrNVV4cnpFdWNuTXJFNmZaT0VYbHFGSUpWdzhfQUpZRjZMUDlsclFVZUVIZUlEaDhOLTJEZHNtbW1DRFRtcFVMSnJoNWJWMzM4Q1J2Nkl1SDJDNEItM3pqc3BTeHdRQS1mcEVuYVNsV1RPampYUGhNSFpKUHB6TDM3MFFCSkdqZjFScl9nYTlWV3dSZExIeE9GWWRpNEw4dUFsVE9HUDZON3RXTjRIUldtVHdRYUF5UTAxeV9rQms2Y1NhVFQwWTZqV19CbWJuUC1SSHkyX2dIMTVMQmozQnpSdDdqcEhtM0xTQ1hPeDAxUG93X2V4d2NyZXZWREpzS1l3SjBPVkRlYWEyckNmbDFOa3JzTl9pYTBVLXFlOFZsNjJjMko3ZGpnclp5dyIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi01MDZlZWNhOC01ZWNjLTFkMjAtNDFkNS1lOWMzY2ZkMmFhMzUiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=LaLvsg%2bBTYJoz4XDfy%2f6ifBLCxI%3d"
       },
       {
+        "name": "ARENA PLUS",
+        "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3133e7e7b5324c6eadafe33b2ea626b1/version/0/width/1280/height/720",
+        "uri": "https://linear08-playback.sooka.my/CH4/masterCH4.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHZpaFRrRGVfbFcyeWJfamc0V1g3emNjWWp2WkZoaVFER0RnU3RXVWpLc1Rmdjg4N1ptaXBFd2NnQUt5UWc3THVVYWVSRVdxWkJCWW1CZUt1ZFlhOVRONVd4U3ZUQWtVdUdvS1JoNk9mQnJJNXpRZldoZ2Q5bkwyV3JCc2pCV21HalB6ZE9rOWloLVNxUlJELW9SUjhQXzNzUTEzUXRxWnNCY1I1Y1kxaGhOQlkwSnZhZlJjeUphM292R3hWeFJMMUpreG5nOG9ULS1acGc0a0tDclpNdjBsNmotWi1WbEhaLW52SjlEbHNkaGRGdTJ0RGs1VXhyekV1Y25NckU2ZlpPRVhscUZJSlZ3OF9BSllGNkxQOWxyUVVlRUhlSURoOE4tMkRkc21tbUNEVG1wVUxKcmg1YlYzMzhDUnY2SXVIMkM0Qi0zempzcFN4d1FBLWZwRW5hU2xXVE9qalhQaE1IWkpQcHpMMzcwUUJKR2pmMVJyX2dhOVZXd1JkTEh4T0ZZZGk0TDh1QWxUT0dQNk43dFdONEhSV21Ud1FhQXlRMDF5X2tCazZjU2FUVDBZNmpXX0JtYm5QLVJIeTJfZ0gxNUxCajNCelJ0N2pwSG0zTFNDWE94MDFQb3dfZXh3Y3JldlZESnNLWXdKME9WRGVhYTJyQ2ZsMU5rcnNOX2lhMFUtcWU4Vmw2MmMySjdkamdyWnl3JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTQxNjU4NDkiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiOTkxYTE5YWJfOWQxOV80YWI3XzhmODFfNjhjN2QxOTllNmMyIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh2aWhUa0RlX2xXMnliX2pnNFdYN3pjY1lqdlpGaGlRREdEZ1N0V1VqS3NUZnY4ODdabWlwRXdjZ0FLeVFnN0x1VWFlUkVXcVpCQlltQmVLdWRZYTlUTjVXeFN2VEFrVXVHb0tSaDZPZkJySTV6UWZXaGdkOW5MMldyQnNqQldtR2pQemRPazlpaC1TcVJSRC1vUlI4UF8zc1ExM1F0cVpzQmNSNWNZMWhoTkJZMEp2YWZSY3lKYTNvdkd4VnhSTDFKa3huZzhvVC0tWnBnNGtLQ3JaTXYwbDZqLVotVmxIWi1udko5RGxzZGhkRnUydERrNVV4cnpFdWNuTXJFNmZaT0VYbHFGSUpWdzhfQUpZRjZMUDlsclFVZUVIZUlEaDhOLTJEZHNtbW1DRFRtcFVMSnJoNWJWMzM4Q1J2Nkl1SDJDNEItM3pqc3BTeHdRQS1mcEVuYVNsV1RPampYUGhNSFpKUHB6TDM3MFFCSkdqZjFScl9nYTlWV3dSZExIeE9GWWRpNEw4dUFsVE9HUDZON3RXTjRIUldtVHdRYUF5UTAxeV9rQms2Y1NhVFQwWTZqV19CbWJuUC1SSHkyX2dIMTVMQmozQnpSdDdqcEhtM0xTQ1hPeDAxUG93X2V4d2NyZXZWREpzS1l3SjBPVkRlYWEyckNmbDFOa3JzTl9pYTBVLXFlOFZsNjJjMko3ZGpnclp5dyIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi01MDZlZWNhOC01ZWNjLTFkMjAtNDFkNS1lOWMzY2ZkMmFhMzUiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=yW5pTs4AgbqOVr1c4FN%2bbdEx6Xw%3d"
+      },
+      {
         "name": "OLYMPIC 1",
         "logo_uri": "https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/4a076848b7b94975a5239982b0d4356a/version/0/width/1280/height/720",
         "uri": "https://linear04-playback.sooka.my/CH3/masterCH3.mpd",
@@ -1990,6 +1997,24 @@
   {
     "name": "ANIMATION MOVIES",
     "samples": [          
+       {
+        "name": "NEZHA CONQUERS THE DRAGON KING",
+        "logo_uri": "https://2.bp.blogspot.com/-QmEgDnUUUdM/XNuG79dFDfI/AAAAAAAAAF0/_FoKHUo-o1EqYdGiE6fOJKzUFq2_pTezACEwYBhgL/w1200-h630-p-k-no-nu/The-New-God-of-The-Sea-2019-Chinese-720p-WEB-DL-x264-ESub.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Nezha%20Conquers%20the%20Dragon%20King%20(2019).mp4"
+      },
+      {
+        "name": "NE ZHA ",
+        "logo_uri": "https://jalurnyaman.com/wp-content/uploads/2021/04/Ne-Zha-2019-Official-Trailer-800x440.jpg",
+        "uri": "https://www.googleapis.com/drive/v3/files/1deDLaqtLtA2elGuj7tVpahVJK0wbYfnw?alt=media&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw",
+        "subtitle_uri": "https://raw.githubusercontent.com/555Z555/music2/main/nezha.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
+      },
+      {
+        "name": "NEZHA REBORN",
+        "logo_uri": "https://i.ytimg.com/vi/xwJX_IicpDs/maxresdefault.jpg",
+        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Nazha%20Reborn%20(2021)ok.mp4"
+      },
       {
         "name": "WISH DRAGON",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/wishdragon.jpg",
