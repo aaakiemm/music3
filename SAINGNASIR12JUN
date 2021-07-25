@@ -24,21 +24,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MGNkNWRkMzAtMDI0Mi0zZjFhLWFlOTQtOGU5ODE1MWUzOTBm"
       },
       {
-        "name": "RTM OKEY",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
-        "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_manifest.mpd"
-      },
-      {
-        "name": "RTM SPORTS",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
-        "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/02_manifest.mpd" 
-      },
-      {
-        "name": "RTM TV6",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
-        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
-      },
-      {
         "name": "NTV7",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ntv7.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
@@ -58,16 +43,6 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MGNkNWRkMzAtMDI0Mi0zZjFhLWFlOTQtOGU5ODE1MWUzOTBm"
-      },
-      {
-        "name": "DRAMA SANGAT",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
-      },
-      {
-        "name": "HELLO",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
       },
       {
         "name": "SALAM HD",
@@ -722,6 +697,11 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8"
       },
       {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
+      },
+      {
         "name": "BOO",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/boolaa.m3u8"
@@ -910,34 +890,79 @@
         "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
       },
       {
+        "name": "NAURA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/nauro.m3u8"
+      },
+      {
+        "name": "HELLO",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
+      },
+      {
         "name": "TVS",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8"
       },
       {
-        "name": "GAAYA",
+        "name": "GOSHOP GAAYA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
         "uri": "https://agsplayback01.astro.com.my/CH3/master_GOSHOP3.m3u8"
       },
       {
-        "name": "RUUMA",
+        "name": "GOSHOP RUUMA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP.m3u8"
       },
       {
-        "name": "ASTRO RAAYA",
+        "name": "GOSHOP RAAYA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
       },
       {
-        "name": "RTM 1",
+        "name": "GOSHOP MYTV",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
+        "uri": "https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4.m3u8"
+      },
+      {
+        "name": "GOSHOP CINA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8"
+      }
+    ]  
+  },
+  {
+    "name": "MALAYSIA 10",
+    "samples": [
+      {
+        "name": "TV1 RTM",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",
         "uri": "https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
       },
       {
-        "name": "RTM 2",
+        "name": "TV2 RTM",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
         "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/01_manifest.mpd"
+      },
+      {
+        "name": "OKEY RTM",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
+        "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03_manifest.mpd"
+      },
+      {
+        "name": "SPORTS RTM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
+        "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/02_manifest.mpd" 
+      },
+      {
+        "name": "BERITA RTM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
+        "uri": "https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
+        "name": "TV6 RTM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
+        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
       },
       {
         "name": "IKIM STREAM",
