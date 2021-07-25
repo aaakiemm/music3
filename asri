@@ -1000,6 +1000,31 @@
         "name": "IKIM STREAM",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ikim.png",
         "uri": "http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8" 
+      },
+      {
+        "name": "OLIMPIK 1 RTM",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",
+        "uri": "https://rtm-olympic01tv.secureswiftcontent.com/rtm/olympic01_manifest.mpd" 
+      },
+      {
+        "name": "OLIMPIK 2 RTM",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",
+        "uri": "https://rtm-olympic02tv.secureswiftcontent.com/rtm/olympic02_manifest.mpd" 
+      },
+      {
+        "name": "OLIMPIK 3 RTM",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",
+        "uri": "https://rtm-olympic03tv.secureswiftcontent.com/rtm/olympic03_manifest.mpd" 
+      },
+      {
+        "name": "OLIMPIK 4 RTM",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",
+        "uri": "https://rtm-olympic04tv.secureswiftcontent.com/rtm/olympic04_manifest.mpd" 
+      },
+      {
+        "name": "OLIMPIK 5 RTM",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",
+        "uri": "https://rtm-olympic05tv.secureswiftcontent.com/rtm/olympic05_manifest.mpd" 
       }
     ]  
   },
