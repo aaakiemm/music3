@@ -7758,6 +7758,71 @@
     ]  
   },
   {
+    "name": "TAXI DRIVER",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051414~acl=%2f0c8ff4e91f65dc1662e2dd5d8142dbae%2f*~data=cid%3d1165868175%2csid%3d6619fb22-8c30-45b1-b631-ebafeced066f%2cclientId%3dnone%2cn%3d1627360214181%2ch%3d9E36CA059E59AE6E0BC73298F99BC7B1~hmac=6d2833b28633170d705236c1a55e8bf5d930b0a939f9384dedc840262cd85f73/0c8ff4e91f65dc1662e2dd5d8142dbae/vp63207_V20210410001640/hlsc_e2931_V20210609170611.m3u8"
+      },
+      {
+        "name": "EPISODE 2 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051372~acl=%2fb504e8fdf3e476df67eddc44bebd3764%2f*~data=cid%3d1165868174%2csid%3dd4162739-bdd4-42ba-ab53-747879f540f4%2cclientId%3dnone%2cn%3d1627360172654%2ch%3d1D870FCF250B7915923AC6B4078EB3A0~hmac=92c4cd302b1d1f9a1119c8fa86430a3a75c9de4adadbb3a58f92d60923031b31/b504e8fdf3e476df67eddc44bebd3764/vp63207_V20210410001624/hlsc_e2931_V20210419160556.m3u8"
+      },
+      {
+        "name": "EPISODE 3 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051341~acl=%2f282e689a3b30c82b701a561c3dc3efb7%2f*~data=cid%3d1165868495%2csid%3dc38d1002-8b16-4bd0-bd40-31e1d03a54d3%2cclientId%3dnone%2cn%3d1627360141487%2ch%3d42958865CFFC3FB2A23D06706DA1BFA3~hmac=a8d54c6a8a678ff56e4573961bd82d29354ad19b168b72498384990eb0634a47/282e689a3b30c82b701a561c3dc3efb7/vp63207_V20210410221516/hlsc_e2931_V20210420180557.m3u8"
+      },
+      {
+        "name": "EPISODE 4 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051306~acl=%2f997ce4aabf3cacc0ddb8b98c9e43a5d8%2f*~data=cid%3d1165868496%2csid%3d19e9b802-2573-4055-aafc-7de7de5762ff%2cclientId%3dnone%2cn%3d1627360106262%2ch%3d8F22F3F7AC88313793636C315B7441B3~hmac=4c8a5ff5e5e98166aa0af1a8a3e2727dd8014a99523f8a412be540433d199dd0/997ce4aabf3cacc0ddb8b98c9e43a5d8/vp63207_V20210410221559/hlsc_e2931_V20210422060438.m3u8"
+      },
+      {
+        "name": "EPISODE 5",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051273~acl=%2ffbeeea6959d40de11ce029cf6007c6a3%2f*~data=cid%3d1165871124%2csid%3d07672b71-ca7c-4f3e-b7ff-66f91cea82ae%2cclientId%3dnone%2cn%3d1627360073263%2ch%3dCD9F3DC8E994DE39323500F3ECA461C7~hmac=6797d209b7a483316cc086e649a0c7932aa37626e5cfa10ebcc685b67cfbe2a1/fbeeea6959d40de11ce029cf6007c6a3/vp63207_V20210416231525/hlsc_e2931_V20210421150449.m3u8"
+      },
+      {
+        "name": "EPISODE 6 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051230~acl=%2f5b7632f198e24b16a0272fe27c3aa920%2f*~data=cid%3d1165871125%2csid%3d44a8e964-4d87-4322-bfb0-61bf491d2d91%2cclientId%3dnone%2cn%3d1627360030238%2ch%3dC64BF4DC7722421B1E3F0A39D215BB31~hmac=432664ac85508bf9aa6314b478dadfbe6d02ef9ff83d06544ec89fbbba55ebab/5b7632f198e24b16a0272fe27c3aa920/vp63207_V20210416231723/hlsc_e2931_V20210423160433.m3u8"
+      },
+      {
+        "name": "EPISODE 7 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051191~acl=%2ff0d5159a72dfdd2810d3dd8cae70bfb3%2f*~data=cid%3d1165871388%2csid%3d20a5a157-8101-45ea-9576-e2116c0de747%2cclientId%3dnone%2cn%3d1627359991023%2ch%3dF3EFE44024A77943496D5DBDC4DB0722~hmac=67849f8e3e7ddf4b4bc5d8936d4e4f64a62ebe6e5727a91648bc0f1e72ec0a4f/f0d5159a72dfdd2810d3dd8cae70bfb3/vp63207_V20210417231715/hlsc_e2931_V20210423160451.m3u8"
+      },
+      {
+        "name": "EPISODE 8 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051160~acl=%2fa99b2d4a574a4002da841a4649a786f6%2f*~data=cid%3d1165871389%2csid%3df0238c15-9c1c-43e5-828b-f124723b4353%2cclientId%3dnone%2cn%3d1627359960822%2ch%3d13000F4454C1BEE22DD2EFC741AACCFF~hmac=89da820a7e6d73800ecc66f87223cf387535c364ed039a831230930f35cedd9a/a99b2d4a574a4002da841a4649a786f6/vp63207_V20210417231753/hlsc_e2931_V20210424150438.m3u8"
+      },
+      {
+        "name": "EPISODE 9 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051107~acl=%2fa8cb94a03a56362181637f6513607d96%2f*~data=cid%3d1165874459%2csid%3db6c28660-c6e4-43fc-bdf2-6df313269632%2cclientId%3dnone%2cn%3d1627359907251%2ch%3d70D9F7897CD9BBA832579112D0C2DDDA~hmac=99d99a5e11d3b064dad2c8f02f92860b6666d374817919fc1d5ef687755abb5f/a8cb94a03a56362181637f6513607d96/vp63207_V20210423221823/hlsc_e2931_V20210428165826.m3u8"
+      },
+      {
+        "name": "EPISODE 10 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051075~acl=%2f67554ed496bbc2ec812d9577b17103b7%2f*~data=cid%3d1165874460%2csid%3d17d34186-866d-4258-8f43-06459e24b118%2cclientId%3dnone%2cn%3d1627359875471%2ch%3d69C035ACBFB1B4FD5F4BA1BC93083BDB~hmac=31ba5b9d55692c45aa87383aaab9a0e47214bd1db3d8ce5223c10367d8ce1bf7/67554ed496bbc2ec812d9577b17103b7/vp63207_V20210423221820/hlsc_e2931_V20210504175832.m3u8"
+      },
+      {
+        "name": "EPISODE 11 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051043~acl=%2f42311ea833991de394b5fdcdabc27a1c%2f*~data=cid%3d1165874642%2csid%3d34ce7054-a28b-4d74-9226-a3a5861016b9%2cclientId%3dnone%2cn%3d1627359843024%2ch%3dD3DC61E2D761853FED54E6BB8ED15C69~hmac=c975c672b30f6d3e9b4b3645332c911fb903b5df3e648480087afafdabfe4fff/42311ea833991de394b5fdcdabc27a1c/vp63207_V20210424231745/hlsc_e2931_V20210504175842.m3u8"
+      },
+      {
+        "name": "EPISODE 12 ",
+        "logo_uri": "https://photos.hancinema.net/photos/fullsizephoto1288841.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628051004~acl=%2faa51a235808ad2f35666a784e8f17b84%2f*~data=cid%3d1165874643%2csid%3d9a9af918-b4d2-4d96-907d-d3bca280a7b1%2cclientId%3dnone%2cn%3d1627359804828%2ch%3d7776437906DDED98DDB843638065F000~hmac=15db65c2a49078499611aab55b95fd7ddc4a4092085bf53bfd2965a2e04eae04/aa51a235808ad2f35666a784e8f17b84/vp63207_V20210424231823/hlsc_e2931_V20210507155715.m3u8"
+      }
+    ]  
+  },
+  {
     "name": "THE WONDERFUL LIFE",
     "samples": [ 
       {
