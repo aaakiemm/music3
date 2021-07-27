@@ -9585,6 +9585,321 @@
     ]  
   },
   {
+    "name": "HAIKYUU S2",
+    "samples": [ 
+      {
+        "name": "EP 1",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036195~acl=%2fbcb47a05f00e4d9d34f8ecf7964f497b%2f*~data=cid%3d1165900659%2csid%3da72a6fa4-027f-4099-887c-87caff727d85%2cclientId%3dnone%2cn%3d1627344995716%2ch%3dC791FE60C20497395C251CC5801A17A7~hmac=69aba8dd202a47958fae350798b7f06bdbedb30ddf5051ff9f6aa1bee25c1bce/bcb47a05f00e4d9d34f8ecf7964f497b/vp63207_V20210629131907/hlsc_e2931_V20210705055050.m3u8"
+      },
+      {
+        "name": "EP 2 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036666~acl=%2fe4b0f7a31df16dc8983a29f387b550b4%2f*~data=cid%3d1165900649%2csid%3d88e0809c-e2e7-4784-86fe-2281c646e36d%2cclientId%3dnone%2cn%3d1627345466871%2ch%3d00DD4C1E58347E5AB460287556EEFC70~hmac=8ecb02c5f0070d9e91df6dd4e8f9795994bb9cb2ba354f28a8a69e1bdf2c29c6/e4b0f7a31df16dc8983a29f387b550b4/vp63207_V20210629125554/hlsc_e2931_V20210705053421.m3u8"
+      },
+      {
+        "name": "EP 3",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036691~acl=%2f15fe87d6131797757621b241776f8c75%2f*~data=cid%3d1165900651%2csid%3d018a0826-0af5-457c-a3eb-4aed3e066a92%2cclientId%3dnone%2cn%3d1627345491855%2ch%3d7D89D7EE8C00AEE6DFEE21FB947BD740~hmac=f33317c2a8ecd7482ca74adf8bd43dfe9216bc82040353781a8bc16d3827fac1/15fe87d6131797757621b241776f8c75/vp63207_V20210629125626/hlsc_e2931_V20210705053437.m3u8"
+      },
+      {
+        "name": "EP 4 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036717~acl=%2f14f059fc56a271c8df45ac95b3e1c030%2f*~data=cid%3d1165900653%2csid%3d67a092ea-42c7-486b-a330-1a35cd7096f1%2cclientId%3dnone%2cn%3d1627345517522%2ch%3d7B6C683EC117CC9DA059F0FAF581DFE4~hmac=3a36df99786433fd47b26ae790c0d5e46dcf2f3db4063264e45a4d8a212c0eba/14f059fc56a271c8df45ac95b3e1c030/vp63207_V20210629125644/hlsc_e2931_V20210705053654.m3u8"
+      },
+      {
+        "name": "EP 5",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036753~acl=%2f5a5006c6217e07d84ee591edb1e2e98a%2f*~data=cid%3d1165900650%2csid%3d484feb82-8c02-4d93-a867-4650ff4392e1%2cclientId%3dnone%2cn%3d1627345553497%2ch%3d5C168483D8D64AA7CC750939558ABF72~hmac=31bfddcd8cfe385377d0cd40fdbde7893c366bd3b0f6874e69ba785e5531cf06/5a5006c6217e07d84ee591edb1e2e98a/vp63207_V20210629125617/hlsc_e2931_V20210705053430.m3u8"
+      },
+      {
+        "name": "EP 6 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036786~acl=%2f4bc11228e63f15117b72a403c17da64e%2f*~data=cid%3d1165900661%2csid%3d048c4c8c-ebe4-462e-a3e7-53d426669fa1%2cclientId%3dnone%2cn%3d1627345586247%2ch%3d0DD1AD82C4F4AAF0AEF55A0A15244D71~hmac=89422c7a16b8dbef2c0929b7a0ff1810bf494f4174ae7476789be0771bbb0dc8/4bc11228e63f15117b72a403c17da64e/vp63207_V20210629141909/hlsc_e2931_V20210705055901.m3u8"
+      },
+      {
+        "name": "EP 7",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036820~acl=%2f6a29b14f97b5b8641cfc967202c17c8f%2f*~data=cid%3d1165900644%2csid%3deb40c0d1-73b7-415b-b477-506cb6e4a859%2cclientId%3dnone%2cn%3d1627345620226%2ch%3d22B6EDFCAF727E4A6F8BCEC9D9C53262~hmac=138ac926ad933132003853f6eff36b3f4a6dc4675049daf1e0f93291ffed7ab3/6a29b14f97b5b8641cfc967202c17c8f/vp63207_V20210629125433/hlsc_e2931_V20210705052941.m3u8"
+      },
+      {
+        "name": "EP 8 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036849~acl=%2f11b450b5bc679b9a4254936791979016%2f*~data=cid%3d1165900641%2csid%3d0864ed9e-97d0-40fa-a8b0-d151312a3ff1%2cclientId%3dnone%2cn%3d1627345649742%2ch%3d630B22966B3038CDBD87BAD81613FE72~hmac=6d3e98b44cef973e15bed6d38bdac93b03fb9ed3cc26231b06345261a4c5bca4/11b450b5bc679b9a4254936791979016/vp63207_V20210629125402/hlsc_e2931_V20210705052852.m3u8"
+      },
+      {
+        "name": "EP 9",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036885~acl=%2f78570c7c2beb6567f966f7ea85d70670%2f*~data=cid%3d1165900656%2csid%3dce3fa2bc-dabc-40b0-aa91-9ebb79d1bef0%2cclientId%3dnone%2cn%3d1627345685295%2ch%3dDAE3D4CD3C332EC4AB2E74C4F3175A6E~hmac=28a32acd7b3e7a7eb7ecc53d6b171668b027b2023598951e5affa7b26535b651/78570c7c2beb6567f966f7ea85d70670/vp63207_V20210629142828/hlsc_e2931_V20210705064201.m3u8"
+      },
+      {
+        "name": "EP 10 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036917~acl=%2fbf0da6697b8bdef4b02ef5dd1d77c3a7%2f*~data=cid%3d1165900658%2csid%3d3e0acf5a-a8ec-4cc2-9f9f-a4daf1192485%2cclientId%3dnone%2cn%3d1627345717737%2ch%3d9B549DFABCD56D2C527D40F397DFDC1C~hmac=be850e830db2d204df98df4b5ae2ee00ad29f7f35130dda9374c9a5ced8e94c6/bf0da6697b8bdef4b02ef5dd1d77c3a7/vp63207_V20210629125717/hlsc_e2931_V20210705064348.m3u8"
+      },
+      {
+        "name": "EP 11",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036945~acl=%2fc21cf1897aa7d462f8d71bf054d73e5b%2f*~data=cid%3d1165900639%2csid%3dc5936bf7-3645-4e96-9b17-eb879787f694%2cclientId%3dnone%2cn%3d1627345745617%2ch%3d7429B6748A4C7B81824C44A544F2AB36~hmac=99fed3bba7d1dbe999322f73a00e7882528a5928d8e7d81e3d5fcddf6442b698/c21cf1897aa7d462f8d71bf054d73e5b/vp63207_V20210629142651/hlsc_e2931_V20210705062726.m3u8"
+      },
+      {
+        "name": "EP 12 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628036983~acl=%2fdf7d3ad5ff2b7ea34b2100eaf2704b3f%2f*~data=cid%3d1165900654%2csid%3d4a8410db-0cd6-41ba-8b08-95d4811cdbfa%2cclientId%3dnone%2cn%3d1627345783030%2ch%3dB57ACA153EEC81B6EEC31AB2D341EA96~hmac=3a4770cd5f921728f6b78ce8c25ded2a42f8ba1e1b1cd1a0214197588196749d/df7d3ad5ff2b7ea34b2100eaf2704b3f/vp63207_V20210629142823/hlsc_e2931_V20210705063943.m3u8"
+      },
+      {
+        "name": "EP 13",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037014~acl=%2fcbe3a0c87b25657c8f91ce1aba9dbbcb%2f*~data=cid%3d1165900662%2csid%3d18d1e44f-3319-4fcf-a4cc-193cc4aec079%2cclientId%3dnone%2cn%3d1627345814858%2ch%3dCC49D9E3A680DED8BEF0231D4E81618E~hmac=fa2ad388ea4a108ec3a60e797726f6901495bc1ddec1e33501cb768c1e2a78d0/cbe3a0c87b25657c8f91ce1aba9dbbcb/vp63207_V20210629142256/hlsc_e2931_V20210705065004.m3u8"
+      },
+      {
+        "name": "EP 14 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037045~acl=%2f338270465b654069162cfd9704c2f6d2%2f*~data=cid%3d1165900645%2csid%3dfc89cd65-bd36-4bf1-b709-1f9734c2c323%2cclientId%3dnone%2cn%3d1627345845364%2ch%3dEFD7A58B4E67CD3289E1EF37B72551FC~hmac=653fc68d76d6d17558b674ca16c5c510fd1a4dce115553a20cc424b7eb0b3c58/338270465b654069162cfd9704c2f6d2/vp63207_V20210629125450/hlsc_e2931_V20210705062933.m3u8"
+      },
+      {
+        "name": "EP 15",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037176~acl=%2faa7b7894c09d6984390264f8f6acd15d%2f*~data=cid%3d1165900638%2csid%3d5f5f7bcf-e31c-475f-a94f-0a8a60dc86cc%2cclientId%3dnone%2cn%3d1627345976260%2ch%3dA9ECF3D31690C4319CD588683A4E7C30~hmac=c90f2d15fc8f52f3d700a8b659230a0bc6e9da62dd2148d79e9520bce483145c/aa7b7894c09d6984390264f8f6acd15d/vp63207_V20210629125327/hlsc_e2931_V20210705062518.m3u8"
+      },
+      {
+        "name": "EP 16 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037120~acl=%2f1f30c6f922fa828e38192de046c8e93a%2f*~data=cid%3d1165900640%2csid%3d64438c4a-cb33-4312-bb49-7c1c76625ca7%2cclientId%3dnone%2cn%3d1627345920043%2ch%3dE5861A1F1B6395FBF33C0E1AD8CC3D8B~hmac=e41e210cec007395c95f98399d09a133967da1e67f94bfc843c1621f25d9342b/1f30c6f922fa828e38192de046c8e93a/vp63207_V20210629142654/hlsc_e2931_V20210705062537.m3u8"
+      },
+      {
+        "name": "EP 17",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037218~acl=%2f21b89f3fb099c9348314caea44c41746%2f*~data=cid%3d1165900646%2csid%3de3a16302-2c32-49b0-b2ae-f1dbed0051fd%2cclientId%3dnone%2cn%3d1627346018946%2ch%3d1A7C5F8E2CAA37C47C6A34F5B9F9C5A5~hmac=0bb057d2f68bd3c00fd9a451d4357da27dbdafb45b63f0488ed7837ed8128e56/21b89f3fb099c9348314caea44c41746/vp63207_V20210629125502/hlsc_e2931_V20210705063144.m3u8"
+      },
+      {
+        "name": "EP 18 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037249~acl=%2f93dcc7d4010c6f3c93b2fd2d3d2f9247%2f*~data=cid%3d1165900647%2csid%3ddacbd18b-b3b7-4e96-bfbf-997618450376%2cclientId%3dnone%2cn%3d1627346049639%2ch%3d739239B2CFB97717915BA325D4D647B0~hmac=c38d76806875c9c052bf87318e54dea2f08f9fa00d27595c8f15aeaf8c987e0a/93dcc7d4010c6f3c93b2fd2d3d2f9247/vp63207_V20210629142715/hlsc_e2931_V20210705063148.m3u8"
+      },
+      {
+        "name": "EP 19",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037298~acl=%2f48c929745138a44604f19ac0391d6859%2f*~data=cid%3d1165900652%2csid%3de5f85135-85e7-4304-8700-3eba40e1e6b6%2cclientId%3dnone%2cn%3d1627346098167%2ch%3d12207E9B09EC0D09A6FA14695D05A951~hmac=b21f9252d52f46ee3a969950be978a0fe7a9ba5023a28df27f4c5984b57bc151/48c929745138a44604f19ac0391d6859/vp63207_V20210629125626/hlsc_e2931_V20210705063801.m3u8"
+      },
+      {
+        "name": "EP 20 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037340~acl=%2fd5a7744b74502d4b34a762e89fcc8d23%2f*~data=cid%3d1165900657%2csid%3dfbb35d8f-e481-47af-8b2f-f99589405335%2cclientId%3dnone%2cn%3d1627346140551%2ch%3dFB5B9A4A6DC6396D0A45DAC067A75139~hmac=ac6cd7b21ab63b2688baeb937fd959824ccacdd50101cbffadb1b16b2fc82bf2/d5a7744b74502d4b34a762e89fcc8d23/vp63207_V20210629125722/hlsc_e2931_V20210705064548.m3u8"
+      },
+      {
+        "name": "EP 21 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037370~acl=%2f77b21c00f96a7699043f82b36665a24c%2f*~data=cid%3d1165900648%2csid%3d77718c33-afd2-41a9-b9bc-217e830d2444%2cclientId%3dnone%2cn%3d1627346170692%2ch%3d25D69EC49B297C6C922190CF5FA6A580~hmac=c23fcd41a55abf03723d91db12b14ee918a63c09aed8bc808e54f3f8ad46c304/77b21c00f96a7699043f82b36665a24c/vp63207_V20210629125554/hlsc_e2931_V20210705065609.m3u8"
+      },
+      {
+        "name": "EP 22 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037404~acl=%2f3b3c46f5f41d8c0724f2ea30edee3a01%2f*~data=cid%3d1165900642%2csid%3d49166149-6275-4ef7-a0e6-c00cc8b1e4aa%2cclientId%3dnone%2cn%3d1627346204226%2ch%3d0B86278D12322253ED47A7F1C8E7A6C5~hmac=7c5fd30498ac9a54bb769bccf0d94cf967ad80aaf8d7f17c74155f57dce43ce4/3b3c46f5f41d8c0724f2ea30edee3a01/vp63207_V20210629125410/hlsc_e2931_V20210705062726.m3u8"
+      },
+      {
+        "name": "EP 23 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037435~acl=%2fbcaef03e39b2a6e8dc834684a8196c88%2f*~data=cid%3d1165900655%2csid%3d301ee4ce-8211-4270-a001-44ad284cdff7%2cclientId%3dnone%2cn%3d1627346235033%2ch%3dB3EAA2CCD4DAC6FC3C37C8AC6E473242~hmac=164f15121f0646b3561633a22d0889f5e347dd11632c9ab250d62c561d5cb711/bcaef03e39b2a6e8dc834684a8196c88/vp63207_V20210629125703/hlsc_e2931_V20210705063550.m3u8"
+      },
+      {
+        "name": "EP 24 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037462~acl=%2f8f2486a924fc675a6130332f482143dd%2f*~data=cid%3d1165900660%2csid%3d403578e4-1b01-4647-8783-0bfe7c8eab87%2cclientId%3dnone%2cn%3d1627346262792%2ch%3dB50F855E730EDC75A18E3522B6D8288F~hmac=cbc9eb4f7b753de6bde9c698e4e1db45433012624ce1357839f2646987cd5dba/8f2486a924fc675a6130332f482143dd/vp63207_V20210629141907/hlsc_e2931_V20210705064755.m3u8"
+      },
+      {
+        "name": "EP 25 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037487~acl=%2f5863db4116a5591f367b88a6ee246214%2f*~data=cid%3d1165900643%2csid%3d660dbe56-cbf0-4df6-bb4e-f6644109607e%2cclientId%3dnone%2cn%3d1627346287771%2ch%3d34F0F5DC46B8E32DE9A8BCDFA3433F83~hmac=27cc5477d1ad128eb3d7d196d532136521f8babacf68aa04e9ee07e6737d4870/5863db4116a5591f367b88a6ee246214/vp63207_V20210629125410/hlsc_e2931_V20210705062942.m3u8"
+      }
+    ]  
+  },
+  {
+    "name": "HAIKYUU S3",
+    "samples": [ 
+      {
+        "name": "EP 1",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037557~acl=%2fc82dcc5b7bbd1f2d15388b175b8ca262%2f*~data=cid%3d1165902761%2csid%3d37b1655d-fa9d-43b6-a4e6-75aebc222eb3%2cclientId%3dnone%2cn%3d1627346357602%2ch%3d802EA1877896CE8C782206872C6A8DBF~hmac=8a49dd24ca801af72d1f1831e574036bf247c05b810e1ca4362f8740a626c14f/c82dcc5b7bbd1f2d15388b175b8ca262/vp63207_V20210705055534/hlsc_e2931_V20210705072222.m3u8"
+      },
+      {
+        "name": "EP 2 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037592~acl=%2f3649a97c61ea0058335526caeda880ab%2f*~data=cid%3d1165902749%2csid%3d1baee23a-8853-47a3-ba84-d54773e88416%2cclientId%3dnone%2cn%3d1627346392978%2ch%3d140F782F0A558E073C46B115F1A15F78~hmac=0e0ddb7eb09e005d673ebe1de7205358afbff23bd7113478adc0869f0c0d561c/3649a97c61ea0058335526caeda880ab/vp63207_V20210705055406/hlsc_e2931_V20210705065810.m3u8"
+      },
+      {
+        "name": "EP 3",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037622~acl=%2f5fac721c8198f537511ab329a3e4404f%2f*~data=cid%3d1165902762%2csid%3df6594124-405f-4671-98d7-a26975347cb8%2cclientId%3dnone%2cn%3d1627346422817%2ch%3d3F62BC8F0388CE385A872AD85B46C129~hmac=60cf8d5aa26ad37d98a0a56ac2a07634aeff20da156e7fa37cdff923093ac43f/5fac721c8198f537511ab329a3e4404f/vp63207_V20210705055548/hlsc_e2931_V20210705083249.m3u8"
+      },
+      {
+        "name": "EP 4 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037658~acl=%2fd033e67a3c818dc8fb4270f7231a527f%2f*~data=cid%3d1165902758%2csid%3d05322ec3-7f23-4b16-b938-3c44b2907d3e%2cclientId%3dnone%2cn%3d1627346458594%2ch%3d34011376CA1430394F30F5EEBDA1537C~hmac=6207a788891e313effbee200535434d4bebb4c12419e3cbd6dd7f9b81ead2f0c/d033e67a3c818dc8fb4270f7231a527f/vp63207_V20210705055514/hlsc_e2931_V20210709055040.m3u8"
+      },
+      {
+        "name": "EP 5",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037687~acl=%2f5714699d9c7e219ec86ccb2879d701ab%2f*~data=cid%3d1165902748%2csid%3dda1e4234-f765-4164-8a79-d41ca7774732%2cclientId%3dnone%2cn%3d1627346487219%2ch%3d859CA27BEDB9D2E6C476BFA9942AE541~hmac=37d2d43b68a1589f710a04bd9a9c74b338a74fe73dc50513ce67ab377da1435d/5714699d9c7e219ec86ccb2879d701ab/vp63207_V20210705055335/hlsc_e2931_V20210705083246.m3u8"
+      },
+      {
+        "name": "EP 6 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037724~acl=%2fec368193b0d51cacb75d75dbe7a304fe%2f*~data=cid%3d1165902756%2csid%3d246a36eb-40a0-4936-ae82-62db7d474318%2cclientId%3dnone%2cn%3d1627346524544%2ch%3dA3738F5D60EB959713487235CE874223~hmac=9fb203fd3e634e40da30c87128f11bf66ebe69aa83add2d2205122ad38ca1c05/ec368193b0d51cacb75d75dbe7a304fe/vp63207_V20210705055502/hlsc_e2931_V20210705082830.m3u8"
+      },
+      {
+        "name": "EP 7",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037760~acl=%2f6341a2535ea4fc55ed4f21f2909a3048%2f*~data=cid%3d1165902759%2csid%3de844b22c-cba4-4185-b3f2-0282fc221eee%2cclientId%3dnone%2cn%3d1627346560053%2ch%3d723E0A6995C121B53BA42566BB479329~hmac=22dcf68e5fb0bf08d8345f4726015634e69f8fc5bca062c988304452b3fb2e2a/6341a2535ea4fc55ed4f21f2909a3048/vp63207_V20210705055515/hlsc_e2931_V20210705070013.m3u8"
+      },
+      {
+        "name": "EP 8 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037788~acl=%2fd6ed193d26f32be7a0c1375537b823d9%2f*~data=cid%3d1165902747%2csid%3db17c18fa-d31d-428b-badf-88e2cfeaace9%2cclientId%3dnone%2cn%3d1627346588676%2ch%3dB0C39AAA258BC6E86DB0689C12C63634~hmac=12518798ddbbbf015c47f1983320d87ec87988fcf9bf052e88e5e114638f03e1/d6ed193d26f32be7a0c1375537b823d9/vp63207_V20210705055331/hlsc_e2931_V20210705083457.m3u8"
+      },
+      {
+        "name": "EP 9",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037819~acl=%2f2f6116813c1fe0bfa4f8c59eafc42bc8%2f*~data=cid%3d1165902751%2csid%3d13ee1498-bb4e-462b-9bef-02012987d9fc%2cclientId%3dnone%2cn%3d1627346619315%2ch%3dFCC5CC3AB13AB80B0747468C2301B14A~hmac=325b2889315a51df15193c7707b440a8f2e18910a051a3c443f65b60548e712d/2f6116813c1fe0bfa4f8c59eafc42bc8/vp63207_V20210705055405/hlsc_e2931_V20210705083247.m3u8"
+      },
+      {
+        "name": "EP 10 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037844~acl=%2fe75cdb44e07fdaf97caeb68d17d90e7d%2f*~data=cid%3d1165902753%2csid%3dc59d9ceb-7976-4e9f-9b7f-86f7123effb9%2cclientId%3dnone%2cn%3d1627346644208%2ch%3d29BB2DC45D29FB1B47331BF300E96FE1~hmac=423e40c6ebd2ba76a218ee5ff66795cc042c0c4e84fa3af833f73952e52b0b6f/e75cdb44e07fdaf97caeb68d17d90e7d/vp63207_V20210705055419/hlsc_e2931_V20210705065811.m3u8"
+      }
+    ]  
+  },
+  {
+    "name": "HAIKYUU S4",
+    "samples": [ 
+      {
+        "name": "EP 1",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037915~acl=%2f0c330d9c094b172161645f30a952b2c7%2f*~data=cid%3d1165906709%2csid%3d3a02be44-0f5b-4027-b491-09374c8ebeb7%2cclientId%3dnone%2cn%3d1627346715754%2ch%3d5ED9BB146CF3BDAC0674569ACE43854C~hmac=6ace5ee639ff4a66fc47b4157bcc91af48e95ec9caf176cd47b6fa6aa0def5e4/0c330d9c094b172161645f30a952b2c7/vp63207_V20210715035659/hlsc_e2931_V20210715061855.m3u8"
+      },
+      {
+        "name": "EP 2 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037945~acl=%2f360d28533fc5b9dada0a33d605784591%2f*~data=cid%3d1165906785%2csid%3d08f98cd0-74f8-4496-ae67-d9c7a524d436%2cclientId%3dnone%2cn%3d1627346745292%2ch%3dE864C0ED84F3956EDDB6E5F498376606~hmac=7290f8f9f757ced0bd6372855d0d6dc88c64e65d40db13c813cbbfe05a3ed7a4/360d28533fc5b9dada0a33d605784591/vp63207_V20210715062105/hlsc_e2931_V20210715082244.m3u8"
+      },
+      {
+        "name": "EP 3",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628037974~acl=%2f63fe17cbae125f4472658d9ca376c77f%2f*~data=cid%3d1165906766%2csid%3dcc973a86-507a-4789-962b-0b2c8cc0c04e%2cclientId%3dnone%2cn%3d1627346774085%2ch%3d1FD7A258D1D3050BB5087F364EB4682E~hmac=625a0e95db3c6b6d9d36605a785dfd260a49d01b74ae6f3f0f58732f3b8d68a5/63fe17cbae125f4472658d9ca376c77f/vp63207_V20210715131904/hlsc_e2931_V20210715150647.m3u8"
+      },
+      {
+        "name": "EP 4 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038005~acl=%2ffe89f0438dad4fcdac028fc9c41ed45b%2f*~data=cid%3d1165906776%2csid%3db74d858c-a1e3-416b-a74f-14a653b37549%2cclientId%3dnone%2cn%3d1627346805552%2ch%3dA113B4150D1367FC4C09DFB90168D3FF~hmac=21d6a4ad2705a3b5abdd7188415633381255dbb5c9a29dedb69dd29e5d0e1d79/fe89f0438dad4fcdac028fc9c41ed45b/vp63207_V20210715051919/hlsc_e2931_V20210715080819.m3u8"
+      },
+      {
+        "name": "EP 5",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038034~acl=%2f78d2a3250f2745b68f62522b4d59b530%2f*~data=cid%3d1165906774%2csid%3da5dd1cf6-ce85-4313-b22b-1c4c31f4c82c%2cclientId%3dnone%2cn%3d1627346834557%2ch%3d6A99E9C377D6C28B227301E6993B47B3~hmac=647deabe45c0d58e513bb64e605157f9267d4747471ff54f44376c4d89999263/78d2a3250f2745b68f62522b4d59b530/vp63207_V20210715062831/hlsc_e2931_V20210715082251.m3u8"
+      },
+      {
+        "name": "EP 6 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038066~acl=%2fa07f0706845ac342a5e6f6c7b534a139%2f*~data=cid%3d1165906789%2csid%3d803041fe-2dec-477e-91d7-4d2630fb2912%2cclientId%3dnone%2cn%3d1627346866359%2ch%3dA2736D48BDF3911C9DBDB1A34A958A07~hmac=afc81663e1d0b0cdede298e16fc11a1586ccae34022784c818a4f859f88f799b/a07f0706845ac342a5e6f6c7b534a139/vp63207_V20210715072248/hlsc_e2931_V20210715091331.m3u8"
+      },
+      {
+        "name": "EP 7",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038096~acl=%2f507e6f53bf8f01fa8bf3647b45aed313%2f*~data=cid%3d1165906786%2csid%3d9c602391-f496-4c21-8ca4-ec22be254160%2cclientId%3dnone%2cn%3d1627346896771%2ch%3d8ED2BA91741D6D9137267B31E61740A4~hmac=57bef412758bf69484f83d7f56aef683c082c58a861ad25d8d8f61c47886599f/507e6f53bf8f01fa8bf3647b45aed313/vp63207_V20210715062259/hlsc_e2931_V20210715082456.m3u8"
+      },
+      {
+        "name": "EP 8 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038125~acl=%2fe4b0396b1a923140e46fcacb1d6fd27e%2f*~data=cid%3d1165906784%2csid%3d1c3aea98-a3b2-41c0-b3b0-40e56384e252%2cclientId%3dnone%2cn%3d1627346925102%2ch%3dD05B46F4ECF00ABCCCA2740F45F4A022~hmac=26a82b0310f092c6dd06807d9b6b2eabb43d4aea06fe89c0158b9156547dca7b/e4b0396b1a923140e46fcacb1d6fd27e/vp63207_V20210715052658/hlsc_e2931_V20210715081033.m3u8"
+      },
+      {
+        "name": "EP 9",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038160~acl=%2f7465762a29a48b98a98ba559cdefb20c%2f*~data=cid%3d1165906771%2csid%3d8e756e06-3f98-4186-b06e-637452bacf5b%2cclientId%3dnone%2cn%3d1627346960755%2ch%3d40D1E9D1B0D76FC9678855793E1BE1AA~hmac=6fba7f48fdf71c2116220a68e1cb2d6ec4be615003f6ed94af4bc10cbe0c7884/7465762a29a48b98a98ba559cdefb20c/vp63207_V20210715045559/hlsc_e2931_V20210715071124.m3u8"
+      },
+      {
+        "name": "EP 10 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038190~acl=%2f9d8d8bd7a456304c8596e230dc667716%2f*~data=cid%3d1165906770%2csid%3d0fd87d52-3c82-41eb-93f7-65ec69753df2%2cclientId%3dnone%2cn%3d1627346990321%2ch%3d954172AA9D8E9344E2E25870FB0951EE~hmac=1a330fc7a7cac892b436d12a56abd874eb9520594db031ab726c76e3000f25f6/9d8d8bd7a456304c8596e230dc667716/vp63207_V20210715045559/hlsc_e2931_V20210715071134.m3u8"
+      },
+      {
+        "name": "EP 11",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038232~acl=%2f9a94df36d64ace4f8d557e7b189f6684%2f*~data=cid%3d1165906779%2csid%3d3e8d0d34-eee0-4eb0-b581-e7b8c6e12709%2cclientId%3dnone%2cn%3d1627347032042%2ch%3d93217DF64A84EED17A8FD1E1E83A4715~hmac=44643f061771fc7aba665945b41b8b6e821768b4b634c6e1eeca7b7f942cd538/9a94df36d64ace4f8d557e7b189f6684/vp63207_V20210715082102/hlsc_e2931_V20210715095636.m3u8"
+      },
+      {
+        "name": "EP 12 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": "https://vuclip-eip.akamaized.net/exp=1628038265~acl=%2fbe64ae271d035f324c728e7d36f4fb85%2f*~data=cid%3d1165906773%2csid%3de6beeccd-7a03-4d0e-86f9-e4ce52546eb5%2cclientId%3dnone%2cn%3d1627347065261%2ch%3d71DAFDB3FC03139A10D2C63891FCBCDC~hmac=5fdf29f67c97fcfc25aadb2864de6bc40acf3e679bd340a40cad62ddd2b94355/be64ae271d035f324c728e7d36f4fb85/vp63207_V20210715045631/hlsc_e2931_V20210715071327.m3u8"
+      },
+      {
+        "name": "EP 13",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 14 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 15",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 16 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 17",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 18 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 19",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 20 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 21 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 22 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 23 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 24 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      },
+      {
+        "name": "EP 25 ",
+        "logo_uri": "https://thedeadtoons.com/wp-content/uploads/2020/03/Haikyuu-Season-5-release-date-Haikyuu-To-The-Top-Season-2-Part-2-summer-2020.jpg",
+        "uri": ""
+      }
+    ]  
+  },
+  {
     "name": "RADIO BRUNEI",
     "samples": [ 
       {
