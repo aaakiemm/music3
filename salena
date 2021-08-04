@@ -221,16 +221,6 @@
         "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
       },
       {
-        "name": "SUN TV",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/sun.m3u8"
-      },
-      {
-        "name": "ZEE TAMIL",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",
-        "uri": "https://github.com/555Z555/music3/raw/main/ZEE35.m3u8"
-      },
-      {
         "name": "STAR VIJAY",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",
         "uri": "http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8"
@@ -662,46 +652,6 @@
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHZpaFRrRGVfbFcyeWJfamc0V1g3emNjWWp2WkZoaVFER0RnU3RXVWpLc1Rmdjg4N1ptaXBFd2NnQUt5UWc3THVVYWVSRVdxWkJCWW1CZUt1ZFlhOVRONVd4U3ZUQWtVdUdvS1JoNk9mQnJJNXpRZldoZ2Q5bkwyV3JCc2pCV21HalB6ZE9rOWloLVNxUlJELW9SUjhQXzNzUTEzUXRxWnNCY1I1Y1kxaGhOQlkwSnZhZlJjeUphM292R3hWeFJMMUpreG5nOG9ULS1acGc0a0tDclpNdjBsNmotWi1WbEhaLW52SjlEbHNkaGRGdTJ0RGs1VXhyekV1Y25NckU2ZlpPRVhscUZJSlZ3OF9BSllGNkxQOWxyUVVlRUhlSURoOE4tMkRkc21tbUNEVG1wVUxKcmg1YlYzMzhDUnY2SXVIMkM0Qi0zempzcFN4d1FBLWZwRW5hU2xXVE9qalhQaE1IWkpQcHpMMzcwUUJKR2pmMVJyX2dhOVZXd1JkTEh4T0ZZZGk0TDh1QWxUT0dQNk43dFdONEhSV21Ud1FhQXlRMDF5X2tCazZjU2FUVDBZNmpXX0JtYm5QLVJIeTJfZ0gxNUxCajNCelJ0N2pwSG0zTFNDWE94MDFQb3dfZXh3Y3JldlZESnNLWXdKME9WRGVhYTJyQ2ZsMU5rcnNOX2lhMFUtcWU4Vmw2MmMySjdkamdyWnl3JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM0MTAzMTIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiNGZjMTEyZjlfMmE5Zl80ZWI5Xzg5YTFfYmQ3ODBkM2UzZGU2IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh2aWhUa0RlX2xXMnliX2pnNFdYN3pjY1lqdlpGaGlRREdEZ1N0V1VqS3NUZnY4ODdabWlwRXdjZ0FLeVFnN0x1VWFlUkVXcVpCQlltQmVLdWRZYTlUTjVXeFN2VEFrVXVHb0tSaDZPZkJySTV6UWZXaGdkOW5MMldyQnNqQldtR2pQemRPazlpaC1TcVJSRC1vUlI4UF8zc1ExM1F0cVpzQmNSNWNZMWhoTkJZMEp2YWZSY3lKYTNvdkd4VnhSTDFKa3huZzhvVC0tWnBnNGtLQ3JaTXYwbDZqLVotVmxIWi1udko5RGxzZGhkRnUydERrNVV4cnpFdWNuTXJFNmZaT0VYbHFGSUpWdzhfQUpZRjZMUDlsclFVZUVIZUlEaDhOLTJEZHNtbW1DRFRtcFVMSnJoNWJWMzM4Q1J2Nkl1SDJDNEItM3pqc3BTeHdRQS1mcEVuYVNsV1RPampYUGhNSFpKUHB6TDM3MFFCSkdqZjFScl9nYTlWV3dSZExIeE9GWWRpNEw4dUFsVE9HUDZON3RXTjRIUldtVHdRYUF5UTAxeV9rQms2Y1NhVFQwWTZqV19CbWJuUC1SSHkyX2dIMTVMQmozQnpSdDdqcEhtM0xTQ1hPeDAxUG93X2V4d2NyZXZWREpzS1l3SjBPVkRlYWEyckNmbDFOa3JzTl9pYTBVLXFlOFZsNjJjMko3ZGpnclp5dyIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi01MDZlZWNhOC01ZWNjLTFkMjAtNDFkNS1lOWMzY2ZkMmFhMzUiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=hwce%2f5bLhkvlfVNhGjoz6qVNatg%3d"
       },
       {
-        "name": "RIA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/riak.m3u8"
-      },
-      {
-        "name": "PRIMA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/rima.m3u8"
-     },
-      {
-        "name": "OASIS",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/omar.m3u8"
-      },
-      {
-        "name": "WARNA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/warni.m3u8"
-      },
-      {
-        "name": "CERIA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/suko.m3u8"
-      },
-      {
-        "name": "CITRA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8"
-      },
-      {
-        "name": "DRAMA SANGAT",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
-      },
-      {
-        "name": "BOO",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/boolaa.m3u8"
-      },
-      {
         "name": "TVNHD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",
         "uri": "https://linear03-playback.sooka.my/CH4/masterCH4.mpd",
@@ -898,24 +848,9 @@
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeHZpaFRrRGVfbFcyeWJfamc0V1g3emNjWWp2WkZoaVFER0RnU3RXVWpLc1Rmdjg4N1ptaXBFd2NnQUt5UWc3THVVYWVSRVdxWkJCWW1CZUt1ZFlhOVRONVd4U3ZUQWtVdUdvS1JoNk9mQnJJNXpRZldoZ2Q5bkwyV3JCc2pCV21HalB6ZE9rOWloLVNxUlJELW9SUjhQXzNzUTEzUXRxWnNCY1I1Y1kxaGhOQlkwSnZhZlJjeUphM292R3hWeFJMMUpreG5nOG9ULS1acGc0a0tDclpNdjBsNmotWi1WbEhaLW52SjlEbHNkaGRGdTJ0RGs1VXhyekV1Y25NckU2ZlpPRVhscUZJSlZ3OF9BSllGNkxQOWxyUVVlRUhlSURoOE4tMkRkc21tbUNEVG1wVUxKcmg1YlYzMzhDUnY2SXVIMkM0Qi0zempzcFN4d1FBLWZwRW5hU2xXVE9qalhQaE1IWkpQcHpMMzcwUUJKR2pmMVJyX2dhOVZXd1JkTEh4T0ZZZGk0TDh1QWxUT0dQNk43dFdONEhSV21Ud1FhQXlRMDF5X2tCazZjU2FUVDBZNmpXX0JtYm5QLVJIeTJfZ0gxNUxCajNCelJ0N2pwSG0zTFNDWE94MDFQb3dfZXh3Y3JldlZESnNLWXdKME9WRGVhYTJyQ2ZsMU5rcnNOX2lhMFUtcWU4Vmw2MmMySjdkamdyWnl3JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTQxNjU3OTYiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiNzM3OWQ0OGFfM2Y3ZF80YjBkXzg3MmFfM2FiY2RhYzVlZmZhIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHh2aWhUa0RlX2xXMnliX2pnNFdYN3pjY1lqdlpGaGlRREdEZ1N0V1VqS3NUZnY4ODdabWlwRXdjZ0FLeVFnN0x1VWFlUkVXcVpCQlltQmVLdWRZYTlUTjVXeFN2VEFrVXVHb0tSaDZPZkJySTV6UWZXaGdkOW5MMldyQnNqQldtR2pQemRPazlpaC1TcVJSRC1vUlI4UF8zc1ExM1F0cVpzQmNSNWNZMWhoTkJZMEp2YWZSY3lKYTNvdkd4VnhSTDFKa3huZzhvVC0tWnBnNGtLQ3JaTXYwbDZqLVotVmxIWi1udko5RGxzZGhkRnUydERrNVV4cnpFdWNuTXJFNmZaT0VYbHFGSUpWdzhfQUpZRjZMUDlsclFVZUVIZUlEaDhOLTJEZHNtbW1DRFRtcFVMSnJoNWJWMzM4Q1J2Nkl1SDJDNEItM3pqc3BTeHdRQS1mcEVuYVNsV1RPampYUGhNSFpKUHB6TDM3MFFCSkdqZjFScl9nYTlWV3dSZExIeE9GWWRpNEw4dUFsVE9HUDZON3RXTjRIUldtVHdRYUF5UTAxeV9rQms2Y1NhVFQwWTZqV19CbWJuUC1SSHkyX2dIMTVMQmozQnpSdDdqcEhtM0xTQ1hPeDAxUG93X2V4d2NyZXZWREpzS1l3SjBPVkRlYWEyckNmbDFOa3JzTl9pYTBVLXFlOFZsNjJjMko3ZGpnclp5dyIsInVkaWQiOiJjZDliY2NiZS0yOGYyLTRhZDYtYjBiNi04Mjg5YzI2YzY1ZmJfd2ViX3dhcmlzYWd1bmFAZ21haWwuY29tX1dFQi01MDZlZWNhOC01ZWNjLTFkMjAtNDFkNS1lOWMzY2ZkMmFhMzUiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=q5HkZg3k6SbsEYfvHa4pDUbVAJw%3d"
       },
       {
-        "name": "WWE",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/gocoh.m3u8"
-      },
-      {
-        "name": "BOLLYONEHD",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/buliwud.m3u8"
-      },
-      {
         "name": "VAANAVIL",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
-      },
-      {
-        "name": "NAURA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/nauro.m3u8"
       },
       {
         "name": "HELLO",
