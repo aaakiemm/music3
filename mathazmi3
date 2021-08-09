@@ -2993,6 +2993,62 @@
            "name": "HBO MOVIES",
             "samples": [
        {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030448X0-landscape.jpg",
+	"name": "THE HUNT",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/609574386d048943f77eb7a7_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030448X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=391ffc577da3270817f7e325d3d8bb8f81f8e77f88b48e40b4186b39d49702f0d7039c8e121cc383a7331970079aeda6ed4d95ac5b20ff286e72912c3c90f5d4&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030444X0-landscape.jpg",
+	"name": "PSYCH 2: LASSIE COME HOME",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae1fce8caa5a5e0b1154e5_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030444X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=8a9e00ecf2f3c0a74a891fab25be59856d7e468917b5cf1b8813f91db4cfba5f88aad1a1b728e8e2de0b9f293d1c6748c1b697a377cff3ea147794994a584084&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029124X0-landscape.jpg",
+	"name": "WELCOME TO SUDDEN DEATH",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae611f8caa5a5e0b115b2c_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029124X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=6b0092adda2be1aafa52940b1bb269c76197f015d642c01667e659f20f0190950aed42f0d88a2cb1d375e6689bc85506a1001ae5d611d1e863b88ca177ff50cb&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030440X0-landscape.jpg",
+	"name": "THE TAX COLLECTOR",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60adec338caa5a5e0b114ffe_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030440X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=45e74998f9d8963ba69199de9bfb2423f7ac8697e6c5f2e3d01ffecdaba234a9a6329d41dae8423bbb9049aed0e9c6a62bddbe2f1852d0fd079ba5eefbef2677&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030906X0-landscape.jpg",
+	"name": "BOBBLEHEADS THE MOVIE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c5473616b55f4d934d80af_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030906X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=e54b4eb1926495cb0e61246f79bc164b64ebe72baa2c9ae608e24b781d386fa8db9ed8dda1488ff0613e236c3d189daca8c20d6d40e8cf2f86dbdc1c8d5f2907&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030442X0-landscape.jpg",
+	"name": "CURIOUS GEORGE: GO WEST, GO WILD",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ae423e8caa5a5e0b115834_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030442X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=e3fa879277cbd927f69dd4cf589eed6c8f4ff65ef91b99458840959c52ad89d1ac2c45a53a1805fe653681261211f71edd8cdcf11689b2d8dc8619157870cf1b&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030910X0-landscape.jpg",
+	"name": "JIU JITSU",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c54b8516b55f4d934d8129_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030910X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=0f08cc8b7951a22f3c1daae9c82d4f95e7b2254f5da7ff359d53d09fe655b8167d41d64d6511d1edcf84b71006b7fb824efd1500ee80f5048649c2bc48bc0939&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009293X0-landscape.jpg",
+	"name": "SHREK THE THIRD",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c500d116b55f4d934d79b4_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009293X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=6f248ff1a0ad4db6bf78cf3e42663307fe697a91d0bb2d635d3956cf367d255155edf30e55b84d571b9ca34426fba85dd7ae741b6ade89d93437f0ca43c7b775&drmId=prod"
+      },
+      {
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031732X0-landscape.jpg",
 	"name": "ONG BAK",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60cbf6a116b55f4d934e24c5_hbovodhd/dash0/MYS_index.mpd",
@@ -3177,9 +3233,9 @@
       {
         "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029536X0-landscape.jpg",
 	"name": "RUN (2020)",
-        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d904024cbea8a6a4eef9782_hbovodhd/dash0/MYS_index.mpd",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60adebe78caa5a5e0b114ff1_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029536X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=fdde8c8ed87ab8500f18c5af11a97b276d7ff7accb5fafc31373748b501be17451e24a4762bebc2563d38b6ff7aefa65b122e4c1a9f4e052b1403ac4df7475d3&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029536X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=900ea685310ed2223e4765a5cf13177c7247229010515af51c65071d970e157bedd219c0d69d43c5dfdc4518143f0733b6d80fe38fec62e43ad20e198824bd5b&drmId=prod"
       },
       {
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030446X0-landscape.jpg",
