@@ -669,7 +669,7 @@
       {
         "name": "CERIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",
-        "uri": "hhttp://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
+        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
       },
       {
         "name": "CITRA",
@@ -837,7 +837,7 @@
       {
         "name": "SPORTS RTM",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
-        "uri": "https://rtm6hdhbbtv.secureswiftcontent.com/Origin2/ngrp:RTM2/manifest.mpd" 
+        "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
       },
       {
         "name": "BERITA RTM",
