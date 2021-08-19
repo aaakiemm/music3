@@ -2395,6 +2395,27 @@
            "name": "HBO MOVIES",
             "samples": [
        {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030911X0-landscape.jpg",
+	"name": "CJ7",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c51ae416b55f4d934d7c44_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030911X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=8efddbebe1edce3e7c9994c62126d2626749e36b3faa83668915139497f74796b27d193cb95ab0cdfedd8a303ebcf42ef7580da0280371757db6f1495ef06365&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030905X0-landscape.jpg",
+	"name": "MERMAID",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c5341616b55f4d934d7ec2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030905X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=fdb56f1398fb404a81b98536b3b8d3b9a70cac0b19f97613ef15f271338db75233d92bfcbf3ed1f3c64c6409a71c992995d357ea5030d68d4b882f560e22b0a2&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030893X0-landscape.jpg",
+	"name": "JOURNEY TO THE WEST: THE DEMONS STRIKE BACK",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60ee6c6fe59f821aa9e56106_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030893X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=fad2dea95287703b9e2d56a3abca7d705c9e892131d6c9d9e0d9a9210bd221a55c245deb5dd90f05e10fe00fd623e603a4c5771761082ba964d2287ef8ecb6d5&drmId=prod"
+      },
+      {
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030448X0-landscape.jpg",
 	"name": "KAJILLIONAIRE",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c559c416b55f4d934d8297_hbovodhd/dash0/MYS_index.mpd",
