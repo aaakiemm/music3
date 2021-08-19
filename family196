@@ -2395,6 +2395,48 @@
            "name": "HBO MOVIES",
             "samples": [
        {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/015723X0-landscape.jpg",
+	"name": "RISE OF THE GUARDIANS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9150a46d048943f766bf2d_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=015723X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=a464f489419cce28322853245d350ebf4675cc502cdc482f6ccdafdb6f5d202f440f95ade229666b675d1234a5b753acf1be93a495ed70241037a454b028a291&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/020546X0-landscape.jpg",
+	"name": "STORKS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fcf7a916d048943f76c7a22_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=020546X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=645ea864685808ebd26e49a46ac2ffe79a0b8c0ad292bdfb0d03be883520d814bf55cc675814f9474c72b3aaedf5b74652605a254f7f2b4e34d8777f1d9dfe0d&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029682X0-landscape.jpg",
+	"name": "HOTEL TRANSYLVANIA 3: SUMMER VACATION",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60adec0d8caa5a5e0b114ff8_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029682X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=d4fef0dabb04392d7e8172a927f3a8ffe8dd9bbbc2c12998e1817985bc71d38fd8b43b20a865a0500ce97510a9ff3220a1e31f4b7521cd7d8d438e90bd4a88f5&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/019474X0-landscape.jpg",
+	"name": "MINIONS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60b4a81f8caa5a5e0b11f207_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=019474X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=487a270ae95c4d00442a39fc417de3c2c95df7c4614fd90099308227fb319cdc7b1e82dbcb8fbe188aa863d0dad4872dd0514a413aa5639c719695fe3c4a97b4&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031112X0-landscape.jpg",
+	"name": "THE BAD GUYS: REIGN OF CHAOS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c53fad16b55f4d934d7fee_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031112X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=86cc84d85d2d00cef59ca24c37c03d23dd1b48843fa2505d55084e0d457e11b8c60603a03f37d15d6e6d1c70329b39fb6487f61069caab7340cfec7017a442c2&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/031113X0-landscape.jpg",
+	"name": "KINGDOM",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c53dc616b55f4d934d7fbe_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=031113X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=e3345f85e59285558d44666d71f91da46d3dd575d004076418acc05be0e6da28dd8b60f664bb8b1e8119c52c7a1d80900145005888047b7517801c29ff8e520c&drmId=prod"
+      },
+      {
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030911X0-landscape.jpg",
 	"name": "CJ7",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c51ae416b55f4d934d7c44_hbovodhd/dash0/MYS_index.mpd",
