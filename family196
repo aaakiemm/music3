@@ -1764,11 +1764,6 @@
   {
     "name": "ANIMATION MOVIES",
     "samples": [          
-       {
-        "name": "NEZHA CONQUERS THE DRAGON KING",
-        "logo_uri": "https://2.bp.blogspot.com/-QmEgDnUUUdM/XNuG79dFDfI/AAAAAAAAAF0/_FoKHUo-o1EqYdGiE6fOJKzUFq2_pTezACEwYBhgL/w1200-h630-p-k-no-nu/The-New-God-of-The-Sea-2019-Chinese-720p-WEB-DL-x264-ESub.jpg",
-        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Nezha%20Conquers%20the%20Dragon%20King%20(2019).mp4"
-      },
       {
         "name": "NE ZHA ",
         "logo_uri": "https://jalurnyaman.com/wp-content/uploads/2021/04/Ne-Zha-2019-Official-Trailer-800x440.jpg",
@@ -1778,9 +1773,12 @@
         "subtitle_language": "ms"
       },
       {
-        "name": "NEZHA REBORN",
-        "logo_uri": "https://i.ytimg.com/vi/xwJX_IicpDs/maxresdefault.jpg",
-        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Nazha%20Reborn%20(2021)ok.mp4"
+        "name": "HOME ",
+        "logo_uri": "https://jalurnyaman.com/wp-content/uploads/2021/04/Ne-Zha-2019-Official-Trailer-800x440.jpg",
+        "uri": "https://urlbox.paduhq.com/3937334210318640/@N3SSSS%20Home.2015.720p.BluRay.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/555Z555/music2/main/home.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
       },
       {
         "name": "WISH DRAGON",
