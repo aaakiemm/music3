@@ -1750,6 +1750,11 @@
         "uri": "https://urlbox.paduhq.com/2231441919824176/Naqiu_Vanessa_Reynauld_Rindu_Separuh_Nyawa_OST_Rindu_Awak_Separuh.mp4"
       },
       {
+        "name": "AKU HANYA SEORANG SENIMAN",
+        "logo_uri": "https://cdn.substack.com/image/youtube/w_728,c_limit/T2MGPC_4ZmE",
+        "uri": "https://urlbox.paduhq.com/3938124484301104/SENIMAN.mp4"
+      },
+      {
         "name": "TAMAR COCOA ALHADAD",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cocotamar.jpg",
         "uri": "https://urlbox.paduhq.com/2235290210521392/VID-20210606-WA0093.mp4"
@@ -1764,11 +1769,6 @@
   {
     "name": "ANIMATION MOVIES",
     "samples": [          
-       {
-        "name": "NEZHA CONQUERS THE DRAGON KING",
-        "logo_uri": "https://2.bp.blogspot.com/-QmEgDnUUUdM/XNuG79dFDfI/AAAAAAAAAF0/_FoKHUo-o1EqYdGiE6fOJKzUFq2_pTezACEwYBhgL/w1200-h630-p-k-no-nu/The-New-God-of-The-Sea-2019-Chinese-720p-WEB-DL-x264-ESub.jpg",
-        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Nezha%20Conquers%20the%20Dragon%20King%20(2019).mp4"
-      },
       {
         "name": "NE ZHA ",
         "logo_uri": "https://jalurnyaman.com/wp-content/uploads/2021/04/Ne-Zha-2019-Official-Trailer-800x440.jpg",
@@ -1778,9 +1778,12 @@
         "subtitle_language": "ms"
       },
       {
-        "name": "NEZHA REBORN",
-        "logo_uri": "https://i.ytimg.com/vi/xwJX_IicpDs/maxresdefault.jpg",
-        "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/3-3/NewVersion2/baru11/Nazha%20Reborn%20(2021)ok.mp4"
+        "name": "HOME ",
+        "logo_uri": "https://i.ytimg.com/vi/G9F6VhFY4wY/maxresdefault.jpg",
+        "uri": "https://urlbox.paduhq.com/3937334210318640/@N3SSSS%20Home.2015.720p.BluRay.mp4",
+        "subtitle_uri": "https://raw.githubusercontent.com/555Z555/music2/main/home.vtt",
+        "subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms"
       },
       {
         "name": "WISH DRAGON",
@@ -2241,6 +2244,11 @@
         "subtitle_language": "id"
       },
       {
+        "name": "SUICIDE SQUAD 2021",
+        "logo_uri": "https://cdn.mos.cms.futurecdn.net/Yr546DuQMinTMXGTAVQHz3.jpg",
+        "uri": "https://ohflix25465.glitch.me/M34/NewVersion2/baru17/The%20Suicide%20Squad%202021.mp4"
+      },
+      {
         "name": "A QUIT PLACE 1",
         "logo_uri": "https://i.insider.com/60b15d5702ac410018f9388a?width=1200&format=jpeg",
         "uri": "https://www.ohflix.ml/files/g5dkg1ff4x/1-1/Random3%20Movies%20Malay%20Sub/A%20Quiet%20Place%202018%20720p%20Bluray.mp4"
@@ -2354,9 +2362,14 @@
     "name": "INDIAN MOVIES",
     "samples": [ 
       {  
+        "name": "NETRIKANN",
+        "logo_uri": "https://www.filmibeat.com/img/2021/08/netrikann-1628829403.jpg",
+        "uri": "https://www31.sbcdnvideo.com/hls/tysxer4klk66j6cdadyr5tkzfgaepmnazak6q5zca,4th23oguyr24bwtxura,gyhy3oguyryhzp2ffha,.urlset/master.m3u8?xxx=123"
+      },
+      {   
         "name": "EIGHTEEN HOURS",
         "logo_uri": "https://l.cimalight.io:2053/uploads/thumbs/45620b5e1-1.jpg",
-        "uri": "https://urlbox.paduhq.com/3851383324791088/Eighteen%20Hours.mkv"
+        "uri": "https://www161.sbcdnvideo.com/hls/tysxe5krio66j6cdaanb5h2eokqewsoxldxghmuzv,mpefhou5kwdozedgwua,weehhou5kwejsz4oqcq,.urlset/master.m3u8?xxx=123"
       },
       {    
         "name": "RAATCHASI",
@@ -2458,7 +2471,7 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030893X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=fad2dea95287703b9e2d56a3abca7d705c9e892131d6c9d9e0d9a9210bd221a55c245deb5dd90f05e10fe00fd623e603a4c5771761082ba964d2287ef8ecb6d5&drmId=prod"
       },
       {
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030448X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030908X0-landscape.jpg",
 	"name": "KAJILLIONAIRE",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c559c416b55f4d934d8297_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
