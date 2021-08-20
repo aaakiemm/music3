@@ -2362,9 +2362,14 @@
     "name": "INDIAN MOVIES",
     "samples": [ 
       {  
+        "name": "NETRIKANN",
+        "logo_uri": "https://www.filmibeat.com/img/2021/08/netrikann-1628829403.jpg",
+        "uri": "https://www31.sbcdnvideo.com/hls/tysxer4klk66j6cdadyr5tkzfgaepmnazak6q5zca,4th23oguyr24bwtxura,gyhy3oguyryhzp2ffha,.urlset/master.m3u8?xxx=123"
+      },
+      {   
         "name": "EIGHTEEN HOURS",
         "logo_uri": "https://l.cimalight.io:2053/uploads/thumbs/45620b5e1-1.jpg",
-        "uri": "https://urlbox.paduhq.com/3851383324791088/Eighteen%20Hours.mkv"
+        "uri": "https://www161.sbcdnvideo.com/hls/tysxe5krio66j6cdaanb5h2eokqewsoxldxghmuzv,mpefhou5kwdozedgwua,weehhou5kwejsz4oqcq,.urlset/master.m3u8?xxx=123"
       },
       {    
         "name": "RAATCHASI",
@@ -2466,7 +2471,7 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=030893X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=fad2dea95287703b9e2d56a3abca7d705c9e892131d6c9d9e0d9a9210bd221a55c245deb5dd90f05e10fe00fd623e603a4c5771761082ba964d2287ef8ecb6d5&drmId=prod"
       },
       {
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030448X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/030908X0-landscape.jpg",
 	"name": "KAJILLIONAIRE",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60c559c416b55f4d934d8297_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
