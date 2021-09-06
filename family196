@@ -632,7 +632,14 @@
         "name": "NAURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
         "uri": "http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8"
-      },
+      }, 
+      { 
+        "name": "TAA-DA", 
+	"logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png", 
+	"uri": "http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd", 
+	"drm_scheme": "clearkey", 
+	"drm_license_url": "https://run.mocky.io/v3/1373c373-95c7-432f-b666-9ca69c00d66c" 
+      }, 
       {
         "name": "TVNHD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",
