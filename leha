@@ -640,6 +640,13 @@
 	"drm_scheme": "clearkey", 
 	"drm_license_url": "https://run.mocky.io/v3/1373c373-95c7-432f-b666-9ca69c00d66c" 
       }, 
+      { 
+        "name": "BOBOIBOY 2 TEST", 
+	"logo_uri": "https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_432x243_2020122_171137.jpg", 
+	"uri": "https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/d8b73a38-09b6-5ad5-9101-a21162b7acb3/default_ott.mpd", 
+	"drm_scheme": "clearkey", 
+	"drm_license_url": "https://run.mocky.io/v3/d8b73a38-09b6-5ad5-9101-a21162b7acb3" 
+      }, 
       {
         "name": "TVNHD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",
