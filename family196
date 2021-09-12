@@ -784,24 +784,54 @@
         "uri": "http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8"
       },
       {
-        "name": "OKEY RTM",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
-        "uri": "https://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+        "name": "TV1 RTM",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv1.png",
+        "uri": "https://rtmlive01.secureswiftcontent.com/rtmchannel/01-manifest.m3u8"
       },
       {
-        "name": "SPORTS RTM",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
-        "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+        "name": "TV2 RTM",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv2.png",
+        "uri": "https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd"
       },
       {
-        "name": "BERITA RTM",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
-        "uri": "https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+        "name": "TV3",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv3.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/tv3bikap.m3u8"
       },
       {
         "name": "TV6 RTM",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
-        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+        "uri": "https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd"
+      },
+      {
+        "name": "NTV7",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ntv7.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/tv7bikap.m3u8"
+      },
+      {
+        "name": "8TV",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/8tv.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/tv8bikap.m3u8"
+      },
+      {
+        "name": "TV9",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv9.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/tv9bikap.m3u8"
+      },
+      {
+        "name": "OKEY RTM",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",
+        "uri": "https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd"
+      },
+      {
+        "name": "SPORTS RTM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
+        "uri": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd" 
+      },
+      {
+        "name": "BERITA RTM",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmberita.png",
+        "uri": "https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd"
       },
       {
         "name": "IKIM STREAM",
