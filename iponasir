@@ -5,7 +5,7 @@
       {
         "name": "TV1 RTM",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv1.png",
-        "uri": "https://rtmlive01.secureswiftcontent.com/rtmchannel/01-manifest.m3u8"
+        "uri": "https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd"
       },
       {
         "name": "TV2 RTM",
@@ -51,6 +51,16 @@
         "name": "SPORTS RTM",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
         "uri": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd" 
+      },
+      {
+        "name": "DEWAN RAKYAT",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/LogoMedium-DewanRakyat.jpg",
+        "uri": "https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd"
+      },
+      {
+        "name": "DEWAN NEGARA",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/PlayerLogo-DewanNegara.jpg",
+        "uri": "https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd"
       },
       {
         "name": "BERITA RTM",
