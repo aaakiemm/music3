@@ -484,6 +484,13 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
+        "name": "BABY TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/ff3ba4c4/2f57_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
         "name": "Cbeebies",
         "logo_uri": "https://static.mncnow.id/images/channel/46fceab7/dd27_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd",
@@ -961,7 +968,7 @@
       {
         "name": "Fox Sports 1",
         "logo_uri": "https://static.mncnow.id/images/channel/782cbbe4/5a3d_r32.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxSport-Siji/sa_dash_vmx/FoxSport-Siji.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
@@ -989,7 +996,7 @@
       {
         "name": "BeIN 1",
         "logo_uri": "https://static.mncnow.id/images/channel/9014a7a3/13e2_r32.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
@@ -1169,11 +1176,11 @@
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQQUExaklxVWJHeU1HT3pIOEozaDA4Y3FKakxvRmxCMW9NVl9NbEpRSWJkUWdHaERnRVZqRFBOSl9nWndVVXotbXNtOG1TUTlWdlJ1UV9DS2RzenhGenRZUkFfbTl3ZmdTVkxaYlNXblRVQjZnX2M4RDJZNmh5Z2VxRmU2R2NwcFBjdXFMWHZ2VXdvWjR4dnZfWHVvQnFMdmdpM2NjZ005ZlRISV85TFhKZ2cyRms5Vzd1M0NURmd2Yks1b0tPN2doOTlZYnRGekM1dzVmamE1aWNCeDk5S3o5d1p1YmFnUEdITUV4VFRMWUl2eVpFM18teHFDWDY4aXdDeGdhTXlDUXAtQno5U0I1eER5WnFaSTJrUlFvaVk3cHlneHNPU0Fqa0NEWHNnVUgwNFVuNkg4d3ZUdEstMzNPWFpYeUloZGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjMwMzMyIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3dlYmNtbl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZQQUExaklxVWJHeU1HT3pIOEozaDA4Y3FKakxvRmxCMW9NVl9NbEpRSWJkUWdHaERnRVZqRFBOSl9nWndVVXotbXNtOG1TUTlWdlJ1UV9DS2RzenhGenRZUkFfbTl3ZmdTVkxaYlNXblRVQjZnX2M4RDJZNmh5Z2VxRmU2R2NwcFBjdXFMWHZ2VXdvWjR4dnZfWHVvQnFMdmdpM2NjZ005ZlRISV85TFhKZ2cyRms5Vzd1M0NURmd2Yks1b0tPN2doOTlZYnRGekM1dzVmamE1aWNCeDk5S3o5d1p1YmFnUEdITUV4VFRMWUl2eVpFM18teHFDWDY4aXdDeGdhTXlDUXAtQno5U0I1eER5WnFaSTJrUlFvaVk3cHlneHNPU0Fqa0NEWHNnVUgwNFVuNkg4d3ZUdEstMzNPWFpYeUloZGc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=gF2ysqRMhvoLCAGLGw65qY0WVsA%3d"
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHNTdvVklzaHRrX3lBcWR5YlRGamJNT2d5LW9XLWNjRmtuVGFCN05LaUUyaFgxWEc5UXZQaEhjYjFwQTV4b1Z1dFQzTWRfU2dPQXhXeTlhTzF6MVZxdmRpNkJhY2czMjh0Y1VFeUNRa2I4SEpRNWI2dXV2cnRDRFBJVHdEeXEzMm1INWwtNWZCeFhmWGh2UmZ2OGVHeFdPakh3REFCR292UFZla3BucnFjaXpYRmZIel9oc0Z2cE5MNmFBUElFRnVqcGRMS1VGQnhEdmxKWHp2M0NPa0pMN01hanctdGthYTNoNTJVNnp0bUNfRzd0OUxhSDJrN1ZYd0Y0RTg4UlpFM0RDa1h3QUpzODNIR2lrMHVSNFpncm9peC1TandKYTZqRDNmYnVhZXBVOS1uaEgtbGZXak5UTGI0S0pZc0lFRGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjMwMzMyIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3dlYmNtbl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZHNTdvVklzaHRrX3lBcWR5YlRGamJNT2d5LW9XLWNjRmtuVGFCN05LaUUyaFgxWEc5UXZQaEhjYjFwQTV4b1Z1dFQzTWRfU2dPQXhXeTlhTzF6MVZxdmRpNkJhY2czMjh0Y1VFeUNRa2I4SEpRNWI2dXV2cnRDRFBJVHdEeXEzMm1INWwtNWZCeFhmWGh2UmZ2OGVHeFdPakh3REFCR292UFZla3BucnFjaXpYRmZIel9oc0Z2cE5MNmFBUElFRnVqcGRMS1VGQnhEdmxKWHp2M0NPa0pMN01hanctdGthYTNoNTJVNnp0bUNfRzd0OUxhSDJrN1ZYd0Y0RTg4UlpFM0RDa1h3QUpzODNIR2lrMHVSNFpncm9peC1TandKYTZqRDNmYnVhZXBVOS1uaEgtbGZXak5UTGI0S0pZc0lFRGc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=UBkvcoY4Wti79WPxnwzZ0Dej%2fDo%3d"
       },
       {
         "name": "CNA",
-        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273623756%27&EntityType=%27LinearSchedule%27&EntityId=%27e76b89cb-9612-4bc7-b67d-8b1472900d0c%27&Width=540&Height=305&ImageUrl=%273623756.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IjU3NTQxNDgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=AwRVi%2FH%2BlkS0uH3gDvZFjXDH3bM%3D&"
@@ -1183,7 +1190,14 @@
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%272858072%27&EntityType=%27LinearSchedule%27&EntityId=%27186c9789-4530-4dc3-b6a3-687129f7df11%27&Width=540&Height=305&ImageUrl=%272858072.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHZ1pHQXdzdHNSN2ZtdU5ieWo3eUd5cWdMQ0ZIV0dJTm9NS1ppTjZiU2Z3aWh6V3JVMTRqNEl2N3JGdGRGa29pYWZRVkJ0WXNJXzFaQjNoVnBYS243aUhDaFh5UDBOX3AzcUtHSEE0M0lEN2VHbnBqV3hXc3hkRVJGYk1YNVNjbldZbXBIdHlpMzFXRHhMd1M2NnJtUkdnYmJSSFZlMTNaQkpNaTRxM2ZRX0IzRVNQRE1rcENVdWFNWjBJZ2FrcmdVamJ6aHNRZTNJd2JkbTJEUkZNYm9pT29HaEhIdU95UW1pa0Y4WFQ3V01GdU0wNEV6Mld4MWdlaXJhNlFOY0NmcGNFT2x4WkhQN1Q2c01EaHl1R0FVQVJJN0ZUbEJtUmVkbkxhOWZ0cEZ4NHcwZ21qNktta2dGNlhnWldDeVRhamtTWEVROFRuMHBjeGRreEhfQmh2YmtDNC1wbFpzc09kT29sUnRLa05ObzY4MGRHMllPTzgtMGxINkJhdVhnRFBnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIyOTk5MCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkdnWkdBd3N0c1I3Zm11TmJ5ajd5R3lxZ0xDRkhXR0lOb01LWmlONmJTZndpaHpXclUxNGo0SXY3ckZ0ZEZrb2lhZlFWQnRZc0lfMVpCM2hWcFhLbjdpSENoWHlQME5fcDNxS0dIQTQzSUQ3ZUducGpXeFdzeGRFUkZiTVg1U2NuV1ltcEh0eWkzMVdEeEx3UzY2cm1SR2diYlJIVmUxM1pCSk1pNHEzZlFfQjNFU1BETWtwQ1V1YU1aMElnYWtyZ1VqYnpoc1FlM0l3YmRtMkRSRk1ib2lPb0doSEh1T3lRbWlrRjhYVDdXTUZ1TTA0RXoyV3gxZ2VpcmE2UU5jQ2ZwY0VPbHhaSFA3VDZzTURoeXVHQVVBUkk3RlRsQm1SZWRuTGE5ZnRwRng0dzBnbWo2S21rZ0Y2WGdaV0N5VGFqa1NYRVE4VG4wcGN4ZGt4SF9CaHZia0M0LXBsWnNzT2RPb2xSdEtrTk5vNjgwZEcyWU9POC0wbEg2QmF1WGdEUGc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=A2oRMDAVViDfIQ1SyZ6dYxJ8Kzw%3d"		
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQRG5nV3lFa05JVzVuelhqN3FMUGliVm43OFVkaE1GTk5Qb254S1V6STQzU0Vwa1VQUExLUU9McnFWWVlfa3FBTS1mSC1UangtU0FubEtRNVhkOU93c2ptWlQ3MjZVSmhuZzF1VEJUOUozVnpwMEZydWFLSGh4cHFIU1FsSHVQRzhHR1lfSTcybm1IQTA2ekt5Q1FzWEpETDV2RHFDT0JhTF9Gbm9FQnN4UzNDMWJaSEEwNzhEaG5fY0YyUW82OXFSemNRdWQ0ZU9RY0twOVhrRlV4X1UtSGlBSk1lNHgycWpSMW1xVVlCVUNNRXRXdTA3QnkwTzlDYzRZVk9kRTZyR2liYm5pSGFwZmRpRVk3RUVsVXBBZXhCLU54dzVNT2E0eG9uaWxhMDc5UTVWMFNXT1Nsam9oeEtMcGVnZlV3bWc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjI5OTkwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmUERuZ1d5RWtOSVc1bnpYajdxTFBpYlZuNzhVZGhNRk5OUG9ueEtVekk0M1NFcGtVUFBMS1FPTHJxVllZX2txQU0tZkgtVGp4LVNBbmxLUTVYZDlPd3NqbVpUNzI2VUpobmcxdVRCVDlKM1Z6cDBGcnVhS0hoeHBxSFNRbEh1UEc4R0dZX0k3Mm5tSEEwNnpLeUNRc1hKREw1dkRxQ09CYUxfRm5vRUJzeFMzQzFiWkhBMDc4RGhuX2NGMlFvNjlxUnpjUXVkNGVPUWNLcDlYa0ZVeF9VLUhpQUpNZTR4MnFqUjFtcVVZQlVDTUV0V3UwN0J5ME85Q2M0WVZPZEU2ckdpYmJuaUhhcGZkaUVZN0VFbFVwQWV4Qi1OeHc1TU9hNHhvbmlsYTA3OVE1VjBTV09TbGpvaHhLTHBlZ2ZVd21nPT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=u4S0a%2bFazWUlcUTiqULqFRbE7C4%3d"		
+      },
+      {
+        "name": "OKTOLIDAYS",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273624408%27&EntityType=%27LinearSchedule%27&EntityId=%27f05203ef-c0b3-4fe3-a0b7-74ccdc84965c%27&Width=540&Height=305&ImageUrl=%273624408.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQb3M3TWZHYTZMWjczd204aVlINzFlR05QMFloNmZOamliQjRoaVBmZld4NzVEYmdfSmZGVFJvSGlkYTlEMVZreFhYVVBrTHNGakJIT09KQjFGMHVNMm1oYVhSZDlOaWMwQ1ZBb3FVcTNHYlRHVVdoNjJadjlNU09JOUZWM1FUc3J1QzRPSzM0MnRRS0pMcGJOTm5JaVRsa1RJR082MHdCbkFzektJOXN6elFQT1Y2bFVWNUplWUg4UEFQRUtSVUs4dGVhTnZvMmMwOWRBRzdad1R5X3V1VEcwVnBFcjVhX0ZMNTF2ZmJMYzdGZWV1T29kbkFsU1JDdmdrUE9JVktnbFRwb3M3ZFo4a0JDRVNnMC1WdU9iTUtDYUhCS3RJcXBBdzVOdTBWaTRqZjV5cDhFczZlZ3hBTWxxWUNkWkREYXc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEyMzY2MzQzIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX29rdG9saWRheXNfZGFzaF9jbW5fZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmUG9zN01mR2E2TFo3M3dtOGlZSDcxZUdOUDBZaDZmTmppYkI0aGlQZmZXeDc1RGJnX0pmRlRSb0hpZGE5RDFWa3hYWFVQa0xzRmpCSE9PSkIxRjB1TTJtaGFYUmQ5TmljMENWQW9xVXEzR2JUR1VXaDYyWnY5TVNPSTlGVjNRVHNydUM0T0szNDJ0UUtKTHBiTk5uSWlUbGtUSUdPNjB3Qm5Bc3pLSTlzenpRUE9WNmxVVjVKZVlIOFBBUEVLUlVLOHRlYU52bzJjMDlkQUc3WndUeV91dVRHMFZwRXI1YV9GTDUxdmZiTGM3RmVldU9vZG5BbFNSQ3Zna1BPSVZLZ2xUcG9zN2RaOGtCQ0VTZzAtVnVPYk1LQ2FIQkt0SXFwQXc1TnUwVmk0amY1eXA4RXM2ZWd4QU1scVlDZFpERGF3PT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=hYp9m8Uat%2br61pDsE%2fFmzqidV4Q%3d"
       },
       {
         "name": "LIVE 1",
