@@ -865,11 +865,14 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
       },
       {
-          "name": "HBO",
+          "name": "HBO MY",
           "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
-          "uri": "https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd",
-          "drm_scheme": "widevine",
-          "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+          "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
+      },
+      {
+          "name": "HBO ID",
+          "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
+          "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
       },
       {
         "name": "CINEMAX",
