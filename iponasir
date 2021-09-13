@@ -283,19 +283,9 @@
          "uri": "http://50.7.161.82:8278/streams/d/Bollyone/playlist.m3u8"
       },
       {
-         "name": "ZEE TV",
-         "logo_uri": "https://d3hprka3kr08q2.cloudfront.net/yupptv/channel_logos_new/zeetv-new-hd-roku.png",
-         "uri": "http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8"
-      },
-      {
          "name": "ZEE ACTION",
          "logo_uri": "https://d3hprka3kr08q2.cloudfront.net/yupptv/channel_logos_new/zee-action-new-roku.png",
          "uri": "http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8"
-      },
-      {
-        "name": "ZEE CINEMA",
-        "logo_uri": "https://d3hprka3kr08q2.cloudfront.net/yupptv/channel_logos_new/Zee-Cinema-HD_roku.png",
-        "uri": "http://93.190.139.35:8277/streams/d/Zeecinemahd/playlist.m3u8"
       },
       {
         "name": "HELLO",
@@ -1152,28 +1142,28 @@
     "samples": [
 	 {
         "name": "Channel 5",
-        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273687221%27&EntityType=%27LinearSchedule%27&EntityId=%2729792ca0-1c7d-404b-9d24-e12cafa6ef34%27&Width=540&Height=305&ImageUrl=%273687221.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&"
       },	
       {
         "name": "Channel 8",
-        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273624016%27&EntityType=%27LinearSchedule%27&EntityId=%27b7ec5dce-8d40-442e-bd4e-738435f61818%27&Width=540&Height=305&ImageUrl=%273624016.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&"
       },	  
       {
         "name": "Channel U",
-        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273695517%27&EntityType=%27LinearSchedule%27&EntityId=%2778649688-ddc5-4c45-8ca5-eb712a2bf154%27&Width=1080&Height=608&ImageUrl=%273695517.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&"
       },
       {
         "name": "Suria",
-        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%273623852%27&EntityType=%27LinearSchedule%27&EntityId=%27f52fbab2-563e-46b5-a2e0-1962558d52c1%27&Width=1080&Height=608&ImageUrl=%273623852.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
         "uri": "https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHNTdvVklzaHRrX3lBcWR5YlRGamJNT2d5LW9XLWNjRmtuVGFCN05LaUUyaFgxWEc5UXZQaEhjYjFwQTV4b1Z1dFQzTWRfU2dPQXhXeTlhTzF6MVZxdmRpNkJhY2czMjh0Y1VFeUNRa2I4SEpRNWI2dXV2cnRDRFBJVHdEeXEzMm1INWwtNWZCeFhmWGh2UmZ2OGVHeFdPakh3REFCR292UFZla3BucnFjaXpYRmZIel9oc0Z2cE5MNmFBUElFRnVqcGRMS1VGQnhEdmxKWHp2M0NPa0pMN01hanctdGthYTNoNTJVNnp0bUNfRzd0OUxhSDJrN1ZYd0Y0RTg4UlpFM0RDa1h3QUpzODNIR2lrMHVSNFpncm9peC1TandKYTZqRDNmYnVhZXBVOS1uaEgtbGZXak5UTGI0S0pZc0lFRGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEzMjMwMzMyIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3dlYmNtbl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZHNTdvVklzaHRrX3lBcWR5YlRGamJNT2d5LW9XLWNjRmtuVGFCN05LaUUyaFgxWEc5UXZQaEhjYjFwQTV4b1Z1dFQzTWRfU2dPQXhXeTlhTzF6MVZxdmRpNkJhY2czMjh0Y1VFeUNRa2I4SEpRNWI2dXV2cnRDRFBJVHdEeXEzMm1INWwtNWZCeFhmWGh2UmZ2OGVHeFdPakh3REFCR292UFZla3BucnFjaXpYRmZIel9oc0Z2cE5MNmFBUElFRnVqcGRMS1VGQnhEdmxKWHp2M0NPa0pMN01hanctdGthYTNoNTJVNnp0bUNfRzd0OUxhSDJrN1ZYd0Y0RTg4UlpFM0RDa1h3QUpzODNIR2lrMHVSNFpncm9peC1TandKYTZqRDNmYnVhZXBVOS1uaEgtbGZXak5UTGI0S0pZc0lFRGc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=UBkvcoY4Wti79WPxnwzZ0Dej%2fDo%3d"
