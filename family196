@@ -3,12 +3,12 @@
     "name": "MALAYSIA IPTV",
     "samples": [ 
       {
-        "name": "TV1 RTM",
+        "name": "TV1",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv1.png",
         "uri": "https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd"
       },
       {
-        "name": "TV2 RTM",
+        "name": "TV2",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv2.png",
         "uri": "https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd"
       },
@@ -18,7 +18,7 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/tv3bikap.m3u8"
       },
       {
-        "name": "TV6 RTM",
+        "name": "TV6",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
         "uri": "https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd"
       },
@@ -43,12 +43,12 @@
         "uri": "https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd"
       },
       {
-        "name": "TV ALHIJRAH",
+        "name": "ALHIJRAH",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/al-hijrah.png",
         "uri": "http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8"
       },
       {
-        "name": "SPORTS RTM",
+        "name": "SPORTS",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
         "uri": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd" 
       },
@@ -125,7 +125,7 @@
         "uri": "http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8"
       }, 
       {
-        "name": "TVNHD",
+        "name": "TVN",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",
         "uri": "https://linear03-playback.sooka.my/CH4/masterCH4.mpd",
         "drm_scheme": "widevine",
@@ -233,6 +233,51 @@
         "uri": "https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8"
       },
       {
+        "name": "HELLO",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
+      },
+      {
+        "name": "TVS",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8"
+      },
+      {
+        "name": "GOSHOP GAAYA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_GOSHOP3.m3u8"
+      },
+      {
+        "name": "GOSHOP RUUMA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP.m3u8"
+      },
+      {
+        "name": "GOSHOP RAAYA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
+      },
+      {
+        "name": "GOSHOP MYTV",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
+        "uri": "https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4.m3u8"
+      },
+      {
+        "name": "GOSHOP CINA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8"
+      },
+      {
+        "name": "DRAMA SANGAT",
+	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8"
+       }
+    ]  
+  },
+  {
+    "name": "INDIA IPTV",
+    "samples": [
+      {
         "name": "MAKKAL TV",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png",
         "uri": "http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
@@ -286,46 +331,6 @@
          "name": "ZEE ACTION",
          "logo_uri": "https://d3hprka3kr08q2.cloudfront.net/yupptv/channel_logos_new/zee-action-new-roku.png",
          "uri": "http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8"
-      },
-      {
-        "name": "HELLO",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
-      },
-      {
-        "name": "TVS",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8"
-      },
-      {
-        "name": "GOSHOP GAAYA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
-        "uri": "https://agsplayback01.astro.com.my/CH3/master_GOSHOP3.m3u8"
-      },
-      {
-        "name": "GOSHOP RUUMA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP.m3u8"
-      },
-      {
-        "name": "GOSHOP RAAYA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
-      },
-      {
-        "name": "GOSHOP MYTV",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/294_144.png",		
-        "uri": "https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4.m3u8"
-      },
-      {
-        "name": "GOSHOP CINA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/202_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8"
-      },
-      {
-        "name": "DRAMA SANGAT",
-	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8"
       }
     ]  
   },
