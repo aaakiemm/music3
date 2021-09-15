@@ -3,12 +3,12 @@
     "name": "MALAYSIA IPTV",
     "samples": [ 
       {
-        "name": "TV1 RTM",
+        "name": "TV1",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv1.png",
         "uri": "https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd"
       },
       {
-        "name": "TV2 RTM",
+        "name": "TV2",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv2.png",
         "uri": "https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd"
       },
@@ -18,7 +18,7 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/tv3bikap.m3u8"
       },
       {
-        "name": "TV6 RTM",
+        "name": "TV6",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RTMTV66.png",
         "uri": "https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd"
       },
@@ -43,12 +43,12 @@
         "uri": "https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd"
       },
       {
-        "name": "TV ALHIJRAH",
+        "name": "ALHIJRAH",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/al-hijrah.png",
         "uri": "http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8"
       },
       {
-        "name": "SPORTS RTM",
+        "name": "SPORTS",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/rtmtvsukan.png",
         "uri": "https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd" 
       },
@@ -97,7 +97,7 @@
 	"logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png", 
 	"uri": "http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd", 
 	"drm_scheme": "clearkey", 
-	"drm_license_url": "https://run.mocky.io/v3/1373c373-95c7-432f-b666-9ca69c00d66c" 
+	"drm_license_url": "https://run.mocky.io/v3/8cecbd5b-f133-461c-afa0-2e561ad11d04" 
       }, 
       {
         "name": "CERIA",
@@ -125,7 +125,7 @@
         "uri": "http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8"
       }, 
       {
-        "name": "TVNHD",
+        "name": "TVN",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",
         "uri": "https://linear03-playback.sooka.my/CH4/masterCH4.mpd",
         "drm_scheme": "widevine",
@@ -233,61 +233,6 @@
         "uri": "https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8"
       },
       {
-        "name": "MAKKAL TV",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png",
-        "uri": "http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
-      },
-      {
-        "name": "TAMILAN TV",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/ta/6/61/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%A9%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.png",
-        "uri": "http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8"
-      },
-      {
-        "name": "IBC TAMIL",
-        "logo_uri": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
-        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8"
-      },
-      {
-        "name": "IBC COMEDY",
-        "logo_uri": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
-        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8"
-      },
-      {
-        "name": "IBC MUSIC",
-        "logo_uri": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
-        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8"
-      },
-      {
-        "name": "IBC KIDS",
-        "logo_uri": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
-        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8"
-      },
-      {
-        "name": "VAANAVIL",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
-        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
-      },
-      {
-        "name": "VELLITHIRAI",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",
-        "uri": "http://198.144.149.82:8080/NDTV_LANKA/index.m3u8?token=IBC"
-      },
-      {
-        "name": "SUN TV",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",
-        "uri": "http://93.190.139.35:8277/streams/d/Suntv/playlist.m3u8"
-      },
-      {
-         "name": "BOLLYONE",
-         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",
-         "uri": "http://50.7.161.82:8278/streams/d/Bollyone/playlist.m3u8"
-      },
-      {
-         "name": "ZEE ACTION",
-         "logo_uri": "https://d3hprka3kr08q2.cloudfront.net/yupptv/channel_logos_new/zee-action-new-roku.png",
-         "uri": "http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8"
-      },
-      {
         "name": "HELLO",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8"
@@ -326,7 +271,7 @@
         "name": "DRAMA SANGAT",
 	      "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
         "uri": "http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8"
-      }
+       }
     ]  
   },
   {
@@ -1218,7 +1163,67 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://d19j8udk9agj55.cloudfront.net/smil:rtbgo/manifest.mpd"    
       }
-    ]
+    ]  
+  },
+  {
+    "name": "INDIA",
+    "samples": [
+      {
+        "name": "MAKKAL TV",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/47_144.png",
+        "uri": "http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+      },
+      {
+        "name": "TAMILAN TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/ta/6/61/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AE%A9%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AE%BF.png",
+        "uri": "http://media.akamaicdn.us:1935/tamilan/tamilan/playlist.m3u8"
+      },
+      {
+        "name": "IBC TAMIL",
+        "logo_uri": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8"
+      },
+      {
+        "name": "IBC COMEDY",
+        "logo_uri": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8"
+      },
+      {
+        "name": "IBC MUSIC",
+        "logo_uri": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8"
+      },
+      {
+        "name": "IBC KIDS",
+        "logo_uri": "https://media.info/i/lv/ibc-tamil/1501937948/854.png",
+        "uri": "https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8"
+      },
+      {
+        "name": "VAANAVIL",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8"
+      },
+      {
+        "name": "VELLITHIRAI",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",
+        "uri": "http://198.144.149.82:8080/NDTV_LANKA/index.m3u8?token=IBC"
+      },
+      {
+        "name": "SUN TV",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",
+        "uri": "http://93.190.139.35:8277/streams/d/Suntv/playlist.m3u8"
+      },
+      {
+         "name": "BOLLYONE",
+         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",
+         "uri": "http://50.7.161.82:8278/streams/d/Bollyone/playlist.m3u8"
+      },
+      {
+         "name": "ZEE ACTION",
+         "logo_uri": "https://d3hprka3kr08q2.cloudfront.net/yupptv/channel_logos_new/zee-action-new-roku.png",
+         "uri": "http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8"
+      }
+    ]  
   },
   {
     "name": "LAGU DAN IKLAN",
